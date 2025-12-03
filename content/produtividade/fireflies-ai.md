@@ -1,0 +1,34 @@
+﻿---
+title: "Fireflies.ai"
+date: 2025-12-03
+draft: false
+description: "IA que entra nas suas reuniões (Zoom/Meet), grava, transcreve e gera a ata automaticamente."
+tags: ["Produtividade", "IA", "Software"]
+categories: ["Produtividade"]
+author: "Geode Team"
+cover:
+    image: ""
+    alt: "Fireflies.ai logo"
+    caption: ""
+    relative: false
+---
+
+# Fireflies.ai
+
+**Veredito:** O fim das anotações manuais em reuniões. Essencial para times de vendas e gestão não perderem nenhum detalhe.
+
+## O que é?
+IA que entra nas suas reuniões (Zoom/Meet), grava, transcreve e gera a ata automaticamente.
+
+## Preço
+**Modelo:** Grátis / Pago a partir de US$ 10/usuário/mês
+
+## Prós e Contras
+| Prós | Contras |
+| :--- | :--- |
+| Gera resumos automáticos perfeitos<br>Busca por palavras-chave dentro do áudio<br>Integra com CRM | Transcrição em português pode errar termos técnicos<br>O bot precisa ser convidado para a call |
+
+## Para quem é indicado?
+O fim das anotações manuais em reuniões. Essencial para times de vendas e gestão não perderem nenhum detalhe.
+
+[Visitar Site Oficial](https://fireflies.ai/)

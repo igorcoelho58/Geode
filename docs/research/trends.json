@@ -1,0 +1,30 @@
+{
+  "niche": "ai_sme_automation",
+  "region": "BR",
+  "timeframe": "last_12_months",
+  "interest_curve": "Exponential Growth",
+  "related_topics": [
+    "ChatGPT para empresas",
+    "Automação de WhatsApp",
+    "CRM com IA",
+    "Agentes de IA",
+    "Atendimento automático",
+    "ManyChat",
+    "Typebot",
+    "Z-API"
+  ],
+  "interest_over_time": [
+    {"month": "Jan", "value": 45},
+    {"month": "Feb", "value": 50},
+    {"month": "Mar", "value": 55},
+    {"month": "Apr", "value": 60},
+    {"month": "May", "value": 65},
+    {"month": "Jun", "value": 72},
+    {"month": "Jul", "value": 78},
+    {"month": "Aug", "value": 85},
+    {"month": "Sep", "value": 90},
+    {"month": "Oct", "value": 95},
+    {"month": "Nov", "value": 98},
+    {"month": "Dec", "value": 100}
+  ]
+}

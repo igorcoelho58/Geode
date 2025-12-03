@@ -1,0 +1,34 @@
+﻿---
+title: "Pipefy"
+date: 2025-12-03
+draft: false
+description: "Plataforma brasileira de automação de processos com IA."
+tags: ["Produtividade", "IA", "Software"]
+categories: ["Produtividade"]
+author: "Geode Team"
+cover:
+    image: ""
+    alt: "Pipefy logo"
+    caption: ""
+    relative: false
+---
+
+# Pipefy
+
+**Veredito:** Perfeita para padronizar processos de vendas e pós-venda com automação.
+
+## O que é?
+Plataforma brasileira de automação de processos com IA.
+
+## Preço
+**Modelo:** Grátis / Pago a partir de R$ 95/usuário/mês
+
+## Prós e Contras
+| Prós | Contras |
+| :--- | :--- |
+| Automação visual sem código<br>IA sugere otimizações<br>Suporte local | Não é um CRM puro<br>Curva de aprendizado para automações |
+
+## Para quem é indicado?
+Perfeita para padronizar processos de vendas e pós-venda com automação.
+
+[Visitar Site Oficial](https://www.pipefy.com/pt-br/)

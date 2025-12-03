@@ -1,0 +1,31 @@
+# Banco de Dados de Links de Afiliados
+# Estrutura:
+# id_do_produto:
+#   name: "Nome do Produto"
+#   url: "https://link_de_afiliado..."
+#   image: "URL da imagem"
+#   price: "Preço padrão"
+
+typebot:
+  name: "Typebot.io"
+  url: "https://typebot.io?ref=geode_partner"
+  image: "https://s3.us-west-2.amazonaws.com/images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=400&h=200"
+  price: "Grátis / $39 mês"
+
+manychat:
+  name: "ManyChat"
+  url: "https://manychat.com?aff=geode"
+  image: "https://s3.us-west-2.amazonaws.com/images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=400&h=200"
+  price: "$15/mês"
+
+kommo:
+  name: "Kommo (AmoCRM)"
+  url: "https://kommo.com?ref=geode"
+  image: "https://placehold.co/400x200/png?text=Kommo+CRM"
+  price: "$15/usuário"
+
+rd_station:
+  name: "RD Station"
+  url: "https://rdstation.com?partner=geode"
+  image: "https://placehold.co/400x200/png?text=RD+Station"
+  price: "R$ 50/mês"

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "typebot",
+    "name": "Typebot",
+    "category": "atendimento",
+    "tagline": "O construtor de chatbots visual mais intuitivo do mercado.",
+    "description": "Typebot permite criar conversas avançadas para qualificar leads e automatizar suporte, tudo com uma interface drag-and-drop que parece mágica.",
+    "affiliate_link": "https://typebot.io",
+    "image_url": "https://typebot.io/og-image.png",
+    "pricing_model": "Freemium",
+    "rating": 4.9,
+    "features": [
+      "Editor Visual Drag & Drop",
+      "Integração Nativa com WhatsApp",
+      "Webhooks e API Aberta",
+      "Templates Prontos"
+    ],
+    "pros": [
+      "Curva de aprendizado zero",
+      "Plano gratuito generoso",
+      "Comunidade ativa"
+    ],
+    "cons": [
+      "Integrações nativas limitadas comparado ao Zapier"
+    ]
+  },
+  {
+    "id": "kommo",
+    "name": "Kommo (ex-AmoCRM)",
+    "category": "vendas",
+    "tagline": "O primeiro CRM do mundo baseado em mensagens.",
+    "description": "Kommo centraliza conversas do WhatsApp, Instagram e Telegram em um funil de vendas visual, perfeito para times que vendem por chat.",
+    "affiliate_link": "https://kommo.com",
+    "image_url": "",
+    "pricing_model": "Pago",
+    "rating": 4.7,
+    "features": [
+      "Funil de Vendas Visual",
+      "Chatbot Builder Integrado",
+      "Gestão de Tarefas",
+      "App Mobile Completo"
+    ],
+    "pros": [
+      "Foco total em vendas por chat",
+      "Interface muito limpa",
+      "Automação de follow-up"
+    ],
+    "cons": [
+      "Suporte em português pode demorar"
+    ]
+  },
+  {
+    "id": "jasper",
+    "name": "Jasper AI",
+    "category": "marketing",
+    "tagline": "Seu copiloto de IA para conteúdo de marketing empresarial.",
+    "description": "Jasper não apenas escreve textos, ele entende a voz da sua marca e cria campanhas inteiras de marketing em segundos.",
+    "affiliate_link": "https://jasper.ai",
+    "image_url": "",
+    "pricing_model": "Pago",
+    "rating": 4.6,
+    "features": [
+      "Brand Voice Memory",
+      "Geração de Imagens",
+      "SEO Mode (Surfer SEO)",
+      "Templates de Copywriting"
+    ],
+    "pros": [
+      "Qualidade de texto superior",
+      "Focado em times de marketing",
+      "Segurança de dados empresarial"
+    ],
+    "cons": [
+      "Preço elevado para iniciantes"
+    ]
+  },
+  {
+    "id": "notion",
+    "name": "Notion AI",
+    "category": "produtividade",
+    "tagline": "Espaço de trabalho tudo-em-um conectado com IA.",
+    "description": "O Notion já era o cérebro da sua empresa. Com IA, ele agora escreve, resume e organiza suas ideias automaticamente.",
+    "affiliate_link": "https://notion.so",
+    "image_url": "",
+    "pricing_model": "Freemium",
+    "rating": 4.8,
+    "features": [
+      "Resumo Automático de Reuniões",
+      "Geração de Texto e Tabelas",
+      "Tradução Instantânea",
+      "Perguntas e Respostas (Q&A)"
+    ],
+    "pros": [
+      "Totalmente integrado ao fluxo de trabalho",
+      "Preço acessível (Add-on)",
+      "Versatilidade infinita"
+    ],
+    "cons": [
+      "Pode ser lento em páginas muito grandes"
+    ]
+  }
+]

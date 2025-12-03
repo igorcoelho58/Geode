@@ -1,0 +1,53 @@
+{{/* Lógica de Dados Centralizados (Blindagem) */}}
+{{ $id := .Params.id }}
+{{ $product := index .Site.Data.links $id }}
+
+{{/* Se o ID existir no links.yaml, usa os dados de lá. Se não, usa os Params manuais */}}
+{{ $name := default .Params.name $product.name }}
+{{ $price := default .Params.price $product.price }}
+{{ $image := default .Params.image $product.image }}
+{{ $url := default .Params.affiliate_link $product.url }}
+
+<div style="border: 1px solid #e0e0e0; border-radius: 12px; padding: 24px; max-width: 400px; margin: 2rem auto; box-shadow: 0 4px 12px rgba(0,0,0,0.08); background-color: var(--entry); position: relative; transition: transform 0.2s ease;">
+    
+    {{/* Lógica do Selo de Recomendação */}}
+    {{ if gt (float .Params.rating) 4.5 }}
+    <div style="position: absolute; top: -12px; right: 20px; background: linear-gradient(135deg, #FFD700, #FFA500); color: #000; padding: 6px 14px; border-radius: 20px; font-weight: 700; font-size: 0.85rem; box-shadow: 0 4px 6px rgba(0,0,0,0.15); z-index: 10;">
+        🏆 Melhor Escolha Geode
+    </div>
+    {{ end }}
+
+    {{/* Imagem do Produto */}}
+    {{ if $image }}
+    <div style="text-align: center; margin-bottom: 1.5rem; height: 180px; display: flex; align-items: center; justify-content: center; background-color: #fff; border-radius: 8px; padding: 10px;">
+        <img src="{{ $image }}" alt="{{ $name }}" style="max-height: 100%; max-width: 100%; object-fit: contain;">
+    </div>
+    {{ end }}
+
+    {{/* Título */}}
+    <h3 style="margin: 0 0 0.5rem 0; font-size: 1.4rem; font-weight: 700; color: var(--primary);">
+        {{ $name }}
+    </h3>
+    
+    {{/* Preço e Nota */}}
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; color: var(--secondary);">
+        <span style="font-size: 1.1rem; font-weight: 600;">{{ $price }}</span>
+        <div style="display: flex; align-items: center; gap: 4px;">
+            <span style="color: #FFD700;">★</span>
+            <span style="font-weight: 600;">{{ .Params.rating }}</span>
+            <span style="font-size: 0.9rem; opacity: 0.8;">/ 5.0</span>
+        </div>
+    </div>
+
+    {{/* Botão CTA */}}
+    <a href="{{ $url }}" target="_blank" rel="nofollow noopener noreferrer" 
+       style="display: block; text-align: center; background-color: #10B981; color: white; padding: 14px; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; box-shadow: 0 4px 6px rgba(16, 185, 129, 0.2); transition: all 0.2s ease;"
+       onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 12px rgba(16, 185, 129, 0.3)'"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 6px rgba(16, 185, 129, 0.2)'">
+        Ver Preço / Testar Grátis ➔
+    </a>
+    
+    <p style="text-align: center; margin-top: 10px; font-size: 0.8rem; color: var(--secondary); opacity: 0.7;">
+        *Link seguro oficial
+    </p>
+</div>

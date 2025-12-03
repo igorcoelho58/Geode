@@ -1,0 +1,40 @@
+{
+  "competitors": [
+    {
+      "name": "Zenvia",
+      "type": "SaaS",
+      "products": [
+        {"name": "Zenvia Customer Cloud", "price": "R$ 499/mo"}
+      ]
+    },
+    {
+      "name": "Take Blip",
+      "type": "SaaS/Enterprise",
+      "products": [
+        {"name": "Blip Business", "price": "Sob consulta (High Ticket)"}
+      ]
+    },
+    {
+      "name": "ManyChat",
+      "type": "SaaS",
+      "products": [
+        {"name": "Pro Plan", "price": "USD 15/mo (aprox R$ 85)"}
+      ]
+    },
+    {
+      "name": "Typebot.io",
+      "type": "SaaS/Open Source",
+      "products": [
+        {"name": "Starter", "price": "USD 39/mo"}
+      ]
+    },
+    {
+      "name": "Infoprodutores de IA (Vários)",
+      "type": "Infoproduto",
+      "products": [
+        {"name": "Mentoria Implementação IA", "price": "R$ 2.000 - R$ 5.000"},
+        {"name": "Curso Agentes de IA", "price": "R$ 497 - R$ 997"}
+      ]
+    }
+  ]
+}
