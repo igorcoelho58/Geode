@@ -1,6 +1,6 @@
 ﻿---
 title: "tl;dv"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Gravador de reuniões gratuito para Google Meet e Zoom com transcrição e clipes de momentos importantes."
 tags: ["Produtividade", "IA", "Software"]
@@ -31,4 +31,4 @@ Gravador de reuniões gratuito para Google Meet e Zoom com transcrição e clipe
 ## Para quem é indicado?
 A melhor opção gratuita para gravar reuniões de clientes e compartilhar os melhores momentos com o time.
 
-[Visitar Site Oficial](https://tldv.io/)
+{{< button href="https://tldv.io/" label="Visitar Site Oficial" >}}

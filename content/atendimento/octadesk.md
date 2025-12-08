@@ -1,6 +1,6 @@
 ﻿---
 title: "Octadesk"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Híbrido de Chat e Helpdesk via WhatsApp."
 tags: ["Atendimento", "IA", "Software"]
@@ -31,4 +31,4 @@ Híbrido de Chat e Helpdesk via WhatsApp.
 ## Para quem é indicado?
 Essencial para empresas de serviço que precisam formalizar o atendimento.
 
-[Visitar Site Oficial](https://www.octadesk.com/)
+{{< button href="https://www.octadesk.com/" label="Visitar Site Oficial" >}}

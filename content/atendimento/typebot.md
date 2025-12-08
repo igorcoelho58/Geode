@@ -1,6 +1,6 @@
 ﻿---
 title: "Typebot"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Construtor de bots visual drag-and-drop open source."
 tags: ["Atendimento", "IA", "Software"]
@@ -31,4 +31,4 @@ Construtor de bots visual drag-and-drop open source.
 ## Para quem é indicado?
 A melhor ferramenta para criar fluxos de conversa avançados e capturar leads.
 
-[Visitar Site Oficial](https://typebot.io/)
+{{< button href="https://typebot.io/" label="Visitar Site Oficial" >}}

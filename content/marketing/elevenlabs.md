@@ -1,6 +1,6 @@
 ﻿---
 title: "ElevenLabs"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "A IA de voz mais realista do mercado."
 tags: ["Marketing", "IA", "Software"]
@@ -31,4 +31,4 @@ A IA de voz mais realista do mercado.
 ## Para quem é indicado?
 Ferramenta definitiva para dar voz profissional aos vídeos.
 
-[Visitar Site Oficial](https://elevenlabs.io/)
+{{< button href="https://elevenlabs.io/" label="Visitar Site Oficial" >}}

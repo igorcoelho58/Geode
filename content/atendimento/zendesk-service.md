@@ -1,6 +1,6 @@
 ﻿---
 title: "Zendesk"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Padrão global de atendimento omnicanal."
 tags: ["Atendimento", "IA", "Software"]
@@ -31,4 +31,4 @@ Padrão global de atendimento omnicanal.
 ## Para quem é indicado?
 Para PMEs em crescimento rápido estruturando Customer Success.
 
-[Visitar Site Oficial](https://www.zendesk.com.br/)
+{{< button href="https://www.zendesk.com.br/" label="Visitar Site Oficial" >}}

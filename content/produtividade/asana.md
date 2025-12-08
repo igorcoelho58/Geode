@@ -1,6 +1,6 @@
 ﻿---
 title: "Asana"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Gestão de projetos focada em colaboração e clareza sobre \"quem faz o que e quando\"."
 tags: ["Produtividade", "IA", "Software"]
@@ -31,4 +31,4 @@ Gestão de projetos focada em colaboração e clareza sobre "quem faz o que e qu
 ## Para quem é indicado?
 Excelente para times que preferem listas e cronogramas ao invés de quadros Kanban.
 
-[Visitar Site Oficial](https://asana.com/)
+{{< button href="https://asana.com/" label="Visitar Site Oficial" >}}

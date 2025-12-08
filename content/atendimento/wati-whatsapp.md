@@ -1,6 +1,6 @@
 ﻿---
 title: "Wati"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Solução oficial focada em simplicidade e e-commerce."
 tags: ["Atendimento", "IA", "Software"]
@@ -31,4 +31,4 @@ Solução oficial focada em simplicidade e e-commerce.
 ## Para quem é indicado?
 Ideal para lojas virtuais que querem segurança da API oficial sem complexidade.
 
-[Visitar Site Oficial](https://www.wati.io/)
+{{< button href="https://www.wati.io/" label="Visitar Site Oficial" >}}

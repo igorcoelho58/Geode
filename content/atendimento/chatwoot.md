@@ -1,6 +1,6 @@
 ﻿---
 title: "Chatwoot"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Alternativa open-source ao Zendesk self-hosted."
 tags: ["Atendimento", "IA", "Software"]
@@ -31,4 +31,4 @@ Alternativa open-source ao Zendesk self-hosted.
 ## Para quem é indicado?
 Para startups e empresas tech que querem hospedar o próprio atendimento.
 
-[Visitar Site Oficial](https://www.chatwoot.com/)
+{{< button href="https://www.chatwoot.com/" label="Visitar Site Oficial" >}}

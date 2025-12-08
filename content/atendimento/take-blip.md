@@ -1,6 +1,6 @@
 ﻿---
 title: "Take Blip"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Plataforma líder para grandes operações com IA nativa e API Oficial."
 tags: ["Atendimento", "IA", "Software"]
@@ -31,4 +31,4 @@ Plataforma líder para grandes operações com IA nativa e API Oficial.
 ## Para quem é indicado?
 A escolha segura para empresas que buscam escala profissional sem risco de banimento.
 
-[Visitar Site Oficial](https://www.blip.ai/)
+{{< button href="https://www.blip.ai/" label="Visitar Site Oficial" >}}

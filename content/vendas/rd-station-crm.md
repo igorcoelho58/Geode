@@ -1,6 +1,6 @@
 ﻿---
 title: "RD Station CRM"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "CRM brasileiro líder que integra nativamente com automação de marketing."
 tags: ["Vendas", "IA", "Software"]
@@ -31,4 +31,4 @@ CRM brasileiro líder que integra nativamente com automação de marketing.
 ## Para quem é indicado?
 A escolha lógica para empresas brasileiras que já usam RD Station Marketing e buscam solução integrada.
 
-[Visitar Site Oficial](https://www.rdstation.com/crm/)
+{{< button href="https://www.rdstation.com/crm/" label="Visitar Site Oficial" >}}

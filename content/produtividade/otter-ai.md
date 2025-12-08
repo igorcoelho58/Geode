@@ -1,6 +1,6 @@
 ﻿---
 title: "Otter.ai"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Assistente de reuniões focado em transformar voz em texto e identificar quem está falando."
 tags: ["Produtividade", "IA", "Software"]
@@ -31,4 +31,4 @@ Assistente de reuniões focado em transformar voz em texto e identificar quem es
 ## Para quem é indicado?
 Ótimo para quem faz reuniões em inglês ou precisa apenas do áudio transcrito rapidamente.
 
-[Visitar Site Oficial](https://otter.ai/)
+{{< button href="https://otter.ai/" label="Visitar Site Oficial" >}}

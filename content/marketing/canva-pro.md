@@ -1,6 +1,6 @@
 ﻿---
 title: "Canva Pro"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Design essencial turbinado com IA Mágica."
 tags: ["Marketing", "IA", "Software"]
@@ -31,4 +31,4 @@ Design essencial turbinado com IA Mágica.
 ## Para quem é indicado?
 Obrigatório para PMEs. O plano Pro se paga sozinho.
 
-[Visitar Site Oficial](https://www.canva.com/)
+{{< button href="https://www.canva.com/" label="Visitar Site Oficial" >}}

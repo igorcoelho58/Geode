@@ -1,6 +1,6 @@
 ﻿---
 title: "ChatGPT"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "IA conversacional líder da OpenAI para criação de conteúdo e automação de tarefas."
 tags: ["Marketing/Produtividade", "IA", "Software"]
@@ -31,4 +31,4 @@ IA conversacional líder da OpenAI para criação de conteúdo e automação de 
 ## Para quem é indicado?
 Ferramenta essencial para qualquer profissional moderno criar conteúdo e automatizar tarefas.
 
-[Visitar Site Oficial](https://chat.openai.com/)
+{{< button href="https://chat.openai.com/" label="Visitar Site Oficial" >}}

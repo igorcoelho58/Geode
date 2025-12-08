@@ -1,6 +1,6 @@
 ﻿---
 title: "Clay"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Enriquecimento de dados e prospecção B2B com IA em escala."
 tags: ["Vendas", "IA", "Software"]
@@ -31,4 +31,4 @@ Enriquecimento de dados e prospecção B2B com IA em escala.
 ## Para quem é indicado?
 Revolucionário para times de growth que fazem prospecção outbound.
 
-[Visitar Site Oficial](https://clay.com/)
+{{< button href="https://clay.com/" label="Visitar Site Oficial" >}}

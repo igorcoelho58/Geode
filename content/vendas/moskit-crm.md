@@ -1,6 +1,6 @@
 ﻿---
 title: "Moskit CRM"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "CRM brasileiro focado em produtividade de vendas com assistente de IA nativo."
 tags: ["Vendas", "IA", "Software"]
@@ -31,4 +31,4 @@ CRM brasileiro focado em produtividade de vendas com assistente de IA nativo.
 ## Para quem é indicado?
 Excelente para equipes brasileiras que buscam produtividade e recursos modernos de IA.
 
-[Visitar Site Oficial](https://www.moskitcrm.com/)
+{{< button href="https://www.moskitcrm.com/" label="Visitar Site Oficial" >}}

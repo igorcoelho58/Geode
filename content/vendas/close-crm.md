@@ -1,6 +1,6 @@
 ﻿---
 title: "Close CRM"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "CRM focado em inside sales com telefonia nativa e automação de follow-up com IA."
 tags: ["Vendas", "IA", "Software"]
@@ -31,4 +31,4 @@ CRM focado em inside sales com telefonia nativa e automação de follow-up com I
 ## Para quem é indicado?
 Perfeito para times de vendas por telefone que precisam de velocidade e automação inteligente.
 
-[Visitar Site Oficial](https://close.com/)
+{{< button href="https://close.com/" label="Visitar Site Oficial" >}}

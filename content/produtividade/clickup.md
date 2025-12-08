@@ -1,6 +1,6 @@
 ﻿---
 title: "ClickUp"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "A plataforma que promete substituir todas as outras, unindo tarefas, docs, chat e metas."
 tags: ["Produtividade", "IA", "Software"]
@@ -31,4 +31,4 @@ A plataforma que promete substituir todas as outras, unindo tarefas, docs, chat 
 ## Para quem é indicado?
 Ideal para equipes que sentem que o Trello ficou "pequeno" e precisam de uma gestão de projetos robusta.
 
-[Visitar Site Oficial](https://clickup.com/)
+{{< button href="https://clickup.com/" label="Visitar Site Oficial" >}}

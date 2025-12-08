@@ -1,6 +1,6 @@
 ﻿---
 title: "Agendor"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "CRM brasileiro que atua como assistente pessoal para vendas consultivas."
 tags: ["Vendas", "IA", "Software"]
@@ -31,4 +31,4 @@ CRM brasileiro que atua como assistente pessoal para vendas consultivas.
 ## Para quem é indicado?
 A melhor opção para representantes comerciais e vendedores externos que precisam de um caderninho digital.
 
-[Visitar Site Oficial](https://www.agendor.com.br/)
+{{< button href="https://www.agendor.com.br/" label="Visitar Site Oficial" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title: "Opus Clip"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Transforma vídeos longos em clipes virais curtos automaticamente com IA."
 tags: ["Marketing", "IA", "Software"]
@@ -31,4 +31,4 @@ Transforma vídeos longos em clipes virais curtos automaticamente com IA.
 ## Para quem é indicado?
 Essencial para creators e marcas que querem transformar conteúdo longo em shorts para redes sociais.
 
-[Visitar Site Oficial](https://www.opus.pro/)
+{{< button href="https://www.opus.pro/" label="Visitar Site Oficial" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title: "Descript"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Edite vídeos e podcasts editando o texto."
 tags: ["Marketing", "IA", "Software"]
@@ -31,4 +31,4 @@ Edite vídeos e podcasts editando o texto.
 ## Para quem é indicado?
 Indispensável para podcasts e vídeos falados.
 
-[Visitar Site Oficial](https://www.descript.com/)
+{{< button href="https://www.descript.com/" label="Visitar Site Oficial" >}}

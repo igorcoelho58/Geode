@@ -1,6 +1,6 @@
 ﻿---
 title: "Slack"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "O escritório digital da sua empresa. Comunicação rápida que substitui o e-mail interno e organiza conversas por canais."
 tags: ["Produtividade", "IA", "Software"]
@@ -31,4 +31,4 @@ O escritório digital da sua empresa. Comunicação rápida que substitui o e-ma
 ## Para quem é indicado?
 Obrigatório para separar a comunicação profissional da pessoal e manter o time alinhado.
 
-[Visitar Site Oficial](https://slack.com/)
+{{< button href="https://slack.com/" label="Visitar Site Oficial" >}}

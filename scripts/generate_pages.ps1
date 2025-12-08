@@ -62,7 +62,7 @@ $($tool.description_short)
 ## Para quem $([char]0x00E9) indicado?
 $($tool.verdict)
 
-[Visitar Site Oficial]($($tool.website_url))
+{{< button href="$($tool.website_url)" label="Visitar Site Oficial" >}}
 "@
 
     # Write file with UTF8 encoding

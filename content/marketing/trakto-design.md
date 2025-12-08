@@ -1,6 +1,6 @@
 ﻿---
 title: "Trakto"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Alternativa brasileira ao Canva com templates nacionais."
 tags: ["Marketing", "IA", "Software"]
@@ -31,4 +31,4 @@ Alternativa brasileira ao Canva com templates nacionais.
 ## Para quem é indicado?
 Excelente para templates adaptados à cultura de vendas BR.
 
-[Visitar Site Oficial](https://www.trakto.io/)
+{{< button href="https://www.trakto.io/" label="Visitar Site Oficial" >}}

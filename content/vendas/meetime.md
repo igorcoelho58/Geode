@@ -1,6 +1,6 @@
 ﻿---
 title: "Meetime"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Plataforma brasileira de inside sales com discador e IA de análise."
 tags: ["Vendas", "IA", "Software"]
@@ -31,4 +31,4 @@ Plataforma brasileira de inside sales com discador e IA de análise.
 ## Para quem é indicado?
 Indispensável para operações de vendas por telefone que buscam alta performance.
 
-[Visitar Site Oficial](https://www.meetime.com.br/)
+{{< button href="https://www.meetime.com.br/" label="Visitar Site Oficial" >}}

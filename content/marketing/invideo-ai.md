@@ -1,6 +1,6 @@
 ﻿---
 title: "InVideo AI"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Gere vídeos completos a partir de texto."
 tags: ["Marketing", "IA", "Software"]
@@ -31,4 +31,4 @@ Gere vídeos completos a partir de texto.
 ## Para quem é indicado?
 Melhor para criar vídeos de topo de funil em escala.
 
-[Visitar Site Oficial](https://invideo.io/)
+{{< button href="https://invideo.io/" label="Visitar Site Oficial" >}}

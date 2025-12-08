@@ -1,6 +1,6 @@
 ﻿---
 title: "Respond.io"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Caixa de entrada centralizada para múltiplos canais."
 tags: ["Atendimento", "IA", "Software"]
@@ -31,4 +31,4 @@ Caixa de entrada centralizada para múltiplos canais.
 ## Para quem é indicado?
 A solução para empresas Omnichannel com mensagens de todo lado.
 
-[Visitar Site Oficial](https://respond.io/)
+{{< button href="https://respond.io/" label="Visitar Site Oficial" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title: "Trello"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "O clássico sistema de quadros Kanban que ensinou o mundo a organizar tarefas visualmente."
 tags: ["Produtividade", "IA", "Software"]
@@ -31,4 +31,4 @@ O clássico sistema de quadros Kanban que ensinou o mundo a organizar tarefas vi
 ## Para quem é indicado?
 Para quem está começando e precisa apenas de um "A Fazer, Fazendo, Feito" digital e eficiente.
 
-[Visitar Site Oficial](https://trello.com/)
+{{< button href="https://trello.com/" label="Visitar Site Oficial" >}}

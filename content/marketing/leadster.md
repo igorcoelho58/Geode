@@ -1,6 +1,6 @@
 ﻿---
 title: "Leadster"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Chatbot brasileiro com IA para qualificação de leads em sites."
 tags: ["Marketing", "IA", "Software"]
@@ -31,4 +31,4 @@ Chatbot brasileiro com IA para qualificação de leads em sites.
 ## Para quem é indicado?
 Essencial para automatizar a primeira conversa e não perder leads no site.
 
-[Visitar Site Oficial](https://leadster.com.br/)
+{{< button href="https://leadster.com.br/" label="Visitar Site Oficial" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title: "Monday.com"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Sistema operacional de trabalho visual e colorido que torna a gestão de projetos divertida e intuitiva."
 tags: ["Produtividade", "IA", "Software"]
@@ -31,4 +31,4 @@ Sistema operacional de trabalho visual e colorido que torna a gestão de projeto
 ## Para quem é indicado?
 A escolha premium para times de marketing e criativos que precisam organizar fluxos de trabalho complexos visualmente.
 
-[Visitar Site Oficial](https://monday.com/)
+{{< button href="https://monday.com/" label="Visitar Site Oficial" >}}

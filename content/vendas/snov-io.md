@@ -1,6 +1,6 @@
 ﻿---
 title: "Snov.io"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Plataforma de prospecção e cold mail com IA para encontrar leads B2B."
 tags: ["Vendas", "IA", "Software"]
@@ -31,4 +31,4 @@ Plataforma de prospecção e cold mail com IA para encontrar leads B2B.
 ## Para quem é indicado?
 Indispensável para PMEs B2B que precisam prospectar ativamente novos clientes.
 
-[Visitar Site Oficial](https://snov.io/br)
+{{< button href="https://snov.io/br" label="Visitar Site Oficial" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title: "Pipefy"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Plataforma brasileira de automação de processos com IA."
 tags: ["Produtividade", "IA", "Software"]
@@ -31,4 +31,4 @@ Plataforma brasileira de automação de processos com IA.
 ## Para quem é indicado?
 Perfeita para padronizar processos de vendas e pós-venda com automação.
 
-[Visitar Site Oficial](https://www.pipefy.com/pt-br/)
+{{< button href="https://www.pipefy.com/pt-br/" label="Visitar Site Oficial" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title: "Kommo"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "CRM pioneiro em vendas conversacionais via WhatsApp e Instagram."
 tags: ["Vendas", "IA", "Software"]
@@ -31,4 +31,4 @@ CRM pioneiro em vendas conversacionais via WhatsApp e Instagram.
 ## Para quem é indicado?
 Essencial para negócios que dependem do WhatsApp para vender e precisam organizar o atendimento.
 
-[Visitar Site Oficial](https://www.kommo.com/br/)
+{{< button href="https://www.kommo.com/br/" label="Visitar Site Oficial" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title: "Notion"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "O espaço de trabalho tudo-em-um que substitui Google Docs, Trello e Excel por uma única ferramenta flexível."
 tags: ["Produtividade", "IA", "Software"]
@@ -31,4 +31,4 @@ O espaço de trabalho tudo-em-um que substitui Google Docs, Trello e Excel por u
 ## Para quem é indicado?
 O sistema operacional definitivo para startups e PMEs organizarem conhecimento e tarefas em um só lugar.
 
-[Visitar Site Oficial](https://www.notion.so/)
+{{< button href="https://www.notion.so/" label="Visitar Site Oficial" >}}

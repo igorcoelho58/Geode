@@ -1,6 +1,6 @@
 ﻿---
 title: "Ploomes"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "CRM brasileiro robusto com IA para previsão e CPQ."
 tags: ["Vendas", "IA", "Software"]
@@ -31,4 +31,4 @@ CRM brasileiro robusto com IA para previsão e CPQ.
 ## Para quem é indicado?
 A escolha premium para vendas B2B complexas no Brasil.
 
-[Visitar Site Oficial](https://www.ploomes.com/)
+{{< button href="https://www.ploomes.com/" label="Visitar Site Oficial" >}}

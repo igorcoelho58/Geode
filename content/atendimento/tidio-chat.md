@@ -1,6 +1,6 @@
 ﻿---
 title: "Tidio"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Chat ao vivo e chatbot focado em recuperar vendas."
 tags: ["Atendimento", "IA", "Software"]
@@ -31,4 +31,4 @@ Chat ao vivo e chatbot focado em recuperar vendas.
 ## Para quem é indicado?
 Excelente para e-commerces unirem chat do site e WhatsApp.
 
-[Visitar Site Oficial](https://www.tidio.com/)
+{{< button href="https://www.tidio.com/" label="Visitar Site Oficial" >}}

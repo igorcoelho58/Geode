@@ -1,6 +1,6 @@
 ﻿---
 title: "HeyGen"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Crie vídeos com avatares de IA realistas."
 tags: ["Marketing", "IA", "Software"]
@@ -31,4 +31,4 @@ Crie vídeos com avatares de IA realistas.
 ## Para quem é indicado?
 Revolucionário para vídeos de treinamento e vendas.
 
-[Visitar Site Oficial](https://www.heygen.com/)
+{{< button href="https://www.heygen.com/" label="Visitar Site Oficial" >}}

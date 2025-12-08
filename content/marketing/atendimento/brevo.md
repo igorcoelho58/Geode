@@ -1,6 +1,6 @@
 ﻿---
 title: "Brevo"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Plataforma que une e-mail marketing WhatsApp e CRM acessível."
 tags: ["Marketing/Atendimento", "IA", "Software"]
@@ -31,4 +31,4 @@ Plataforma que une e-mail marketing WhatsApp e CRM acessível.
 ## Para quem é indicado?
 Ótimo para centralizar Marketing e Conversa sem gastar muito.
 
-[Visitar Site Oficial](https://www.brevo.com/pt/)
+{{< button href="https://www.brevo.com/pt/" label="Visitar Site Oficial" >}}

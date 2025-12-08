@@ -1,6 +1,6 @@
 ﻿---
 title: "Zoho CRM"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Suíte completa e acessível com IA Zia que oferece recursos enterprise."
 tags: ["Vendas", "IA", "Software"]
@@ -31,4 +31,4 @@ Suíte completa e acessível com IA Zia que oferece recursos enterprise.
 ## Para quem é indicado?
 Indicado para PMEs que precisam de recursos avançados com orçamento limitado.
 
-[Visitar Site Oficial](https://www.zoho.com/pt-br/crm/)
+{{< button href="https://www.zoho.com/pt-br/crm/" label="Visitar Site Oficial" >}}

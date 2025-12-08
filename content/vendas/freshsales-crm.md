@@ -1,6 +1,6 @@
 ﻿---
 title: "Freshsales"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "CRM intuitivo com IA Freddy AI que foca em encontrar os melhores leads."
 tags: ["Vendas", "IA", "Software"]
@@ -31,4 +31,4 @@ CRM intuitivo com IA Freddy AI que foca em encontrar os melhores leads.
 ## Para quem é indicado?
 Ótimo para empresas com muitos leads que precisam da IA para filtrar quem está pronto para comprar.
 
-[Visitar Site Oficial](https://www.freshworks.com/crm/sales/)
+{{< button href="https://www.freshworks.com/crm/sales/" label="Visitar Site Oficial" >}}

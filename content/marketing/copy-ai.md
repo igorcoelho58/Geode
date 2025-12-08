@@ -1,6 +1,6 @@
 ﻿---
 title: "Copy.ai"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Marketing OS que automatiza fluxos de trabalho."
 tags: ["Marketing", "IA", "Software"]
@@ -31,4 +31,4 @@ Marketing OS que automatiza fluxos de trabalho.
 ## Para quem é indicado?
 Ideal para transformar conteúdo base em peças para redes sociais.
 
-[Visitar Site Oficial](https://www.copy.ai/)
+{{< button href="https://www.copy.ai/" label="Visitar Site Oficial" >}}

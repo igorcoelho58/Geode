@@ -1,11 +1,11 @@
-# Checklist do Projeto Geode
+# Checklist do Projeto Geode (Versão Detalhada)
 
 ## 🟢 Fase 1: Estratégia (Concluída)
 - [x] **Escolha do Nicho:** Automação de IA para PMEs (Oceano Azul).
 - [x] **Definição de Personas:** Empreendedor "Polvo", Gestor "Sobrecarregado", CLT "Aspirante".
 - [x] **Topic Clusters:** Definição dos 4 pilares (Atendimento, Vendas, Marketing, Produtividade).
 
-## � Fase 2: Estrutura Técnica (Concluída)
+## 🟢 Fase 2: Estrutura Técnica (Concluída)
 - [x] **Setup Inicial:** Instalação do Hugo e Tema PaperMod.
 - [x] **Configuração:** Ajuste do `hugo.toml` e menus.
 - [x] **Estrutura de Pastas:** Criação dos diretórios de conteúdo baseados nos clusters.
@@ -19,18 +19,43 @@
 
 ## 🟢 Fase 3: A Fábrica de Conteúdo (Concluída)
 - [x] **Mineração de Dados:** Criar base de dados (CSV/JSON) com 50+ ferramentas.
-- [x] **Geração em Massa:** Script para criar páginas de review automaticamente via Hugo Archetypes.
+- [x] **Geração em Massa:** Script para criar páginas de review automaticamente.
 - [x] **Conteúdo Pilar:** Escrever os 4 guias definitivos (Humanos).
 
 ## 🟡 Fase 4: Refinamento Visual & UX (A Fazer)
-- [ ] **Identidade Visual:** Definir Logo, Favicon e Paleta de Cores (CSS Variables).
-- [ ] **Tipografia:** Ajustar tamanho de fonte e entrelinha para leitura densa (foco em retenção).
-- [ ] **Mobile Check:** Garantir que tabelas comparativas e grids não quebrem no celular.
-- [ ] **CTA Design:** Melhorar o destaque visual dos botões de "Ver Preço" e "Visitar Site".
-- [ ] **Dark Mode:** Verificar contraste dos elementos customizados (cards) no modo escuro.
+-   **1. Identidade Visual:**
+    -   [x] **1.1:** Criar um logo (versões horizontal e ícone) e um favicon.
+    -   [x] **1.2:** Adicionar os arquivos de imagem à pasta `static/img/`.
+    -   [x] **1.3:** Definir a paleta de cores (ex: a cor dourada `#d4af37` como primária) em um arquivo CSS customizado (`assets/css/custom.css`).
+    -   [x] **1.4:** Configurar o `hugo.toml` para usar o favicon e o logo no cabeçalho.
+-   **2. Tipografia e Leitura:**
+    -   [x] **2.1:** No `custom.css`, aumentar o `line-height` (espaço entre linhas) do corpo do texto para `1.7` para facilitar a leitura.
+    -   [x] **2.2:** Definir um `max-width` para os parágrafos (ex: `70ch`) para evitar linhas muito longas em telas grandes.
+-   **3. Revisão Mobile:**
+    -   [x] **3.1:** Iniciar o servidor local (`hugo server`).
+    -   [x] **3.2:** Usar as ferramentas de desenvolvedor do navegador para simular a visualização em dispositivos móveis (iPhone 12, etc.).
+    -   [x] **3.3:** **(Ação Crítica)** Adicionar `overflow-x: auto;` ao container das tabelas de "Prós e Contras" para que elas rolem horizontalmente em telas pequenas, em vez de quebrar o layout.
+-   **4. Otimização de CTAs (Call-to-Action):**
+    -   [x] **4.1:** Revisar a cor do botão principal (verde) para garantir que ele tenha um bom contraste no modo claro e escuro.
+    -   [x] **4.2:** Garantir que todos os links importantes, especialmente os de afiliados, se destaquem visualmente do texto normal.
+-   **5. Modo Escuro (Dark Mode):**
+    -   [x] **5.1:** (Desabilitado temporariamente) Opção removida do `hugo.toml` para focar no lançamento MVP.
+-   **6. Refino Visual do Usuário:**
+    -   [ ] **6.1:** Ajustes finos de layout e design a serem realizados pelo usuário posteriormente.
 
 ## 🔴 Fase 5: Lançamento e Legal (A Fazer)
-- [ ] **Compliance:** Páginas de Termos de Uso, Política de Privacidade e Disclaimer de Afiliado.
-- [ ] **Página Sobre:** Manifesto e "Quem Somos".
-- [ ] **Deploy:** Configurar Netlify/Vercel + GitHub.
-- [ ] **Analytics:** Configurar GA4 ou Plausible.
+-   **1. Páginas de Compliance:**
+    -   [ ] **1.1:** Criar os arquivos de conteúdo: `content/termos-de-uso.md`, `content/politica-de-privacidade.md`, `content/aviso-afiliado.md`.
+    -   [ ] **1.2:** Usar geradores online para criar um texto base para cada uma dessas páginas.
+    -   [ ] **1.3:** Adicionar os links para essas páginas no rodapé do site, editando o template correspondente do tema.
+-   **2. Deploy em Produção:**
+    -   [ ] **2.1:** Garantir que o projeto está em um repositório no GitHub.
+    -   [ ] **2.2:** Criar uma conta na **Vercel** (preferível para Hugo por sua velocidade e simplicidade).
+    -   [ ] **2.3:** Na Vercel, importar o repositório do GitHub. As configurações de build (`hugo`) e o diretório de publicação (`public`) geralmente são detectadas automaticamente.
+    -   [ ] **2.4:** Apontar um domínio customizado (ex: `geode.com.br`) para o deploy da Vercel.
+-   **3. Analytics e SEO:**
+    -   [ ] **3.1:** Criar uma propriedade no **Google Analytics 4**.
+    -   [ ] **3.2:** Adicionar o ID de medição do GA4 no `hugo.toml` (o tema PaperMod tem um campo específico para isso).
+    -   [ ] **3.3:** Criar e submeter um `sitemap.xml` (gerado automaticamente pelo Hugo) ao Google Search Console.
+-   **4. Página Sobre:**
+    -   [ ] **4.1:** Criar o arquivo `content/sobre.md` com o manifesto do projeto e "Quem Somos".

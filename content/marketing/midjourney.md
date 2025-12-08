@@ -1,6 +1,6 @@
 ﻿---
 title: "Midjourney"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "O gerador de imagens com IA mais poderoso e artístico do mercado."
 tags: ["Marketing", "IA", "Software"]
@@ -31,4 +31,4 @@ O gerador de imagens com IA mais poderoso e artístico do mercado.
 ## Para quem é indicado?
 O padrão-ouro para criar imagens únicas e profissionais que se destacam de qualquer banco de imagens.
 
-[Visitar Site Oficial](https://www.midjourney.com/)
+{{< button href="https://www.midjourney.com/" label="Visitar Site Oficial" >}}

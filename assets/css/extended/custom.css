@@ -1,0 +1,81 @@
+/* Custom CSS for Geode */
+
+:root {
+    --brand: #d4af37;
+    --brand-hover: #b5952f;
+}
+
+/* 2.1 Melhorar leitura */
+body {
+    line-height: 1.7;
+}
+
+/* 2.2 Limitar largura do texto para leitura confortável */
+.post-content {
+    max-width: 70ch;
+    margin-inline: auto;
+}
+
+/* 3.3 Tabelas responsivas */
+.post-content table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    max-width: 100%;
+}
+
+/* 1.3 Cores da Marca */
+/* Links no conteúdo */
+.post-content a {
+    color: var(--brand);
+}
+
+.post-content a:hover {
+    color: var(--brand-hover);
+    text-decoration: underline;
+}
+
+/* Menu ativo */
+.header .menu .active {
+    border-bottom-color: var(--brand);
+}
+
+/* Links gerais (cuidado para não quebrar tudo) */
+a:hover {
+    color: var(--brand-hover);
+}
+
+/* 4.1 e 4.2 Otimização de CTAs */
+/* Botão Principal (Estilo "btn-primary") */
+.btn-primary {
+    display: inline-block;
+    background-color: var(--brand);
+    color: #000; /* Contraste alto com o dourado */
+    padding: 12px 24px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: var(--brand-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(212, 175, 55, 0.3);
+    color: #000;
+    text-decoration: none;
+}
+
+/* Links de Afiliados no Texto (CTA secundário) */
+/* Vamos criar uma classe utilitária ou aplicar a links específicos se possível.
+   Como o Markdown gera links simples <a href="...">, podemos estilizar links que estão sozinhos em um parágrafo
+   ou criar um shortcode para botões. Por enquanto, vamos garantir que links no texto sejam bem visíveis.
+*/
+.post-content a {
+    font-weight: 600; /* Mais peso para destacar */
+    text-decoration-color: var(--brand); /* Sublinhado na cor da marca */
+    text-decoration-thickness: 2px;
+}

@@ -1,6 +1,6 @@
 ﻿---
 title: "HubSpot CRM"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Plataforma completa de CRM que oferece ferramentas gratuitas de marketing vendas e atendimento."
 tags: ["Vendas", "IA", "Software"]
@@ -31,4 +31,4 @@ Plataforma completa de CRM que oferece ferramentas gratuitas de marketing vendas
 ## Para quem é indicado?
 Ideal para startups que querem começar com custo zero e ter uma ferramenta de classe mundial.
 
-[Visitar Site Oficial](https://www.hubspot.br/products/crm)
+{{< button href="https://www.hubspot.br/products/crm" label="Visitar Site Oficial" >}}

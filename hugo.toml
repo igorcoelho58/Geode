@@ -4,12 +4,25 @@ title = 'Geode | Automação e Reviews de IA para a Sua Empresa'
 theme = 'PaperMod'
 
 [params]
-  defaultTheme = "auto"
+  defaultTheme = "light"
+  disableThemeToggle = true
   ShowReadingTime = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
+
+  [params.assets]
+    favicon = "/img/favicon.svg"
+
+  [params.label]
+    icon = "/img/logo.svg"
+    text = "Geode"
   
   [params.homeInfoParams]
     Title = "Geode: Inteligência em Software"

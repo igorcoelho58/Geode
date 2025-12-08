@@ -1,6 +1,6 @@
 ﻿---
 title: "Zapier"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "O rei da automação que conecta mais de 5.000 aplicativos sem você precisar saber programar."
 tags: ["Produtividade", "IA", "Software"]
@@ -31,4 +31,4 @@ O rei da automação que conecta mais de 5.000 aplicativos sem você precisar sa
 ## Para quem é indicado?
 Indispensável para automações simples e rápidas entre ferramentas populares (ex: Lead do Facebook para o Gmail).
 
-[Visitar Site Oficial](https://zapier.com/)
+{{< button href="https://zapier.com/" label="Visitar Site Oficial" >}}

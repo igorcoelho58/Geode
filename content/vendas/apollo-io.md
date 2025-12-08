@@ -1,6 +1,6 @@
 ﻿---
 title: "Apollo.io"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Banco de dados B2B massivo com ferramentas de engajamento e IA."
 tags: ["Vendas", "IA", "Software"]
@@ -31,4 +31,4 @@ Banco de dados B2B massivo com ferramentas de engajamento e IA.
 ## Para quem é indicado?
 Poderoso para times de vendas encontrarem contatos qualificados e iniciarem conversas.
 
-[Visitar Site Oficial](https://www.apollo.io/)
+{{< button href="https://www.apollo.io/" label="Visitar Site Oficial" >}}

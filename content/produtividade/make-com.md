@@ -1,6 +1,6 @@
 ﻿---
 title: "Make"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Antigo Integromat, é a alternativa visual e mais barata ao Zapier para conectar seus aplicativos."
 tags: ["Produtividade", "IA", "Software"]
@@ -26,9 +26,9 @@ Antigo Integromat, é a alternativa visual e mais barata ao Zapier para conectar
 ## Prós e Contras
 | Prós | Contras |
 | :--- | :--- |
-| Muito mais barato que Zapier<br>Editor visual de fluxos complexos<br>Conecta apps brasileiros via API | Curva de aprendizado técnica<br>Menos integrações ""prontas"" que o Zapier |
+| Muito mais barato que Zapier<br>Editor visual de fluxos complexos<br>Conecta apps brasileiros via API | Curva de aprendizado técnica<br>Menos integrações "prontas" que o Zapier |
 
 ## Para quem é indicado?
 A ferramenta secreta para automatizar processos complexos da empresa sem gastar uma fortuna em devs.
 
-[Visitar Site Oficial](https://www.make.com/)
+{{< button href="https://www.make.com/" label="Visitar Site Oficial" >}}

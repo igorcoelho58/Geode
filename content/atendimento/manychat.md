@@ -1,6 +1,6 @@
 ﻿---
 title: "ManyChat"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Líder em automação de Instagram e DM."
 tags: ["Atendimento", "IA", "Software"]
@@ -31,4 +31,4 @@ Líder em automação de Instagram e DM.
 ## Para quem é indicado?
 Indispensável se a aquisição começa no Instagram Direct.
 
-[Visitar Site Oficial](https://manychat.com/)
+{{< button href="https://manychat.com/" label="Visitar Site Oficial" >}}

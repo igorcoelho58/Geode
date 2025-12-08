@@ -1,6 +1,6 @@
 ﻿---
 title: "Pipedrive"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "CRM de vendas focado em funil visual que ajuda PMEs a organizarem processos e fecharem mais negócios."
 tags: ["Vendas", "IA", "Software"]
@@ -31,4 +31,4 @@ CRM de vendas focado em funil visual que ajuda PMEs a organizarem processos e fe
 ## Para quem é indicado?
 Perfeito para equipes comerciais que buscam organização visual imediata e querem fugir de planilhas complexas.
 
-[Visitar Site Oficial](https://www.pipedrive.com/pt)
+{{< button href="https://www.pipedrive.com/pt" label="Visitar Site Oficial" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title: "Fireflies.ai"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "IA que entra nas suas reuniões (Zoom/Meet), grava, transcreve e gera a ata automaticamente."
 tags: ["Produtividade", "IA", "Software"]
@@ -31,4 +31,4 @@ IA que entra nas suas reuniões (Zoom/Meet), grava, transcreve e gera a ata auto
 ## Para quem é indicado?
 O fim das anotações manuais em reuniões. Essencial para times de vendas e gestão não perderem nenhum detalhe.
 
-[Visitar Site Oficial](https://fireflies.ai/)
+{{< button href="https://fireflies.ai/" label="Visitar Site Oficial" >}}

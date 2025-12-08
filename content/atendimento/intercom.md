@@ -1,6 +1,6 @@
 ﻿---
 title: "Intercom"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Plataforma líder em chat ao vivo com IA Fin que resolve até 50% dos tickets automaticamente."
 tags: ["Atendimento", "IA", "Software"]
@@ -31,4 +31,4 @@ Plataforma líder em chat ao vivo com IA Fin que resolve até 50% dos tickets au
 ## Para quem é indicado?
 O padrão-ouro para empresas SaaS que querem atendimento e onboarding de classe mundial.
 
-[Visitar Site Oficial](https://www.intercom.com/)
+{{< button href="https://www.intercom.com/" label="Visitar Site Oficial" >}}

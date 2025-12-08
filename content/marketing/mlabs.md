@@ -1,6 +1,6 @@
 ﻿---
 title: "mLabs"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Líder brasileira para gestão de redes sociais."
 tags: ["Marketing", "IA", "Software"]
@@ -31,4 +31,4 @@ Líder brasileira para gestão de redes sociais.
 ## Para quem é indicado?
 Melhor custo-benefício para organizar redes sociais no Brasil.
 
-[Visitar Site Oficial](https://www.mlabs.com.br/)
+{{< button href="https://www.mlabs.com.br/" label="Visitar Site Oficial" >}}

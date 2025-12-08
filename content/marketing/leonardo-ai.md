@@ -1,6 +1,6 @@
 ﻿---
 title: "Leonardo.ai"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Gerador de imagens artísticas alternativo ao Midjourney."
 tags: ["Marketing", "IA", "Software"]
@@ -31,4 +31,4 @@ Gerador de imagens artísticas alternativo ao Midjourney.
 ## Para quem é indicado?
 Para criar visuais únicos que se destacam de bancos de imagem.
 
-[Visitar Site Oficial](https://leonardo.ai/)
+{{< button href="https://leonardo.ai/" label="Visitar Site Oficial" >}}

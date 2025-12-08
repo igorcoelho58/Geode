@@ -1,6 +1,6 @@
 ﻿---
 title: "Gamma App"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Crie apresentações e documentos em segundos."
 tags: ["Marketing", "IA", "Software"]
@@ -31,4 +31,4 @@ Crie apresentações e documentos em segundos.
 ## Para quem é indicado?
 Salvador da pátria para apresentações comerciais rápidas.
 
-[Visitar Site Oficial](https://gamma.app/)
+{{< button href="https://gamma.app/" label="Visitar Site Oficial" >}}

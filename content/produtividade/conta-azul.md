@@ -1,6 +1,6 @@
 ﻿---
 title: "Conta Azul"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Plataforma de gestão financeira e ERP feita sob medida para a realidade das pequenas empresas brasileiras."
 tags: ["Produtividade", "IA", "Software"]
@@ -31,4 +31,4 @@ Plataforma de gestão financeira e ERP feita sob medida para a realidade das peq
 ## Para quem é indicado?
 O ERP padrão para PMEs no Brasil. Se você precisa emitir nota e boleto sem dor de cabeça, é este.
 
-[Visitar Site Oficial](https://contaazul.com/)
+{{< button href="https://contaazul.com/" label="Visitar Site Oficial" >}}

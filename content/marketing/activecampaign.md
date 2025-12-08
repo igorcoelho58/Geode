@@ -1,6 +1,6 @@
 ﻿---
 title: "ActiveCampaign"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "A ferramenta definitiva de automação de experiência do cliente e CRM."
 tags: ["Marketing", "IA", "Software"]
@@ -31,4 +31,4 @@ A ferramenta definitiva de automação de experiência do cliente e CRM.
 ## Para quem é indicado?
 Para empresas que levam automação a sério e querem criar jornadas complexas.
 
-[Visitar Site Oficial](https://www.activecampaign.com/br/)
+{{< button href="https://www.activecampaign.com/br/" label="Visitar Site Oficial" >}}

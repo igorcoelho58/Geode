@@ -1,6 +1,6 @@
 ﻿---
 title: "Bitrix24"
-date: 2025-12-03
+date: 2025-12-07
 draft: false
 description: "Plataforma de colaboração tudo-em-um com CRM projetos e sites."
 tags: ["Produtividade", "IA", "Software"]
@@ -31,4 +31,4 @@ Plataforma de colaboração tudo-em-um com CRM projetos e sites.
 ## Para quem é indicado?
 A solução canivete suíço para centralizar toda a operação pagando em Reais.
 
-[Visitar Site Oficial](https://www.bitrix24.com.br/)
+{{< button href="https://www.bitrix24.com.br/" label="Visitar Site Oficial" >}}
