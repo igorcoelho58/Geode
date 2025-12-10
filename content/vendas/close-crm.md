@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Close CRM
 
 **Veredito:** Perfeito para times de vendas por telefone que precisam de velocidade e automação inteligente.
 

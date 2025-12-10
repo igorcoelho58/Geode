@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Opus Clip
 
 **Veredito:** Essencial para creators e marcas que querem transformar conteúdo longo em shorts para redes sociais.
 

@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Meetime
 
 **Veredito:** Indispensável para operações de vendas por telefone que buscam alta performance.
 

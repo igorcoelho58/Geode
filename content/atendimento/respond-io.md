@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Respond.io
 
 **Veredito:** A solução para empresas Omnichannel com mensagens de todo lado.
 

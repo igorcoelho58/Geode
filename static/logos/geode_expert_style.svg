@@ -1,0 +1,14 @@
+<svg width="250" height="50" viewBox="0 0 250 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Text GEODE -->
+  <text x="0" y="35" font-family="'Arial Black', 'Arial', sans-serif" font-size="32" font-weight="900" fill="#ffffff" letter-spacing="-1">
+    GEODE
+  </text>
+  
+  <!-- Box for G -->
+  <rect x="140" y="8" width="34" height="34" rx="6" fill="#d4af37"/>
+  
+  <!-- Icon G inside box -->
+  <text x="157" y="33" font-family="'Arial Black', 'Arial', sans-serif" font-size="22" font-weight="900" fill="#0f172a" text-anchor="middle">
+    G
+  </text>
+</svg>

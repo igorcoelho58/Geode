@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Bitrix24
 
 **Veredito:** A solução canivete suíço para centralizar toda a operação pagando em Reais.
 

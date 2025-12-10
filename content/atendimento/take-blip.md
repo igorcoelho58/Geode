@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Take Blip
 
 **Veredito:** A escolha segura para empresas que buscam escala profissional sem risco de banimento.
 

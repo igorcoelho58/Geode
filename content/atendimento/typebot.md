@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Typebot
 
 **Veredito:** A melhor ferramenta para criar fluxos de conversa avançados e capturar leads.
 

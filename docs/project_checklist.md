@@ -43,7 +43,31 @@
 -   **6. Refino Visual do Usuário:**
     -   [ ] **6.1:** Ajustes finos de layout e design a serem realizados pelo usuário posteriormente.
 
-## 🔴 Fase 5: Lançamento e Legal (A Fazer)
+## 🔵 Fase 5: Setup Operacional & Financeiro (A Fazer)
+
+### Infraestrutura de Código & Deploy (Netlify/GitHub)
+- [ ] **GitHub:** Criar e vincular a conta GitHub (Hospedagem do Código).
+- [ ] **Netlify:** Criar e vincular a conta Netlify (Hospedagem e Publicação Gratuita).
+- [ ] **Domínio:** Registrar e configurar o domínio Geode.ai (Compra e apontamento dos Nameservers).
+
+### Propriedade Digital (Branding & Confiança B2B)
+- [ ] **LinkedIn:** Criar a Company Page no LinkedIn (Geode AI).
+- [ ] **Redes Sociais:** Garantir perfis de Instagram e Pinterest (reserva de arrobas, alinhado com o nome Geode.ai).
+- [x] **Identidade Visual:** Criação do Logotipo e Favicon (para instalar no site).
+
+### Analytics & Rastreamento (Validação da Conversão)
+- [ ] **GA4:** Criar a conta Google Analytics 4 (GA4) e obter o ID de Medição (G-XXXXX).
+- [ ] **Clarity:** Criar a conta Microsoft Clarity (para Heatmaps e gravações de sessão).
+
+### Infraestrutura Financeira (Recebimento de Comissões)
+- [ ] **Conta Global:** Abrir conta em Wise ou Payoneer (para receber em USD/EUR).
+- [ ] **Dados Bancários:** Obter os dados bancários em USD para cadastros em plataformas globais.
+
+### Cadastros em Redes de Afiliados (Prioridade)
+- [ ] **PartnerStack:** Cadastrar na rede PartnerStack (para a maioria dos SaaS de Vendas/Produtividade).
+- [ ] **Impact:** Cadastrar na rede Impact (para HubSpot, Canva e grandes players).
+
+## 🔴 Fase 6: Lançamento e Legal (A Fazer)
 -   **1. Páginas de Compliance:**
     -   [ ] **1.1:** Criar os arquivos de conteúdo: `content/termos-de-uso.md`, `content/politica-de-privacidade.md`, `content/aviso-afiliado.md`.
     -   [ ] **1.2:** Usar geradores online para criar um texto base para cada uma dessas páginas.

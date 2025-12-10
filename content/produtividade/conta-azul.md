@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Conta Azul
 
 **Veredito:** O ERP padrão para PMEs no Brasil. Se você precisa emitir nota e boleto sem dor de cabeça, é este.
 

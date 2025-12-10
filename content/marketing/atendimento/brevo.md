@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Brevo
 
 **Veredito:** Ótimo para centralizar Marketing e Conversa sem gastar muito.
 

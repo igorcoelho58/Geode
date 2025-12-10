@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# RD Station CRM
 
 **Veredito:** A escolha lógica para empresas brasileiras que já usam RD Station Marketing e buscam solução integrada.
 

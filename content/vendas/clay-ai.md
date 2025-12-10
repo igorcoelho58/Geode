@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Clay
 
 **Veredito:** Revolucionário para times de growth que fazem prospecção outbound.
 

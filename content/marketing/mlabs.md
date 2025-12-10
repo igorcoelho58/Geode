@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# mLabs
 
 **Veredito:** Melhor custo-benefício para organizar redes sociais no Brasil.
 

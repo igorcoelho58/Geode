@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Pipefy
 
 **Veredito:** Perfeita para padronizar processos de vendas e pós-venda com automação.
 

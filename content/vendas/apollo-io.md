@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Apollo.io
 
 **Veredito:** Poderoso para times de vendas encontrarem contatos qualificados e iniciarem conversas.
 

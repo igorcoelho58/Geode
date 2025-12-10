@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Trello
 
 **Veredito:** Para quem está começando e precisa apenas de um "A Fazer, Fazendo, Feito" digital e eficiente.
 

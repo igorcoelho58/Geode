@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Zendesk
 
 **Veredito:** Para PMEs em crescimento rápido estruturando Customer Success.
 

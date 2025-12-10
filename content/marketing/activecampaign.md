@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# ActiveCampaign
 
 **Veredito:** Para empresas que levam automação a sério e querem criar jornadas complexas.
 

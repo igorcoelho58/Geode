@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# ManyChat
 
 **Veredito:** Indispensável se a aquisição começa no Instagram Direct.
 

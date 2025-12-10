@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Asana
 
 **Veredito:** Excelente para times que preferem listas e cronogramas ao invés de quadros Kanban.
 

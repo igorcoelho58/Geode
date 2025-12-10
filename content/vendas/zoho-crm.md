@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Zoho CRM
 
 **Veredito:** Indicado para PMEs que precisam de recursos avançados com orçamento limitado.
 

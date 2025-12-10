@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Snov.io
 
 **Veredito:** Indispensável para PMEs B2B que precisam prospectar ativamente novos clientes.
 

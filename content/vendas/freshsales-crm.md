@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Freshsales
 
 **Veredito:** Ótimo para empresas com muitos leads que precisam da IA para filtrar quem está pronto para comprar.
 

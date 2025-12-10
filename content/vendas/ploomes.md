@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Ploomes
 
 **Veredito:** A escolha premium para vendas B2B complexas no Brasil.
 

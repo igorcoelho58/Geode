@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Copy.ai
 
 **Veredito:** Ideal para transformar conteúdo base em peças para redes sociais.
 

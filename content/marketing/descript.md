@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Descript
 
 **Veredito:** Indispensável para podcasts e vídeos falados.
 

@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Chatwoot
 
 **Veredito:** Para startups e empresas tech que querem hospedar o próprio atendimento.
 

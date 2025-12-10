@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Fireflies.ai
 
 **Veredito:** O fim das anotações manuais em reuniões. Essencial para times de vendas e gestão não perderem nenhum detalhe.
 

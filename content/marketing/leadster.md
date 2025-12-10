@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Leadster
 
 **Veredito:** Essencial para automatizar a primeira conversa e não perder leads no site.
 

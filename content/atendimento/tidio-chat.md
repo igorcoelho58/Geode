@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Tidio
 
 **Veredito:** Excelente para e-commerces unirem chat do site e WhatsApp.
 

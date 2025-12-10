@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Make
 
 **Veredito:** A ferramenta secreta para automatizar processos complexos da empresa sem gastar uma fortuna em devs.
 

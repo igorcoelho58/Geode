@@ -1,0 +1,36 @@
+<header class="header">
+    <div class="nav">
+        <!-- Top Row: Logo + Search + CTA -->
+        <div class="header-top">
+            <div class="logo">
+                <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ .Site.Title }} (Alt + H)">
+                    <img src="/logos/geode_expert_style.svg" alt="Geode" class="logo-img" height="48">
+                </a>
+            </div>
+
+            <div class="header-actions">
+                <div class="search-container">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                    <input type="search" placeholder="Buscar ferramentas..." id="searchInput">
+                </div>
+
+                <div class="cta-container">
+                    <a href="#newsletter" class="btn-cta-header">Assinar Newsletter</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Bottom Row: Menu -->
+        <div class="header-bottom">
+            <ul id="menu">
+                {{- range .Site.Menus.main }}
+                <li>
+                    <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">
+                        {{- .Name -}}
+                    </a>
+                </li>
+                {{- end }}
+            </ul>
+        </div>
+    </div>
+</header>

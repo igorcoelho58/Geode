@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Wati
 
 **Veredito:** Ideal para lojas virtuais que querem segurança da API oficial sem complexidade.
 

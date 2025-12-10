@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Kommo
 
 **Veredito:** Essencial para negócios que dependem do WhatsApp para vender e precisam organizar o atendimento.
 

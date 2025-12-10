@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Jasper AI
 
 **Veredito:** A escolha profissional para agências que precisam de escala em copy.
 

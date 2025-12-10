@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Trakto
 
 **Veredito:** Excelente para templates adaptados à cultura de vendas BR.
 

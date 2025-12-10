@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# ChatGPT
 
 **Veredito:** Ferramenta essencial para qualquer profissional moderno criar conteúdo e automatizar tarefas.
 

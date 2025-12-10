@@ -4,6 +4,7 @@ title = 'Geode | Automação e Reviews de IA para a Sua Empresa'
 theme = 'PaperMod'
 
 [params]
+  customCss = ["css/extended/custom.css"] # Carrega o CSS customizado
   defaultTheme = "light"
   disableThemeToggle = true
   ShowReadingTime = true
@@ -18,7 +19,7 @@ theme = 'PaperMod'
   ShowCodeCopyButtons = true
 
   [params.assets]
-    favicon = "/img/favicon.svg"
+    favicon = "/logos/favicon_geode.svg"
 
   [params.label]
     icon = "/img/logo.svg"
@@ -49,3 +50,18 @@ theme = 'PaperMod'
     name = "Produtividade"
     url = "/produtividade/"
     weight = 40
+  [[menu.main]]
+    identifier = "solucoes"
+    name = "Soluções"
+    url = "/solucoes/"
+    weight = 50
+  [[menu.main]]
+    identifier = "precos"
+    name = "Preços"
+    url = "/precos/"
+    weight = 60
+  [[menu.main]]
+    identifier = "recursos"
+    name = "Recursos"
+    url = "/recursos/"
+    weight = 70

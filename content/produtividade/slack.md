@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Slack
 
 **Veredito:** Obrigatório para separar a comunicação profissional da pessoal e manter o time alinhado.
 

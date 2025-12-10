@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# HubSpot CRM
 
 **Veredito:** Ideal para startups que querem começar com custo zero e ter uma ferramenta de classe mundial.
 

@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Pipedrive
 
 **Veredito:** Perfeito para equipes comerciais que buscam organização visual imediata e querem fugir de planilhas complexas.
 

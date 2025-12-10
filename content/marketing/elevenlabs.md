@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# ElevenLabs
 
 **Veredito:** Ferramenta definitiva para dar voz profissional aos vídeos.
 

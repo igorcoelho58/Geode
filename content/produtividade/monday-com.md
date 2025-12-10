@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Monday.com
 
 **Veredito:** A escolha premium para times de marketing e criativos que precisam organizar fluxos de trabalho complexos visualmente.
 

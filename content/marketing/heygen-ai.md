@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# HeyGen
 
 **Veredito:** Revolucionário para vídeos de treinamento e vendas.
 

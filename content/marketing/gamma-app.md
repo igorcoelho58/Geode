@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Gamma App
 
 **Veredito:** Salvador da pátria para apresentações comerciais rápidas.
 

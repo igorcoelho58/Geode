@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Intercom
 
 **Veredito:** O padrão-ouro para empresas SaaS que querem atendimento e onboarding de classe mundial.
 

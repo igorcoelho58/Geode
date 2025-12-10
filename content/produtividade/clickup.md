@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# ClickUp
 
 **Veredito:** Ideal para equipes que sentem que o Trello ficou "pequeno" e precisam de uma gestão de projetos robusta.
 

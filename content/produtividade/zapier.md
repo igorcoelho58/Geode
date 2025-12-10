@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Zapier
 
 **Veredito:** Indispensável para automações simples e rápidas entre ferramentas populares (ex: Lead do Facebook para o Gmail).
 

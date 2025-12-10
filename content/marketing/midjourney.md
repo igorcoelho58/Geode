@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Midjourney
 
 **Veredito:** O padrão-ouro para criar imagens únicas e profissionais que se destacam de qualquer banco de imagens.
 

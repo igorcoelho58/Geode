@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Otter.ai
 
 **Veredito:** Ótimo para quem faz reuniões em inglês ou precisa apenas do áudio transcrito rapidamente.
 

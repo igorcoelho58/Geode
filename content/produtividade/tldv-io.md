@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# tl;dv
 
 **Veredito:** A melhor opção gratuita para gravar reuniões de clientes e compartilhar os melhores momentos com o time.
 

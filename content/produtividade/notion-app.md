@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Notion
 
 **Veredito:** O sistema operacional definitivo para startups e PMEs organizarem conhecimento e tarefas em um só lugar.
 

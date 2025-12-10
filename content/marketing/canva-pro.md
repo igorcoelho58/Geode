@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Canva Pro
 
 **Veredito:** Obrigatório para PMEs. O plano Pro se paga sozinho.
 

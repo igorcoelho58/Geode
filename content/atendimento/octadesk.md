@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Octadesk
 
 **Veredito:** Essencial para empresas de serviço que precisam formalizar o atendimento.
 

@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Agendor
 
 **Veredito:** A melhor opção para representantes comerciais e vendedores externos que precisam de um caderninho digital.
 

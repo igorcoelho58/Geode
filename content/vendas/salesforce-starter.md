@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Salesforce Starter
 
 **Veredito:** Para PMEs que querem a solidez da Salesforce preparada para crescimento rápido.
 

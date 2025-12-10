@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Leonardo.ai
 
 **Veredito:** Para criar visuais únicos que se destacam de bancos de imagem.
 

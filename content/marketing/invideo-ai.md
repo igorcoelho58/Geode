@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# InVideo AI
 
 **Veredito:** Melhor para criar vídeos de topo de funil em escala.
 

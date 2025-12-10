@@ -13,7 +13,6 @@ cover:
     relative: false
 ---
 
-# Moskit CRM
 
 **Veredito:** Excelente para equipes brasileiras que buscam produtividade e recursos modernos de IA.
 
