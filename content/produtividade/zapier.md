@@ -7,7 +7,7 @@ tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/zapier.png"
     alt: "Zapier logo"
     caption: ""
     relative: false

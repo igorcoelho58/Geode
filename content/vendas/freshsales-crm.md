@@ -7,7 +7,7 @@ tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/freshsales.png"
     alt: "Freshsales logo"
     caption: ""
     relative: false

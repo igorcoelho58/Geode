@@ -7,7 +7,7 @@ tags: ["Atendimento", "IA", "Software"]
 categories: ["Atendimento"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/chatwoot.png"
     alt: "Chatwoot logo"
     caption: ""
     relative: false

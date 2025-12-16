@@ -7,7 +7,7 @@ tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/moskit.png"
     alt: "Moskit CRM logo"
     caption: ""
     relative: false

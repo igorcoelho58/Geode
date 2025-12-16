@@ -7,7 +7,7 @@ tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/leadster.png"
     alt: "Leadster logo"
     caption: ""
     relative: false

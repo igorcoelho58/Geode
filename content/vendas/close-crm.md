@@ -7,7 +7,7 @@ tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/close.png"
     alt: "Close CRM logo"
     caption: ""
     relative: false

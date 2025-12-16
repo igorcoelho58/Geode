@@ -7,7 +7,7 @@ tags: ["Marketing/Atendimento", "IA", "Software"]
 categories: ["Marketing/Atendimento"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/brevo.png"
     alt: "Brevo logo"
     caption: ""
     relative: false

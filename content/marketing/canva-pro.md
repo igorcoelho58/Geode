@@ -7,7 +7,7 @@ tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/canva.png"
     alt: "Canva Pro logo"
     caption: ""
     relative: false

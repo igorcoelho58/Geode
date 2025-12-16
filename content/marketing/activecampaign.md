@@ -7,7 +7,7 @@ tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/activecampaign.png"
     alt: "ActiveCampaign logo"
     caption: ""
     relative: false

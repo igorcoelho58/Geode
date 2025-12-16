@@ -7,7 +7,7 @@ tags: ["Atendimento", "IA", "Software"]
 categories: ["Atendimento"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/blip.png"
     alt: "Take Blip logo"
     caption: ""
     relative: false

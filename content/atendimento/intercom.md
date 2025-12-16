@@ -7,7 +7,7 @@ tags: ["Atendimento", "IA", "Software"]
 categories: ["Atendimento"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/intercom.png"
     alt: "Intercom logo"
     caption: ""
     relative: false

@@ -7,7 +7,7 @@ tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/mlabs.png"
     alt: "mLabs logo"
     caption: ""
     relative: false

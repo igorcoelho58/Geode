@@ -7,7 +7,7 @@ tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/snov.png"
     alt: "Snov.io logo"
     caption: ""
     relative: false

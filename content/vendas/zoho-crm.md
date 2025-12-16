@@ -7,7 +7,7 @@ tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/zoho.png"
     alt: "Zoho CRM logo"
     caption: ""
     relative: false

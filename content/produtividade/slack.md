@@ -7,7 +7,7 @@ tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/slack.png"
     alt: "Slack logo"
     caption: ""
     relative: false

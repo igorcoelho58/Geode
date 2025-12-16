@@ -43,7 +43,7 @@
 -   **6. Refino Visual do Usuário:**
     -   [ ] **6.1:** Ajustes finos de layout e design a serem realizados pelo usuário posteriormente.
 
-## 🔵 Fase 5: Setup Operacional & Financeiro (A Fazer)
+##  Fase 5: Setup Operacional & Financeiro (A Fazer)
 
 ### Infraestrutura de Código & Deploy (Netlify/GitHub)
 - [ ] **GitHub:** Criar e vincular a conta GitHub (Hospedagem do Código).

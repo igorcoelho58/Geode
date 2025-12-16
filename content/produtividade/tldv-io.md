@@ -7,7 +7,7 @@ tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/tldv.png"
     alt: "tl;dv logo"
     caption: ""
     relative: false

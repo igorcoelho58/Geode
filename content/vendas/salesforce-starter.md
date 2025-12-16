@@ -7,7 +7,7 @@ tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/salesforce.png"
     alt: "Salesforce Starter logo"
     caption: ""
     relative: false

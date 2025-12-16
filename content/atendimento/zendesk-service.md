@@ -7,7 +7,7 @@ tags: ["Atendimento", "IA", "Software"]
 categories: ["Atendimento"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/zendesk.png"
     alt: "Zendesk logo"
     caption: ""
     relative: false

@@ -1,51 +1,41 @@
 {{ define "main" }}
-<div class="main-container">
-    <div class="portal-grid">
-        <!-- Main Column (70%) -->
-        <div class="portal-main">
-            
-            <!-- Hero Section: Magazine Style -->
-            <div class="hero-wrapper">
-                <!-- Main Feature (Left) -->
+<!-- Hero Background Section - Full Viewport -->
+<div class="hero-background-section">
+    <div class="main-container">
+        <div class="portal-grid">
+            <!-- Main Column (65%) -->
+            <div class="portal-main">
+                
+                <!-- Hero Section: Full Width Card with Gradient -->
                 {{ $featured := first 1 (where .Site.RegularPages "Title" "ActiveCampaign") }}
                 {{ if not $featured }}
                     {{ $featured = first 1 .Site.RegularPages }}
                 {{ end }}
                 
                 {{ range $featured }}
-                <div class="hero-main-card">
-                    <div class="hero-image-container">
-                        {{- if .Params.cover.image -}}
-                        <img loading="lazy" src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}">
-                        {{- else -}}
-                        <div class="hero-placeholder">
-                            {{ .Title }}
-                        </div>
-                        {{- end -}}
-                    </div>
+                <div class="hero-card">
                     <div class="hero-content">
-                        <span class="hero-tag">Destaque da Semana</span>
-                        <h2 class="hero-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-                        <p class="hero-excerpt">{{ .Description | default (.Summary | truncate 140) }}</p>
-                        <a href="{{ .Permalink }}" class="hero-btn">Ler Análise &rarr;</a>
+                        <span class="hero-badge">Destaque da Semana</span>
+                        <h1 class="hero-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+                        <p class="hero-description">{{ .Description | default (.Summary | truncate 180) }}</p>
+                        <ul class="hero-features">
+                            <li><span class="check-icon">✓</span> Automação avançada de marketing</li>
+                            <li><span class="check-icon">✓</span> CRM integrado e poderoso</li>
+                            <li><span class="check-icon">✓</span> Interface intuitiva e moderna</li>
+                        </ul>
+                        <a href="{{ .Permalink }}" class="hero-cta">Ler Análise Completa →</a>
                     </div>
-                </div>
-                {{ end }}
-
-                <!-- Secondary List (Right) -->
-                <div class="hero-side-list">
-                    <h4 class="hero-list-title">Mais Lidos</h4>
-                    <div class="hero-rank-list">
-                        {{ $featuredPage := index $featured 0 }}
-                        {{ range $index, $element := first 5 (where .Site.RegularPages "Permalink" "ne" $featuredPage.Permalink) }}
-                        <a href="{{ .Permalink }}" class="hero-rank-item">
-                            <span class="rank-number">{{ add $index 1 }}°</span>
-                            <span class="rank-title">{{ .Title }}</span>
-                        </a>
-                        {{ end }}
+                    <div class="hero-visual">
+                        {{- if .Params.cover.image -}}
+                        <img loading="lazy" src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" class="hero-image">
+                        {{- else -}}
+                        <div class="hero-placeholder-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M18.7 8l-5.1 5.2-2.8-2.7L7 14.3"/></svg>
                     </div>
+                    {{- end -}}
                 </div>
             </div>
+            {{ end }}
 
             <!-- Secondary Features (Produtividade) -->
             <div class="secondary-features">
@@ -73,25 +63,69 @@
 
         </div>
 
-        <!-- Sidebar (30%) -->
+        <!-- Sidebar (35%) -->
         <aside class="portal-sidebar">
             
-            <!-- Widget: Latest Posts -->
-            <div class="sidebar-widget">
-                <h3 class="widget-title">Últimas Análises</h3>
-                <ul class="latest-list">
-                    {{ range first 6 .Site.RegularPages }}
-                    <li>
-                        <a href="{{ .Permalink }}" class="latest-title">{{ .Title }}</a>
-                        <p class="latest-desc">{{ .Description | default (.Summary | truncate 60) }}</p>
-                    </li>
+            <!-- Widget: Mais Lidos -->
+            <div class="sidebar-widget mais-lidos-widget">
+                <h3 class="widget-title"><span class="fire-icon">🏆</span> Análises Mais Lidas</h3>
+                <div class="ranking-list">
+                    {{ $featured := first 1 (where .Site.RegularPages "Title" "ActiveCampaign") }}
+                    {{ $featuredPage := index $featured 0 }}
+                    {{ range $index, $element := first 5 (where .Site.RegularPages "Permalink" "ne" $featuredPage.Permalink) }}
+                    <a href="{{ .Permalink }}" class="ranking-item rank-{{ add $index 1 }}">
+                        <span class="rank-number">{{ add $index 1 }}°</span>
+                        <div class="rank-icon">
+                            {{- if .Params.cover.image -}}
+                            <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}">
+                            {{- else -}}
+                            <span class="rank-initial">{{ substr .Title 0 1 }}</span>
+                            {{- end -}}
+                        </div>
+                        <div class="rank-info">
+                            <span class="rank-name">{{ .Title }}</span>
+                            <span class="rank-category">{{ .Section | upper }}</span>
+                        </div>
+                    </a>
                     {{ end }}
-                </ul>
+                </div>
+            </div>
+
+            <!-- Widget: Últimas Análises -->
+            <div class="sidebar-widget ultimas-widget">
+                <h3 class="widget-title"><span class="chart-icon">📊</span> Últimas Análises</h3>
+                <div class="analises-list">
+                    {{ range first 5 .Site.RegularPages }}
+                    <a href="{{ .Permalink }}" class="analise-card">
+                        <div class="analise-header">
+                            <div class="analise-icon">
+                                {{- if .Params.cover.image -}}
+                                <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}">
+                                {{- else -}}
+                                <span class="analise-initial">{{ substr .Title 0 2 | upper }}</span>
+                                {{- end -}}
+                            </div>
+                            {{ if eq (.Date.Format "2006-01-02") (now.Format "2006-01-02") }}
+                            <span class="analise-badge novo">Novo</span>
+                            {{ end }}
+                        </div>
+                        <h4 class="analise-title">{{ .Title }}</h4>
+                        <p class="analise-desc">{{ .Description | default (.Summary | truncate 70) }}</p>
+                        <span class="analise-meta">📖 {{ .ReadingTime }} min de leitura</span>
+                    </a>
+                    {{ end }}
+                </div>
             </div>
 
         </aside>
     </div>
+</div>
+</div>
+<!-- End Hero Background Section -->
 
+<!-- Rest of the site with white background -->
+<div class="site-content-section">
+<div class="main-container">
     <!-- Full Width Categories -->
     <div class="full-width-sections">
         
@@ -99,7 +133,7 @@
         <div class="category-section">
             <div class="category-header">
                 <h3 class="category-title">Vendas & CRM</h3>
-                <a href="{{ "vendas" | absLangURL }}" class="category-link">Ver tudo &rarr;</a>
+                <a href="{{ "vendas" | absLangURL }}" class="category-link">Ver tudo →</a>
             </div>
             <div class="grid-4-col">
                 {{ range first 4 (where .Site.RegularPages "Section" "vendas") }}
@@ -115,13 +149,8 @@
                         <span class="xp-card-tag">Vendas</span>
                     </div>
                     <div class="xp-card-body">
-                        <div class="xp-card-meta">{{ .Date.Format "02 Jan 2006" }} • {{ .ReadingTime }} min de leitura</div>
+                        <div class="xp-card-meta">{{ .Date.Format "02 Jan 2006" }} • {{ .ReadingTime }} min</div>
                         <h3 class="xp-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                        <div class="xp-card-footer">
-                            <div class="xp-author">
-                                <img src="https://ui-avatars.com/api/?name=Geode&background=0f172a&color=fff&size=32" alt="Author">
-                            </div>
-                        </div>
                     </div>
                 </article>
                 {{ end }}
@@ -132,7 +161,7 @@
         <div class="category-section">
             <div class="category-header">
                 <h3 class="category-title">Atendimento & Chatbots</h3>
-                <a href="{{ "atendimento" | absLangURL }}" class="category-link">Ver tudo &rarr;</a>
+                <a href="{{ "atendimento" | absLangURL }}" class="category-link">Ver tudo →</a>
             </div>
             <div class="grid-4-col">
                 {{ range first 4 (where .Site.RegularPages "Section" "atendimento") }}
@@ -148,13 +177,8 @@
                         <span class="xp-card-tag">Atendimento</span>
                     </div>
                     <div class="xp-card-body">
-                        <div class="xp-card-meta">{{ .Date.Format "02 Jan 2006" }} • {{ .ReadingTime }} min de leitura</div>
+                        <div class="xp-card-meta">{{ .Date.Format "02 Jan 2006" }} • {{ .ReadingTime }} min</div>
                         <h3 class="xp-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                        <div class="xp-card-footer">
-                            <div class="xp-author">
-                                <img src="https://ui-avatars.com/api/?name=Geode&background=0f172a&color=fff&size=32" alt="Author">
-                            </div>
-                        </div>
                     </div>
                 </article>
                 {{ end }}
@@ -165,7 +189,7 @@
         <div class="category-section">
             <div class="category-header">
                 <h3 class="category-title">Marketing & Growth</h3>
-                <a href="{{ "marketing" | absLangURL }}" class="category-link">Ver tudo &rarr;</a>
+                <a href="{{ "marketing" | absLangURL }}" class="category-link">Ver tudo →</a>
             </div>
             <div class="grid-4-col">
                 {{ range first 4 (where .Site.RegularPages "Section" "marketing") }}
@@ -181,13 +205,8 @@
                         <span class="xp-card-tag">Marketing</span>
                     </div>
                     <div class="xp-card-body">
-                        <div class="xp-card-meta">{{ .Date.Format "02 Jan 2006" }} • {{ .ReadingTime }} min de leitura</div>
+                        <div class="xp-card-meta">{{ .Date.Format "02 Jan 2006" }} • {{ .ReadingTime }} min</div>
                         <h3 class="xp-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                        <div class="xp-card-footer">
-                            <div class="xp-author">
-                                <img src="https://ui-avatars.com/api/?name=Geode&background=0f172a&color=fff&size=32" alt="Author">
-                            </div>
-                        </div>
                     </div>
                 </article>
                 {{ end }}
@@ -195,5 +214,6 @@
         </div>
 
     </div>
+</div>
 </div>
 {{ end }}

@@ -7,7 +7,7 @@ tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/trello.png"
     alt: "Trello logo"
     caption: ""
     relative: false

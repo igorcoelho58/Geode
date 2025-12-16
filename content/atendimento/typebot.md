@@ -7,7 +7,7 @@ tags: ["Atendimento", "IA", "Software"]
 categories: ["Atendimento"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/typebot.png"
     alt: "Typebot logo"
     caption: ""
     relative: false

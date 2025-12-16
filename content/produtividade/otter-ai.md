@@ -7,7 +7,7 @@ tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/otter.png"
     alt: "Otter.ai logo"
     caption: ""
     relative: false

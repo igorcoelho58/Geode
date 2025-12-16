@@ -7,7 +7,7 @@ tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/gamma.png"
     alt: "Gamma App logo"
     caption: ""
     relative: false

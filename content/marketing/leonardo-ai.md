@@ -7,7 +7,7 @@ tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/leonardo.png"
     alt: "Leonardo.ai logo"
     caption: ""
     relative: false

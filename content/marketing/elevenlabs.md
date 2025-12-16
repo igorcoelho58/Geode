@@ -7,7 +7,7 @@ tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/elevenlabs.png"
     alt: "ElevenLabs logo"
     caption: ""
     relative: false

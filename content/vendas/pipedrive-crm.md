@@ -7,7 +7,7 @@ tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/pipedrive.png"
     alt: "Pipedrive logo"
     caption: ""
     relative: false

@@ -7,7 +7,7 @@ tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/hubspot.png"
     alt: "HubSpot CRM logo"
     caption: ""
     relative: false

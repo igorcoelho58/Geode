@@ -7,7 +7,7 @@ tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/bitrix24.png"
     alt: "Bitrix24 logo"
     caption: ""
     relative: false

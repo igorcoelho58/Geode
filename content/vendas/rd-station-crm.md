@@ -7,7 +7,7 @@ tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
 cover:
-    image: ""
+    image: "/logos/rdstation.png"
     alt: "RD Station CRM logo"
     caption: ""
     relative: false
