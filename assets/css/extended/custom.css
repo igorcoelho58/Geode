@@ -293,7 +293,7 @@ body {
 .portal-main {
     display: flex;
     flex-direction: column;
-    gap: 3rem;
+    gap: 2rem; /* Distância entre Hero e Últimas Análises */
     overflow: visible;
 }
 
@@ -331,6 +331,7 @@ body {
     opacity: 0;
     transition: opacity 0.5s ease;
     box-sizing: border-box;
+    height: 520px; /* Altura fixa do slide alinhada com sidebar */
 }
 
 .hero-slide.active {
@@ -374,20 +375,25 @@ body {
     right: 10px;
 }
 
-/* Controles do Carrossel */
+/* Controles do Carrossel - Posicionados dentro do card Hero */
 .carousel-controls {
+    position: absolute; /* Dentro do hero-carousel-container */
+    bottom: 1.5rem; /* 24px do fundo do card */
+    left: 0;
+    right: 0;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 1rem;
-    margin-top: 1.5rem;
+    z-index: 10;
+    pointer-events: none; /* Permite cliques apenas nos botões */
 }
 
 .carousel-play-pause {
-    background: rgba(0, 0, 0, 0.05);
-    border: 2px solid #cbd5e1;
-    width: 36px;
-    height: 36px;
+    background: rgba(255, 255, 255, 0.25); /* Fundo branco transparente */
+    border: none; /* Sem borda - ícone simples */
+    width: 32px;
+    height: 32px;
     border-radius: 50%;
     cursor: pointer;
     display: flex;
@@ -395,23 +401,29 @@ body {
     justify-content: center;
     transition: all 0.3s ease;
     padding: 0;
+    position: absolute; /* Posicionado no canto inferior direito */
+    right: 1.5rem; /* 24px da direita */
+    bottom: 0; /* Alinhado com indicadores */
+    pointer-events: all; /* Permite cliques */
 }
 
 .carousel-play-pause:hover {
-    background: rgba(0, 0, 0, 0.08);
-    border-color: var(--brand);
+    background: rgba(255, 255, 255, 0.35);
     transform: scale(1.1);
 }
 
 .carousel-play-pause svg {
-    fill: #1a1a1a;
+    fill: white;
+    width: 16px;
+    height: 16px;
 }
 
-/* Indicadores */
+/* Indicadores - Centralizados na parte inferior do card */
 .carousel-indicators {
     display: flex;
-    justify-content: center;
+    justify-content: center; /* Centralizados horizontalmente */
     gap: 10px;
+    pointer-events: all; /* Permite cliques */
 }
 
 .indicator-dot {
@@ -419,7 +431,7 @@ body {
     height: 10px;
     border-radius: 50%;
     border: none;
-    background: #cbd5e1;
+    background: rgba(255, 255, 255, 0.4); /* Branco transparente para contraste no fundo roxo */
     cursor: pointer;
     transition: all 0.3s ease;
     padding: 0;
@@ -428,13 +440,13 @@ body {
 }
 
 .indicator-dot:hover {
-    background: #94a3b8;
+    background: rgba(255, 255, 255, 0.6); /* Mais opaco no hover */
     transform: scale(1.2);
 }
 
 .indicator-dot.active {
-    background: #e2e8f0;
-    width: 32px;
+    background: rgba(255, 255, 255, 0.5); /* Indicador ativo */
+    width: 32px; /* Expandido horizontalmente */
     border-radius: 5px;
 }
 
@@ -458,11 +470,11 @@ body {
     gap: 3rem;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     border-radius: 20px;
-    padding: 3.5rem;
+    padding: 2.5rem; /* Reduzido para comportar conteúdo sem cortes */
     color: white;
     position: relative;
-    overflow: hidden;
-    min-height: 420px;
+    overflow: hidden; /* Esconde sombra irregular e mantém centralização */
+    height: 520px; /* Altura fixa alinhada com Análises Mais Lidas */
     box-shadow: 0 20px 40px -12px rgba(102, 126, 234, 0.4);
     width: 100%;
     box-sizing: border-box;
@@ -483,11 +495,10 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 1.25rem;
+    gap: 1rem; /* Espaçamento compacto entre elementos internos */
     position: relative;
     z-index: 1;
-    max-width: 100%;
-    overflow: hidden;
+    max-width: 100%; /* Sem overflow hidden - permite badge e botão aparecerem */
 }
 
 .hero-badge {
@@ -1398,7 +1409,7 @@ footer {
     font-weight: 700;
     color: var(--text-color);
     margin-bottom: 1.5rem;
-    margin-top: 2rem;
+    margin-top: 0; /* Remove espaço duplicado - gap do portal-main já define distância */
 }
 
 .ultimas-lista-expert {
