@@ -1,71 +1,141 @@
 {{ define "main" }}
 <!-- Hero Background Section - Full Viewport -->
 <div class="hero-background-section">
+    <!-- Carrossel de Frases Motivacionais -->
+    <section class="quotes-carousel">
+        <div class="quote-container">
+            <div class="quote-content">
+                <span class="quote-mark">"</span>
+                <p class="quote-text"></p>
+                <span class="quote-mark">"</span>
+            </div>
+            <div class="quote-author">
+                <span class="author-name"></span>
+                <span class="author-role"></span>
+            </div>
+        </div>
+    </section>
+
     <div class="main-container">
         <div class="portal-grid">
             <!-- Main Column (65%) -->
             <div class="portal-main">
                 
-                <!-- Hero Section: Full Width Card with Gradient -->
-                {{ $featured := first 1 (where .Site.RegularPages "Title" "ActiveCampaign") }}
-                {{ if not $featured }}
-                    {{ $featured = first 1 .Site.RegularPages }}
-                {{ end }}
-                
-                {{ range $featured }}
-                <div class="hero-card">
-                    <div class="hero-content">
-                        <span class="hero-badge">Destaque da Semana</span>
-                        <h1 class="hero-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-                        <p class="hero-description">{{ .Description | default (.Summary | truncate 180) }}</p>
-                        <ul class="hero-features">
-                            <li><span class="check-icon">✓</span> Automação avançada de marketing</li>
-                            <li><span class="check-icon">✓</span> CRM integrado e poderoso</li>
-                            <li><span class="check-icon">✓</span> Interface intuitiva e moderna</li>
-                        </ul>
-                        <a href="{{ .Permalink }}" class="hero-cta">Ler Análise Completa →</a>
+                <!-- Hero Carousel: Destaques da Semana -->
+                <div class="hero-carousel-wrapper">
+                    <button class="carousel-nav carousel-prev" aria-label="Anterior">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M15 18l-6-6 6-6"/>
+                        </svg>
+                    </button>
+                    
+                    <div class="hero-carousel-container">
+                        <div class="hero-carousel-track">
+                            {{ $featuredTools := slice "ActiveCampaign" "HubSpot CRM" "Monday.com" "Pipedrive CRM" "Notion" }}
+                            {{ $slideIndex := 0 }}
+                            {{ range $index, $toolName := $featuredTools }}
+                                {{ $tool := first 1 (where $.Site.RegularPages "Title" $toolName) }}
+                                {{ if $tool }}
+                                    {{ range $tool }}
+                                    <div class="hero-slide {{ if eq $slideIndex 0 }}active{{ end }}" data-slide="{{ $slideIndex }}">
+                                        <div class="hero-card">
+                                            <div class="hero-content">
+                                                <span class="hero-badge">Destaque da Semana</span>
+                                                <h1 class="hero-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+                                                <p class="hero-description">{{ .Description | default (.Summary | truncate 180) }}</p>
+                                                <ul class="hero-features">
+                                                    {{ if eq .Title "ActiveCampaign" }}
+                                                        <li><span class="check-icon">✓</span> Automação avançada de marketing</li>
+                                                        <li><span class="check-icon">✓</span> CRM integrado e poderoso</li>
+                                                        <li><span class="check-icon">✓</span> Interface intuitiva e moderna</li>
+                                                    {{ else if eq .Title "HubSpot CRM" }}
+                                                        <li><span class="check-icon">✓</span> CRM gratuito completo</li>
+                                                        <li><span class="check-icon">✓</span> Integração com marketing</li>
+                                                        <li><span class="check-icon">✓</span> Automação de vendas</li>
+                                                    {{ else if eq .Title "Monday.com" }}
+                                                        <li><span class="check-icon">✓</span> Gestão visual de projetos</li>
+                                                        <li><span class="check-icon">✓</span> Automações poderosas</li>
+                                                        <li><span class="check-icon">✓</span> Colaboração em equipe</li>
+                                                    {{ else if eq .Title "Pipedrive CRM" }}
+                                                        <li><span class="check-icon">✓</span> Pipeline visual de vendas</li>
+                                                        <li><span class="check-icon">✓</span> Fácil de usar</li>
+                                                        <li><span class="check-icon">✓</span> Relatórios detalhados</li>
+                                                    {{ else if eq .Title "Notion" }}
+                                                        <li><span class="check-icon">✓</span> Workspace all-in-one</li>
+                                                        <li><span class="check-icon">✓</span> Documentação colaborativa</li>
+                                                        <li><span class="check-icon">✓</span> Bancos de dados flexíveis</li>
+                                                    {{ else }}
+                                                        <li><span class="check-icon">✓</span> Ferramenta completa</li>
+                                                        <li><span class="check-icon">✓</span> Fácil implementação</li>
+                                                        <li><span class="check-icon">✓</span> Suporte dedicado</li>
+                                                    {{ end }}
+                                                </ul>
+                                                <a href="{{ .Permalink }}" class="hero-cta">Ler Análise Completa →</a>
+                                            </div>
+                                            <div class="hero-visual">
+                                                {{- if .Params.cover.image -}}
+                                                <img loading="lazy" src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" class="hero-image">
+                                                {{- else -}}
+                                                <div class="hero-placeholder-icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M18.7 8l-5.1 5.2-2.8-2.7L7 14.3"/></svg>
+                                                </div>
+                                                {{- end -}}
+                                            </div>
+                                        </div>
+                                    </div>
+                                    {{ $slideIndex = add $slideIndex 1 }}
+                                    {{ end }}
+                                {{ end }}
+                            {{ end }}
+                        </div>
                     </div>
-                    <div class="hero-visual">
-                        {{- if .Params.cover.image -}}
-                        <img loading="lazy" src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" class="hero-image">
-                        {{- else -}}
-                        <div class="hero-placeholder-icon">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M18.7 8l-5.1 5.2-2.8-2.7L7 14.3"/></svg>
+                    
+                    <button class="carousel-nav carousel-next" aria-label="Próximo">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M9 18l6-6-6-6"/>
+                        </svg>
+                    </button>
+                    
+                    <div class="carousel-controls">
+                        <button class="carousel-play-pause" aria-label="Pausar">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M6 4h4v16H6V4zm8 0h4v16h-4V4z"/>
+                            </svg>
+                        </button>
+                        
+                        <div class="carousel-indicators">
+                            {{ $slideCount := 0 }}
+                            {{ range $index, $toolName := $featuredTools }}
+                                {{ $tool := first 1 (where $.Site.RegularPages "Title" $toolName) }}
+                                {{ if $tool }}
+                            <button class="indicator-dot {{ if eq $slideCount 0 }}active{{ end }}" data-slide="{{ $slideCount }}" aria-label="Ir para slide {{ add $slideCount 1 }}">
+                                <span class="progress-bar"></span>
+                            </button>
+                                    {{ $slideCount = add $slideCount 1 }}
+                                {{ end }}
+                            {{ end }}
+                        </div>
                     </div>
-                    {{- end -}}
                 </div>
-            </div>
-            {{ end }}
 
-            <!-- Secondary Features (Produtividade) -->
-            <div class="secondary-features">
-                <h4 class="section-label">Produtividade em Foco</h4>
-                <div class="grid-3-col">
-                    {{ range first 3 (where .Site.RegularPages "Section" "produtividade") }}
-                    <article class="mini-feature-card">
-                        <div class="mini-feature-image">
-                            {{- if .Params.cover.image -}}
-                            <img loading="lazy" src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}">
-                            {{- else -}}
-                            <div class="mini-feature-placeholder">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line></svg>
-                            </div>
-                            {{- end -}}
-                        </div>
-                        <div class="mini-feature-content">
-                            <span class="mini-feature-tag">Produtividade</span>
-                            <h3 class="mini-feature-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                        </div>
-                    </article>
+            <!-- Últimas Análises (Estilo Aprimorado) -->
+            <div class="ultimas-analises-lista">
+                <h3 class="ultimas-titulo">Últimas Análises</h3>
+                <div class="ultimas-lista-expert">
+                    {{ range first 6 .Site.RegularPages }}
+                    <div class="ultimas-item">
+                        <div class="ultimas-traço"></div>
+                        <a href="{{ .Permalink }}" class="ultimas-link">
+                            <span class="ultimas-hook">{{ .Description | default (.Summary | truncate 80) }}</span>
+                        </a>
+                    </div>
                     {{ end }}
                 </div>
             </div>
-
         </div>
 
         <!-- Sidebar (35%) -->
         <aside class="portal-sidebar">
-            
             <!-- Widget: Mais Lidos -->
             <div class="sidebar-widget mais-lidos-widget">
                 <h3 class="widget-title"><span class="fire-icon">🏆</span> Análises Mais Lidas</h3>
@@ -90,34 +160,9 @@
                     {{ end }}
                 </div>
             </div>
-
-            <!-- Widget: Últimas Análises -->
-            <div class="sidebar-widget ultimas-widget">
-                <h3 class="widget-title"><span class="chart-icon">📊</span> Últimas Análises</h3>
-                <div class="analises-list">
-                    {{ range first 5 .Site.RegularPages }}
-                    <a href="{{ .Permalink }}" class="analise-card">
-                        <div class="analise-header">
-                            <div class="analise-icon">
-                                {{- if .Params.cover.image -}}
-                                <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}">
-                                {{- else -}}
-                                <span class="analise-initial">{{ substr .Title 0 2 | upper }}</span>
-                                {{- end -}}
-                            </div>
-                            {{ if eq (.Date.Format "2006-01-02") (now.Format "2006-01-02") }}
-                            <span class="analise-badge novo">Novo</span>
-                            {{ end }}
-                        </div>
-                        <h4 class="analise-title">{{ .Title }}</h4>
-                        <p class="analise-desc">{{ .Description | default (.Summary | truncate 70) }}</p>
-                        <span class="analise-meta">📖 {{ .ReadingTime }} min de leitura</span>
-                    </a>
-                    {{ end }}
-                </div>
-            </div>
-
         </aside>
+
+        </div>
     </div>
 </div>
 </div>
@@ -216,4 +261,9 @@
     </div>
 </div>
 </div>
+
+<!-- Script do Carrossel de Frases -->
+<script src="/js/quotes-carousel.js"></script>
+<!-- Script do Hero Carousel -->
+<script src="/js/hero-carousel.js"></script>
 {{ end }}
