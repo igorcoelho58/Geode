@@ -2217,3 +2217,1959 @@ footer {
     }
 }
 
+
+/* ===================================
+   LAYOUT G1 - Tool Review Page
+   =================================== */
+
+/* Share Buttons - Topo da página */
+.share-section-top {
+    background: #f8f9fa;
+    border-top: 1px solid #e5e7eb;
+    border-bottom: 1px solid #e5e7eb;
+    padding: 16px 20px;
+    margin: 24px 0;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.share-label {
+    font-weight: 600;
+    color: #374151;
+    font-size: 0.95rem;
+}
+
+.share-buttons-horizontal {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.share-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.2s;
+    border: 1px solid transparent;
+}
+
+.share-btn svg {
+    width: 18px;
+    height: 18px;
+}
+
+.share-facebook {
+    background-color: #1877f2;
+    color: white;
+}
+
+.share-facebook:hover {
+    background-color: #166fe5;
+    transform: translateY(-1px);
+}
+
+.share-twitter {
+    background-color: #1da1f2;
+    color: white;
+}
+
+.share-twitter:hover {
+    background-color: #1a94da;
+    transform: translateY(-1px);
+}
+
+.share-linkedin {
+    background-color: #0077b5;
+    color: white;
+}
+
+.share-linkedin:hover {
+    background-color: #006399;
+    transform: translateY(-1px);
+}
+
+.share-whatsapp {
+    background-color: #25d366;
+    color: white;
+}
+
+.share-whatsapp:hover {
+    background-color: #22c55e;
+    transform: translateY(-1px);
+}
+
+/* Ad Containers */
+.ad-container {
+    margin: 32px 0;
+    text-align: center;
+}
+
+.ad-label {
+    display: block;
+    font-size: 0.75rem;
+    color: #9ca3af;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 8px;
+}
+
+.ad-placeholder {
+    background: #ffffff;
+    border: 1px dashed #e5e7eb;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.ad-horizontal .ad-placeholder {
+    max-width: 728px;
+    margin: 0 auto;
+}
+
+.ad-vertical .ad-placeholder {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+/* Ferramentas Relacionadas - Similar ao "SAIBA TAMBÉM" do G1 */
+.related-tools-section {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 32px;
+    margin: 48px 0;
+}
+
+.section-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #111827;
+    margin: 0 0 24px 0;
+    padding-bottom: 12px;
+    border-bottom: 3px solid var(--brand);
+    display: inline-block;
+}
+
+.related-tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 24px;
+}
+
+.related-tool-card {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.related-tool-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.related-tool-logo {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f9fafb;
+    border-radius: 6px;
+    padding: 8px;
+}
+
+.related-tool-logo img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.related-tool-content h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 0;
+}
+
+.related-tool-content h3 a {
+    color: #111827;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.related-tool-content h3 a:hover {
+    color: var(--brand);
+}
+
+.related-tool-excerpt {
+    font-size: 0.9rem;
+    color: #6b7280;
+    line-height: 1.5;
+    margin: 8px 0;
+}
+
+.related-tool-link {
+    color: var(--tech-blue);
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.related-tool-link:hover {
+    color: var(--brand);
+}
+
+/* FAQ Section */
+.faq-section {
+    margin: 48px 0;
+}
+
+.faq-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.faq-item {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all 0.2s;
+}
+
+.faq-item:hover {
+    border-color: var(--brand);
+}
+
+.faq-question {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #111827;
+    padding: 18px 20px;
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f9fafb;
+    transition: background 0.2s;
+}
+
+.faq-question::-webkit-details-marker {
+    display: none;
+}
+
+.faq-question::after {
+    content: '+';
+    font-size: 1.5rem;
+    color: var(--brand);
+    font-weight: 400;
+    transition: transform 0.3s;
+}
+
+.faq-item[open] .faq-question::after {
+    transform: rotate(45deg);
+}
+
+.faq-question:hover {
+    background: #f3f4f6;
+}
+
+.faq-answer {
+    padding: 20px;
+    color: #4b5563;
+    line-height: 1.7;
+    font-size: 0.95rem;
+    border-top: 1px solid #e5e7eb;
+}
+
+/* Widget Análises Mais Lidas */
+.most-read-widget {
+    background: white;
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+    margin: 48px 0;
+}
+
+.most-read-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    counter-reset: ranking;
+}
+
+.most-read-item {
+    counter-increment: ranking;
+    position: relative;
+    padding: 16px 0 16px 50px;
+    border-bottom: 1px solid #f3f4f6;
+}
+
+.most-read-item:last-child {
+    border-bottom: none;
+}
+
+.most-read-item::before {
+    content: counter(ranking);
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 36px;
+    height: 36px;
+    background: var(--brand);
+    color: #0f172a;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+
+.most-read-item a {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    text-decoration: none;
+    color: #111827;
+    transition: color 0.2s;
+}
+
+.most-read-item a:hover {
+    color: var(--brand);
+}
+
+.most-read-logo {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+.most-read-title {
+    font-size: 0.95rem;
+    font-weight: 500;
+    line-height: 1.4;
+}
+
+/* Mais Análises - Similar ao "Mais do G1" */
+.more-reviews-section {
+    margin: 48px 0;
+    padding-top: 32px;
+    border-top: 2px solid #e5e7eb;
+}
+
+.more-reviews-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 20px;
+    margin-top: 24px;
+}
+
+.more-review-card {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    transition: all 0.3s;
+}
+
+.more-review-card:hover {
+    border-color: var(--brand);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.more-review-logo {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+
+.more-review-logo img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.more-review-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin: 0;
+}
+
+.more-review-title a {
+    color: #111827;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.more-review-title a:hover {
+    color: var(--brand);
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .share-section-top {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+    }
+    
+    .share-buttons-horizontal {
+        width: 100%;
+    }
+    
+    .share-btn {
+        flex: 1;
+        justify-content: center;
+        min-width: 120px;
+    }
+    
+    .related-tools-grid,
+    .more-reviews-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .ad-horizontal .ad-placeholder,
+    .ad-vertical .ad-placeholder {
+        max-width: 100%;
+    }
+}
+
+/* Forçar remoção de qualquer fundo azul após a seção de análises */
+.more-reviews-section {
+    background: transparent !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 48px !important;
+}
+
+.more-reviews-section + * {
+    background: transparent !important;
+}
+
+.post-single > footer,
+.post-footer,
+article > footer {
+    background: transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    min-height: 0 !important;
+}
+
+/* Mais Análises - Estilo G1 Lista Vertical */
+.more-reviews-list {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-top: 24px;
+    max-width: 900px;
+}
+
+.more-review-item {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 20px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.more-review-item:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.more-review-thumbnail {
+    width: 200px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 8px;
+    flex-shrink: 0;
+}
+
+.more-review-thumbnail a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.more-review-thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+}
+
+.more-review-thumbnail:hover img {
+    transform: scale(1.05);
+}
+
+.more-review-content {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.more-review-headline {
+    margin: 0;
+    font-size: 1.35rem;
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+.more-review-headline a {
+    color: #c9252d;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.more-review-headline a:hover {
+    color: #a01d23;
+    text-decoration: underline;
+}
+
+.more-review-excerpt {
+    color: #4b5563;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    .more-review-item {
+        grid-template-columns: 120px 1fr;
+        gap: 16px;
+    }
+    
+    .more-review-thumbnail {
+        width: 120px;
+        height: 90px;
+    }
+    
+    .more-review-headline {
+        font-size: 1.1rem;
+    }
+    
+    .more-review-excerpt {
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .more-review-item {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+    
+    .more-review-thumbnail {
+        width: 100%;
+        height: 200px;
+    }
+}
+
+/* ===================================
+   MAIS ANÁLISES - LISTA VERTICAL G1
+   =================================== */
+
+/* Container principal - limpo e sem margens excessivas */
+.related-news-container {
+    max-width: 900px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Item da lista - Flexbox horizontal */
+.related-news-item {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 15px 0;
+    border-bottom: 1px solid #e5e7eb;
+    text-decoration: none;
+    transition: background-color 0.2s;
+}
+
+.related-news-item:hover {
+    background-color: #f9fafb;
+}
+
+.related-news-item:last-child {
+    border-bottom: none;
+}
+
+/* Bloco Esquerda - Imagem/Thumbnail */
+.related-news-thumb {
+    flex: 0 0 120px;
+    width: 120px;
+    height: 90px;
+    margin-right: 15px;
+    background-color: #ddd;
+    border-radius: 4px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.related-news-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.thumb-placeholder {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #e5e7eb 0%, #d1d5db 100%);
+}
+
+/* Bloco Direita - Conteúdo */
+.related-news-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Título - Bold e cor de destaque */
+.related-news-title {
+    margin: 0 0 5px 0;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: #1e40af;
+}
+
+.related-news-item:hover .related-news-title {
+    color: var(--brand);
+    text-decoration: underline;
+}
+
+/* Subtítulo/Frase de Chamada - Cinza */
+.related-news-subtitle {
+    margin: 0;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    color: #6b7280;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    .related-news-thumb {
+        flex: 0 0 100px;
+        width: 100px;
+        height: 75px;
+        margin-right: 12px;
+    }
+    
+    .related-news-title {
+        font-size: 0.95rem;
+    }
+    
+    .related-news-subtitle {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .related-news-item {
+        padding: 12px 0;
+    }
+    
+    .related-news-thumb {
+        flex: 0 0 80px;
+        width: 80px;
+        height: 60px;
+        margin-right: 10px;
+    }
+    
+    .related-news-title {
+        font-size: 0.9rem;
+    }
+}
+
+/* ===================================
+   MAIS ANÁLISES - LISTA VERTICAL G1
+   =================================== */
+
+/* Container principal - limpo e sem margens excessivas */
+.related-news-container {
+    max-width: 900px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Item da lista - Flexbox horizontal */
+.related-news-item {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 15px 0;
+    border-bottom: 1px solid #e5e7eb;
+    text-decoration: none;
+    transition: background-color 0.2s;
+}
+
+.related-news-item:hover {
+    background-color: #f9fafb;
+}
+
+.related-news-item:last-child {
+    border-bottom: none;
+}
+
+/* Bloco Esquerda - Imagem/Thumbnail */
+.related-news-thumb {
+    flex: 0 0 120px;
+    width: 120px;
+    height: 90px;
+    margin-right: 15px;
+    background-color: #ddd;
+    border-radius: 4px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.related-news-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.thumb-placeholder {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #e5e7eb 0%, #d1d5db 100%);
+}
+
+/* Bloco Direita - Conteúdo */
+.related-news-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Título - Bold e cor de destaque */
+.related-news-title {
+    margin: 0 0 5px 0;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: #1e40af;
+}
+
+.related-news-item:hover .related-news-title {
+    color: var(--brand);
+    text-decoration: underline;
+}
+
+/* Subtítulo/Frase de Chamada - Cinza */
+.related-news-subtitle {
+    margin: 0;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    color: #6b7280;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    .related-news-thumb {
+        flex: 0 0 100px;
+        width: 100px;
+        height: 75px;
+        margin-right: 12px;
+    }
+    
+    .related-news-title {
+        font-size: 0.95rem;
+    }
+    
+    .related-news-subtitle {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .related-news-item {
+        padding: 12px 0;
+    }
+    
+    .related-news-thumb {
+        flex: 0 0 80px;
+        width: 80px;
+        height: 60px;
+        margin-right: 10px;
+    }
+    
+    .related-news-title {
+        font-size: 0.9rem;
+    }
+}
+
+/* Ajuste no hover - Efeito mais sutil */
+.related-news-item {
+    padding: 15px 0;
+    border-bottom: 1px solid #e5e7eb;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.related-news-item:hover {
+    background-color: transparent !important;
+    padding-left: 8px;
+}
+
+.related-news-title {
+    margin: 0 0 5px 0;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: #1e40af;
+    transition: color 0.2s ease;
+}
+
+.related-news-item:hover .related-news-title {
+    color: var(--tech-blue) !important;
+    text-decoration: none !important;
+}
+
+.related-news-thumb {
+    transition: opacity 0.2s ease;
+}
+
+.related-news-item:hover .related-news-thumb {
+    opacity: 0.9;
+}
+
+/* ===================================
+   ANÁLISES MAIS LIDAS - LISTA COMPACTA
+   =================================== */
+
+/* Container principal */
+.most-read-container {
+    margin: 40px 0;
+    padding: 20px;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+}
+
+/* Rótulo da seção */
+.most-read-label {
+    margin: 0 0 16px 0;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #6b7280;
+    text-transform: uppercase;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #f3f4f6;
+}
+
+/* Lista de itens */
+.most-read-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+/* Item individual - Flexbox horizontal */
+.most-read-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 0;
+    border-bottom: 1px solid #f3f4f6;
+    text-decoration: none;
+    transition: background-color 0.2s ease;
+}
+
+.most-read-item:last-child {
+    border-bottom: none;
+}
+
+.most-read-item:hover {
+    background-color: #f9fafb;
+}
+
+/* Ícone/Thumbnail quadrado */
+.most-read-icon {
+    flex: 0 0 60px;
+    width: 60px;
+    height: 60px;
+    border-radius: 8px;
+    margin-right: 15px;
+    background-color: #e5e7eb;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.most-read-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: 8px;
+}
+
+.icon-placeholder {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #e5e7eb 0%, #d1d5db 100%);
+}
+
+/* Conteúdo de texto */
+.most-read-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+}
+
+/* Título do item */
+.most-read-title {
+    margin: 0 0 4px 0;
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    line-height: 1.2;
+}
+
+.most-read-item:hover .most-read-title {
+    color: var(--tech-blue);
+}
+
+/* Snippet/Resumo */
+.most-read-snippet {
+    margin: 0;
+    font-size: 0.8rem;
+    color: #6b7280;
+    line-height: 1.3;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    .most-read-container {
+        padding: 16px;
+    }
+    
+    .most-read-icon {
+        flex: 0 0 50px;
+        width: 50px;
+        height: 50px;
+        margin-right: 12px;
+    }
+    
+    .most-read-title {
+        font-size: 0.9rem;
+    }
+    
+    .most-read-snippet {
+        font-size: 0.75rem;
+    }
+}
+
+/* Refinamento - Análises Mais Lidas (Sem caixa) */
+.most-read-container {
+    margin: 40px 0;
+    padding: 0;
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.most-read-label {
+    margin: 0 0 20px 0;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    text-transform: none;
+    letter-spacing: 0;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #e5e7eb;
+}
+
+.most-read-icon {
+    flex: 0 0 50px !important;
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 6px;
+    margin-right: 15px;
+    background-color: #f3f4f6;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.most-read-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: 6px;
+}
+
+.most-read-item {
+    padding: 14px 0;
+    border-bottom: 1px solid #f3f4f6;
+}
+
+.most-read-item:last-child {
+    border-bottom: none;
+}
+
+.most-read-item:hover {
+    background-color: transparent;
+    padding-left: 4px;
+}
+
+/* Ajustes finais - Mais Lidas */
+
+/* Número do ranking */
+.most-read-rank {
+    flex: 0 0 28px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--brand);
+    margin-right: 12px;
+}
+
+/* Ajuste no item para incluir o ranking */
+.most-read-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 14px 0;
+    border-bottom: 1px solid #f3f4f6;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+/* Hover sutil igual ao "Mais Análises" */
+.most-read-item:hover {
+    background-color: transparent;
+    padding-left: 8px;
+}
+
+.most-read-item:hover .most-read-title {
+    color: var(--tech-blue);
+}
+
+.most-read-item:hover .most-read-icon {
+    opacity: 0.9;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    .most-read-rank {
+        flex: 0 0 24px;
+        font-size: 1rem;
+        margin-right: 10px;
+    }
+}
+
+/* Centralização das seções "Mais lidas" e "Mais Análises" */
+.most-read-container,
+.more-reviews-section {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.most-read-container {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.more-reviews-section {
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+
+/* Responsivo - Full width em mobile */
+@media (max-width: 768px) {
+    .most-read-container,
+    .more-reviews-section {
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+/* ===================================
+   NEWSLETTER CTA BOX - DENTRO DO ARTIGO
+   =================================== */
+
+.newsletter-cta-box {
+    max-width: 800px;
+    margin: 48px auto;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 16px;
+    padding: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 24px;
+    box-shadow: 0 8px 24px rgba(102, 126, 234, 0.2);
+}
+
+.newsletter-cta-icon {
+    flex: 0 0 64px;
+    width: 64px;
+    height: 64px;
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.newsletter-cta-icon svg {
+    color: white;
+}
+
+.newsletter-cta-content {
+    flex: 1;
+}
+
+.newsletter-cta-title {
+    margin: 0 0 8px 0;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: white;
+    line-height: 1.2;
+}
+
+.newsletter-cta-text {
+    margin: 0;
+    font-size: 0.95rem;
+    color: rgba(255, 255, 255, 0.95);
+    line-height: 1.5;
+}
+
+.newsletter-cta-button {
+    flex: 0 0 auto;
+    background-color: var(--brand);
+    color: #0f172a;
+    border: none;
+    padding: 14px 28px;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.2s;
+    white-space: nowrap;
+}
+
+.newsletter-cta-button:hover {
+    background-color: var(--brand-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(212, 175, 55, 0.3);
+}
+
+.newsletter-cta-button svg {
+    transition: transform 0.2s;
+}
+
+.newsletter-cta-button:hover svg {
+    transform: translateX(4px);
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    .newsletter-cta-box {
+        flex-direction: column;
+        text-align: center;
+        padding: 24px;
+        gap: 20px;
+    }
+    
+    .newsletter-cta-icon {
+        flex: 0 0 56px;
+        width: 56px;
+        height: 56px;
+    }
+    
+    .newsletter-cta-title {
+        font-size: 1.2rem;
+    }
+    
+    .newsletter-cta-text {
+        font-size: 0.9rem;
+    }
+    
+    .newsletter-cta-button {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+/* ========================================
+   1️⃣ REFINAMENTO DO HEADER DA PÁGINA
+   ======================================== */
+
+.article-header {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 3rem 2rem 2rem;
+  text-align: center;
+}
+
+.article-logo-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.article-logo {
+  width: 120px !important;
+  height: 120px !important;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+  object-fit: contain;
+  background: white;
+  padding: 8px;
+  transition: transform 0.3s ease;
+}
+
+.article-logo:hover {
+  transform: scale(1.05);
+}
+
+.article-header .post-title {
+  font-size: 2.25rem;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+  color: var(--gray-900, #1a1a1a);
+}
+
+.article-header .post-description {
+  font-size: 1.2rem;
+  color: var(--gray-700, #4a4a4a);
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  font-weight: 400;
+}
+
+.article-meta {
+  color: var(--gray-600, #666);
+  font-size: 0.95rem !important;
+  margin-top: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.article-meta svg {
+  width: 16px;
+  height: 16px;
+  opacity: 0.7;
+}
+
+/* ========================================
+   2️⃣ VEREDITO BOX (Destaque Editorial)
+   ======================================== */
+
+.verdict-box {
+  background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+  border-left: 5px solid var(--primary, #D4AF37);
+  border-radius: 12px;
+  padding: 2rem 2rem 1.75rem;
+  margin: 2.5rem auto;
+  max-width: 800px;
+  position: relative;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+}
+
+.verdict-box::before {
+  content: '✓';
+  position: absolute;
+  top: -14px;
+  left: 2rem;
+  background: var(--primary, #D4AF37);
+  color: var(--dark, #1a1a1a);
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1.3rem;
+  box-shadow: 0 2px 8px rgba(212, 175, 55, 0.4);
+}
+
+.verdict-label {
+  font-weight: 700;
+  color: var(--gray-900, #1a1a1a);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  margin-bottom: 0.75rem;
+  display: block;
+}
+
+.verdict-text {
+  font-size: 1.1rem;
+  color: var(--gray-800, #2a2a2a);
+  line-height: 1.7;
+  margin: 0;
+}
+
+/* ========================================
+   3️⃣ SEÇÕES DE CONTEÚDO
+   ======================================== */
+
+.article-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--gray-800, #2a2a2a);
+}
+
+.article-content h2 {
+  font-size: 1.85rem;
+  font-weight: 700;
+  margin: 3rem 0 1.25rem;
+  color: var(--gray-900, #1a1a1a);
+  border-bottom: 3px solid var(--primary, #D4AF37);
+  padding-bottom: 0.75rem;
+}
+
+.article-content h3 {
+  font-size: 1.45rem;
+  font-weight: 600;
+  margin: 2.5rem 0 1rem;
+  color: var(--gray-900, #1a1a1a);
+}
+
+.article-content p {
+  margin-bottom: 1.5rem;
+}
+
+/* Prós e Contras com ícones */
+.article-content h2:has(+ table),
+.article-content table {
+  margin-top: 2rem;
+}
+
+.article-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.article-content thead th {
+  background: var(--gray-100, #f5f5f5);
+  padding: 1rem;
+  font-weight: 700;
+  text-align: left;
+  border-bottom: 2px solid var(--gray-300, #d4d4d4);
+}
+
+.article-content tbody td {
+  padding: 0.75rem 1rem;
+  vertical-align: top;
+  border-bottom: 1px solid var(--gray-200, #e5e5e5);
+}
+
+.article-content tbody td ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.article-content tbody td ul li {
+  padding: 0.5rem 0;
+  position: relative;
+  padding-left: 2rem;
+}
+
+/* Prós - Check verde */
+.article-content tbody tr td:first-child ul li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: #10b981;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+/* Contras - X vermelho */
+.article-content tbody tr td:last-child ul li::before {
+  content: '✗';
+  position: absolute;
+  left: 0;
+  color: #ef4444;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+/* Destacar informações de preço */
+.pricing-highlight {
+  background: var(--gray-50, #fafafa);
+  border-left: 4px solid var(--primary, #D4AF37);
+  padding: 1.25rem 1.75rem;
+  border-radius: 10px;
+  margin: 1.5rem 0;
+}
+
+.pricing-highlight strong {
+  color: var(--primary, #D4AF37);
+  font-size: 1.15rem;
+}
+
+/* ========================================
+   4️⃣ CTA "PARA QUEM É INDICADO"
+   ======================================== */
+
+.cta-section {
+  text-align: center;
+  padding: 2.5rem;
+  background: linear-gradient(135deg, #f9fafb 0%, #f3f4f6 100%);
+  border-radius: 16px;
+  margin: 3rem auto;
+  max-width: 800px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+}
+
+.cta-section h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: var(--gray-900, #1a1a1a);
+}
+
+.cta-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: var(--primary, #D4AF37);
+  color: var(--dark, #1a1a1a);
+  padding: 1.1rem 2.5rem;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.25);
+  border: 2px solid transparent;
+}
+
+.cta-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(212, 175, 55, 0.35);
+  background: var(--primary-hover, #c29d2e);
+}
+
+.cta-button svg {
+  width: 20px;
+  height: 20px;
+  transition: transform 0.3s ease;
+}
+
+.cta-button:hover svg {
+  transform: translateX(4px);
+}
+
+.cta-disclaimer {
+  font-size: 0.85rem;
+  color: var(--gray-600, #666);
+  margin-top: 0.75rem;
+  font-style: italic;
+}
+
+/* ========================================
+   5️⃣ PUBLICIDADE REFINADA
+   ======================================== */
+
+.ad-container {
+  text-align: center;
+  padding: 2rem 0;
+  margin: 3.5rem auto;
+  position: relative;
+  max-width: 800px;
+}
+
+.ad-container::before {
+  content: 'PUBLICIDADE';
+  font-size: 0.7rem;
+  color: var(--gray-500, #999);
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  padding: 0 0.75rem;
+  font-weight: 600;
+}
+
+.ad-placeholder {
+  background: linear-gradient(135deg, #fafafa 0%, #f5f5f5 100%);
+  border: 2px dashed var(--gray-300, #d4d4d4);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--gray-400, #999);
+  font-size: 0.9rem;
+  margin: 1.75rem auto 0;
+  transition: all 0.2s ease;
+}
+
+.ad-placeholder:hover {
+  border-color: var(--gray-400, #999);
+  background: #f9f9f9;
+}
+
+/* ========================================
+   6️⃣ NEWSLETTER CTA REFINADO
+   ======================================== */
+
+.newsletter-cta-box {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 20px;
+  padding: 3rem 3.5rem;
+  max-width: 750px;
+  margin: 4rem auto;
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  box-shadow: 0 12px 32px rgba(102, 126, 234, 0.35);
+  transition: transform 0.3s ease;
+}
+
+.newsletter-cta-box:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 40px rgba(102, 126, 234, 0.4);
+}
+
+.newsletter-cta-icon svg {
+  width: 64px;
+  height: 64px;
+  color: white;
+}
+
+.newsletter-cta-button {
+  white-space: nowrap;
+  padding: 1.1rem 2.25rem;
+  font-size: 1.08rem;
+  font-weight: 700;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.newsletter-cta-button:hover {
+  box-shadow: 0 6px 16px rgba(0,0,0,0.25);
+}
+
+/* ========================================
+   7️⃣ FERRAMENTAS RELACIONADAS REFINADO
+   ======================================== */
+
+.related-tools-section {
+  margin: 5rem auto;
+  padding: 0 2rem;
+  max-width: 1200px;
+}
+
+.related-tools-section .section-title {
+  font-size: 1.75rem;
+  border-bottom: 4px solid var(--primary, #D4AF37);
+  padding-bottom: 1rem;
+  margin-bottom: 2.5rem;
+  font-weight: 700;
+}
+
+.related-tools-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.related-tool-card {
+  background: white;
+  border: 2px solid var(--gray-200, #e5e5e5);
+  border-radius: 16px;
+  padding: 2rem;
+  text-decoration: none;
+  transition: all 0.35s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.related-tool-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--primary, #D4AF37), var(--primary-dark, #b8961e));
+  transform: scaleX(0);
+  transition: transform 0.35s ease;
+}
+
+.related-tool-card:hover {
+  border-color: var(--primary, #D4AF37);
+  transform: translateY(-6px);
+  box-shadow: 0 12px 32px rgba(212, 175, 55, 0.25);
+}
+
+.related-tool-card:hover::before {
+  transform: scaleX(1);
+}
+
+.related-tool-logo {
+  width: 64px;
+  height: 64px;
+  margin-bottom: 1.5rem;
+}
+
+.related-tool-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 12px;
+}
+
+.related-tool-card h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--gray-900, #1a1a1a);
+  margin-bottom: 0.75rem;
+}
+
+.related-tool-card h3 a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.related-tool-card:hover h3 a {
+  color: var(--primary, #D4AF37);
+}
+
+.related-tool-excerpt {
+  font-size: 0.95rem;
+  color: var(--gray-600, #666);
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+}
+
+.related-tool-link {
+  color: var(--info, #0066cc);
+  font-weight: 600;
+  font-size: 0.95rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: gap 0.2s ease;
+}
+
+.related-tool-card:hover .related-tool-link {
+  gap: 0.75rem;
+}
+
+/* ========================================
+   8️⃣ FAQ REFINADO
+   ======================================== */
+
+.faq-item {
+  background: white;
+  border: 2px solid var(--gray-200, #e5e5e5);
+  border-radius: 12px;
+  margin-bottom: 1rem;
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+
+.faq-item:hover {
+  border-color: var(--primary, #D4AF37);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+}
+
+.faq-item summary {
+  padding: 1.5rem 1.75rem;
+  font-weight: 600;
+  font-size: 1.05rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+}
+
+.faq-item summary::after {
+  content: '+';
+  color: var(--primary, #D4AF37);
+  font-size: 1.75rem;
+  font-weight: 700;
+  transition: transform 0.3s ease, color 0.2s ease;
+}
+
+.faq-item[open] summary::after {
+  transform: rotate(45deg);
+  color: var(--primary-hover, #c29d2e);
+}
+
+.faq-item div {
+  padding: 0 1.75rem 1.5rem;
+  color: var(--gray-700, #4a4a4a);
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+/* ========================================
+   9️⃣ MAIS LIDAS REFINADO
+   ======================================== */
+
+.most-read-container {
+  margin: 4rem auto;
+  padding: 2.5rem;
+  background: linear-gradient(135deg, #fafafa 0%, #f5f5f5 100%);
+  border-radius: 16px;
+  max-width: 800px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.04);
+}
+
+.most-read-item {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1.25rem;
+  background: white;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  border: 2px solid transparent;
+}
+
+.most-read-item:hover {
+  transform: translateX(8px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+  border-color: var(--primary, #D4AF37);
+}
+
+.most-read-rank {
+  background: var(--primary, #D4AF37);
+  color: var(--dark, #1a1a1a);
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1.15rem;
+  flex-shrink: 0;
+  box-shadow: 0 2px 8px rgba(212, 175, 55, 0.3);
+}
+
+.most-read-icon img {
+  width: 56px;
+  height: 56px;
+  border-radius: 10px;
+  object-fit: contain;
+  background: white;
+  padding: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.most-read-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--gray-900, #1a1a1a);
+  transition: color 0.2s ease;
+}
+
+.most-read-item:hover .most-read-title {
+  color: var(--primary, #D4AF37);
+}
+
+/* ========================================
+   🔟 MAIS ANÁLISES REFINADO
+   ======================================== */
+
+.more-reviews-section {
+  max-width: 900px;
+  margin: 4rem auto;
+  padding: 0 2rem;
+}
+
+.related-news-item {
+  display: grid;
+  grid-template-columns: 100px 1fr;
+  gap: 1.75rem;
+  padding: 1.75rem;
+  background: white;
+  border: 2px solid var(--gray-200, #e5e5e5);
+  border-radius: 16px;
+  margin-bottom: 1.25rem;
+  text-decoration: none;
+  transition: all 0.35s ease;
+}
+
+.related-news-item:hover {
+  border-color: var(--primary, #D4AF37);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+.related-news-thumb {
+  width: 100px;
+  height: 100px;
+  border-radius: 14px;
+  overflow: hidden;
+  background: linear-gradient(135deg, var(--primary, #D4AF37), var(--primary-dark, #b8961e));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.2);
+}
+
+.related-news-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 8px;
+  background: white;
+}
+
+.related-news-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--gray-900, #1a1a1a);
+  margin-bottom: 0.5rem;
+  transition: color 0.2s ease;
+}
+
+.related-news-item:hover .related-news-title {
+  color: var(--primary, #D4AF37);
+}
+
+.related-news-subtitle {
+  font-size: 0.95rem;
+  color: var(--gray-600, #666);
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ========================================
+   RESPONSIVIDADE
+   ======================================== */
+
+@media (max-width: 768px) {
+  .article-header {
+    padding: 2rem 1.5rem 1.5rem;
+  }
+
+  .article-logo {
+    width: 100px !important;
+    height: 100px !important;
+  }
+
+  .article-header .post-title {
+    font-size: 1.85rem;
+  }
+
+  .article-content {
+    padding: 0 1.5rem;
+    font-size: 1rem;
+  }
+
+  .article-content h2 {
+    font-size: 1.5rem;
+  }
+
+  .related-tools-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .newsletter-cta-box {
+    flex-direction: column;
+    padding: 2.5rem 2rem;
+    gap: 1.5rem;
+    text-align: center;
+  }
+
+  .newsletter-cta-button {
+    width: 100%;
+  }
+
+  .related-news-item {
+    grid-template-columns: 80px 1fr;
+    gap: 1.25rem;
+    padding: 1.25rem;
+  }
+
+  .related-news-thumb {
+    width: 80px;
+    height: 80px;
+  }
+
+  .most-read-rank {
+    width: 28px;
+    height: 28px;
+    font-size: 0.95rem;
+  }
+
+  .most-read-icon img {
+    width: 44px;
+    height: 44px;
+  }
+}
+
+@media (max-width: 480px) {
+  .article-header .post-title {
+    font-size: 1.65rem;
+  }
+
+  .article-header .post-description {
+    font-size: 1.05rem;
+  }
+
+  .article-meta {
+    font-size: 0.85rem !important;
+  }
+
+  .cta-button {
+    padding: 1rem 2rem;
+    font-size: 1rem;
+  }
+}
+

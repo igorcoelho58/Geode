@@ -83,6 +83,7 @@ function initializeFooterForm() {
 function initializeModalForm() {
     const modal = document.getElementById('newsletter-modal');
     const openBtn = document.getElementById('open-newsletter-modal');
+    const openBtnCTA = document.getElementById('open-newsletter-modal-cta'); // Botão do CTA box
     const closeBtn = document.querySelector('.newsletter-modal-close');
     const overlay = document.querySelector('.newsletter-modal-overlay');
     const form = document.getElementById('newsletter-modal-form');
@@ -91,15 +92,25 @@ function initializeModalForm() {
     const messageDiv = document.getElementById('newsletter-modal-message');
     const submitBtn = document.getElementById('newsletter-modal-btn');
 
-    if (!modal || !openBtn) return;
+    if (!modal) return;
 
-    // Abrir modal
-    openBtn.addEventListener('click', function(e) {
+    // Função para abrir modal
+    function openModal(e) {
         e.preventDefault();
         modal.classList.add('active');
         document.body.style.overflow = 'hidden'; // Prevenir scroll
         emailInput.focus();
-    });
+    }
+
+    // Abrir modal (botão header)
+    if (openBtn) {
+        openBtn.addEventListener('click', openModal);
+    }
+
+    // Abrir modal (botão CTA box dentro do artigo)
+    if (openBtnCTA) {
+        openBtnCTA.addEventListener('click', openModal);
+    }
 
     // Fechar modal (botão X)
     closeBtn.addEventListener('click', function() {
