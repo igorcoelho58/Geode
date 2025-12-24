@@ -29,20 +29,27 @@
             <!-- Company Column -->
             <div class="footer-links">
                 <h4>Geode</h4>
-                <a href="/about">Sobre Nós</a>
-                <a href="/contact">Contato</a>
-                <a href="/privacy">Política de Privacidade</a>
-                <a href="/terms">Termos de Uso</a>
+                <a href="/sobre">Sobre Nós</a>
+                <a href="/contato">Contato</a>
+                <a href="/politica-privacidade">Política de Privacidade</a>
+                <a href="/termos-uso">Termos de Uso</a>
             </div>
 
             <!-- Newsletter Column -->
             <div class="footer-newsletter">
                 <h4>Newsletter</h4>
                 <p>Receba as melhores dicas de ferramentas diretamente no seu e-mail.</p>
-                <form class="newsletter-form">
-                    <input type="email" placeholder="Seu melhor e-mail" required>
-                    <button type="submit">Assinar</button>
+                <form class="newsletter-form" id="newsletter-form">
+                    <input type="email" id="newsletter-email" placeholder="Seu melhor e-mail" required>
+                    <button type="submit" id="newsletter-btn">Assinar</button>
                 </form>
+                <div class="newsletter-consent">
+                    <label class="consent-checkbox">
+                        <input type="checkbox" id="newsletter-consent" required>
+                        <span>Aceito receber emails e concordo com a <a href="/politica-privacidade">Política de Privacidade</a></span>
+                    </label>
+                </div>
+                <div class="newsletter-message" id="newsletter-message"></div>
             </div>
         </div>
 
@@ -50,3 +57,39 @@
             <p>&copy; {{ now.Year }} Geode. Todos os direitos reservados. (v10)</p>
         </div>
 </footer>
+
+<!-- Modal Newsletter Popup -->
+<div id="newsletter-modal" class="newsletter-modal">
+    <div class="newsletter-modal-overlay"></div>
+    <div class="newsletter-modal-content">
+        <button class="newsletter-modal-close" aria-label="Fechar">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        </button>
+        
+        <div class="newsletter-modal-header">
+            <div class="newsletter-modal-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+            </div>
+            <h3>Fique por Dentro das Novidades</h3>
+            <p>Receba análises exclusivas, comparativos e dicas de ferramentas diretamente no seu e-mail. Sem spam, prometemos!</p>
+        </div>
+
+        <form class="newsletter-modal-form" id="newsletter-modal-form">
+            <input type="email" id="newsletter-modal-email" placeholder="Seu melhor e-mail" required>
+            <button type="submit" id="newsletter-modal-btn">Assinar Gratuitamente</button>
+        </form>
+
+        <div class="newsletter-modal-consent">
+            <label class="consent-checkbox">
+                <input type="checkbox" id="newsletter-modal-consent" required>
+                <span>Aceito receber emails e concordo com a <a href="/politica-privacidade">Política de Privacidade</a></span>
+            </label>
+        </div>
+
+        <div class="newsletter-message" id="newsletter-modal-message"></div>
+
+        <div class="newsletter-modal-footer">
+            <p>🔒 Seus dados estão seguros. Cancele quando quiser.</p>
+        </div>
+    </div>
+</div>
