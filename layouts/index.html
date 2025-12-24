@@ -122,7 +122,8 @@
             <div class="ultimas-analises-lista">
                 <h3 class="ultimas-titulo">Últimas Análises</h3>
                 <div class="ultimas-lista-expert">
-                    {{ range first 6 .Site.RegularPages }}
+                    {{ $toolPages := where .Site.RegularPages "Section" "in" (slice "vendas" "atendimento" "marketing" "produtividade") }}
+                    {{ range first 6 $toolPages }}
                     <div class="ultimas-item">
                         <div class="ultimas-traço"></div>
                         <a href="{{ .Permalink }}" class="ultimas-link">
@@ -140,9 +141,10 @@
             <div class="sidebar-widget mais-lidos-widget">
                 <h3 class="widget-title"><span class="fire-icon">🏆</span> Análises Mais Lidas</h3>
                 <div class="ranking-list">
-                    {{ $featured := first 1 (where .Site.RegularPages "Title" "ActiveCampaign") }}
+                    {{ $toolPages := where .Site.RegularPages "Section" "in" (slice "vendas" "atendimento" "marketing" "produtividade") }}
+                    {{ $featured := first 1 (where $toolPages "Title" "ActiveCampaign") }}
                     {{ $featuredPage := index $featured 0 }}
-                    {{ range $index, $element := first 5 (where .Site.RegularPages "Permalink" "ne" $featuredPage.Permalink) }}
+                    {{ range $index, $element := first 5 (where $toolPages "Permalink" "ne" $featuredPage.Permalink) }}
                     <a href="{{ .Permalink }}" class="ranking-item rank-{{ add $index 1 }}">
                         <span class="rank-number">{{ add $index 1 }}°</span>
                         <div class="rank-icon">
@@ -181,21 +183,22 @@
                 <a href="{{ "vendas" | absLangURL }}" class="category-link">Ver tudo →</a>
             </div>
             <div class="grid-4-col">
-                {{ range first 4 (where .Site.RegularPages "Section" "vendas") }}
-                <article class="xp-card">
+                {{ range $index, $element := first 4 (where .Site.RegularPages "Section" "vendas") }}
+                <article class="xp-card" data-category="vendas">
                     <div class="xp-card-image-wrapper">
                         {{- if .Params.cover.image -}}
                         <img loading="lazy" src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}">
                         {{- else -}}
-                        <div class="xp-card-placeholder">
-                            {{ .Title }}
+                        <div class="xp-card-placeholder vendas">
+                            💼
                         </div>
                         {{- end -}}
-                        <span class="xp-card-tag">Vendas</span>
+                        <span class="xp-card-tag vendas">Vendas</span>
                     </div>
                     <div class="xp-card-body">
                         <div class="xp-card-meta">{{ .Date.Format "02 Jan 2006" }} • {{ .ReadingTime }} min</div>
                         <h3 class="xp-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                        <p class="xp-card-desc">{{ .Description | default (.Summary | truncate 120) }}</p>
                     </div>
                 </article>
                 {{ end }}
@@ -209,21 +212,22 @@
                 <a href="{{ "atendimento" | absLangURL }}" class="category-link">Ver tudo →</a>
             </div>
             <div class="grid-4-col">
-                {{ range first 4 (where .Site.RegularPages "Section" "atendimento") }}
-                <article class="xp-card">
+                {{ range $index, $element := first 4 (where .Site.RegularPages "Section" "atendimento") }}
+                <article class="xp-card" data-category="atendimento">
                     <div class="xp-card-image-wrapper">
                         {{- if .Params.cover.image -}}
                         <img loading="lazy" src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}">
                         {{- else -}}
-                        <div class="xp-card-placeholder">
-                            {{ .Title }}
+                        <div class="xp-card-placeholder atendimento">
+                            💬
                         </div>
                         {{- end -}}
-                        <span class="xp-card-tag">Atendimento</span>
+                        <span class="xp-card-tag atendimento">Atendimento</span>
                     </div>
                     <div class="xp-card-body">
                         <div class="xp-card-meta">{{ .Date.Format "02 Jan 2006" }} • {{ .ReadingTime }} min</div>
                         <h3 class="xp-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                        <p class="xp-card-desc">{{ .Description | default (.Summary | truncate 120) }}</p>
                     </div>
                 </article>
                 {{ end }}
@@ -237,21 +241,51 @@
                 <a href="{{ "marketing" | absLangURL }}" class="category-link">Ver tudo →</a>
             </div>
             <div class="grid-4-col">
-                {{ range first 4 (where .Site.RegularPages "Section" "marketing") }}
-                <article class="xp-card">
+                {{ range $index, $element := first 4 (where .Site.RegularPages "Section" "marketing") }}
+                <article class="xp-card" data-category="marketing">
                     <div class="xp-card-image-wrapper">
                         {{- if .Params.cover.image -}}
                         <img loading="lazy" src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}">
                         {{- else -}}
-                        <div class="xp-card-placeholder">
-                            {{ .Title }}
+                        <div class="xp-card-placeholder marketing">
+                            📊
                         </div>
                         {{- end -}}
-                        <span class="xp-card-tag">Marketing</span>
+                        <span class="xp-card-tag marketing">Marketing</span>
                     </div>
                     <div class="xp-card-body">
                         <div class="xp-card-meta">{{ .Date.Format "02 Jan 2006" }} • {{ .ReadingTime }} min</div>
                         <h3 class="xp-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                        <p class="xp-card-desc">{{ .Description | default (.Summary | truncate 120) }}</p>
+                    </div>
+                </article>
+                {{ end }}
+            </div>
+        </div>
+
+        <!-- Category: Produtividade -->
+        <div class="category-section">
+            <div class="category-header">
+                <h3 class="category-title">Produtividade & Gestão</h3>
+                <a href="{{ "produtividade" | absLangURL }}" class="category-link">Ver tudo →</a>
+            </div>
+            <div class="grid-4-col">
+                {{ range $index, $element := first 4 (where .Site.RegularPages "Section" "produtividade") }}
+                <article class="xp-card" data-category="produtividade">
+                    <div class="xp-card-image-wrapper">
+                        {{- if .Params.cover.image -}}
+                        <img loading="lazy" src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}">
+                        {{- else -}}
+                        <div class="xp-card-placeholder produtividade">
+                            ⚙️
+                        </div>
+                        {{- end -}}
+                        <span class="xp-card-tag produtividade">Produtividade</span>
+                    </div>
+                    <div class="xp-card-body">
+                        <div class="xp-card-meta">{{ .Date.Format "02 Jan 2006" }} • {{ .ReadingTime }} min</div>
+                        <h3 class="xp-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                        <p class="xp-card-desc">{{ .Description | default (.Summary | truncate 120) }}</p>
                     </div>
                 </article>
                 {{ end }}
