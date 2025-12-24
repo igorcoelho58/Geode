@@ -1,4 +1,10 @@
-# Checklist do Projeto Geode (Versão Detalhada)
+# Checklist do Projeto Geode - Ordem de Execução Otimizada
+
+---
+
+## ✅ FASES CONCLUÍDAS (1-8)
+
+---
 
 ## 🟢 Fase 1: Estratégia (Concluída)
 - [x] **Escolha do Nicho:** Automação de IA para PMEs (Oceano Azul).
@@ -22,7 +28,7 @@
 - [x] **Geração em Massa:** Script para criar páginas de review automaticamente.
 - [x] **Conteúdo Pilar:** Escrever os 4 guias definitivos (Humanos).
 
-## 🟡 Fase 4: Refinamento Visual & UX (A Fazer)
+## 🟢 Fase 4: Refinamento Visual & UX (Concluída)
 -   **1. Identidade Visual:**
     -   [x] **1.1:** Criar um logo (versões horizontal e ícone) e um favicon.
     -   [x] **1.2:** Adicionar os arquivos de imagem à pasta `static/img/`.
@@ -40,46 +46,234 @@
     -   [x] **4.2:** Garantir que todos os links importantes, especialmente os de afiliados, se destaquem visualmente do texto normal.
 -   **5. Modo Escuro (Dark Mode):**
     -   [x] **5.1:** (Desabilitado temporariamente) Opção removida do `hugo.toml` para focar no lançamento MVP.
--   **6. Refino Visual do Usuário:**
-    -   [ ] **6.1:** Ajustes finos de layout e design a serem realizados pelo usuário posteriormente.
+-   **6. Otimização Visual da Homepage:**
+    -   [x] **6.1:** Hero Carousel (automático, play/pause, indicadores)
+    -   [x] **6.2:** Cards de Categorias (cores, gradientes, animações, badges)
+    -   [x] **6.3:** Seção Produtividade & Gestão (4ª categoria)
+    -   [x] **6.4:** Grid responsivo (4→3→2→1 colunas)
 
-##  Fase 5: Setup Operacional & Financeiro (A Fazer)
+## 🟢 Fase 5: Backup e Versionamento (Concluída)
+- [x] **Git Repository:** Repositório GitHub criado e conectado (https://github.com/igorcoelho58/Geode)
+- [x] **Git Ignore:** Arquivo .gitignore configurado e otimizado
+- [x] **Commits Regulares:** Histórico de commits estabelecido (6 commits principais)
+- [x] **Branch Main:** Branch principal configurada e sincronizada com origin
+- [x] **Versionamento Ativo:** Todo o código está versionado e rastreado
 
-### Infraestrutura de Código & Deploy (Netlify/GitHub)
-- [ ] **GitHub:** Criar e vincular a conta GitHub (Hospedagem do Código).
-- [ ] **Netlify:** Criar e vincular a conta Netlify (Hospedagem e Publicação Gratuita).
-- [ ] **Domínio:** Registrar e configurar o domínio Geode.ai (Compra e apontamento dos Nameservers).
+## 🟢 Fase 6: Páginas Essenciais MVP (Concluída)
 
-### Propriedade Digital (Branding & Confiança B2B)
-- [ ] **LinkedIn:** Criar a Company Page no LinkedIn (Geode AI).
-- [ ] **Redes Sociais:** Garantir perfis de Instagram e Pinterest (reserva de arrobas, alinhado com o nome Geode.ai).
-- [x] **Identidade Visual:** Criação do Logotipo e Favicon (para instalar no site).
+### 1. Correção de Links do Rodapé - CONCLUÍDA ✅
+- [x] **1.1:** Editar `layouts/partials/footer.html` e corrigir links:
+    - [x] Mudar `/about` → `/sobre`
+    - [x] Mudar `/contact` → `/contato`
+    - [x] Mudar `/privacy` → `/politica-privacidade`
+    - [x] Mudar `/termos` → `/termos-uso`
 
-### Analytics & Rastreamento (Validação da Conversão)
-- [ ] **GA4:** Criar a conta Google Analytics 4 (GA4) e obter o ID de Medição (G-XXXXX).
-- [ ] **Clarity:** Criar a conta Microsoft Clarity (para Heatmaps e gravações de sessão).
+### 2. Páginas Institucionais (Menu Cabeçalho) - CONCLUÍDA ✅
+- [x] **2.1:** Criar `content/solucoes.md` - Apresentação das 4 categorias de ferramentas
+- [x] **2.2:** Criar `content/precos.md` - Transparência sobre modelo de afiliados
+- [x] **2.3:** Criar `content/recursos.md` - Guias, blog, comparativos
+- [x] **2.4:** Criar `content/sobre.md` - Manifesto, missão, valores, equipe
+- [x] **2.5:** Criar `content/contato.md` - Formulário ou email de contato
 
-### Infraestrutura Financeira (Recebimento de Comissões)
-- [ ] **Conta Global:** Abrir conta em Wise ou Payoneer (para receber em USD/EUR).
-- [ ] **Dados Bancários:** Obter os dados bancários em USD para cadastros em plataformas globais.
+### 3. Páginas de Compliance LGPD (Rodapé) - CONCLUÍDA ✅
+- [x] **3.1:** Criar `content/politica-privacidade.md` - LGPD Lei 13.709/2018
+- [x] **3.2:** Criar `content/termos-uso.md` - Condições de uso
+- [x] **3.3:** Criar `content/aviso-afiliado.md` - Transparência sobre comissões
+- [x] **3.4:** Usar geradores (iubenda, privacypolicies.com) e adaptar ao Brasil
 
-### Cadastros em Redes de Afiliados (Prioridade)
-- [ ] **PartnerStack:** Cadastrar na rede PartnerStack (para a maioria dos SaaS de Vendas/Produtividade).
-- [ ] **Impact:** Cadastrar na rede Impact (para HubSpot, Canva e grandes players).
+## 🟢 Fase 7: SEO Técnico Básico (Concluída)
 
-## 🔴 Fase 6: Lançamento e Legal (A Fazer)
--   **1. Páginas de Compliance:**
-    -   [ ] **1.1:** Criar os arquivos de conteúdo: `content/termos-de-uso.md`, `content/politica-de-privacidade.md`, `content/aviso-afiliado.md`.
-    -   [ ] **1.2:** Usar geradores online para criar um texto base para cada uma dessas páginas.
-    -   [ ] **1.3:** Adicionar os links para essas páginas no rodapé do site, editando o template correspondente do tema.
--   **2. Deploy em Produção:**
-    -   [ ] **2.1:** Garantir que o projeto está em um repositório no GitHub.
-    -   [ ] **2.2:** Criar uma conta na **Vercel** (preferível para Hugo por sua velocidade e simplicidade).
-    -   [ ] **2.3:** Na Vercel, importar o repositório do GitHub. As configurações de build (`hugo`) e o diretório de publicação (`public`) geralmente são detectadas automaticamente.
-    -   [ ] **2.4:** Apontar um domínio customizado (ex: `geode.com.br`) para o deploy da Vercel.
--   **3. Analytics e SEO:**
-    -   [ ] **3.1:** Criar uma propriedade no **Google Analytics 4**.
-    -   [ ] **3.2:** Adicionar o ID de medição do GA4 no `hugo.toml` (o tema PaperMod tem um campo específico para isso).
-    -   [ ] **3.3:** Criar e submeter um `sitemap.xml` (gerado automaticamente pelo Hugo) ao Google Search Console.
--   **4. Página Sobre:**
-    -   [ ] **4.1:** Criar o arquivo `content/sobre.md` com o manifesto do projeto e "Quem Somos".
+### 1. Arquivos SEO Essenciais - CONCLUÍDO ✅
+- [x] **1.1:** Criar `static/robots.txt` para controle de crawlers
+- [x] **1.2:** Verificar `sitemap.xml` (gerado automaticamente pelo Hugo)
+- [x] **1.3:** Configurar sitemap.xml com prioridades e changefreq
+
+### 2. Meta Tags e Structured Data - CONCLUÍDO ✅
+- [x] **2.1:** Canonical URLs configuradas (PaperMod já tem)
+- [x] **2.2:** Meta tags Open Graph otimizadas (PaperMod já tem)
+- [x] **2.3:** Schema.org (Product/Review) adicionado para análises
+- [x] **2.4:** Schema.org (Organization) para homepage
+- [x] **2.5:** Schema.org (BreadcrumbList) para navegação
+- [x] **2.6:** Schema.org (Article) para páginas institucionais
+
+### 3. Google Analytics - PREPARADO ✅
+- [x] **3.1:** Campo preparado no `hugo.toml` com instruções claras
+
+## 🟢 Fase 8: Sistema de Newsletter MVP (Concluída)
+
+### 1. Coleta Offline (Pré-Lançamento) - CONCLUÍDA ✅
+- [x] **1.1:** Criar formulário funcional no rodapé
+- [x] **1.2:** Implementar validação de email no frontend
+- [x] **1.3:** Adicionar checkbox de consentimento LGPD
+- [x] **1.4:** Implementar mensagens de sucesso/erro/warning
+- [x] **1.5:** Salvar emails localmente (localStorage)
+- [x] **1.6:** Criar função de exportação para CSV
+- [x] **1.7:** Adicionar estilos e animações de feedback
+
+### 2. Documentação
+- [x] **2.1:** Criar guia de exportação (`docs/newsletter_export_guide.md`)
+
+---
+
+## 🔴 FASES PENDENTES (9-14)
+
+---
+
+## 🔴 Fase 9: Curadoria de Conteúdo Profundo (CRÍTICO - Diferencial Competitivo)
+
+### 1. Análises Completas por Ferramenta
+- [ ] **1.1:** Para CADA uma das 50+ ferramentas:
+    - [ ] Pesquisar 3-5 vídeos de review/análise no YouTube
+    - [ ] Extrair transcrições dos vídeos
+    - [ ] Usar Gemini Pro 3 para sintetizar com base humana
+    - [ ] Redigir análise completa (5-10 min de leitura)
+    - [ ] Incluir casos de uso reais
+    - [ ] Adicionar screenshots e imagens relevantes
+
+### 2. Harmonização Visual das Análises
+- [ ] **2.1:** Criar template baseado no G1: Texto → Publicidade → Texto → Conclusão
+- [ ] **2.2:** Adicionar seção FAQ por ferramenta
+- [ ] **2.3:** Incluir comparativos com alternativas
+- [ ] **2.4:** Incorporar vídeos dos reviews pesquisados
+- [ ] **2.5:** Criar checklist de qualidade para cada análise
+
+## 🔴 Fase 10: Deploy e Lançamento (Quando Conteúdo Completo)
+
+### 1. Preparação do Deploy
+- [ ] **1.1:** Fazer commit e push de todas as mudanças
+- [ ] **1.2:** Testar build local: `hugo --minify`
+- [ ] **1.3:** Verificar que não há erros de build
+
+### 2. Deploy na Vercel
+- [ ] **2.1:** Criar conta na Vercel
+- [ ] **2.2:** Conectar repositório GitHub
+- [ ] **2.3:** Configurar comando de build: `hugo --minify`
+- [ ] **2.4:** Configurar diretório de publicação: `public`
+- [ ] **2.5:** Fazer primeiro deploy
+
+### 3. Domínio e SSL
+- [ ] **3.1:** Registrar domínio hubgeode.com ($10-15/ano)
+- [ ] **3.2:** Configurar DNS apontando para Vercel
+- [ ] **3.3:** Ativar SSL/HTTPS automático
+- [ ] **3.4:** Testar site em produção
+
+### 4. Testes Finais
+- [ ] **4.1:** Testar em Chrome, Firefox, Safari, Edge
+- [ ] **4.2:** Testar em dispositivos móveis (iOS e Android)
+- [ ] **4.3:** Validar todos os links (interno e externos)
+- [ ] **4.4:** Verificar formulário de newsletter
+- [ ] **4.5:** Testar links de afiliados
+
+## 🟡 Fase 11: Ativação Pós-Lançamento (Dia 1 após Deploy)
+
+### 1. Google Analytics 4 - ATIVAÇÃO
+- [ ] **1.1:** Criar propriedade Google Analytics 4 (GA4)
+- [ ] **1.2:** Obter ID de medição (G-XXXXX)
+- [ ] **1.3:** Descomentar googleAnalytics no `hugo.toml`
+- [ ] **1.4:** Fazer commit e redeploy
+
+### 2. Google Search Console - SUBMISSÃO
+- [ ] **2.1:** Criar conta Google Search Console
+- [ ] **2.2:** Verificar propriedade do domínio (DNS ou HTML)
+- [ ] **2.3:** Submeter sitemap: `https://hubgeode.com/sitemap.xml`
+- [ ] **2.4:** Solicitar indexação das principais páginas
+
+### 3. Newsletter - INTEGRAÇÃO COM PLATAFORMA
+- [ ] **3.1:** Escolher plataforma (Mailchimp, ConvertKit, Buttondown)
+- [ ] **3.2:** Criar conta e obter API key
+- [ ] **3.3:** Exportar emails coletados: `window.exportNewsletterEmails()`
+- [ ] **3.4:** Importar CSV na plataforma escolhida
+- [ ] **3.5:** Atualizar `static/js/newsletter.js` com integração real
+- [ ] **3.6:** Configurar double opt-in
+- [ ] **3.7:** Criar template de email de boas-vindas
+- [ ] **3.8:** Testar fluxo completo
+- [ ] **3.9:** Fazer commit e redeploy
+
+### 4. Banner de Cookies LGPD
+- [ ] **4.1:** Escolher solução (Cookiebot, OneTrust, ou próprio)
+- [ ] **4.2:** Implementar banner conforme LGPD
+- [ ] **4.3:** Adicionar página de política de cookies
+- [ ] **4.4:** Configurar categorias (essenciais, analytics, afiliados)
+
+## 🟡 Fase 12: Infraestrutura Operacional (Primeira Semana)
+
+### 1. Propriedade Digital
+- [ ] **1.1:** Criar LinkedIn Company Page (Geode)
+- [ ] **1.2:** Reservar @hubgeode no Instagram
+- [ ] **1.3:** Reservar @hubgeode no Pinterest
+- [ ] **1.4:** Atualizar URLs reais no rodapé do site
+
+### 2. Analytics Avançado
+- [ ] **2.1:** Criar conta Microsoft Clarity
+- [ ] **2.2:** Configurar heatmaps e gravações
+- [ ] **2.3:** Configurar Google Tag Manager
+- [ ] **2.4:** Implementar eventos personalizados (cliques em afiliados)
+
+### 3. Infraestrutura Financeira
+- [ ] **3.1:** Abrir conta Wise ou Payoneer
+- [ ] **3.2:** Obter dados bancários em USD/EUR
+- [ ] **3.3:** Cadastrar em PartnerStack
+- [ ] **3.4:** Cadastrar em Impact
+- [ ] **3.5:** Cadastrar programas individuais (HubSpot, ActiveCampaign, etc.)
+
+## 🟡 Fase 13: Sistemas Dinâmicos (Quando Houver Tráfego)
+
+### 1. Sistema de Rankeamento
+- [ ] **1.1:** Implementar tracking de visualizações (GA4 + backend)
+- [ ] **1.2:** Criar algoritmo: visualizações + tempo de permanência
+- [ ] **1.3:** Atualizar seção "Análises Mais Lidas" dinamicamente
+- [ ] **1.4:** Ativar badges automáticos (Popular, Top 10, Novo)
+
+### 2. Sistema de Busca
+- [ ] **2.1:** Implementar busca no cabeçalho
+- [ ] **2.2:** Criar índice de ferramentas
+- [ ] **2.3:** Adicionar filtros por categoria
+- [ ] **2.4:** Implementar autocomplete
+
+### 3. Monitoramento de Afiliados
+- [ ] **3.1:** Tracking de cliques em links
+- [ ] **3.2:** UTM parameters automáticos
+- [ ] **3.3:** Dashboard de performance
+- [ ] **3.4:** Alertas para links quebrados
+
+### 4. CMS Interno (Futuro)
+- [ ] **4.1:** Painel admin para equipe Geode
+- [ ] **4.2:** Formulário de criação de análises
+- [ ] **4.3:** Sistema de preview
+- [ ] **4.4:** Automação de publicação
+
+### 5. Sistema de Destaque Hero
+- [ ] **5.1:** Interface para selecionar destaques
+- [ ] **5.2:** Agendamento automático
+- [ ] **5.3:** Rotação semanal
+
+## 🟡 Fase 14: Otimização e Crescimento (Contínuo)
+
+### 1. Performance Web
+- [ ] **1.1:** Converter logos para WebP
+- [ ] **1.2:** Lazy loading de imagens
+- [ ] **1.3:** Minificação CSS/JS com Hugo Pipes
+- [ ] **1.4:** Otimizar Core Web Vitals
+- [ ] **1.5:** Implementar Service Worker
+
+### 2. Engajamento
+- [ ] **2.1:** Sistema de comentários (Giscus/Disqus)
+- [ ] **2.2:** Botões de compartilhamento social
+- [ ] **2.3:** Popup de saída com oferta de newsletter
+- [ ] **2.4:** Programa de indicação
+
+### 3. Monetização Avançada
+- [ ] **3.1:** Parcerias diretas com SaaS
+- [ ] **3.2:** Landing pages exclusivas
+- [ ] **3.3:** Comparativos patrocinados
+- [ ] **3.4:** Banners publicitários estratégicos
+
+---
+
+## 📊 Métricas de Sucesso (Definir Após Lançamento)
+- Taxa de conversão de afiliados por categoria
+- Taxa de inscrição na newsletter
+- Tempo médio de permanência nas análises
+- Taxa de rejeição por página
+- Ferramentas mais buscadas/acessadas
+- Receita mensal de comissões
