@@ -1,0 +1,47 @@
+# Robots.txt - Geode
+# Controla como os crawlers de busca acessam o site
+
+# Permitir todos os crawlers
+User-agent: *
+
+# Permitir indexação de todo o conteúdo
+Allow: /
+
+# Bloquear páginas administrativas e de erro
+Disallow: /admin/
+Disallow: /404.html
+
+# Bloquear arquivos de sistema (se houver)
+Disallow: /*.json$
+Disallow: /*.xml$ 
+
+# Exceto o sitemap
+Allow: /sitemap.xml
+Allow: /index.xml
+
+# Localização do Sitemap
+Sitemap: https://hubgeode.com/sitemap.xml
+
+# Crawl-delay (opcional - evita sobrecarga)
+# Descomente se o servidor estiver sobrecarregado
+# Crawl-delay: 1
+
+# Instruções específicas para bots conhecidos
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Bloquear bots ruins conhecidos (scrapers, spammers)
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /

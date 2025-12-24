@@ -1,7 +1,24 @@
-baseURL = 'http://localhost'
+baseURL = 'https://hubgeode.com'
 languageCode = 'pt-br'
 title = 'Geode | Automação e Reviews de IA para a Sua Empresa'
 theme = 'PaperMod'
+
+# Google Analytics 4 (GA4)
+# INSTRUÇÕES: Quando criar sua conta em https://analytics.google.com
+# 1. Crie uma propriedade GA4
+# 2. Copie o ID de medição (formato: G-XXXXXXXXXX)
+# 3. Descomente a linha abaixo e cole seu ID
+# googleAnalytics = "G-XXXXXXXXXX"
+
+# Configurações de SEO
+enableRobotsTXT = true
+canonifyURLs = true
+
+# Sitemap (configuração personalizada)
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
 
 [params]
   customCss = ["css/extended/custom.css"] # Carrega o CSS customizado
