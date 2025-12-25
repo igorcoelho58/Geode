@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Otter.ai"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Assistente de reuniões focado em transformar voz em texto e ident
 tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
+logo: "/logos/otter.png"
 cover:
     image: "/logos/otter.png"
     alt: "Otter.ai logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Ótimo para quem faz reuniões em inglês ou precisa apenas do áudio transcrito rapidamente.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Ótimo para quem faz reuniões em inglês ou precisa apenas do áudio transcrito rapidamente.</p>
+</div>
 
 ## O que é?
 Assistente de reuniões focado em transformar voz em texto e identificar quem está falando.

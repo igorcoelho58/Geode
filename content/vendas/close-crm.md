@@ -1,11 +1,13 @@
-﻿---
+---
 title: "Close CRM"
 date: 2025-12-07
 draft: false
-description: "CRM focado em inside sales com telefonia nativa e automação de follow-up com IA."
+description: "O CRM construído especificamente para inside sales de alta performance. Faça ligações direto da plataforma, automatize follow-ups com IA e gerencie todo ciclo de vendas sem precisar de múltiplas ferramentas."
 tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
+logo: "/logos/close.png"
+hook: "CRM focado em inside sales com telefonia nativa e automação de follow-up"
 cover:
     image: "/logos/close.png"
     alt: "Close CRM logo"
@@ -14,7 +16,12 @@ cover:
 ---
 
 
-**Veredito:** Perfeito para times de vendas por telefone que precisam de velocidade e automação inteligente.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Perfeito para times de vendas por telefone que precisam de velocidade e automação inteligente.</p>
+</div>
 
 ## O que é?
 CRM focado em inside sales com telefonia nativa e automação de follow-up com IA.

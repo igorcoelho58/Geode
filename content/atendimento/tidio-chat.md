@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tidio"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Chat ao vivo e chatbot focado em recuperar vendas."
 tags: ["Atendimento", "IA", "Software"]
 categories: ["Atendimento"]
 author: "Geode Team"
+logo: "/logos/tidio.png"
 cover:
     image: "/logos/tidio.png"
     alt: "Tidio logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Excelente para e-commerces unirem chat do site e WhatsApp.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Excelente para e-commerces unirem chat do site e WhatsApp.</p>
+</div>
 
 ## O que é?
 Chat ao vivo e chatbot focado em recuperar vendas.

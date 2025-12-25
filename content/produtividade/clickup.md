@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ClickUp"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "A plataforma que promete substituir todas as outras, unindo tarefa
 tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
+logo: "/logos/clickup.png"
 cover:
     image: "/logos/clickup.png"
     alt: "ClickUp logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Ideal para equipes que sentem que o Trello ficou "pequeno" e precisam de uma gestão de projetos robusta.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Ideal para equipes que sentem que o Trello ficou "pequeno" e precisam de uma gestão de projetos robusta.</p>
+</div>
 
 ## O que é?
 A plataforma que promete substituir todas as outras, unindo tarefas, docs, chat e metas.

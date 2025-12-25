@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Make"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Antigo Integromat, é a alternativa visual e mais barata ao Zapier
 tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
+logo: "/logos/make.png"
 cover:
     image: "/logos/make.png"
     alt: "Make logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** A ferramenta secreta para automatizar processos complexos da empresa sem gastar uma fortuna em devs.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">A ferramenta secreta para automatizar processos complexos da empresa sem gastar uma fortuna em devs.</p>
+</div>
 
 ## O que é?
 Antigo Integromat, é a alternativa visual e mais barata ao Zapier para conectar seus aplicativos.

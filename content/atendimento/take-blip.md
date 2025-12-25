@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Take Blip"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Plataforma líder para grandes operações com IA nativa e API Ofi
 tags: ["Atendimento", "IA", "Software"]
 categories: ["Atendimento"]
 author: "Geode Team"
+logo: "/logos/blip.png"
 cover:
     image: "/logos/blip.png"
     alt: "Take Blip logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** A escolha segura para empresas que buscam escala profissional sem risco de banimento.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">A escolha segura para empresas que buscam escala profissional sem risco de banimento.</p>
+</div>
 
 ## O que é?
 Plataforma líder para grandes operações com IA nativa e API Oficial.

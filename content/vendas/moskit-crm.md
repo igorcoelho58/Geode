@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Moskit CRM"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "CRM brasileiro focado em produtividade de vendas com assistente de
 tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
+logo: "/logos/moskit.png"
 cover:
     image: "/logos/moskit.png"
     alt: "Moskit CRM logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Excelente para equipes brasileiras que buscam produtividade e recursos modernos de IA.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Excelente para equipes brasileiras que buscam produtividade e recursos modernos de IA.</p>
+</div>
 
 ## O que é?
 CRM brasileiro focado em produtividade de vendas com assistente de IA nativo.

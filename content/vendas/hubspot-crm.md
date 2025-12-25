@@ -31,23 +31,76 @@ faq:
 </div>
 
 ## O que é?
-Plataforma completa de CRM que oferece ferramentas gratuitas de marketing vendas e atendimento.
 
-## Preço
-**Modelo:** Grátis / Pago a partir de US$ 15/usuário/mês
-
-## Prós e Contras
-| Prós | Contras |
-| :--- | :--- |
-| Plano gratuito eterno<br>Ecossistema completo<br>Ferramentas de IA integradas | Preço dos planos pagos salta drasticamente<br>Suporte limitado no grátis |
+Plataforma completa de CRM que oferece ferramentas gratuitas de marketing, vendas e atendimento. O HubSpot se destaca por unir todas as áreas de relacionamento com cliente em um único ecossistema integrado.
 
 ## Para quem é indicado?
 
-Ideal para startups que querem começar com custo zero e ter uma ferramenta de classe mundial.
+Ideal para startups que querem começar com custo zero e ter uma ferramenta de classe mundial. Também perfeito para empresas que estão crescendo e precisam de uma solução que escale junto.
+
+## Prós e Contras
+
+<div class="pros-cons-grid">
+  <div class="pros-column">
+    <h3>Prós</h3>
+    <ul>
+      <li>Plano gratuito eterno sem limite de contatos</li>
+      <li>Ecossistema completo (vendas + marketing + atendimento)</li>
+      <li>Ferramentas de IA integradas</li>
+      <li>Interface intuitiva em português</li>
+    </ul>
+  </div>
+  <div class="cons-column">
+    <h3>Contras</h3>
+    <ul>
+      <li>Preço dos planos pagos salta drasticamente</li>
+      <li>Suporte limitado no plano grátis</li>
+      <li>Pode ser complexo para times muito pequenos</li>
+    </ul>
+  </div>
+</div>
+
+## Preço
+
+<div class="pricing-editorial-container">
+  <div class="pricing-plan-item">
+    <div class="plan-info">
+      <div class="plan-name">Gratuito</div>
+      <div class="plan-description">CRM completo, marketing básico, até 1 milhão de contatos</div>
+    </div>
+    <div class="plan-price">Gratuito</div>
+  </div>
+  
+  <div class="pricing-plan-item">
+    <div class="plan-info">
+      <div class="plan-name">Starter</div>
+      <div class="plan-description">Automação de marketing e relatórios avançados</div>
+    </div>
+    <div class="plan-price">US$ 15/mês</div>
+  </div>
+  
+  <div class="pricing-plan-item">
+    <div class="plan-info">
+      <div class="plan-name">Professional</div>
+      <div class="plan-description">Sequências de e-mail, integração social e suporte prioritário</div>
+    </div>
+    <div class="plan-price">US$ 450/mês</div>
+  </div>
+  
+  <div class="pricing-plan-item">
+    <div class="plan-info">
+      <div class="plan-name">Enterprise</div>
+      <div class="plan-description">Personalização avançada, equipes grandes e governança</div>
+    </div>
+    <div class="plan-price">US$ 1.200/mês</div>
+  </div>
+  
+  <p class="pricing-footnote">* Preços sujeitos a alteração. Consulte o site oficial para valores atualizados.</p>
+</div>
 
 <div class="cta-section">
   <h3>Pronto para começar?</h3>
-  <a href="https://www.hubspot.br/products/crm" class="cta-button" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://www.hubspot.br/products/crm" class="cta-button" target="_blank" rel="nofollow sponsored noopener">
     Visitar Site Oficial
     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
@@ -55,5 +108,5 @@ Ideal para startups que querem começar com custo zero e ter uma ferramenta de c
       <line x1="10" y1="14" x2="21" y2="3"></line>
     </svg>
   </a>
-  <p class="cta-disclaimer">*Link seguro oficial</p>
+  <span class="cta-caption">Link seguro para o site oficial do desenvolvedor</span>
 </div>

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Snov.io"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Plataforma de prospecção e cold mail com IA para encontrar leads
 tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
+logo: "/logos/snov.png"
 cover:
     image: "/logos/snov.png"
     alt: "Snov.io logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Indispensável para PMEs B2B que precisam prospectar ativamente novos clientes.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Indispensável para PMEs B2B que precisam prospectar ativamente novos clientes.</p>
+</div>
 
 ## O que é?
 Plataforma de prospecção e cold mail com IA para encontrar leads B2B.

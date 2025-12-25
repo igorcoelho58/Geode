@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Midjourney"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "O gerador de imagens com IA mais poderoso e artístico do mercado.
 tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
+logo: "/logos/midjourney.png"
 cover:
     image: "/logos/midjourney.png"
     alt: "Midjourney logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** O padrão-ouro para criar imagens únicas e profissionais que se destacam de qualquer banco de imagens.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">O padrão-ouro para criar imagens únicas e profissionais que se destacam de qualquer banco de imagens.</p>
+</div>
 
 ## O que é?
 O gerador de imagens com IA mais poderoso e artístico do mercado.

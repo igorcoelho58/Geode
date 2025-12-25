@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Respond.io"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Caixa de entrada centralizada para múltiplos canais."
 tags: ["Atendimento", "IA", "Software"]
 categories: ["Atendimento"]
 author: "Geode Team"
+logo: "/logos/respond.png"
 cover:
     image: "/logos/respond.png"
     alt: "Respond.io logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** A solução para empresas Omnichannel com mensagens de todo lado.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">A solução para empresas Omnichannel com mensagens de todo lado.</p>
+</div>
 
 ## O que é?
 Caixa de entrada centralizada para múltiplos canais.

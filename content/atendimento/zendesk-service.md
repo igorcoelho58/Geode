@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Zendesk"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Padrão global de atendimento omnicanal."
 tags: ["Atendimento", "IA", "Software"]
 categories: ["Atendimento"]
 author: "Geode Team"
+logo: "/logos/zendesk.png"
 cover:
     image: "/logos/zendesk.png"
     alt: "Zendesk logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Para PMEs em crescimento rápido estruturando Customer Success.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Para PMEs em crescimento rápido estruturando Customer Success.</p>
+</div>
 
 ## O que é?
 Padrão global de atendimento omnicanal.

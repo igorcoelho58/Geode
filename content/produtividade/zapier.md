@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Zapier"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "O rei da automação que conecta mais de 5.000 aplicativos sem voc
 tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
+logo: "/logos/zapier.png"
 cover:
     image: "/logos/zapier.png"
     alt: "Zapier logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Indispensável para automações simples e rápidas entre ferramentas populares (ex: Lead do Facebook para o Gmail).
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Indispensável para automações simples e rápidas entre ferramentas populares (ex: Lead do Facebook para o Gmail).</p>
+</div>
 
 ## O que é?
 O rei da automação que conecta mais de 5.000 aplicativos sem você precisar saber programar.

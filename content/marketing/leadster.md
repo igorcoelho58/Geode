@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Leadster"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Chatbot brasileiro com IA para qualificação de leads em sites."
 tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
+logo: "/logos/leadster.png"
 cover:
     image: "/logos/leadster.png"
     alt: "Leadster logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Essencial para automatizar a primeira conversa e não perder leads no site.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Essencial para automatizar a primeira conversa e não perder leads no site.</p>
+</div>
 
 ## O que é?
 Chatbot brasileiro com IA para qualificação de leads em sites.

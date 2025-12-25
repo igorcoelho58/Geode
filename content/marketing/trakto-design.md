@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trakto"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Alternativa brasileira ao Canva com templates nacionais."
 tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
+logo: "/logos/trakto.png"
 cover:
     image: "/logos/trakto.png"
     alt: "Trakto logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Excelente para templates adaptados à cultura de vendas BR.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Excelente para templates adaptados à cultura de vendas BR.</p>
+</div>
 
 ## O que é?
 Alternativa brasileira ao Canva com templates nacionais.

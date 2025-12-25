@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fireflies.ai"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "IA que entra nas suas reuniões (Zoom/Meet), grava, transcreve e g
 tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
+logo: "/logos/fireflies.png"
 cover:
     image: "/logos/fireflies.png"
     alt: "Fireflies.ai logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** O fim das anotações manuais em reuniões. Essencial para times de vendas e gestão não perderem nenhum detalhe.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">O fim das anotações manuais em reuniões. Essencial para times de vendas e gestão não perderem nenhum detalhe.</p>
+</div>
 
 ## O que é?
 IA que entra nas suas reuniões (Zoom/Meet), grava, transcreve e gera a ata automaticamente.

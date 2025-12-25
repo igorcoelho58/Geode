@@ -1,11 +1,13 @@
-﻿---
+---
 title: "Agendor"
 date: 2025-12-07
 draft: false
-description: "CRM brasileiro que atua como assistente pessoal para vendas consultivas."
+description: "CRM brasileiro inteligente que funciona como seu assistente pessoal de vendas, perfeito para equipes consultivas que precisam organizar pipelines, agendar follow-ups e fechar mais negócios sem perder nenhuma oportunidade."
 tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
+logo: "/logos/agendor.png"
+hook: "CRM brasileiro que atua como assistente pessoal para vendas consultivas"
 cover:
     image: "/logos/agendor.png"
     alt: "Agendor logo"
@@ -14,7 +16,12 @@ cover:
 ---
 
 
-**Veredito:** A melhor opção para representantes comerciais e vendedores externos que precisam de um caderninho digital.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">A melhor opção para representantes comerciais e vendedores externos que precisam de um caderninho digital.</p>
+</div>
 
 ## O que é?
 CRM brasileiro que atua como assistente pessoal para vendas consultivas.

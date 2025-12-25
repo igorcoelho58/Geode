@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bitrix24"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Plataforma de colaboração tudo-em-um com CRM projetos e sites."
 tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
+logo: "/logos/bitrix24.png"
 cover:
     image: "/logos/bitrix24.png"
     alt: "Bitrix24 logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** A solução canivete suíço para centralizar toda a operação pagando em Reais.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">A solução canivete suíço para centralizar toda a operação pagando em Reais.</p>
+</div>
 
 ## O que é?
 Plataforma de colaboração tudo-em-um com CRM projetos e sites.

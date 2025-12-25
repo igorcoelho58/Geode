@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ChatGPT"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "IA conversacional líder da OpenAI para criação de conteúdo e a
 tags: ["Marketing/Produtividade", "IA", "Software"]
 categories: ["Marketing/Produtividade"]
 author: "Geode Team"
+logo: "/logos/chatgpt.png"
 cover:
     image: ""
     alt: "ChatGPT logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Ferramenta essencial para qualquer profissional moderno criar conteúdo e automatizar tarefas.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Ferramenta essencial para qualquer profissional moderno criar conteúdo e automatizar tarefas.</p>
+</div>
 
 ## O que é?
 IA conversacional líder da OpenAI para criação de conteúdo e automação de tarefas.

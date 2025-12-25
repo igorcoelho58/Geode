@@ -1,4 +1,4 @@
-﻿---
+---
 title: "tl;dv"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Gravador de reuniões gratuito para Google Meet e Zoom com transcr
 tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
+logo: "/logos/tldv.png"
 cover:
     image: "/logos/tldv.png"
     alt: "tl;dv logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** A melhor opção gratuita para gravar reuniões de clientes e compartilhar os melhores momentos com o time.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">A melhor opção gratuita para gravar reuniões de clientes e compartilhar os melhores momentos com o time.</p>
+</div>
 
 ## O que é?
 Gravador de reuniões gratuito para Google Meet e Zoom com transcrição e clipes de momentos importantes.

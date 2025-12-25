@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Octadesk"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Híbrido de Chat e Helpdesk via WhatsApp."
 tags: ["Atendimento", "IA", "Software"]
 categories: ["Atendimento"]
 author: "Geode Team"
+logo: "/logos/octadesk.png"
 cover:
     image: "/logos/octadesk.png"
     alt: "Octadesk logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Essencial para empresas de serviço que precisam formalizar o atendimento.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Essencial para empresas de serviço que precisam formalizar o atendimento.</p>
+</div>
 
 ## O que é?
 Híbrido de Chat e Helpdesk via WhatsApp.

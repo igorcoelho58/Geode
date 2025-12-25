@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Wati"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Solução oficial focada em simplicidade e e-commerce."
 tags: ["Atendimento", "IA", "Software"]
 categories: ["Atendimento"]
 author: "Geode Team"
+logo: "/logos/wati.png"
 cover:
     image: "/logos/wati.png"
     alt: "Wati logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Ideal para lojas virtuais que querem segurança da API oficial sem complexidade.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Ideal para lojas virtuais que querem segurança da API oficial sem complexidade.</p>
+</div>
 
 ## O que é?
 Solução oficial focada em simplicidade e e-commerce.

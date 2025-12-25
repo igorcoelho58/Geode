@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Leonardo.ai"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Gerador de imagens artísticas alternativo ao Midjourney."
 tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
+logo: "/logos/leonardo.png"
 cover:
     image: "/logos/leonardo.png"
     alt: "Leonardo.ai logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Para criar visuais únicos que se destacam de bancos de imagem.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Para criar visuais únicos que se destacam de bancos de imagem.</p>
+</div>
 
 ## O que é?
 Gerador de imagens artísticas alternativo ao Midjourney.

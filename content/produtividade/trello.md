@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trello"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "O clássico sistema de quadros Kanban que ensinou o mundo a organi
 tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
+logo: "/logos/trello.png"
 cover:
     image: "/logos/trello.png"
     alt: "Trello logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Para quem está começando e precisa apenas de um "A Fazer, Fazendo, Feito" digital e eficiente.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Para quem está começando e precisa apenas de um "A Fazer, Fazendo, Feito" digital e eficiente.</p>
+</div>
 
 ## O que é?
 O clássico sistema de quadros Kanban que ensinou o mundo a organizar tarefas visualmente.

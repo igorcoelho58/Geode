@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Opus Clip"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Transforma vídeos longos em clipes virais curtos automaticamente 
 tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
+logo: "/logos/opus.png"
 cover:
     image: "/logos/opus.png"
     alt: "Opus Clip logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Essencial para creators e marcas que querem transformar conteúdo longo em shorts para redes sociais.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Essencial para creators e marcas que querem transformar conteúdo longo em shorts para redes sociais.</p>
+</div>
 
 ## O que é?
 Transforma vídeos longos em clipes virais curtos automaticamente com IA.

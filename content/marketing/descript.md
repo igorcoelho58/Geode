@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Descript"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Edite vídeos e podcasts editando o texto."
 tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
+logo: "/logos/descript.png"
 cover:
     image: "/logos/descript.png"
     alt: "Descript logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Indispensável para podcasts e vídeos falados.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Indispensável para podcasts e vídeos falados.</p>
+</div>
 
 ## O que é?
 Edite vídeos e podcasts editando o texto.

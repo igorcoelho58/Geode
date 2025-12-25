@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Typebot"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Construtor de bots visual drag-and-drop open source."
 tags: ["Atendimento", "IA", "Software"]
 categories: ["Atendimento"]
 author: "Geode Team"
+logo: "/logos/typebot.png"
 cover:
     image: "/logos/typebot.png"
     alt: "Typebot logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** A melhor ferramenta para criar fluxos de conversa avançados e capturar leads.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">A melhor ferramenta para criar fluxos de conversa avançados e capturar leads.</p>
+</div>
 
 ## O que é?
 Construtor de bots visual drag-and-drop open source.

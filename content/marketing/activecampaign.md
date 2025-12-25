@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ActiveCampaign"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "A ferramenta definitiva de automação de experiência do cliente 
 tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
+logo: "/logos/activecampaign.png"
 cover:
     image: "/logos/activecampaign.png"
     alt: "ActiveCampaign logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Para empresas que levam automação a sério e querem criar jornadas complexas.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Para empresas que levam automação a sério e querem criar jornadas complexas.</p>
+</div>
 
 ## O que é?
 A ferramenta definitiva de automação de experiência do cliente e CRM.

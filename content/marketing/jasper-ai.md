@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jasper AI"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "IA de escrita avançada para times de marketing."
 tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
+logo: "/logos/jasper.png"
 cover:
     image: "/logos/jasper.png"
     alt: "Jasper AI logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** A escolha profissional para agências que precisam de escala em copy.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">A escolha profissional para agências que precisam de escala em copy.</p>
+</div>
 
 ## O que é?
 IA de escrita avançada para times de marketing.

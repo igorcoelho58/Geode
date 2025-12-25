@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Monday.com"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Sistema operacional de trabalho visual e colorido que torna a gest
 tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
+logo: "/logos/monday.png"
 cover:
     image: "/logos/monday.png"
     alt: "Monday.com logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** A escolha premium para times de marketing e criativos que precisam organizar fluxos de trabalho complexos visualmente.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">A escolha premium para times de marketing e criativos que precisam organizar fluxos de trabalho complexos visualmente.</p>
+</div>
 
 ## O que é?
 Sistema operacional de trabalho visual e colorido que torna a gestão de projetos divertida e intuitiva.

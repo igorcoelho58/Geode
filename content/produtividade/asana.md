@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Asana"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Gestão de projetos focada em colaboração e clareza sobre \"quem
 tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
+logo: "/logos/asana.png"
 cover:
     image: "/logos/asana.png"
     alt: "Asana logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Excelente para times que preferem listas e cronogramas ao invés de quadros Kanban.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Excelente para times que preferem listas e cronogramas ao invés de quadros Kanban.</p>
+</div>
 
 ## O que é?
 Gestão de projetos focada em colaboração e clareza sobre "quem faz o que e quando".

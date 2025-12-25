@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Kommo"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "CRM pioneiro em vendas conversacionais via WhatsApp e Instagram."
 tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
+logo: "/logos/kommo.png"
 cover:
     image: "/logos/kommo.png"
     alt: "Kommo logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Essencial para negócios que dependem do WhatsApp para vender e precisam organizar o atendimento.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Essencial para negócios que dependem do WhatsApp para vender e precisam organizar o atendimento.</p>
+</div>
 
 ## O que é?
 CRM pioneiro em vendas conversacionais via WhatsApp e Instagram.

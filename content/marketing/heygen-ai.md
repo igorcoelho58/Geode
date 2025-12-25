@@ -1,4 +1,4 @@
-﻿---
+---
 title: "HeyGen"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Crie vídeos com avatares de IA realistas."
 tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
+logo: "/logos/heygen.png"
 cover:
     image: "/logos/heygen.png"
     alt: "HeyGen logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Revolucionário para vídeos de treinamento e vendas.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Revolucionário para vídeos de treinamento e vendas.</p>
+</div>
 
 ## O que é?
 Crie vídeos com avatares de IA realistas.

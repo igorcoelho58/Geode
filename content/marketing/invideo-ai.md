@@ -1,4 +1,4 @@
-﻿---
+---
 title: "InVideo AI"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Gere vídeos completos a partir de texto."
 tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
+logo: "/logos/invideo.png"
 cover:
     image: "/logos/invideo.png"
     alt: "InVideo AI logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Melhor para criar vídeos de topo de funil em escala.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Melhor para criar vídeos de topo de funil em escala.</p>
+</div>
 
 ## O que é?
 Gere vídeos completos a partir de texto.

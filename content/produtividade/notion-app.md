@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Notion"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "O espaço de trabalho tudo-em-um que substitui Google Docs, Trello
 tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
+logo: "/logos/notion.png"
 cover:
     image: "/logos/notion.png"
     alt: "Notion logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** O sistema operacional definitivo para startups e PMEs organizarem conhecimento e tarefas em um só lugar.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">O sistema operacional definitivo para startups e PMEs organizarem conhecimento e tarefas em um só lugar.</p>
+</div>
 
 ## O que é?
 O espaço de trabalho tudo-em-um que substitui Google Docs, Trello e Excel por uma única ferramenta flexível.

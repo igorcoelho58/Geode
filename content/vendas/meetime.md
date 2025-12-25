@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Meetime"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Plataforma brasileira de inside sales com discador e IA de anális
 tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
+logo: "/logos/meetime.png"
 cover:
     image: "/logos/meetime.png"
     alt: "Meetime logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Indispensável para operações de vendas por telefone que buscam alta performance.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Indispensável para operações de vendas por telefone que buscam alta performance.</p>
+</div>
 
 ## O que é?
 Plataforma brasileira de inside sales com discador e IA de análise.

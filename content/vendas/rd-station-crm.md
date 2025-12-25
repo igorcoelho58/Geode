@@ -1,4 +1,4 @@
-﻿---
+---
 title: "RD Station CRM"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "CRM brasileiro líder que integra nativamente com automação de m
 tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
+logo: "/logos/rdstation.png"
 cover:
     image: "/logos/rdstation.png"
     alt: "RD Station CRM logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** A escolha lógica para empresas brasileiras que já usam RD Station Marketing e buscam solução integrada.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">A escolha lógica para empresas brasileiras que já usam RD Station Marketing e buscam solução integrada.</p>
+</div>
 
 ## O que é?
 CRM brasileiro líder que integra nativamente com automação de marketing.

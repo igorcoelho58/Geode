@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Intercom"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Plataforma líder em chat ao vivo com IA Fin que resolve até 50% 
 tags: ["Atendimento", "IA", "Software"]
 categories: ["Atendimento"]
 author: "Geode Team"
+logo: "/logos/intercom.png"
 cover:
     image: "/logos/intercom.png"
     alt: "Intercom logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** O padrão-ouro para empresas SaaS que querem atendimento e onboarding de classe mundial.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">O padrão-ouro para empresas SaaS que querem atendimento e onboarding de classe mundial.</p>
+</div>
 
 ## O que é?
 Plataforma líder em chat ao vivo com IA Fin que resolve até 50% dos tickets automaticamente.

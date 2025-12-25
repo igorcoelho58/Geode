@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ElevenLabs"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "A IA de voz mais realista do mercado."
 tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
+logo: "/logos/elevenlabs.png"
 cover:
     image: "/logos/elevenlabs.png"
     alt: "ElevenLabs logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Ferramenta definitiva para dar voz profissional aos vídeos.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Ferramenta definitiva para dar voz profissional aos vídeos.</p>
+</div>
 
 ## O que é?
 A IA de voz mais realista do mercado.

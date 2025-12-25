@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Zoho CRM"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Suíte completa e acessível com IA Zia que oferece recursos enter
 tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
+logo: "/logos/zoho.png"
 cover:
     image: "/logos/zoho.png"
     alt: "Zoho CRM logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Indicado para PMEs que precisam de recursos avançados com orçamento limitado.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Indicado para PMEs que precisam de recursos avançados com orçamento limitado.</p>
+</div>
 
 ## O que é?
 Suíte completa e acessível com IA Zia que oferece recursos enterprise.

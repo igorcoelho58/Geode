@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Conta Azul"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Plataforma de gestão financeira e ERP feita sob medida para a rea
 tags: ["Produtividade", "IA", "Software"]
 categories: ["Produtividade"]
 author: "Geode Team"
+logo: "/logos/contaazul.png"
 cover:
     image: "/logos/contaazul.png"
     alt: "Conta Azul logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** O ERP padrão para PMEs no Brasil. Se você precisa emitir nota e boleto sem dor de cabeça, é este.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">O ERP padrão para PMEs no Brasil. Se você precisa emitir nota e boleto sem dor de cabeça, é este.</p>
+</div>
 
 ## O que é?
 Plataforma de gestão financeira e ERP feita sob medida para a realidade das pequenas empresas brasileiras.

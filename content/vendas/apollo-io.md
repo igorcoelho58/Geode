@@ -1,11 +1,13 @@
-﻿---
+---
 title: "Apollo.io"
 date: 2025-12-07
 draft: false
-description: "Banco de dados B2B massivo com ferramentas de engajamento e IA."
+description: "A maior base de dados B2B do mundo com mais de 275 milhões de contatos. Encontre leads qualificados, enriqueça dados automaticamente e automatize sequências de prospecção com IA para escalar suas vendas exponencialmente."
 tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
+logo: "/logos/apollo.png"
+hook: "Banco de dados B2B massivo com ferramentas de engajamento e IA"
 cover:
     image: "/logos/apollo.png"
     alt: "Apollo.io logo"
@@ -14,7 +16,12 @@ cover:
 ---
 
 
-**Veredito:** Poderoso para times de vendas encontrarem contatos qualificados e iniciarem conversas.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Poderoso para times de vendas encontrarem contatos qualificados e iniciarem conversas.</p>
+</div>
 
 ## O que é?
 Banco de dados B2B massivo com ferramentas de engajamento e IA.

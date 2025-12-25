@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pipedrive"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "CRM de vendas focado em funil visual que ajuda PMEs a organizarem 
 tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
+logo: "/logos/pipedrive.png"
 cover:
     image: "/logos/pipedrive.png"
     alt: "Pipedrive logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Perfeito para equipes comerciais que buscam organização visual imediata e querem fugir de planilhas complexas.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Perfeito para equipes comerciais que buscam organização visual imediata e querem fugir de planilhas complexas.</p>
+</div>
 
 ## O que é?
 CRM de vendas focado em funil visual que ajuda PMEs a organizarem processos e fecharem mais negócios.

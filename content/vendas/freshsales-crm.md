@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Freshsales"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "CRM intuitivo com IA Freddy AI que foca em encontrar os melhores l
 tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
+logo: "/logos/freshsales.png"
 cover:
     image: "/logos/freshsales.png"
     alt: "Freshsales logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Ótimo para empresas com muitos leads que precisam da IA para filtrar quem está pronto para comprar.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Ótimo para empresas com muitos leads que precisam da IA para filtrar quem está pronto para comprar.</p>
+</div>
 
 ## O que é?
 CRM intuitivo com IA Freddy AI que foca em encontrar os melhores leads.

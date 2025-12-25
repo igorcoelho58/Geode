@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Salesforce Starter"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Versão simplificada do líder mundial com IA Einstein para pequen
 tags: ["Vendas", "IA", "Software"]
 categories: ["Vendas"]
 author: "Geode Team"
+logo: "/logos/salesforce.png"
 cover:
     image: "/logos/salesforce.png"
     alt: "Salesforce Starter logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Para PMEs que querem a solidez da Salesforce preparada para crescimento rápido.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Para PMEs que querem a solidez da Salesforce preparada para crescimento rápido.</p>
+</div>
 
 ## O que é?
 Versão simplificada do líder mundial com IA Einstein para pequenas empresas.

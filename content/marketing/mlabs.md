@@ -1,4 +1,4 @@
-﻿---
+---
 title: "mLabs"
 date: 2025-12-07
 draft: false
@@ -6,6 +6,7 @@ description: "Líder brasileira para gestão de redes sociais."
 tags: ["Marketing", "IA", "Software"]
 categories: ["Marketing"]
 author: "Geode Team"
+logo: "/logos/mlabs.png"
 cover:
     image: "/logos/mlabs.png"
     alt: "mLabs logo"
@@ -14,7 +15,12 @@ cover:
 ---
 
 
-**Veredito:** Melhor custo-benefício para organizar redes sociais no Brasil.
+
+
+<div class="verdict-box">
+  <span class="verdict-label">Veredito</span>
+  <p class="verdict-text">Melhor custo-benefício para organizar redes sociais no Brasil.</p>
+</div>
 
 ## O que é?
 Líder brasileira para gestão de redes sociais.
