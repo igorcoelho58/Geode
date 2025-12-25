@@ -127,7 +127,7 @@
                     <div class="ultimas-item">
                         <div class="ultimas-traço"></div>
                         <a href="{{ .Permalink }}" class="ultimas-link">
-                            <span class="ultimas-hook">{{ .Description | default (.Summary | truncate 80) }}</span>
+                            <span class="ultimas-hook">{{ .Params.hook | default (.Summary | plainify | truncate 80) }}</span>
                         </a>
                     </div>
                     {{ end }}

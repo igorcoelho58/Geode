@@ -34,6 +34,16 @@
     {{- end }}
   </header>
 
+  {{/* Affiliate Disclosure */}}
+  {{- if (or (eq .Section "vendas") (eq .Section "atendimento") (eq .Section "marketing") (eq .Section "produtividade")) }}
+  <div class="affiliate-disclosure">
+    <p>
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+      O Geode é apoiado por sua audiência. Quando você compra através de links no nosso site, podemos receber uma comissão de afiliado. <a href="/aviso-afiliado">Saiba mais.</a>
+    </p>
+  </div>
+  {{- end }}
+
   {{/* Share Buttons - Inspirado no G1 */}}
   {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
   {{- if (or (eq .Section "vendas") (eq .Section "atendimento") (eq .Section "marketing") (eq .Section "produtividade")) }}
@@ -84,7 +94,7 @@
       <span class="ad-label">PUBLICIDADE</span>
       <div class="ad-placeholder">
         <!-- Google AdSense será inserido aqui após o lançamento -->
-        <p style="text-align: center; color: #999; padding: 60px 20px; background: #f8f8f8; border: 1px dashed #ddd;">
+        <p style="text-align: center; color: #999; padding: 45px 20px; background: #f8f8f8; margin: 0; font-size: 14px;">
           Espaço reservado para anúncio (728x90)
         </p>
       </div>
@@ -134,7 +144,7 @@
         {{- end }}
         <div class="related-tool-content">
           <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-          <p class="related-tool-excerpt">{{ .Params.hook | default .Description | default (truncate 100 .Summary) }}</p>
+          <p class="related-tool-excerpt">{{ .Params.hook | default (truncate 100 .Summary) }}</p>
           <a href="{{ .Permalink }}" class="related-tool-link">Ler análise completa →</a>
         </div>
       </article>
@@ -146,7 +156,7 @@
   <div class="ad-container ad-horizontal">
     <span class="ad-label">PUBLICIDADE</span>
     <div class="ad-placeholder">
-      <p style="text-align: center; color: #999; padding: 60px 20px; background: #f8f8f8; border: 1px dashed #ddd;">
+      <p style="text-align: center; color: #999; padding: 45px 20px; background: #f8f8f8; margin: 0; font-size: 14px;">
         Espaço reservado para anúncio (728x90)
       </p>
     </div>
@@ -171,7 +181,7 @@
   {{/* Widget Análises Mais Lidas - Estilo Lista Compacta */}}
   {{- if (or (eq .Section "vendas") (eq .Section "atendimento") (eq .Section "marketing") (eq .Section "produtividade")) }}
   <aside class="most-read-container">
-    <h4 class="most-read-label">Mais lidas <span style="color: #22c55e;">📈</span></h4>
+    <h4 class="most-read-label">Mais Lidas <span style="color: #22c55e;">📈</span></h4>
     <div class="most-read-list">
       {{- $toolPages := where .Site.RegularPages "Section" "in" (slice "vendas" "atendimento" "marketing" "produtividade") }}
       {{- range $index, $page := first 5 $toolPages }}
@@ -201,7 +211,7 @@
   <div class="ad-container ad-vertical">
     <span class="ad-label">PUBLICIDADE</span>
     <div class="ad-placeholder">
-      <p style="text-align: center; color: #999; padding: 120px 20px; background: #f8f8f8; border: 1px dashed #ddd;">
+      <p style="text-align: center; color: #999; padding: 120px 20px; background: #f8f8f8;">
         Espaço reservado<br>para anúncio<br>(300x250)
       </p>
     </div>
@@ -230,10 +240,10 @@
         </div>
         <div class="related-news-content">
           <h3 class="related-news-title">{{ .Title }}</h3>
-          {{- if .Params.hook }}
-          <p class="related-news-subtitle">{{ .Params.hook }}</p>
-          {{- else if .Description }}
-          <p class="related-news-subtitle">{{ truncate 80 .Description }}</p>
+          {{- if .Description }}
+          <p class="related-news-subtitle">{{ .Description }} {{ with .Params.hook }}{{ . }}{{ end }}</p>
+          {{- else }}
+          <p class="related-news-subtitle">{{ .Summary | plainify | truncate 250 }}</p>
           {{- end }}
         </div>
       </a>
