@@ -115,11 +115,89 @@
 
 ---
 
-## 🔴 FASES PENDENTES (9-14)
+## � Fase 9: Refinamento Visual das Páginas de Análise (Concluída)
+
+### 1. Componente Veredicto
+- [x] **1.1:** Criar `.verdict-box` com gradiente verde (#dcfce7 → #f0fdf4)
+- [x] **1.2:** Adicionar SVG checkmark circular verde
+- [x] **1.3:** Implementar estrutura HTML com `<strong>` no título
+- [x] **1.4:** Adicionar template em 55 ferramentas via script PowerShell
+
+### 2. Tabela de Preços Editorial
+- [x] **2.1:** Criar `.pricing-editorial-container` com borda azul esquerda
+- [x] **2.2:** Estruturar 4 planos: Grátis, Básico, Profissional, Enterprise
+- [x] **2.3:** Implementar design com fundo branco (#ffffff) e sombra suave
+- [x] **2.4:** Adicionar template em 55 ferramentas via script PowerShell
+
+### 3. Cards de Prós e Contras (Soft UI)
+- [x] **3.1:** Criar `.pros-cons-grid` com layout duas colunas
+- [x] **3.2:** Implementar `.pros-column` (fundo verde #f0fdf4, borda #dcfce7)
+- [x] **3.3:** Implementar `.cons-column` (fundo rosa #fef2f2, borda #fecaca)
+- [x] **3.4:** Adicionar emojis ✅ e ❌ nos títulos
+- [x] **3.5:** Adicionar template em 55 ferramentas via script PowerShell
+
+### 4. Botão CTA Premium
+- [x] **4.1:** Criar `.cta-button` com azul vibrante (#2563EB)
+- [x] **4.2:** Implementar dupla sombra (azul + cinza escuro)
+- [x] **4.3:** Adicionar hover effect com elevação (translateY)
+- [x] **4.4:** Adicionar template em 55 ferramentas via script PowerShell
+
+### 5. Aviso de Afiliado
+- [x] **5.1:** Adicionar seção transparente após header
+- [x] **5.2:** Implementar ícone SVG de informação
+- [x] **5.3:** Centralizar conteúdo e espaçamento
+- [x] **5.4:** Integrar em `single.html` global
+
+### 6. Padronização de Títulos de Seção
+- [x] **6.1:** Uniformizar `.related-tools-section .section-title` (1.5rem, 6px padding)
+- [x] **6.2:** Uniformizar `.most-read-label` (1.5rem, 6px padding, underline azul 3px)
+- [x] **6.3:** Adicionar `.most-read-label .emoji` sem borda
+- [x] **6.4:** Resolver conflitos CSS com definições duplicadas
+
+### 7. Refinamento "Análises Mais Lidas"
+- [x] **7.1:** Criar cards brancos com largura fixa (600px) e min-height (80px)
+- [x] **7.2:** Implementar barra superior azul no hover
+- [x] **7.3:** Remover animações de movimento (padding-left)
+- [x] **7.4:** Ajustar transições para `box-shadow` apenas
+- [x] **7.5:** Remover `.most-read-item::before` que causava caixas douradas
+
+### 8. Refinamento "Mais Análises"
+- [x] **8.1:** Implementar gradiente azul no topo dos cards no hover
+- [x] **8.2:** Remover animações de deslocamento horizontal
+- [x] **8.3:** Padronizar transições suaves
+
+### 9. Correções de Publicidade
+- [x] **9.1:** Remover duplicação de label "PUBLICIDADE" (HTML + CSS `::before`)
+- [x] **9.2:** Uniformizar padding dos placeholders (45px 20px)
+- [x] **9.3:** Remover bordas duplicadas (outer + inner `<p>`)
+- [x] **9.4:** Garantir altura consistente em todos os placeholders
+
+### 10. Correções da Home Page
+- [x] **10.1:** Adicionar `max-width: 1400px` no `.portal-main` para controlar hero
+- [x] **10.2:** Implementar separação `hook` (curto) vs `description` (longo)
+- [x] **10.3:** Atualizar `index.html` para usar `{{ .Params.hook | plainify | truncate 80 }}`
+- [x] **10.4:** Evitar renderização de HTML do verdict-box via `.Summary`
+
+### 11. Dividers de Seção
+- [x] **11.1:** Adicionar `.section-divider` antes do CTA
+- [x] **11.2:** Adicionar dividers antes de Ferramentas Relacionadas
+- [x] **11.3:** Adicionar dividers antes de Mais Lidas
+- [x] **11.4:** Usar cor cinza suave (#cbd5e1)
+
+### 12. Automação e Scripts
+- [x] **12.1:** Criar `scripts/add_variables.ps1` para adicionar campo `hook`
+- [x] **12.2:** Executar script (53 arquivos atualizados, 5 já tinham)
+- [x] **12.3:** Criar `scripts/add_structure.ps1` para inserir templates HTML
+- [x] **12.4:** Executar script (1 arquivo atualizado, 54 já tinham estrutura)
+- [x] **12.5:** Deletar scripts após execução
 
 ---
 
-## 🔴 Fase 9: Curadoria de Conteúdo Profundo (CRÍTICO - Diferencial Competitivo)
+## 🔴 FASES PENDENTES (10-15)
+
+---
+
+## 🔴 Fase 10: Curadoria de Conteúdo Profundo (CRÍTICO - Diferencial Competitivo)
 
 ### 1. Análises Completas por Ferramenta
 - [ ] **1.1:** Para CADA uma das 50+ ferramentas:
@@ -137,7 +215,7 @@
 - [ ] **2.4:** Incorporar vídeos dos reviews pesquisados
 - [ ] **2.5:** Criar checklist de qualidade para cada análise
 
-## 🔴 Fase 10: Deploy e Lançamento (Quando Conteúdo Completo)
+## 🔴 Fase 12: Deploy e Lançamento (Quando Conteúdo Completo)
 
 ### 1. Preparação do Deploy
 - [ ] **1.1:** Fazer commit e push de todas as mudanças
@@ -164,7 +242,7 @@
 - [ ] **4.4:** Verificar formulário de newsletter
 - [ ] **4.5:** Testar links de afiliados
 
-## 🟡 Fase 11: Ativação Pós-Lançamento (Dia 1 após Deploy)
+## 🟡 Fase 13: Ativação Pós-Lançamento (Dia 1 após Deploy)
 
 ### 1. Google Analytics 4 - ATIVAÇÃO
 - [ ] **1.1:** Criar propriedade Google Analytics 4 (GA4)
@@ -195,7 +273,7 @@
 - [ ] **4.3:** Adicionar página de política de cookies
 - [ ] **4.4:** Configurar categorias (essenciais, analytics, afiliados)
 
-## 🟡 Fase 12: Infraestrutura Operacional (Primeira Semana)
+## 🟡 Fase 14: Infraestrutura Operacional (Primeira Semana)
 
 ### 1. Propriedade Digital
 - [ ] **1.1:** Criar LinkedIn Company Page (Geode)
@@ -216,7 +294,7 @@
 - [ ] **3.4:** Cadastrar em Impact
 - [ ] **3.5:** Cadastrar programas individuais (HubSpot, ActiveCampaign, etc.)
 
-## 🟡 Fase 13: Sistemas Dinâmicos (Quando Houver Tráfego)
+## 🟡 Fase 15: Sistemas Dinâmicos (Quando Houver Tráfego)
 
 ### 1. Sistema de Rankeamento
 - [ ] **1.1:** Implementar tracking de visualizações (GA4 + backend)
@@ -247,7 +325,7 @@
 - [ ] **5.2:** Agendamento automático
 - [ ] **5.3:** Rotação semanal
 
-## 🟡 Fase 14: Otimização e Crescimento (Contínuo)
+## 🟡 Fase 16: Otimização e Crescimento (Contínuo)
 
 ### 1. Performance Web
 - [ ] **1.1:** Converter logos para WebP
