@@ -103,6 +103,20 @@
   </div>
   {{- end }}
 
+  {{/* Visitar Site Oficial - Primeira vez (após conteúdo) */}}
+  {{- if (or (eq .Section "vendas") (eq .Section "atendimento") (eq .Section "marketing") (eq .Section "produtividade")) }}
+  <section class="visit-official-simple">
+    <h2>Quer saber mais sobre {{ .Title }}?</h2>
+    <p>Visite o site oficial para explorar todos os recursos, conferir preços atualizados e testar a plataforma.</p>
+    <div class="visit-button-center">
+      <a href="{{ .Params.official_link }}" class="visit-cta" target="_blank" rel="noopener noreferrer">
+        Visitar Site Oficial →
+      </a>
+    </div>
+    <p class="visit-security">🔒 Link seguro para o site oficial do desenvolvedor</p>
+  </section>
+  {{- end }}
+
   {{/* Newsletter CTA Box - Após conteúdo principal */}}
   {{- if (or (eq .Section "vendas") (eq .Section "atendimento") (eq .Section "marketing") (eq .Section "produtividade")) }}
   <div class="newsletter-cta-box">
@@ -163,6 +177,8 @@
   </div>
   {{- end }}
 
+
+
   {{/* Seção FAQ - Será preenchida na Fase 9 */}}
   {{- if .Params.faq }}
   <section class="faq-section">
@@ -175,6 +191,20 @@
       </details>
       {{- end }}
     </div>
+  </section>
+  {{- end }}
+
+  {{/* Visitar Site Oficial - Segunda vez (após FAQ) */}}
+  {{- if (or (eq .Section "vendas") (eq .Section "atendimento") (eq .Section "marketing") (eq .Section "produtividade")) }}
+  <section class="visit-official-simple">
+    <h2>Pronto para testar {{ .Title }}?</h2>
+    <p>Acesse o site oficial para criar sua conta gratuita e experimentar a plataforma na prática.</p>
+    <div class="visit-button-center">
+      <a href="{{ .Params.official_link }}" class="visit-cta" target="_blank" rel="noopener noreferrer">
+        Começar Agora →
+      </a>
+    </div>
+    <p class="visit-security">🔒 Link seguro para o site oficial do desenvolvedor</p>
   </section>
   {{- end }}
 
