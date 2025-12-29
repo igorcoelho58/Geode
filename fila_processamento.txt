@@ -1,0 +1,85 @@
+# ============================================
+# FILA DE PROCESSAMENTO GEODE V2.5
+# ============================================
+# Esta é a ÚNICA fonte de verdade do sistema
+# Todas as opções do script leem desta fila
+# Ferramentas são REMOVIDAS automaticamente após processamento
+# ============================================
+
+# FORMATO:
+# Nome da Ferramenta | Categoria
+# 
+# Categorias válidas: atendimento, marketing, produtividade, vendas
+# ============================================
+
+# ============================================
+# FERRAMENTAS PENDENTES (47 restantes)
+# Ordem de processamento (prioridades primeiro)
+# ============================================
+
+# === PRIORIDADES (TOP 5 - Processar primeiro) ===
+Notion | produtividade
+
+# === SECUNDÁRIAS (TOP 10) ===
+ClickUp | produtividade
+Zapier | produtividade
+Monday.com | produtividade
+Asana | produtividade
+Trello | produtividade
+
+# === ATENDIMENTO (8 ferramentas) ===
+Intercom | atendimento
+Octadesk | atendimento
+Respond.io | atendimento
+Take Blip | atendimento
+Tidio Chat | atendimento
+Typebot | atendimento
+Wati WhatsApp | atendimento
+Zendesk Service | atendimento
+
+# === MARKETING (14 ferramentas) ===
+Canva Pro | marketing
+Copy.ai | marketing
+Descript | marketing
+ElevenLabs | marketing
+Gamma App | marketing
+HeyGen AI | marketing
+InVideo AI | marketing
+Jasper AI | marketing
+Leadster | marketing
+Leonardo AI | marketing
+Midjourney | marketing
+mLabs | marketing
+Opus Clip | marketing
+Trakto Design | marketing
+
+# === PRODUTIVIDADE (8 ferramentas restantes) ===
+Bitrix24 | produtividade
+Conta Azul | produtividade
+Fireflies AI | produtividade
+Make.com | produtividade
+Otter AI | produtividade
+Pipefy | produtividade
+Slack | produtividade
+tldv.io | produtividade
+
+# === VENDAS (11 ferramentas) ===
+Apollo.io | vendas
+Clay AI | vendas
+Close CRM | vendas
+Freshsales CRM | vendas
+Kommo CRM | vendas
+Meetime | vendas
+Moskit CRM | vendas
+Ploomes | vendas
+Salesforce Starter | vendas
+Snov.io | vendas
+Zoho CRM | vendas
+
+# ============================================
+# INSTRUÇÕES DE USO:
+# 1. Execute: python scripts/gerador_artigos_v2.py
+# 2. Escolha opção 1 (5 ferramentas), 2 (1 ferramenta) ou 3 (específica)
+# 3. Script processa e REMOVE automaticamente da fila
+# 4. Continue até esvaziar a fila (51 → 0)
+# ============================================
