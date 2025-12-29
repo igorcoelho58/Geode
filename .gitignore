@@ -36,3 +36,4 @@ desktop.ini
 # Arquivos de backup
 *_backup.*
 *.old
+__pycache__/
