@@ -1,0 +1,397 @@
+VÍDEO #3
+======================================================================
+Título: Best CRM Software 2026? Notion vs Airtable vs folk vs Copper vs Pipedrive vs HubSpot vs Salesforce
+URL: https://youtube.com/watch?v=A6fthJXJX-w
+Idioma: en
+Tamanho: 14832 caracteres
+Data Coleta: 27/12/2025 12:17
+======================================================================
+
+I'll cover the Crums you shouldn't use
+like notion or air table and the Crums
+you should consider like copper or
+[Music]
+folk here at aish app we've worked with
+hundreds of businesses over the past
+decade to help them set up and Implement
+their CRM and we also have tens of
+thousands of visitors coming to our
+website with people looking for software
+advice so I promise you we will not lead
+you astray we're confident that you're
+going to walk away from this video
+knowing exactly which CRM you should use
+especially if your team size is between
+1 to 300 and stay until the end of the
+video to hear one of the most common
+mistakes that people make when setting
+up their CRM all right let's get into it
+before we get super deep into it let's
+cover what a CRM should be used for and
+you're going to see why I'm covering
+this in just a moment so a CRM is used
+to manage your business relationships
+this can be anything from your leads to
+your prospects to your vendors to your
+colleagues to Partnerships and a CRM
+should be the central Hub of
+communication for your business meaning
+that it should ingest all of your team's
+communication with all the different
+people that your business is interacting
+with in one central place if you have
+worked in sales and you've ever
+contacted the same person twice and
+they've replied back and said someone
+from your team just messaged me
+yesterday you know how unprofessional
+that is and that often is the result of
+a team that's not using a CRM or at
+least not using it properly so when
+you're choosing a CRM you want to make
+sure that they're doing all of those
+things that I mentioned out of the box
+at the very minimum okay so which CRM
+should you use now I know I know there's
+so much hype around air table and
+especially noce but you're going to see
+in just a moment why they don't make for
+great crms well the first reason why air
+table and notion don't make for great
+crms is because neither tool will
+automatically ingest your team's emails
+into the CRM this means that that super
+basic feature of a customer relationship
+management tool of centralizing your
+communication is totally missed when
+using air table or notion this also
+means that you're missing out on
+important information like which hot
+lead you should follow up with next
+because in a traditional CRM you'll be
+able to see how many interactions you
+had with someone when the last
+interaction was when they last opened
+your email are they opening your emails
+but all of this data is missed out if
+you're using air table or notion okay
+and as a side note I have to address
+this because I know there's some of you
+watching that are going to say hey Andre
+you know you can set up an integration
+with make or zappier to ingest all of
+your emails if you're using notion or
+air table as a CRM instead of explaining
+the Myriad of reasons why we think this
+is a bad idea pause this video to see
+our responses to some of these comments
+in a previous video reason number two of
+why you shouldn't use air table or
+notion as a CRM is because they weren't
+built to be a CRM Z notion is a
+knowledge base not a CRM air table is
+first and foremost a database which
+means it helps you add more structure to
+your data so think of it as a
+replacement for a spreadsheet like
+Google Sheets or Excel which by the way
+if you're using Google Sheets or Excel
+as a CRM please don't do that either and
+just keep watching this video for our
+recommendations of what to use instead
+the tools that we'll talk about in a
+second we're built to be first and
+foremost customer relationship
+management tools which means all of
+their features actually fit Under the
+Umbrella of being great crms their
+entire company is dedicated to building
+the best tool to help you manage
+relationships so with air table or
+notion you might get excited because
+you're thinking wow these tools are
+super flexible so I can actually built
+my dream CRM for my company but what
+happens in that case is you end up
+turning into a product manager you are
+now building a CRM instead of actually
+just using a CRM that was built now this
+is especially problematic if you're a
+business owner because my bet is your
+time is way better spent actually doing
+sales or training your team to do better
+sales rather than than building a
+software tool especially if your
+business has nothing to do with building
+customer relationship management tools
+okay so now that we've gotten the tools
+that we don't recommend you using out of
+the way let's talk about the tools we do
+recommend PS if you've learned something
+so far please like And subscribe it just
+supports us and it allows us to make
+more content like this okay so let's
+talk about folk folk is a fantastic CRM
+if you are an individual or a small team
+that is really focused on contact
+management and building relationships if
+you clicked on this video and you are
+even remotely considering using notion
+or air table as a CRM folk is going to
+be our top recommendation for you and
+that's because the tool is actually
+built similar to a database structure it
+actually allows you to bulk update
+fields and edit data in line just like
+you would in a spreadsheet or a database
+so with all of that it's going to feel
+the most familiar all while having those
+really powerful CRM features built in
+setting up folk is is incredibly easy
+they have dozens of pre-built templates
+that you can use for different processes
+that are basically just plug-and-play so
+with folk you really have a great
+Foundation out of the gate it also has a
+beautiful minable interface and great
+design which we love one of my favorite
+features when it comes to folk is how
+easy it is to add contacts I'd say folk
+is probably the friendliest CRM when it
+comes to adding contacts into the tool
+they have a Chrome extension and once
+you've installed it there's a button
+that appear years whether you're in
+Gmail LinkedIn or X that says add to
+folk and you literally have it
+integrated with all of these tools right
+there done for you once you've added the
+contact to folk you can use their inrich
+feature which helps you more easily find
+the right email address or their job
+title or their phone number Etc if you
+want to bulk email a group of contacts
+folk will allow you to do that and you
+can also set reminders to follow up with
+people one-on-one specifically honestly
+for sales teams especially sales teams
+that aren't using a CRM at all folk will
+feel like a game changer another cool
+thing about folk is that they're
+experimenting with some AI features to
+help improve your experience within the
+tool while it still has a way to go it's
+far from perfect you can experiment with
+it by inserting your own prompts and
+different variables where this could
+come in handy is if you want to use the
+AI feature to generate an email that
+you're going to bulk send to a bunch of
+people or a social media DM while the
+drafts aren't perfect they will will
+help you get the ball rolling and at
+least get you start thinking perhaps in
+the right direction if you are a
+solopreneur or a small team that is
+really wanting just a structured tool to
+help you better manage your contacts and
+relationships would highly recommend
+folk it's great for fundraising basic
+Recruitment and just managing all of
+your relationships in one place to give
+folk a shot use our affiliate link down
+in the description below and if you
+decide to upgrade then you can also use
+our partner code to get a discount on
+your first year so what if you're a team
+that's looking for a CRM that goes
+beyond contact management something that
+will be really powerful when it comes to
+Integrations reporting and workflow
+automations in this case you might want
+to consider copper or pipe Drive we've
+been a partner with copper for over
+eight years we're actually their first
+Integrations partner you're going to
+find with copper they're a more
+traditional CRM you're going to have
+your typical structure of your leads
+your people your companies and your
+opportunities like for example if you
+want a more simple to use alternative to
+HubSpot or Salesforce then copper or
+pipe Drive are going to be two really
+great choices now as a heads up copper
+only works with Google workspace and
+that is our Preferred Choice because we
+love Google workspace but if you are on
+Microsoft 365 then definitely check out
+pipe Drive they are very similar and in
+this video while I'll mainly talk about
+copper because it's what we use more so
+here just replace copper with pipe drive
+because they're very similar in their
+functionality we recommend that teams
+use copper that are looking to really
+map their processes out to a CRM so this
+means that you first of all know your
+processes or you're on your way to
+knowing your processes really well and
+you're looking for a powerful CRM that
+can really serve as the foundation for
+you to integrate other tools with it
+like for example your invoicing software
+like zero or QuickBooks or your
+Voiceover IP like Dad or air call or E
+signature tools like panad do or
+Ironclad like if you're looking for a
+central tool that can integrate well
+with all these thirdparty tools then
+copper is a really awesome Choice we've
+seen a lot of agencies financial
+planners home service companies have
+great success with copper and I'm going
+to take you through an example of an
+entire workflow so you can really get a
+picture of what I'm talking about when I
+talking about Integrations so let's take
+a home services company they have a
+website and somebody fills out a form on
+their website well that form is
+integrated in with the CRM copper and
+all of their data appears in the lead
+section so the team knows to follow up
+you may also have automated emails going
+out to follow up with them as well from
+there they might automatically get sent
+a scheduling link where they can book in
+a home visit and then your team would go
+out assess if they're a qualified lead
+and if they are they would get converted
+into a person perhaps a company and an
+opportunity and from there you're going
+to take them through your sales process
+and perhaps one of those stages is to
+create a proposal if you're using
+something like panad do that integrates
+in with copper you're going to have a
+really easy time automatically pulling
+contact details for example straight
+from copper into panad do we've seen
+team Save hours when using panad do and
+copper together perhaps after you send
+out the proposal you want some automated
+follow-up emails to go out to that lead
+to make sure that they are viewing the
+proposal and to check in with them to
+see if they want a close and in a
+perfect world now they close so they've
+signed their e signature document and
+you want to send them an invoice you can
+move move one opportunity to the next
+stage that says invoice sent and an
+integration can automatically create
+that in your accounting software and
+send it off to them so hopefully this
+gives you a picture of what I'm talking
+about from start to finish the CRM being
+the foundation of all of this but you
+have these other tools integrated in so
+it makes a really seamless workflow
+experience for your team and also your
+customer another main difference between
+folk and copper is that copper has
+something called workflow automations
+and there's dozens uses for them you can
+create autotask so when a lead comes in
+a task is created for someone on your
+team or when an opportunity gets to a
+stage your team member gets assigned a
+bunch of tasks or you can autocreate an
+opportunity Etc there's honestly dozens
+of uses and finally if you're interested
+in reporting at all copper is going to
+be your best bet in this case because
+they have some pretty Advanced reporting
+capabilities now as long as you know
+your way around and know how to set it
+up all that being said if you want to
+give copper or pipe drive a shot then
+use the the link Down Below in our
+description and if you decide to go with
+copper and you use our affiliate link to
+sign up you'll receive our $1,200 copper
+crash course for free after your first
+paid month the course will cover our
+best practices to help you set up your
+CRM now if you're a very small team like
+under 300 employees using the CRM we
+don't recommend HubSpot or Salesforce
+because they can get very expensive very
+quickly you can check out this article
+where we go into a lot more detail on
+this and now for your bonus tip of where
+most people make a huge mistake when
+setting up and using their CRM a lot of
+the time we see that teams rely way too
+much on individual tasks to move things
+forward in the CRM when you assign
+yourself a task for every single contact
+for example or opportunity what happens
+is you typically have a bunch of overdue
+tasks and all of them are falling by the
+wayside so we encourage teams to think
+of their processes more in terms of
+groups of tasks rather than individual
+tasks so for example in a typical sales
+process you would have proposal sent or
+invoice sent and Within These stages you
+have within your process your business
+process documented all the steps that
+need to get done in order to move this
+opportunity to the next stage so this
+takes it from Individual tasks that are
+everywhere to groups of tasks that live
+under one stage in your CRM and this way
+you can also see at a top level an
+overview of where everything is in your
+process and another hot tip is when you
+set up your CRM this way it also leaves
+a great opportunity for automation
+because for example if you have a stage
+called invoice sent and you're doing
+that manually we can also use that in
+the future perhaps when you scale to
+trigger an integration with QuickBooks
+online or zero to automatically create
+and send that invoice for you come on
+that's pretty cool right yeah so as a
+summary for this video do not use air
+table or notion as your CRM you're going
+to spend way too much time configuring
+the CRM trying to train your team which
+will likely lead to poor or no adoption
+leaving you in the same place as you
+started let us save you the time and the
+hours of going down that path and
+instead just use a CRM a tool that was
+built for the job from the start they
+say if you're going to do something do
+it right and that's what you're going to
+be doing with either folk or copper
+because they're both great
+choices all right now that you know
+which CRM to use Maybe you're looking
+for a project management tool to help
+you get your work done more efficiently
+as well and if you are make sure that
+you check out this video over here where
+we go over our favorite PM tools and no
+we don't recommend notion or air table
+for that either if you found this video
+helpful we would very much appreciate a
+like And subscribe and if you have more
+CRM related questions please drop them
+down in the comments thank you for your
+time and attention see you in the next
+video done

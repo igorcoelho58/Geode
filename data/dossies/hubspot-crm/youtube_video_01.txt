@@ -1,0 +1,413 @@
+VÍDEO #1
+======================================================================
+Título: Tutorial do HubSpot CRM para Iniciantes (Atualizado 2025)
+URL: https://youtube.com/watch?v=rg0hlOzTc8w
+Idioma: pt
+Tamanho: 15163 caracteres
+Data Coleta: 27/12/2025 12:17
+======================================================================
+
+Fala meu amigo Fala minha amiga tudo bem
+seja muito bem-vindo a mais esse vídeo
+no canal a vendas onde a gente fala
+sobre ferramentas de vendas
+produtividade comercial e tudo que a sua
+empresa precisa para vender mais se você
+ainda não me conhece prazer meu nome é
+Mateus sou CEO e fundador da vendas
+especialista em vendas a mais de 10 anos
+e aqui nesse canal dedicado a gente fala
+sobre tudo que a sua empresa precisa
+para bater meta no vídeo de hoje a gente
+vai falar sobre o hubs spots RM os
+primeiros passos dentro da ferramenta
+como é que você pode configurar o
+usuário tarefas visão geral enfim como é
+que você vai engatinhar dentro desse
+treinamento tá lembrando esse vídeo faz
+parte de um treinamento específico
+falando sobre hubspot CRM o passo a
+passo completo Os demais vídeos você
+pode encontrar aqui nessa playlist
+indicada bom sem mais delongas do jeito
+que você gosta a gente vai diretamente
+pra tela do nosso computador aqui
+pessoal eu já tô dentro da área do
+hubspot tá e você consegue acessar ele
+colocando o seguinte link br.
+spot.com tá hubspot é uma solução de CRM
+ou seja dentro do hubspot eu consigo
+organizar toda a carteira do de clientes
+toda a minha carteira de clientes além
+de gerenciar todo o ciclo de vida útil
+dos meus clientes tá para você criar uma
+conta gratuita é muito simples Basta vir
+aqui no canto superior direito em crie
+uma conta grátis crie uma conta grátis
+bom eu já tenho uma conta criada dentro
+do hubspot mas para fins didáticos eu
+vou criar uma conta 100% nova uma conta
+não utilizada ainda tá para isso eu vou
+pegar um e-mail de um das meninas de um
+e-mail das meninas do meu
+time para fazer a criação para esse
+treinamento tá ele vai pedir a
+verificação de e-mail e aqui gente é só
+você seguir o passo a passo tá o Next
+next finish nesse caso aqui ele acabou
+de me enviar um link de verificação no
+e-mail eu vou fazer todo o processo de
+validação e volto com vocês na sequência
+bom já fiz a etapa de verificação e
+agora ele me pede para fazer a criação
+de uma senha eu venho aqui no próximo
+vou até guardar a minha palavra-chave tá
+eu vou colocar aqui também o nome da
+pessoa responsável e ele vai me pedir
+algumas informações tá basta você
+responder o questionário E você já vai
+est dentro da área de acesso do hubspot
+ele é muito fácil de configurar Tá eu
+vou passar essas etapas vou cortar o
+vídeo aqui e a gente volta dentro da
+ferramenta bom informações devidamente
+preenchidos o hubspot me traz três
+etapas aqui muito simples para terminar
+a configuração da minha conta tá
+primeiro escolha o que você precisa no
+CRM da hubspot aqui gente eu vou
+recomendar para que vocês selecionem
+vendas tá com base nisso ele já vai
+começar a construir o meu pipeline de
+vendas ele vai pedir o seguinte Tá o que
+que você quer fazer com o hubspot você
+quer rastrear o pipeline de vendas você
+quer gerenciar clientes existentes
+gerenciar prospects e tudo mais aqui
+você pode selecionar a opção que melhor
+lhe servir e clicar em aplicar modelo tá
+Depois a gente vai fazer a configuração
+passo a passo dessas informações o passo
+número dois é adicionar um contato aqui
+é muito simples Tá eu vou colocar um
+contato de teste só para vocês
+entenderem junto
+comigo como
+funciona a inserção de dados tá aqui ele
+vai pedir só um contato de teste e eu
+vou dar um
+continuar tá terceira etapa é para você
+inserir né um segundo usuário a gente
+vai falar um pouquinho mais disso a
+respeito tá nesse momento a gente não
+precisa fazer pode clicar aqui em
+ignorar farei isso mais tarde agora ele
+tá concluindo a configuração da minha
+conta hubspot e com os toques finais
+agora eu já estou sendo direcionado pra
+minha página principal da
+ferramenta bom essa aqui é a carinha
+inicial do do hubspot logo que você loga
+pela primeira vez você tá dentro do
+módulo chamado negócio você tá no módulo
+chamado negócios para você talvez a
+visualização esteja diferente tá perceba
+que aqui eu tenho um formato de cban Ou
+seja eu posso pegar esse Card eu posso
+pegar esse negócio e arrastar ele para
+onde eu quiser tá para você configurar
+isso você vai clicar aqui nessa opção ó
+exibir negócios no quadro se para você
+tiver aparecendo em formato de lista ele
+vai aparecer dessa forma tá o formato de
+quadro formato cban ele é muito mais
+fácil de ser configurado é muito mais
+fácil de ser visualizado também etapa a
+etapa na nossa próxima aula no nosso
+próximo vídeo a gente vai falar sobre a
+configuração de cada uma dessas etapas
+alinhadas ao teu modelo de negócio tá
+aqui eu vou trazer uma visão Inicial
+sobre o hubspot logo na lateral esquerda
+nessa Tarja escura a gente consegue
+identificar algumas opções então por
+exemplo a gente consegue identificar
+espaços de trabalho a gente consegue
+identificar opções de CRM incluindo
+contato empresas negócios tickets
+tarefas caixa de entrada entre outros tá
+a gente vai detalhar um pouco melhor a
+respeito disso a gente vai falar também
+sobre marketing então campanhas de
+e-mail formulários anúncios a gente vai
+falar também sobre conteúdos
+principalmente construção de Landing
+pages como é que você pode construir uma
+página de vendas utilizando hubspot
+Descendo um pouquinho mais a gente tem
+comércio onde a gente pode importar
+produtos a gente pode fazer orçamentos e
+também gerenciar assinaturas recorrentes
+de clientes tá esse ponto ele é bem
+importante pessoal porque ele tá
+disponível somente em algumas
+localidades e também em algumas moedas
+tá descendo um pouquinho mais a gente
+tem automações lembrando vocês vão ver
+aqui algumas automações e algumas delas
+estão com esse ícone laranja do lado tá
+sempre que a sua funcionalidade tiver
+esse ícone laranja significa que isso
+faz parte do plano pago ou seja você não
+tem acesso a isso nesse momento tá você
+não consegue utilizar isso nesse momento
+no plano gratuito Descendo um pouquinho
+mais a gente tem a construção de painéis
+e relatórios isso aqui é fantástico a
+gente vai ter uma aula específica para
+falar sobre isso como coletar e extrair
+esses dados de vendas Descendo um
+pouquinho mais a gente tem gerenciamento
+de dados e por último não menos
+importante a gente tem a biblioteca de
+armazenamento de informações beleza pra
+gente começar que que eu quero que você
+faça a gente vai fazer uma configuração
+básica uma configuração padrão pra gente
+poder sair do lugar dentro do hubspot tá
+para isso vocês vão clicar aqui nessa
+engrenagem no canto superior da tela tá
+clicando na engrenagem ele vai aparecer
+para mim todas as configurações
+necessárias dentro do hubspot tá a
+primeira delas que a gente vai clicar é
+aqui em suas preferências configura
+geral tá aqui dentro pessoal para quem
+gosta de fuçar quem gosta de mexer tá
+aqui tudo que diz respeito ao usuário
+então a gente consegue ter perfil e-mail
+chamadas calendário tarefas e outro tá
+que que eu vou pedir para vocês fazerem
+a primeira alteração primeira delas vai
+ser aqui em tarefas tá primeira
+configuração vai ser aqui em tarefas por
+padrão gente o hubspot ele sugere que
+sempre que você finalize uma tarefa com
+um determinado cliente você você crie
+uma próxima tarefa de forma automática
+com vencimento para três dias às 8 da
+manhã tá o que que eu vou fazer eu vou
+manter os três dias aqui eu vou alterar
+o meu horário pras 9 da manhã que é o
+horário que geralmente o meu prospecto
+tá online tá disponível para falar
+conosco e aqui em lembrete eu vou
+colocar na hora do vencimento da tarefa
+Por que disso tá sempre que eu tiver uma
+tarefa próxima a vencer tá sempre que
+tiver uma tarefa na hora do vencimento
+uma tarefa a executar o hubspot vai me
+mandar um e-mail com os informativos de
+data hora cliente detalhes da tarefa a
+ser executadas tá E todos os dias sempre
+no período da manhã o rpot manda para
+você também a sua lista de tarefas do
+dia Então essa é a primeira configuração
+que a gente vai fazer fiz as
+configurações cliquei aqui em salvar a
+segunda configuração é em e-mail tá você
+vai clicar aqui em e-mail e você pode
+conectar a sua caixa de e-mail para ter
+a rastreabilidade de todos os e-mails
+disparados seja dentro ou fora do
+hubspot dentro aqui da ferramenta tá
+para isso basta você clicar em conectar
+e-mail pessoal e ativar a automação da
+caixa de entrada feito isso é só clicar
+em Connect a sua caixa ele já traz aqui
+para mim o endereço de e-mail no qual eu
+fiz o cadastro na conta hubspot e eu
+posso dar um próximo tá se o meu e-mail
+tá hospedado no Google ou na Microsoft o
+que que ele vai pedir ele vai pedir para
+eu fazer uma conexão direta com o Google
+tá para isso posso clicar aqui em
+conectar com Gmail continuar e ele já
+vai me levar para uma outra tela tá
+nessa outra tela eu vou selecionar o
+e-mail responsável Vou digitar aqui a
+senha e eu vou ter o meu e-mail
+conectado na sequência bom e se você não
+é inscrito ainda nesse canal não se
+esquece faz sua inscrição nesse canal
+compartilha esse vídeo com o máximo de
+pessoas que você conhece não se esquece
+de deixar o seu like aqui bora pro vídeo
+com o e-mail conectado pessoal eu não
+preciso me preocupar tá todos os e-mails
+disparados dentro do hubspot ou fora do
+hubspot vão ser registrados aqui dentro
+desde que obviamente estejam vinculados
+a essa caixa de e-mail tá então eu
+consigo ter a rastreabilidade de toda a
+comunicação que eu faço com os meus
+clientes dentro aqui do hubspot uma
+coisa que você pode fazer é descer um
+pouquinho mais aqui e clicar em editar
+assinatura de e-mail tá para você
+inserir a sua assinatura de e-mail todos
+os e-mails disparados de dentro do
+hubspot vão sair automaticamente com a
+sua assinatura aqui tá sua assinatura
+vai ser disparada aqui basta eu colocar
+a minha assinatura e clicar em salvar
+logo na sequência essa é a primeira
+configuração que eu deixo para vocês tá
+a segunda gente a gente vai descer aqui
+um pouquinho mais e vai clicar em
+padrões de contas aqui do lado esquerdo
+tá aqui em padrões de contas a gente vai
+fazer uma alteração super importante que
+é a alteração de moeda tá por padrão o
+hubspot traz todas as negociações em
+dólar tá se for o seu caso se você
+negocia pro mercado de fora não tem
+problema você pode deixar a negociação
+em dólar mas no meu caso aqui eu vou
+clicar em ações editar moeda da empresa
+eu vou colocar aqui o BRL que é o real
+brasileiro e vou dar um continuar salvar
+tá a a partir daí todas as minhas
+negociações vão ser salvas em real então
+eu não preciso me preocupar também com
+relação à conversão de moeda isso também
+não vai impactar no meu relatório de
+vendas nas minhas produtividades
+comerciais ainda na parte de
+configurações por último e não menos
+importante Talvez você queira convidar
+vendedores amigos gerentes para fazer
+parte do hubspot junto com você para
+isso basta você clicar aqui do lado
+esquerdo em usuários e equipes Tá
+clicando aqui em usuários e equipes ele
+vai trazer para mim Quais são os
+usuários
+ativos e disponíveis paraa utilização do
+hubspot para você criar um novo usuário
+basta você vir aqui do lado direito
+nesse botão laranja criar
+usuário Tá eu vou até me mover um
+pouquinho para cima aqui para facilitar
+a visualização de vocês boa ficou melhor
+você pode clicar em convite rápido ou
+convite personalizado no no caso do
+convite rápido pessoal ele vai criar um
+perfil de usuário com as configurações
+previamente definidas pelo sistema no
+caso do convite personalizado eu consigo
+separar tá Quais são os níveis de
+restrição de acesso de um determinado
+usuário então se você precisa criar um
+usuário
+administrador Eu recomendo que você
+Clique em convite rápido ele é bem
+rápido mesmo você coloca o e-mail da
+pessoa aqui tá e enviar convite se se eu
+desmarcar essa caixa criar super
+administrador ele não vai criar um
+administrador se eu clicar nessa caixa
+ele vai criar um administrador feito
+isso é só enviar o convite tá agora se
+eu preciso de restrições de acesso
+específicas se eu preciso de restrições
+de acesso específicas eu venho em criar
+usuário convite personalizado aqui aqui
+em convite personalizado eu posso aqui
+em próximo e fazer a seleção
+né de quais os as permissões ó clicando
+em começar do zero escolher permissões
+eu posso escolher Quais são as
+permissões que esse usuário vai ou não
+ter dentro do negócio por exemplo no
+módulo de negócios né se eu quero por
+exemplo que o usuário Mateus ele não tem
+acesso ao usuário da Maria tá eu venho
+aqui embaixo ó Nessa opção exibir aqui
+onde eu tô passando o mouse e ele vai
+expandir a tela para mim tá então Ó eu
+só quero exibir os negócios que o Mateus
+possui não eu quero exibir todos os
+negócios eu quero exibir só os negócios
+que a equipe dele possui tá nesse caso
+aqui por padrão ele traz somente os meus
+negócios tá no caso da exclusão por
+exemplo eu posso colocar para que ele
+não exclua nenhum negócio tá porque aqui
+ele traz até um alerta crítico né Então
+nesse caso o meu vendedor ele pode ver
+os negócios dele ele pode editar os
+negócios dele ele pode aprovar os
+negócios dele se eu checar aqui na
+caixinha Tá mas ele não pode excluir
+nenhum negócio então eu consigo
+parametrizar de acordo com a regra de
+negócio de acordo com o modelo da da
+minha empresa de acordo com o modelo que
+os meus vendedores trabalham todos os
+meus usuários aqui dentro finalizada a
+configuração basta você dar um próximo e
+o convite vai ser disparado no e-mail
+correspondente do seu vendedor para que
+ele tenha acesso tamb também ao hubspot
+com as configurações finalizadas e os
+usuários devidamente criados agora eu
+posso clicar aqui em CRM e voltar pro
+meu módulo de negócios onde eu vou ter a
+administração de todos os meus leads
+todos os meus contatos todas as empresas
+nas quais eu trabalho dentro do meu
+pipeline tá uma recomendação super
+importante que eu gosto de trazer para
+vocês até mesmo como uma boa prática tá
+aqui dentro da nossa operação gente a
+gente costuma utilizar o hubs Sport
+dessa forma a gente tem em uma aba o
+módulo de negócios e em outra aba eu vim
+aqui em tarefas vou clicar com o botão
+direito Abrir em um novo separador Abrir
+em uma nova aba tá por aqui eu consigo
+administrar todos os meus negócios e ter
+uma gestão
+visual de todos os meus prospectos e na
+outra aba na outra aba eu consigo
+visualizar Quais são as tarefas que eu
+tenho para executar naquele dia naquela
+semana Quais foram as tarefas que
+venceram a gente vai ter uma aula
+específica só para falar sobre tarefas
+tá então como boa prática que eu quero
+trazer aqui para você é utilize ele em
+duas Abas sendo um módulo de negócios e
+também um módulo de tarefas e se você
+quer aprender como é que você pode
+transformar o seu processo comercial
+numa máquina de geração de leads E
+agendar reuniões falar com clientes que
+realmente podem comprar de você todo
+santo dia eu tenho um convite para te
+fazer o meu treinamento do Sistema
+básico de prospecção já tá disponível
+vou deixar o qrcode aqui na tela o
+treinamento 100% prático e o link vai
+ficar na descrição desse vídeo Bom Essa
+foi só a primeira aula onde a gente
+desbravou e deu os primeiros passos
+dentro da plataforma do hubspot qualquer
+dúvida que você tiver só colocar aqui
+nos comentários Eu prometo responder
+individualmente um a um e eu te vejo nas
+próximas aulas é só seguir o link dessa
+playlist aqui para você ter acesso as
+demais informações grande abraço e até a
+próxima

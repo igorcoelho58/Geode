@@ -1,0 +1,111 @@
+{
+  "ferramenta": "Pipedrive CRM",
+  "categoria": "vendas",
+  "data_coleta": "27/12/2025 12:25",
+  "site": {
+    "homepage": {
+      "url": "https://www.pipedrive.com/",
+      "coletado": true,
+      "tamanho": 13764
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": "https://www.pipedrive.com/features",
+      "coletado": true,
+      "tamanho": 9691
+    },
+    "about": {
+      "url": "https://www.pipedrive.com/about",
+      "coletado": true,
+      "tamanho": 6491
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 8,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "en",
+      "pt",
+      "es"
+    ],
+    "videos": [
+      {
+        "titulo": "O que é Pipedrive? Como Funciona e Vale a Pena em 2025?",
+        "url": "https://youtube.com/watch?v=J2vicHERoZs",
+        "idioma": "pt",
+        "status": "sucesso",
+        "tamanho": 4901,
+        "erro": null
+      },
+      {
+        "titulo": "Pipedrive ST v2503",
+        "url": "https://youtube.com/watch?v=h5HIgs9H9kc",
+        "idioma": "pt",
+        "status": "sucesso",
+        "tamanho": 24068,
+        "erro": null
+      },
+      {
+        "titulo": "PIPEDRIVE CRM PARA INICIANTES - Tutorial Completo e Atualizado!",
+        "url": "https://youtube.com/watch?v=0LO3GNp4nRk",
+        "idioma": "pt",
+        "status": "sucesso",
+        "tamanho": 23796,
+        "erro": null
+      },
+      {
+        "titulo": "Ultimate Guide  Getting started with Pipedrive (Video #1)",
+        "url": "https://youtube.com/watch?v=K0sUCkFUr-U",
+        "idioma": "en",
+        "status": "sucesso",
+        "tamanho": 42473,
+        "erro": null
+      },
+      {
+        "titulo": "Pipedrive CRM en Español para mi negocio - review de 5 razones por las cuales elegí Pipedrive",
+        "url": "https://youtube.com/watch?v=yg9LA88eRco",
+        "idioma": "es",
+        "status": "sucesso",
+        "tamanho": 6011,
+        "erro": null
+      },
+      {
+        "titulo": "PipeDrive CRM Review - 2025 | Is PipeDrive Really Worth It? (As A Business Owner)",
+        "url": "https://youtube.com/watch?v=JknbkxD3skU",
+        "idioma": "en",
+        "status": "descartado",
+        "tamanho": 1203,
+        "erro": null
+      },
+      {
+        "titulo": "Key Features",
+        "url": "https://youtube.com/watch?v=ipkRIZbrxtU",
+        "idioma": "en",
+        "status": "descartado",
+        "tamanho": 434,
+        "erro": null
+      },
+      {
+        "titulo": "Why trust us?",
+        "url": "https://youtube.com/watch?v=JTHFTryAwSU",
+        "idioma": "en",
+        "status": "descartado",
+        "tamanho": 1075,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 29946,
+    "total_chars_youtube": 101249,
+    "paginas_coletadas": 3,
+    "videos_encontrados": 8,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "ferramenta": "HubSpot CRM",
+  "categoria": "vendas",
+  "data_coleta": "27/12/2025 12:17",
+  "site": {
+    "homepage": {
+      "url": "https://www.hubspot.com/",
+      "coletado": true,
+      "tamanho": 5000
+    },
+    "pricing": {
+      "url": "https://www.hubspot.com/pricing/sales",
+      "coletado": true,
+      "tamanho": 32
+    },
+    "features": {
+      "url": "https://www.hubspot.com/product",
+      "coletado": true,
+      "tamanho": 22601
+    },
+    "about": {
+      "url": "https://www.hubspot.com/about",
+      "coletado": true,
+      "tamanho": 5421
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 9,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "en",
+      "pt",
+      "es"
+    ],
+    "videos": [
+      {
+        "titulo": "Tutorial do HubSpot CRM para Iniciantes (Atualizado 2025)",
+        "url": "https://youtube.com/watch?v=rg0hlOzTc8w",
+        "idioma": "pt",
+        "status": "sucesso",
+        "tamanho": 15163,
+        "erro": null
+      },
+      {
+        "titulo": "What is HubSpot? How does it work? 🤔 EVERYTHING YOU NEED TO KNOW IN JUST 4 MINUTES 😎",
+        "url": "https://youtube.com/watch?v=j5BdVDxKwk0",
+        "idioma": "pt",
+        "status": "sucesso",
+        "tamanho": 22422,
+        "erro": null
+      },
+      {
+        "titulo": "Best CRM Software 2026? Notion vs Airtable vs folk vs Copper vs Pipedrive vs HubSpot vs Salesforce",
+        "url": "https://youtube.com/watch?v=A6fthJXJX-w",
+        "idioma": "en",
+        "status": "sucesso",
+        "tamanho": 14832,
+        "erro": null
+      },
+      {
+        "titulo": "HubSpot CRM Tutorial for Beginners",
+        "url": "https://youtube.com/watch?v=Ihu9rr1wRa0",
+        "idioma": "en",
+        "status": "sucesso",
+        "tamanho": 13876,
+        "erro": null
+      },
+      {
+        "titulo": "Reseña de HubSpot CRM Gratis 2025 | Funciones Freemium y Limitaciones para Pequeñas Empresas",
+        "url": "https://youtube.com/watch?v=jPihVScbFJQ",
+        "idioma": "es",
+        "status": "sucesso",
+        "tamanho": 10372,
+        "erro": null
+      },
+      {
+        "titulo": "What is HubSpot? How does it work? 🤔 EVERYTHING YOU NEED TO KNOW IN JUST 4 MINUTES 😎",
+        "url": "https://youtube.com/watch?v=8GCQMiLBxFk",
+        "idioma": "pt",
+        "status": "descartado",
+        "tamanho": 767,
+        "erro": null
+      },
+      {
+        "titulo": "Overview",
+        "url": "https://youtube.com/watch?v=l8_2ntOAIWc",
+        "idioma": "pt",
+        "status": "descartado",
+        "tamanho": 822,
+        "erro": null
+      },
+      {
+        "titulo": "HubSpot Review: As Good as They Say? All the Pros, Cons \\u0026 Pricing Info you Need to Know",
+        "url": "https://youtube.com/watch?v=TTjNI7NWiKM",
+        "idioma": "en",
+        "status": "descartado",
+        "tamanho": 635,
+        "erro": null
+      },
+      {
+        "titulo": "Email marketing",
+        "url": "https://youtube.com/watch?v=VlPQUgzkhZs",
+        "idioma": "en",
+        "status": "descartado",
+        "tamanho": 1194,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 33054,
+    "total_chars_youtube": 76665,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 9,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

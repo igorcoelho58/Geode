@@ -1,0 +1,1161 @@
+VÍDEO #4
+======================================================================
+Título: Ultimate Guide  Getting started with Pipedrive (Video #1)
+URL: https://youtube.com/watch?v=K0sUCkFUr-U
+Idioma: en
+Tamanho: 42473 caracteres
+Data Coleta: 27/12/2025 12:25
+======================================================================
+
+hello my name is Paul Meiners welcome to
+another one of my pipedrive training
+videos in this video I'm going to give
+you a getting started guide on how to
+begin using pipedrive this video is
+really intended for anyone that is still
+new to pipedrive and not sure where to
+start in terms of customizing your
+account or how to use this tool on a
+daily basis so I'm going to be covering
+some of that in this video and I'm also
+going to give you an overview of the
+different tools and features available
+in pipedrive so that you understand what
+this tool can do but if you would like
+to go into any of these features or
+Topics in more detail then click the
+link above to look at my pipedrive
+training playlist on YouTube I have
+loads of videos covering how to get the
+most out of pipedrive if you have any
+questions at the end of this video
+please leave me a comment below and if
+you would like one-on-one help with
+setting up your pipedrive account
+automating your sales process and
+training your team on how to use this
+tool to its best ability and close more
+deals then click the link in description
+below to learn more about my pipedrive
+Consulting options now to begin this
+video let me explain what pipedrive is
+so you can decide if it's the right tool
+for you and I'll explain how it's a
+little bit different to other sales crms
+on the market like Salesforce Monday and
+HubSpot
+so first and foremost pipedrive is what
+I would call a sales CRM it's a tool
+that you can use to track the different
+sales opportunities or what we call
+deals through the various stages of a
+sales process and on that deal you can
+store everything related to the sale you
+can put your notes you can create
+activities to remind you when to follow
+up and you can see your email
+communication with the people you're
+selling to when you use pipedrive
+correctly I think it can help you to
+close more deals and generate more
+revenue for your business because you
+are following up in a more efficient and
+timely manner and you're not letting
+good sales opportunities get missed or
+fall through the cracks I've been using
+pipedrive since 2015 when I started
+using it I was working in mortgages and
+then I became a pipe rev consultant and
+took my business full time and I've been
+using it to run my Consulting business
+ever since we actually don't consult on
+any other CRM because we use pipedrive
+every single day it's what we know
+really well and quite honestly we think
+it's the best pipedrive is what I would
+call my source of truth it's where I of
+course manage all my sales opportunities
+but it's also my master contact list so
+every client I've ever worked with but
+also just other professional contacts
+that I'm in touch with I put all of
+those people in pipedrive so I can
+manage all of my important relationships
+in one place in terms of how pipedrive
+is different to other crms on the market
+of course I'm a little bit biased but I
+think pipedrive is simple and easy to
+use and a lot of the clients we work
+with agree I also think it's quite a lot
+more affordable than a lot of other crms
+and check out this video I'll link above
+to look at my video on pricing and the
+different pricing packages and add-ons
+for pipedrive pipedrive was originally
+designed by sales people who were
+frustrated with the crms on the market
+and they designed pipedrive for sales
+people with the emphasis on making it
+easy to use because if sales people like
+and enjoy using the CRM they're more
+likely to keep it up to date and the
+tool is more useful but that's enough
+talking for now let's get into it and
+let's have a look at how to get started
+with pipedrive so here I am logged into
+my demo account of pipedrive and at the
+moment I'm on the main deals page here's
+the sidebar here's the navigation here
+I'm just on the deals screen at the
+moment and I'm looking at all of the
+different deals or sales opportunities
+and I can see where they are at in my my
+sales process I'm going to come back to
+that to explain the navigation options
+on the left here at the top we have the
+leads inbox this is where I can upload
+for example a spreadsheet of prospects
+or leads that I want to cold call or
+reach out to you know I haven't yet
+qualified these people yet and I need to
+qualify them before I convert them into
+deals
+I could also use some of pipedrive's uh
+lead booster features here like live
+chat chatbot and web forms and I can
+feed leads from my website directly into
+my pipedrive account
+so that's the leading box we also have
+like I showed you before the deal
+pipeline I can see the qualified sales
+opportunities and where they're at in my
+sales process and I can set up multiple
+pipelines for different types of Revenue
+or different sales Journeys for my
+business pipedrive also has a projects
+add-on this is where I could create
+projects to manage what we need to do
+after we win a deal so for actually you
+know delivering our product or service I
+can create and manage projects in here
+I can also create and send marketing
+campaigns so instead of having to
+connect third-party tools like MailChimp
+or activecampaign I could actually do my
+marketing from here
+we have the inbox or mail inbox where I
+can see my email my connected Google or
+my Microsoft account and I can see email
+that's coming in and syncing with
+pipedrive
+we have the activities list this is
+where I can see what activities I have
+due today for the deals and leads that I
+need to follow up on
+we have an area for contacts this could
+be either people or organizations that
+I'm selling to this is where I can see
+everyone in my database and and access
+important contact information
+on the insights tab I can view
+dashboards I can create reports to
+report on how my sales team are
+performing I can understand our
+conversion rates and why we're why we're
+winning or losing deals
+in the products tab I can set up my
+products for the various products or
+services that we offer which I can then
+attach to my deals and then we have this
+Marketplace tab where I can connect
+other third-party software to my
+pipedrive account and a couple more
+options here in the more options menu
+next I'm going to explain how
+information is organized in pipedrive
+and this is where maybe pipedrive is a
+little bit different to other crms
+you've possibly used in the past so on
+the deals page here we can see the
+different deals or again think of them
+as sales opportunities that we're
+working on now if I open one of these
+deals we're on the deal page here and on
+the left I can see the contact person
+and the organization that this deal is
+linked to now some crms work a little
+bit differently where you have a contact
+person and the contact person themself
+is the lead or is the sales opportunity
+and so you simply create a contact and
+just specify that it's a lead with
+pipedrive it's different you create a
+lead or a deal in this case and you link
+that deal to a person and to an
+organization and it's important to
+understand how contacts and
+organizations and deals are linked
+together because it creates a bit of a
+hierarchy
+for example I have apple here so apple
+is an organization that we are selling
+to or in this case I've labeled them as
+a customer
+and down here on my sidebar I can see
+the different people or employees that
+work at Apple so I can go here to Tim
+Cook and now I'm on the contact page for
+Tim Cook I can see the name up here I
+can see all of Tim's contact information
+and details and if I scroll down I can
+see that Tim is linked to the Apple
+organization
+and any notes I put on here activities I
+log like these ones or emails that I
+send to Tim Kirk anything I do on this
+contact will actually get summarized at
+the organization level so if I go back
+to the organization here you can see
+this timeline where I can see activities
+some of them here are linked to Tim Cook
+some are linked here one to Johnny Ive a
+couple more to Johnny and if I scroll
+down
+I can see some notes Here linked with
+you know this Tim Cook deal so at the
+organization level I can see all of the
+notes emails and activities that are
+associated with any of those contacts
+and because everything is linked I get
+this nice big sort of 10 000 foot view
+of all of our activity and interactions
+with the company here on the
+organization level and at the top here I
+can see the different deals that we have
+linked with Apple so I could actually
+have multiple deals or sales
+opportunities running simultaneously for
+an organization
+so if I go to this Tim Cook Apple deal
+here again I can see the deal is linked
+to Tim and the Apple organization and so
+again any notes any activities any
+emails I put here on this deal will all
+show up both on the Tim Cook contact and
+the Apple organization
+and if I go back to Apple now if I go to
+the Johnny Ive deal you can see this
+deal is still linked with apple but it's
+linked to the Johnny Ive contact so
+these notes and activities will all show
+up on the Johnny I've contact and on the
+Apple organization it's important to
+wrap your head around this early on
+because I see a lot of people making
+mistakes especially when it comes to
+importing contacts to pipedrive they
+import a list of contacts but they
+haven't actually created a deal through
+that import process and so when they
+look at their deal pipeline they go Hey
+where's all my deals and so you need to
+create a deal and make sure it's linked
+to a contact person and an organization
+okay with that out of the way let me
+give you some tips on where to start in
+terms of customizing your pipedrive
+account the first thing I would do when
+setting up your pipedrive account is
+customize your pipeline and these stages
+now as I mentioned before you can have
+multiple sales pipelines which you
+really only need to do if you have
+different sales you know Revenue streams
+or quite different sales processes so
+here's a pretty normal sales pipeline
+where I've got qualified leads coming in
+here from my lead inbox I book a meeting
+I Define the client's needs send a
+proposal and then send a contract
+if I go to my mortgage pipeline you can
+see the stages are quite different we've
+still got qualified lead but then
+interview complete we have to get
+documents submit applications to lenders
+the stages here or the Milestones that
+we need to accomplish are quite
+different
+one of the mistakes we see people making
+is creating too many pipelines pipelines
+for different sales people or different
+regions but you can filter your pipeline
+up here we can view only the deals
+linked with certain sales people so I
+can see which deals each person on my
+team is managing and I can also use
+filters to look at deals in specific
+regions or different types of deals to
+customize your pipeline you can click
+the edit button up here
+and from here we can rename and change
+the how we want to name these stages I
+can also drag and drop to reorder them
+and I can click here to add new stages
+if I need to and when defining your
+stages I recommend thinking about what
+are the major Milestones or things we
+need to do to progress a sales
+opportunity you know and get it closer
+to a confirmed sale so in this case you
+know we need to book a meeting first and
+you can see I've actually phrased my
+deals in all my stages in the past tense
+so it's very clear deals in this stage
+we've got a meeting booked but we
+haven't completed it yet needs to find
+is we've now completed the meeting and
+we've defined what it is they need help
+with proposal sent clearly defines that
+everyone in this stage has received the
+proposal and now they're you know making
+a decision and then people in the final
+stage they've received the contract and
+now they need to sign so this makes it
+very clear when I look at my deals here
+I know exactly where each person is I
+know that these people you know are
+making their decision now when
+customizing my pipeline I can also
+enable this rotting feature so you can
+see here I haven't done it for all my
+stages but for my proposal sense stage
+I've said
+deals should start to rot in 14 days so
+this basically means if a deal is
+inactive in other words I haven't
+touched the deal I haven't updated it I
+haven't logged an activity I haven't
+followed up with an email I haven't
+changed the deal in any way within this
+14 day window then the deal turns pink
+and it has this little red warning here
+so this tells me that this deal has been
+rotting for 49 days so if you look at
+your sales Pipeline and you see lots of
+pink deals that's obviously an
+indication that deals are not being
+followed up in a timely manner if I then
+do something to this deal let's let's
+click on the little activity icon here
+let's say I decide to follow up today so
+I'll reschedule this activity let's say
+I'm going to schedule this to today
+instead you can see now the deal turns
+white it's no longer rotting because
+I've now updated the deal you can also
+see at the top of your pipeline the
+total value here of all the deals in
+this pipeline so this is basically the
+sum of of these values here so I can see
+what is the value or potential Revenue
+we can get from all of these different
+deals
+and I'm also given a weighted value so
+because I'm unlikely to win every single
+one of these deals I don't know my
+conversion rate is not 100
+pipedrive is helping me to estimate what
+is the likely Revenue I'm likely to get
+from these deals and the way this
+weighted value is calculated is if I
+edit my pipeline stages here you can see
+there are these probabilities so
+starting from the left a qualified lead
+has about a 40 chance of being one at
+that stage but as I progress as I have a
+meeting to find their needs send a
+proposal and send a contract you can see
+the probability is increasing up to the
+point where if they've got a contract
+the deal is about 95 of the time going
+to convert
+and so those probabilities get
+multiplied by the deal values to give me
+this weighted value and that just helps
+me understand what is the potential or
+more likely Revenue that I'm going to
+get from these deals so there are a few
+different ways I can view my deals this
+is the normal pipeline view which we're
+on up here
+this is probably what you'll use most of
+the time but there is also this list
+view if I want to sort of see my deals
+in more of like a spreadsheet table
+format I can customize these columns and
+choose to display things like the value
+of the deal the deal type any of my
+custom Fields I can show in here this is
+useful either if you plan to export your
+data you can export this View and all
+the columns down into Excel if you need
+to use that data in any way
+or from this view I can bulk update I
+can either select all my deals or I can
+select specific deals and then I can
+make bulk changes on the right hand side
+if I want to change deals to a certain
+stage or change the owner of those deals
+and finally we have a forecast view this
+is only available to users on the
+professional plan and what this helps me
+do is understand what is the likely
+Revenue I'm likely to generate this
+month based on the expected close date
+of my deals so if we take a look at this
+Bruce Wayne deal here on the left here
+is the expected close date this is
+generally something you put on the deal
+when you're kind of further along in
+your sales process maybe Bruce has said
+look we're really interested in in
+buying your service we're going to be
+signing up I would put an expected close
+date to represent when I expect to win
+this deal by and so with that date I can
+then see the total value of deals I
+expect to win this month or coming up in
+the following months now once you have
+your pipeline ready and you've defined
+your sales stages I would recommend
+creating a deal so that you can start
+playing with piperrive and getting
+familiar with the system
+to create a deal you can simply click
+the quick add button up here and you can
+click deal or you can just use the
+shortcut d
+and it's going to pop up this input menu
+now when you create the deal it's going
+to ask you to link the deal to a contact
+person and an organization now if you
+type the name of a contact that already
+exists give pipedrive a second you can
+see I can then click here Tim Cook and
+it's going to link this deal to the Tim
+Cook contact and the Apple organization
+that way I'm linking this deal to my
+existing contact in the system
+or I can type the name of a new contact
+Elon Musk and you can see here it
+couldn't find an Elon Musk so it's going
+to say add as a new contact and you see
+the little new indicator there
+and we need to put in a company for Elon
+which company should we use let's use
+SpaceX
+again it's going to try and search for
+an organization it can't find one so
+we're going to create the organization
+as well
+I can if I want I can input some details
+for Elon on the right hand side Elon at
+SpaceX
+.com
+and I can fill in some information if I
+know the value of the deal I probably
+don't at this early stage if I know the
+expected close date and some of my other
+custom fields which we'll be setting up
+are available here as well
+but for now let's just go ahead and
+create this new deal
+and so what I did there was I actually
+created three things
+I created the deal which is this page
+that we're on now I created the Elon
+Musk contact person and I created the
+SpaceX organization and everything is
+all linked so that's the best way to
+input a deal to make sure everything is
+linked properly you can see here on the
+SpaceX organization
+Elon is linked here as a person and
+we've got the deal here as well now I
+just want to pause there for a second
+I'm going to come back and I'm going to
+talk about how to use the deals page in
+a sec but now I just want to revisit
+leads quickly and explain how leads fit
+in alongside deals in your sales process
+so let's head on over to the lead inbox
+now as I mentioned earlier this lead
+inbox is useful really for prospecting
+or if you're doing any kind of cold
+Outreach
+so maybe you've got a list of people in
+your target industry or demographic you
+can upload a spreadsheet if you go to
+the import menu here and you can import
+that list of leads to this lead inbox
+you can click on a lead and this is a
+bit like a mini deal all my deal custom
+fields and I can link it to a contact I
+can link it to an organization just like
+I can with a deal I can put notes on
+here I can store I can log activities
+and I can send emails from the lead now
+the use case for a lead is
+I would create leads or upload that
+Prospect list for contacts who I have no
+relationship with we're reaching out to
+them for the first time and they're
+unqualified we don't really know yet if
+they're going to be a good fit for the
+product or service that we're selling
+and so you start them off as leads you
+can you know put your notes log your
+activities send your emails all from
+here
+and then when you make contact with them
+when you qualify that yep Tim Cook is a
+a good lead you can then convert this
+into a deal so you click that convert
+button and that's going to move the lead
+out of this lead inbox and it's going to
+put it on this deal pipeline that's why
+my first stage here is qualified lead
+the other situation where I would use
+the lead inbox is if I'm using
+pipedrive's lead booster add-on I have
+these features that I can use I can put
+a live chat or a chat bot interface on
+my website for customers to interact
+with my sales team I can also create web
+forms if I want to put an inquiry form
+on my website and there is this
+prospecting tool where I can put in my
+target demographics and piperrive can
+suggest leads that I should reach out to
+so if you are using those features if
+you've got inquiry forms on your website
+that can feed into this lead inbox you
+can then qualify the inquiry before you
+convert it to a deal now not everyone
+uses the lead inbox it really depends on
+your sales process for example in my
+business business most people come to me
+pretty qualified and warm already most
+people see my videos they go to my
+website there's a bit of a qualification
+process on the site before you can then
+book a call and so when you do a book I
+use zapier actually to add my calendly
+bookings as deals in my pipeline so I
+don't really have much need for that
+lead inbox I'm not doing any kind of
+cold Outreach or prospecting so don't
+feel like you have to use that feature
+but deals generally everyone is going to
+create a deal for the sales
+opportunities that you are trying to
+close right to pick up where I left off
+I've created this deal for Elon Musk and
+it's linked with Elon and the SpaceX
+organization now in this summary tab I
+can put some important information about
+the deal up here I can put in the value
+of the deal that represents what is the
+deal worth from a revenue standpoint so
+I can either say this is a
+ten thousand dollar deal and so by
+attaching that value that is going to
+update the value of my pipeline up here
+if I want to be more specific I can add
+products to my deal so the products we
+can set up in the products tab over here
+and when you have products or Services
+set up I can add a product
+I can then start typing so let's say I'm
+helping Elon with Asana which is another
+service that we provide support on uh
+maybe this is going to be a 5 000 job
+you can set up various um variations of
+products if you have different sort of
+packages that you offer that can all be
+customized in the products uh menu I can
+also attach multiple products to a deal
+if I need to quote for multiple services
+or products that we offer maybe we're
+doing some Asana and maybe I'm also
+helping with the uh SpaceX brand maybe
+that's going to be a maybe let's say
+seven seven and a half thousand dollar
+job
+I can change quantities I can apply
+discounts I can put taxes in here I can
+put notes on my product I can change my
+currency whether this is tax inclusive
+or not and then when I'm happy with how
+my products are set up I can save that
+and that is going to update the value of
+my deal I always recommend trying to use
+products if it's relevant because not
+only does it more accurately break down
+the value of the deal but from a
+reporting standpoint I can generate a
+report a bit like this that shows the
+value of the deals that I've won
+segmented by product or service so I can
+understand what products or services are
+driving value and revenue for the
+business it's also really useful
+especially if I plan to use pipedrive
+for quoting or invoicing I'm not going
+to go into this in this video today but
+using pipedrive's smart docs feature
+which I do have a video which I'll link
+up here I can create document templates
+for quotes or I can use invoicing
+Integrations and those products will
+become the line items on those quotes or
+invoices and that allows me to just do
+more of that kind of mundane admin
+paperwork right inside pipedrive and I'm
+not having to copy and paste information
+from one tool to another in the summary
+field you can also add labels to a deal
+I like using this for a way of saying if
+the deal is hot warm or cold basically
+whether it's likely to convert or not
+some people use this differently and use
+labels to denote the type of deal
+here we can update the expected close
+date that I've shown you before and if I
+scroll down to this details section this
+is where we can create custom fields or
+data fields to capture additional
+information specific to my sales process
+now when setting up custom fields in
+pipedrive it's important to add fields
+to the correct object
+so in this details panel this is
+generally information specific to this
+particular deal or sales opportunity or
+transaction essentially so if Elon has
+approached me I can write a bit of a
+summary here about you know needs help
+with SpaceX website and brand
+I can write a bit of a summary and so if
+I then do another deal with Elon in the
+future maybe I'm helping him with Tesla
+it's going to have a brand new summary
+it's going to be a different deal type
+so this information is specific to the
+deal or this particular sales
+opportunity
+scrolling down we have custom Fields
+related to the contact itself so this is
+where I can put in elon's contact
+information his his name phone number
+title and so on I can put in extra
+fields for things like his birthday
+spouse that type of thing
+and if I create a new deal in the future
+you know this these details will change
+for that new deal but this information
+is all still the same he still has the
+same contact details
+and then finally you've got custom
+fields on the organization that you can
+create and so this could be useful for
+things like what type of business is it
+is there a parent company what industry
+do they operate in number of employees
+website that type of information
+so just keep that in mind when setting
+up your custom Fields is make sure
+you're putting the field on the correct
+object
+you can either add new fields in here by
+going to customize Fields or the other
+place where you can do this is in your
+company settings
+if we go to data fields here I can see
+all the fields related to leads and
+Deals leads and Deals share custom
+Fields because you start a lead as a
+lead and you convert it into a deal so
+they share those custom fields
+I can put custom Fields like I said on
+the person the organization and I can't
+even customize fields on products and
+even projects that we create as well so
+I'm going to create a new field in here
+let's go customize fields and add a
+custom field
+you can start by giving your field a
+name for example maybe I want to use a
+custom field to show the main point of
+contact for this project so I'm going to
+say
+point of contact
+now for field type there are different
+types of fields we can create so you've
+got normal text or large text Fields you
+can create drop down menus either a
+single option or multi-option if you
+want to be able to select more than one
+choice
+there's autocomplete numerical monetary
+user is quite useful if you want to link
+other users in pipedrive for example I
+have this sales development rep field if
+I want to link who was the SDR that
+helped with this deal
+I can also link extra organizations I
+can put in dates addresses that type of
+thing
+so for this point of contact I'm
+actually going to use the person field
+on the right I do have some options I
+can specify if I want this to be shown
+always visible in that detail summary
+I want to I can specify if I want to
+input this in that deal pop-up menu that
+we saw earlier and also if I'm using
+projects I can display it in my project
+view as well
+if I'm unprofessional I can choose which
+pipelines does this field apply to so
+maybe it's not really relevant for
+mortgage or sponsorships it's only
+relevant for this particular sales
+pipeline that I'm in right now
+and if I'm unprofessional I can also
+enforce certain quality roles so I can
+say this field has to be filled in from
+The Proposal sent stage and later this
+means if my team one of my sales people
+tries to move the deal to the next stage
+and this field has not been filled in
+they're going to be asked to fill in
+this field they're not going to be able
+to progress the deal until that is
+filled in
+so let's go ahead and save that now
+and click done so now I can fill in this
+field and because it's a contact field I
+can type in the name of a contact
+pipedrive is either going to search the
+database for a contact or in this case I
+can create a new contact and that now I
+can go and you know update that contact
+which is linked to the deal some of the
+other fields that I've got here so you
+can see here's an example of a drop down
+menu a single option drop down
+I can input the sales development rep so
+here are my pipedrive users I can
+specify which SDR helped me with this
+deal I can put in date fields
+I can specify times for things like
+booking times or appointment times
+I can use numerical fields for things
+like the client's budget or possibly
+even tracking commissions
+and a field that I recommend everyone
+should have this is super useful
+everyone needs this is deal source so
+where did the deal come from maybe this
+was a referral that's going to be really
+useful later on I can do a report where
+I can see for the deals that I've won
+how many were from referrals versus
+Facebook or LinkedIn and I can really
+drill down into what marketing is
+working well or I can say if a contact
+referred this person
+so those are my deal details really nice
+sort of snapshot there of the key
+information about the deal
+and again at this stage I would also
+recommend customizing some of those
+contact and organization Fields as well
+so at this point we've Now set up your
+pipeline stages and we've customized the
+fields on the deal the person and the
+organization now I want to share some
+best practices in terms of how to use
+pipedrive on a daily basis now the big
+takeaway here is keep pipedrive up to
+date I recommend keeping pipedrive open
+in your browser throughout the day so if
+you get on a phone call or you are
+exchanging emails with a lead you have
+pipedrive ready and you can be updating
+the CRM so you can put your notes into
+the deal you can log your activities or
+your interactions and you can schedule
+what you need to do next the majority of
+the deal page is dedicated to seeing a
+timeline of all the history the changes
+the notes activities and emails related
+to the deal so really think of this as
+somewhere you can look to see everything
+you might need to know about a potential
+deal and a lot of people sort of believe
+that yeah we want to put everything on
+the deal so if somebody on my team is
+away or a salesperson is ill we we can
+go to the deal and we've got all the
+information in one place
+now up the top here we have a few
+different tools available firstly we can
+type in notes at any time this is useful
+for storing notes during a meeting
+potentially or a bit of a summary about
+what you need to do next important
+information related to the deal so I can
+attach that note and it goes down into
+my history
+I can also on the activities tab
+schedule activities for what I need to
+do next and we have various activity
+types so I've got email call Demo call
+voicemails and so on
+now you can actually customize these
+activities to your sales process by
+going to the company settings
+and then on the company settings tab
+here go to activities
+and here is where you can set up new
+custom activity types for your business
+now one main reason to set up a new or
+custom activity type is from a reporting
+standpoint here's an example if I go to
+my insights I've got this report here
+that shows any activity completed this
+year I've got you can see my timeline
+along the bottom and I'm segmenting by
+type so I can see how many calls emails
+referrals proposal presentations and
+things we've done so that's a really
+nice sort of useful thing we can do with
+pipedrivers see what are we doing what
+activities are we doing each month how
+much follow-up are we doing I can also
+segment this for different people on my
+team so I can see which sales people are
+doing certain activities so that's one
+of the main reasons you want to
+customize these activities is if there's
+something specific you want to report on
+like how many presentations we've done
+or quotes we've sent if you want to
+report on those kinds of things set
+those up custom activities when I create
+an activity I can just give it a simple
+due date if I just want to say this is
+an email follow-up due on the 7th I can
+just say it's due all day or if it's a
+meeting maybe I've got this meeting at a
+specific time I can put in a start and
+an end time and you can see it gets
+scheduled on the calendar here there are
+options to connect your Google or your
+Microsoft calendar to pipedrive so if I
+schedule this here in pipedrive it will
+actually go on to my Google or Outlook
+calendar
+so I could give this a custom name like
+meeting with Elon to scope project
+and I'm using the meeting activity type
+if I want I could actually invite guests
+to this meeting so this is when I click
+save and send it's actually going to
+send an invite to this person and it's
+going to add the meeting as an
+appointment on both of our calendars
+I can either type in a location or if I
+have a zoom Microsoft or Google meet
+integration setup I can actually create
+a video conference link right here
+inside of pipedrive
+I can put some notes in here
+these are for internal use so this is
+just a reminder to myself of like what
+we're talking about in the meeting or
+during the meeting I might type my notes
+in here to log you know what it is we
+discussed whereas the description here
+this is the public facing description
+that Elon in this case would see
+and then down the bottom you can assign
+the activity to somebody on the team so
+this is obviously an activity for me but
+I can assign activities to Lindsay or
+Warwick other people on my team if they
+need to do something for this deal
+and because I've created this activity
+on the Elon Musk deal the activity is
+also being linked with the Elon Musk
+contact person and the SpaceX
+organization
+and so by logging that activity here if
+I go to the SpaceX organization I can
+see that note and my activity at the
+organization level as well because
+everything is linked I'm not going to
+cover all of these features here but the
+other main thing I want to highlight in
+this video is the email integration now
+I don't have my email connected for this
+demo account so if I just switch over to
+my main account when I click in here
+I've got my Google account connected so
+what I can do is I can compose an email
+directly here in pipedrive and then when
+I hit send it's actually going to send
+the email through my Google account in
+this case so I can still go to my Gmail
+and see that email in my sent items but
+I'm just composing it and sending it
+from pipedrive
+doing it from pipedrive is really nice
+because it just keeps a heap a history
+of the email on the deal so I can go
+back and look at those conversations but
+it's also really quick and convenient so
+I can have pre-built templates ready to
+go I can pick one of my templates which
+populates the email the person's name
+fills in with these fields and I can
+choose if I want to track opens and
+clicks uh for the email as well and then
+I can hit send then if the recipient
+Warwick in this case replies I'm going
+to see that reply both here inside the
+deal and in my mailbox over here as well
+now this email sync feature does require
+you to be on at least the advanced
+subscription of pipedrive or greater I
+usually recommend people get at least
+Advanced unless you're on a tight budget
+in which case get essential but I
+recommend at least Advanced purely for
+this feature actually because it's
+really convenient being able to send and
+receive your emails natively in
+pipedrive and if you want to learn more
+about using this email feature including
+how to automatically trigger emails when
+you move the deal to various stages then
+check out this video that I've linked up
+here with more details about email sync
+now one of the most important things
+you'll do with your CRM is manage your
+follow-up now the best practice with
+follow-up is make sure that every single
+one of your deals always has an activity
+scheduled so you know what you need to
+do next even if that's just following up
+on a quote you know maybe the ball is in
+the other person's court now you've sent
+that quote you've sent that proposal but
+being a good proactive salesperson you
+should have an activity scheduled on
+your deals to follow up at an
+appropriate time give them a call send
+them an email that says hey you know
+have you made a decision decision is
+there anything else we can do so that's
+the first key best practice is make sure
+you always have an activity scheduled on
+the deal then on a daily basis you can
+work from your activities list to see
+which follow-ups you need to do that day
+I can see all my activities on the
+activities tab here
+and there are a few different view
+options and controls on this page
+firstly in the top left I can filter and
+look at only certain types of activities
+if I want so if I want to only look at
+you know emails and you know these
+certain activities I can turn on these
+filters to be honest I don't really ever
+use that personally but the option is
+there
+on the right hand side I can change the
+view so at the moment I'm looking at all
+my activities but I can view the
+activities for other members of my team
+if I want to see what other people are
+doing
+and then here we can change the time
+frame so I can look at everything due
+this week or anything that's potentially
+overdue as well now this little number
+here number eight this represents the
+sum of the activities you have due today
+and activities that are overdue so you
+can see up here I have eight activities
+due today which is why this is showing
+eight if I had let's say two that were
+overdue as well this would actually show
+a 10. so your goal each day is get that
+number to zero to do that I recommend
+working from this screen I quite like
+enabling this split view feature so I
+can then pick a deal the deal slides
+into view but I can still see my
+activities in the background I can then
+look at the deal make any changes update
+the stage change my notes uh I will then
+Mark the activity as done to say that
+I've done it I've actually got two here
+in this case and then when you complete
+all the activities on the deal you're
+going to notice this pop-up appear
+pipeline is basically prompting you and
+saying now that you've completed all the
+activities you should schedule the next
+follow-up so rather than ignoring this
+which is what most people do I would
+then say right I'm going to follow up in
+seven days time and I'll put a little
+reminder to myself follow
+UPS on quote so just a little reminder
+of what I'm following up about so now I
+have this scheduled in a week's time and
+so in one week I will see that on my
+activities list
+and so I would continue like that
+throughout the day I want to get all
+these activities complete and then
+schedule new ones as I go
+if I don't have time for everything
+maybe I just have a busy day and I don't
+quite get to everything I would
+recommend selecting anything that you
+didn't have time for and then changing
+the due date to tomorrow so bump them to
+tomorrow rather than letting them go
+over to you which ends up getting really
+messy reschedule them to tomorrow or the
+next day that way you never have
+anything overdue and you've always got
+you're always keeping on top of those
+activities
+on your deal page you can get a bit of a
+sense of whether you're keeping up or
+Not by taking by looking at these little
+icons so this green icon here shows me
+that I have an activity due today
+the gray icon tells me that I have an
+activity scheduled in the future but not
+today
+the red one tells me that this has this
+deal has an overdue activity on it so
+this one was due earlier today
+and this yellow warning tells me that I
+have nothing scheduled on this deal so
+when you look at your deal screen here
+you want to see no red or yellow like
+these ones that's bad because you're
+falling behind or in this case of Johnny
+Ive I don't have anything reminding me
+about what to do next so this deal May
+well get forgotten about as my pipeline
+fills up I'm probably going to forget
+about that
+so try and keep those activities up to
+date you don't want any red or yellow on
+this screen you only want to see the
+green and gray indicators here now as
+you progress your deals through these
+various sales stages throughout the
+process you may need to lose the deal so
+at the top here I can mark the deal as
+lost that's basically my way of closing
+the deal and saying we didn't win it and
+it's it's now dead there's nothing more
+we can do and up here I can specify a
+lost reason now these are all
+customizable if I go to my company
+settings here
+I can Define my own custom lost reasons
+so the most common ones are maybe the
+client doesn't respond it was a pricing
+issue they went with another option a
+competitor or it was just a case of bad
+timing or maybe they didn't give a
+reason my tip for this page is do not
+allow for free form entry of lost
+reasons I think pipedrive should remove
+this feature quite frankly what that
+would mean is that people can then type
+in anything they want which makes the
+reporting a bit well a lot Messier
+instead I think it's better to have
+people choose one of the options from
+this list
+and so now I can say right price was too
+high elon's budget is only
+five thousand dollars so I can put a bit
+of an explanation in here as well and I
+can lose the deal so it turns red you
+can see my lot my uh comment has been
+added and the lost time has been
+recorded down here I can change that if
+I need to usually you don't but if you
+need to change that for reporting
+purposes you can and now that deal has
+vanished from my pipeline it's still in
+the system I can search here
+for Elon Musk and I can see there's the
+Lost Elon Musk deal so it still exists
+in pipedrive but by default the pipeline
+only shows you deals that are still open
+unless I use a filter I can look at all
+my lost deals if I need to if Elon ever
+comes back to me one day and says he's
+raised a bit of money and he has the
+budget now I can come up here and I can
+reopen the deal and of course ultimately
+the goal is to win the deal so I can
+click the one button up here I've now
+marked the deal as one I get a little
+celebration like this the one time is
+recorded here again for reporting
+purposes so in my insights I can see how
+many deals were won each month and
+marking deals as one or lost at the
+appropriate time is really important
+because then it's going to update my
+reports so I can see for example here
+how many deals I won each month I can
+also report on things like my conversion
+rate so I can see how many deals
+typically get to each stage of the
+process if there's a big drop off
+occurring at a certain stage I'll be
+able to see that
+so I hope you have found this video
+useful I was gonna go on and talk next
+about automation but I'm already over 40
+minutes on this video now so I think
+it's better that I end it there if you'd
+like to learn more about the features
+that I've covered in this video and some
+of the other features that I didn't like
+Automation and Reporting check out the
+other videos on my YouTube channel which
+I'll link up here and if you'd like help
+with setting up and learning how to take
+full advantage of pipedrive please click
+the link in the description to learn
+more about our pipedrive Consulting
+options thank you very much for watching
+and I'll see you in the next video

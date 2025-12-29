@@ -1,0 +1,87 @@
+{
+  "ferramenta": "ActiveCampaign",
+  "categoria": "marketing",
+  "data_coleta": "28/12/2025 22:58",
+  "site": {
+    "homepage": {
+      "url": "https://www.activecampaign.com/",
+      "coletado": true,
+      "tamanho": 2359
+    },
+    "pricing": {
+      "url": "https://www.activecampaign.com/pricing",
+      "coletado": true,
+      "tamanho": 32039
+    },
+    "features": {
+      "url": "https://www.activecampaign.com/platform",
+      "coletado": true,
+      "tamanho": 4487
+    },
+    "about": {
+      "url": "https://www.activecampaign.com/about",
+      "coletado": true,
+      "tamanho": 16259
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "en-US",
+      "en",
+      "pt"
+    ],
+    "videos": [
+      {
+        "titulo": "ACTIVE CAMPAIGN VALE A PENA? MELHOR FERRAMENTA DE EMAIL MARKETING",
+        "url": "https://youtube.com/watch?v=9Ff9nH5_fRI",
+        "idioma": "pt",
+        "status": "sucesso",
+        "tamanho": 9894,
+        "erro": null
+      },
+      {
+        "titulo": "ActiveCampaign: Tutorial Completo",
+        "url": "https://youtube.com/watch?v=NBlNSbLN4P8",
+        "idioma": "pt",
+        "status": "sucesso",
+        "tamanho": 26054,
+        "erro": null
+      },
+      {
+        "titulo": "ActiveCampaign vs HubSpot: All the Pros, Cons, and Hidden Costs You Need to Know",
+        "url": "https://youtube.com/watch?v=JUiQjHH14kE",
+        "idioma": "en-US",
+        "status": "sucesso",
+        "tamanho": 7252,
+        "erro": null
+      },
+      {
+        "titulo": "ActiveCampaign Alternatives \\u0026 Competitors",
+        "url": "https://youtube.com/watch?v=5G1iUK7yYdo",
+        "idioma": "en",
+        "status": "sucesso",
+        "tamanho": 3897,
+        "erro": null
+      },
+      {
+        "titulo": "ActiveCampaign Tutorial for Beginners (2025)",
+        "url": "https://youtube.com/watch?v=g6DE1MpMX-8",
+        "idioma": "en",
+        "status": "sucesso",
+        "tamanho": 50481,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 55144,
+    "total_chars_youtube": 97578,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

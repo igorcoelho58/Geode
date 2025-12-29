@@ -1,0 +1,621 @@
+VÍDEO #2
+======================================================================
+Título: What is HubSpot? How does it work? 🤔 EVERYTHING YOU NEED TO KNOW IN JUST 4 MINUTES 😎
+URL: https://youtube.com/watch?v=j5BdVDxKwk0
+Idioma: pt
+Tamanho: 22422 caracteres
+Data Coleta: 27/12/2025 12:17
+======================================================================
+
+Fala meu amigo Fala minha amiga tudo bem
+seja muito bem-vindo a mais um vídeo
+aqui no canal a vendas onde a gente vai
+falar sobre hubspot CRM no vídeo de hoje
+a gente vai falar sobre a configuração
+do pipeline de vendas se você ainda não
+me conhece prazer meu nome é Mateus
+Roberto scio e fundador da vendas
+consultor de processos comerciais há
+mais de 10 anos Já ajudei mais de 350
+empresas a estruturar o seu processo
+comercial se você precisa de ajuda eu te
+faço um convite acessa o site avend
+das.com.br
+e fala com o nosso time a gente vai ter
+o maior prazer em assessorar você nesse
+processo Tá bom vamos pra tela do nosso
+computador bom eu já tô dentro do meu
+módulo de negócios dentro do meu
+pipeline de negócios do hubspot CRM Tá o
+que que a gente vai fazer aqui a gente
+vai fazer a configuração dessas etapas
+observando E analisando o seu modelo de
+negócios Tá além disso a gente vai
+definir Quais são os critérios de perda
+e quais são os critérios de passagem de
+bastão para cada uma das etapas tá para
+fins didáticos na aula passada a gente
+criou a AZ Seguros né uma empresa que
+aqui eu vou intitular agora uma
+corretora de seguros tá claro gente eu
+não consigo trazer o cenário de todas as
+empresas aqui eu vou trazer um cenário
+específico de uma corretora de seguros
+Mas você pode adaptar isso pro seu
+modelo de negócio tá e ao longo desse
+treinamento ao longo dessas aulas eu vou
+explicar um pouco melhor como você pode
+adaptar isso também também ao seu dia a
+dia antes da gente começar tem uma coisa
+muito importante que é a etapa de
+documentação e aqui eu vou migrar para
+uma outra tela pra gente poder
+documentar Quais são as nossas etapas e
+o que que a gente pretende colocar
+dentro do nosso CRM para daí sim ficar
+muito mais fácil a gente transferir isso
+aqui para dentro do quadro bom eu já tô
+aqui com o meu querido bloco de notas em
+aberto pra gente falar um pouquinho
+sobre etapa objetivo da Etapa P gatilho
+de passagem esses pontos são super
+importantes antes de você adentrar
+dentro do CRM Por quê vocês devem ter
+reparado lá dentro do hubspot que a
+gente tem etapas específicas que o nosso
+cliente vai caminhar ao longo da jornada
+de vendas então o que que a gente vai
+fazer aqui a gente vai documentar e a
+gente vai escrever quais são essas
+etapas o objetivo de cada uma delas e
+qual que é o gatilho de passagem e a
+próxima etapa seja ela positiva ou
+negativa eu vou dar um exemplo para
+vocês baseado principalmente aqui numa
+empresa de seguros tá uma corretora de
+seguros vamos lá corretora de seguros
+aqui a gente vem pro nosso exemplo tá
+você pode fazer isso de acordo com a sua
+empresa a primeira etapa eu gosto sempre
+de chamar de entrada onde o objetivo
+dessa etapa é
+armazenar os
+contatos que ainda não tiveram tratativa
+ainda não tiveram tratativa
+aqui a gente pode ter um gatilho de
+passagem né O que que é esse gatilho de
+passagem deixa eu até dar um espaçamento
+maior aqui para deixar mais visualmente
+Bonito essa esse bloco de notas o
+gatilho de passagem aqui é ter ou não
+ter um contato certo contatos que ainda
+não tiveram tratativa deixa eu jogar pra
+linha de baixo vai ficar melhor aqui eh
+gatilho de passagem ter o contato
+realizado o contato tá o
+vendedor
+realizar
+o contato tá esse é o gatilho de
+passagem aqui a gente tem uma próxima
+etapa a próxima etapa é em contato Ou
+seja eu estou falando com esse cliente
+tá estou
+falando ou eu posso direcionar ele
+também para o perdido e entendendo por
+exemplo que o número de telefone está
+errado ou entendendo que os dados de
+estão
+incompletos aqui eu posso listar
+diversos motivos de perda para topo de
+funil
+tá então Gente o que que a gente vai
+fazer Qual que é a lição de casa que eu
+deixo para você aqui documentar e
+estruturar quais são as etap etas do seu
+CRM com objetivo da Etapa e também com
+os gatilhos de passagem bem como
+identificar Qual que é a próxima etapa o
+gatilho de passagem ele pode ser tanto
+positivo no caso se o vendedor realizar
+o contato e o contato ocorrer se a
+pessoa demonstrar sincronicidade no
+contato ou seja ela responder esse
+contato ele vai para em contato agora se
+a pessoa não atender né não atender ou
+simplesmente eh se perder ali o número
+tiver errado né o número errado acho que
+é mais fácil aqui número
+errado ou dados incompletos ele vai
+direto pro perdido tá então essa aqui é
+a liçãozinha de casa que eu deixo para
+que você Elabore em cada uma das etapas
+agora a gente volta aqui pra tela do
+hubspot CRM onde a gente vai fazer a
+configuração de cada uma das etapas que
+previamente foram construídas e
+documentadas lá atrás Lem gente não
+existe um número máximo um número mínimo
+de etapas aqui o importante é você
+organizar o seu pipeline de acordo com a
+sua gestão de produtividade o principal
+ponto aqui é entender Qual é a jornada
+em que o cliente entra na sua empresa e
+como ele se relaciona não é como você se
+relaciona com ele sim como ele tende a
+tomar a decisão pelo processo de compra
+para isso vocês vão fazer o seguinte
+vocês vão clicar aqui ó em opções do
+quadro nessa caixinha aqui e editar
+fases editar fases dentro do editar
+fases a gente consegue visualizar todas
+as nossas etapas bem como a
+probabilidade da fase de negócio isso
+aqui gente é muito importante para uma
+coisa que em vendas a gente chama de
+forecast comercial ou previsão de vendas
+só para dar um exemplo muito básico para
+vocês aqui a gente tem algumas etapas né
+E uma delas é tratamento de objeções tá
+isso aqui é padrão do hubspot Ele trouxe
+como padrão ele entende o seguinte se eu
+estou tratando as objeções do meu
+potencial cliente esse cliente possui
+80% de chance de fechamento então o que
+que ele vai fazer ele vai somar o valor
+de Todas aquelas negociações vou supor
+aqui que são r$ 1.000 e ele vai pegar
+80% disso e vai prevision ou seja ele
+vai entender que isso é a previsão do
+meu potencial de fechamento para aquela
+etapa específica nesse caso r$ 8000 dos
+r$ 1.000 eu tenho 80% de chance 80% do
+valor monetário final de chance de
+fechar beleza vamos pegar aqui desde lá
+do do do começo das etapas que a gente
+fez a configuração lembrando a minha
+primeira etapa é a etapa de entrada aqui
+eu tenho 10% de chance potencial de
+fechar depois que eu conseguir falar com
+esse cliente ele vai para em contato
+depois do contato pessoal numa corretora
+de seguros o que que eu imagino que
+aconteça eu posso fazer uma apresentação
+comercial então eu posso marcar uma
+reunião reunião
+agendada aqui eu separei a etapa de
+reunião agendada eu vou manter aqui o em
+contato como 20% e o reunião agendada eu
+vou colocar como
+40% depois depois do nosso reunião
+agendado o que que acontece bom eu
+entendi o cen do cliente né eu sei se
+ele quer seguro alto se ele quer seguro
+de casa se ele quer seguro de vida se
+ele quer seguro saúde enfim eu preciso
+fazer uma cotação eu preciso elaborar
+uma proposta ele está em etapa de
+cotação aqui eu vou colocar 50% de
+fechamento gente isso aqui pode ser
+definido por feeling pode mas com base
+em metodologia com base histórica fica
+muito mais fácil então é muito
+importante você analisar o teu modelo de
+negócio e entender bom os clientes que
+estão em cotação ou seja eles vão
+receber uma proposta né Qual que é o
+percentual de clientes que chegam nessa
+etapa e fecham comigo esse é um ponto
+super importante de você identificar
+depois da cotação ele vai para uma etapa
+chamada em negociação ou seja ele vai
+conversar com o sócio vai conversar com
+a esposa vai conversar com o marido vai
+envolver as pessoas do time e aqui a
+gente já tem um potencial de venda um
+pouquinho maior
+70% por último e não menos IMP
+importante a gente pode mandar um
+contrato para ele análise de contrato eu
+coloquei aqui só contrato e aqui a gente
+já tem 90% de chance de fechamento Ou
+seja eu estou de acordo com os valores
+já passei por toda a etapa de negociação
+e agora isso vai passar pro meu jurídico
+ou pra minha avaliação interna Eu mesmo
+vou ler os termos de uso para daí sim
+ter um negócio fechado aqui o negócio
+fechado pessoal é uma coisa minha tá por
+estética eu gosto de colocar como ganho
+eu perdi eu gosto de colocar
+simplesmente perdido pode identificar da
+forma como você achar melhor mas aqui
+gente percebam eu já tenho a
+identificação da jornada de compra e
+jornada do passo a passo de cada uma das
+etapas pelo qual o meu cliente vai
+passar eu venho aqui em salvar o
+pipeline foi atualizado eu vou fechar
+aqui em cima depois eu vou voltar aqui
+na aba lateral esquerda para voltar em
+negócios prontinho agora o nosso
+pipeline está devidamente
+configurado agora com o meu pipeline
+configurado eu posso trabalhar o meu
+Lead né eu posso trabalhar o meu negócio
+em cada uma das etapas específicas
+percebam o seguinte ó eu vou colocar
+esse mesmo Lead aqui na etapa de
+negociação vocês podem observar aqui que
+ele já faz o cálculo ponderado dessa
+etapa para mim aqui ele ainda não fez
+atualização de valores mas logo na
+sequência daqui uns minutinhos ele já
+consegue fazer essa atualização para
+prevision Qual que é o potencial de
+valor em fechamento que eu tenho aqui
+dentro dessa dessa etapa específica O
+que que a gente vai fazer provavelmente
+Provavelmente você pode pedir né seja
+para você mesmo seja pro seu time enfim
+ter alguma informação obrigatória
+vinculada à passagem de bastão eu vou
+dividir isso em dois momentos eu vou
+primeiro blindar com as informações que
+o hubspot Já possui e numa próxima aula
+a gente vai falar sobre criação de
+Campos personalizados como você pode
+configurar o hubspot criando Campos
+personalizados para cada uma das etapas
+para cada um das das informações de
+atividade do negócio vocês vão entender
+melhor na prática vamos voltar aqui em
+ações do quadro editar fases aqui em
+editar fases o que que eu posso
+fazer eu vou pegar como exemplo a etapa
+em negociação então eu venho aqui em
+editar propriedade
+na etapa em negociação aqui do lado
+esquerdo o que que eu tenho eu tenho
+adicionar propriedade dependente eu vou
+clicar aqui na propriedade dependente e
+por exemplo eu entendo que esse cliente
+está em negociação ou seja ele já passou
+pela cotação sendo assim ele já tem
+valor ele já tem preço então eu vou
+colocar aqui valor todos os negócios
+Obrigatoriamente nessa etapa precisam
+ter valor vinculado bem como as demais
+etapas então isso aqui gente é muito
+importante para que você traga um um
+aspecto de disciplina para dentro do seu
+CRM por exemplo vamos voltar aqui eu vou
+dar um F5 no meu pipeline de negócios se
+você ainda não curtiu esse vídeo ó um
+segundinho curte esse vídeo comenta
+compartilha se inscreve no canal
+compartilha com um amigo que precisa
+organizar o processo comercial dele
+utilizando CRM como hubspot Bora voltar
+e sempre que eu trouxer esse negócio
+paraa etapa de
+negociação ele vai abrir uma caixinha de
+propriedade correspondente no caso aqui
+eu vou atualizar o valor para R
+5.000 então vocês já conseguem
+visualizar aqui que existe uma
+propriedade dependente nessa etapa
+específica eu posso fazer isso com todas
+as etapas do negócio e eu posso fazer
+isso também com propriedades
+personalizadas que a gente pode criar
+dentro do hubspot com nosso pipeline
+configurado O que que a gente vai fazer
+a gente vai fazer a criação de negócio a
+gente vai fazer a criação de um novo
+negócio tá a gente vai ter aulas
+específicas também para falar sobre
+importação em massa de negócios mas
+primeiramente eu vou criar um negócio
+aqui do absoluto zero eu vou clicar aqui
+em negócio vou me arrastar para cima um
+pouquinho aqui nome do negócio eu vou
+colocar o nome da minha
+empresa coloquei o nome da empresa
+pipeline por padrão ele já traz o
+pipeline de prospectos pipeline pessoal
+se você não sabe o que é é essa jornada
+todo esse funil de vendas aqui dentro do
+hubspot a gente trata como pipeline
+etapa eu posso criá-lo em uma etapa
+específica ou inicialmente na etapa de
+entrada entendendo que ainda não tive
+contato com essa pessoa valor vou deixar
+valor em branco proprietário do negócio
+tipo do negócio as demais informações
+aqui eu não preciso preencher
+criei o meu primeiro negócio meu
+primeiro negócio está
+criado e a gente vai observar agora como
+é a visualização dentro do campo de
+negócio Olha só esse essa aqui é a
+carinha né da empresa fantasia ou seja
+toda a jornada de relacionamento da
+minha empresa com essa empresa vai ser
+administrada aqui dentro do lado
+esquerdo a gente tem algumas informações
+sobre esse negócio incluindo Campos
+padronizados do hubspot ou Campos
+personalizados que é o que a gente vai
+aprender na próxima aula aqui em cima eu
+tenho o nome da empresa data de
+expectativa de fechamento tá então por
+exemplo se esse cliente pretende fechar
+só em novembro eu posso colocar ele lá
+para novembro isso é importante também
+pro nosso forecast o nosso planejamento
+comercial sobre as etapas aqui eu tenho
+alguns atalhos rápidos mas eu queria que
+vocês prestassem atenção na parte
+central aqui na parte central a gente
+tem duas Abas primeira delas visão geral
+e a segunda aba de atividades vou
+confessar para vocês a aba de visão
+geral ela vai ser muito pouco utilizada
+nesse caso tá a gente vai utilizar muito
+mais a aba de
+atividades beleza do lado direito a
+gente tem algumas informações que são
+bem importantes e bem pertinentes a
+primeira delas é contatos Ou seja eu
+posso vincular aqui
+automaticamente contatos que pertencem a
+esse negócio um negócio pode ter mais de
+um contato por exemplo nesse caso do
+seguro né a gente tá negociando um
+seguro carro seguro ao eu posso inserir
+aqui o marido e a mulher eu posso
+inserir os dois contatos do marido e da
+esposa tá então eu pego o telefone do
+marido e-mail do marido telefone da
+esposa e-mail da esposa e insiro dentro
+do CRM para isso basta eu clicar aqui em
+adicionar ele vai abrir essa caixinha
+aqui para mim tá eu posso seleon um
+contato existente ou criar um contato
+novo do zero lembrando tá Existem
+algumas informações correspondentes aqui
+então vou pegar aqui por exemplo João né
+vou pegar o sobrenome do
+João João
+Silva tá todos os dados aqui utilizados
+pessoal são Dados fictícios tá são Dados
+fantasia aqui no número de telefone eu
+posso colocar 21
+ele faz a validação desse telefone Vê se
+esse telefone é um telefone válido tá
+todos os dados aqui são fantasiosos e eu
+vou dar um criar a partir desse momento
+eu já tenho os dados do João Silva
+vinculados ao meu negócio vou até
+colocar um e-mail aqui
+também para ficar mais fácil tá então
+agora a ordem inverteu vocês podem dar
+uma olhadinha aqui que o negócio tá do
+nosso lado direito a gente sempre sempre
+sempre vai trabalhar no módulo de
+negócios na grande maioria das vezes tá
+A grande maioria das empresas que a
+gente atende que eu conheço que a gente
+mentora utilizam o módulo de negócios
+então aqui eu tenho o contato do João
+Silva do lado direito eu posso inserir
+mais um contato que eu vou colocar o meu
+contato Ó Mateus Roberto vou dar um
+salvar e agora eu tenho dois contatos a
+atualizados aqui beleza um ponto
+importante gente a gente pode inserir
+também uma empresa aqui na empresa eu
+acho legal a gente aprofundar um pouco
+mais eu vou colocar a vendas como
+empresa responsável por essa negociação
+ó a venda será definido como principal
+para a empresa fantasia o que que
+acontece o que que vocês T que ter em
+mente um negócio pertence somente a uma
+empresa tá um negócio vai pertencer a
+uma empresa agora uma empresa quando eu
+entro em empresa eu posso ter vários
+negócios atrelados então eu posso ter
+aqui por exemplo seguro de vida eu posso
+adicionar também um seguro alto eu posso
+adicionar um seguro saúde que são
+produtos da esteira de produto dessa
+operação o negócio vai pertencer a uma
+empresa agora a empresa pode ter vários
+contatos bem como ter vários os negócios
+e esses negócios são negócios que você
+vai trabalhar na sua esteira de produto
+vou pegar um outro exemplo agência de
+marketing digital né Você pode ter um
+negócio gestão de tráfego Você pode ter
+um negócio gestão de social mídia Você
+pode ter um negócio configuração de CRM
+você pode ser um negócio treinamento
+comercial São quatro negócios diferentes
+cada um com seus respectivos valores
+cada um com a sua jornada de fechamento
+e quando a gente volta aqui para
+negócios a gente vai ter um detalhamento
+de cada um desses negócios de forma
+separada tá então a gente teria aqui no
+caso né Quatro cards específicos para
+cada uma dessas negociações entendendo
+por exemplo que gestão de tráfego eu vou
+fechar com o João agora gestão de social
+media eu vou fechar com a Maria e por aí
+vai então é muito importante vocês terem
+essa visão de pertencimento o que
+pertence ao que nesse caso beleza
+voltando para nosso exemplo aqui da
+empresa
+fantasia a gente criou o negócio né a
+gente criou os nossos contatos e a gente
+atrelou esses contatos e esse negócio a
+essa
+empresa aqui dentro do nosso negócio
+pessoal a gente tem algumas informações
+bem importantes vamos dar uma olhadinha
+aqui em como funciona cada um dos Passos
+dentro do nosso módulo de atividades
+todas as ações constadas ligações feitas
+e meilos disparados vão aparecer aqui ó
+em atividades eu vou clicar aqui no
+módulo seguinte que é observações então
+aqui em observações eu posso
+simplesmente tomar uma nota tá então por
+exemplo falei com
+Mateus ele quer comprar um carro ele
+quer um seguro carro nesse caso né
+seguro Car seguro al
+alto pode
+investir até R 500 mês tá vou vir aqui
+em salvar
+observação Salvei a minha observação e
+dentro do módulo de atividades eu tenho
+toda a timeline desse cliente tá e-mails
+aqui em e-mail vocês vão se Recordar que
+a gente fez a configuração inicial da
+nossa caixa de e-mail lá atrás né eu
+posso vir aqui em criar e-mail tá e olha
+só ele já abre para mim
+automaticamente o disparo de e-mails
+vinculado ao meu Gmail então eu VM aqui
+em para e seleciono qual vai ser o
+destinatário do e-mail nesse caso Mateus
+posso colocar aqui sua proposta está
+aqui tá eu tomo nota desse corpo de
+observações eu vou receber esse e-mail
+na sequência tá vou clicar aqui em
+enviar Prontinho o e-mail já foi
+disparado pra minha caixa de e-mail
+também pessoal a mesma coisa vai
+aparecer aqui no nosso
+modul de atividades ainda em e-mail a
+gente vai ter uma aula específica para
+falar sobre isso quando eu venho aqui em
+criar e-mail eu posso ter um modelo
+específico então Sabe aquele e-mail que
+a gente manda todo dia toda semana que é
+padronizado igual para todo mundo eu
+posso subir esses modelos dentro do
+hubspot e eu não preciso ficar criando
+ele toda vez digitando copiando e
+colando de outro lugar outra coisa que
+eu posso fazer também é colocar um
+documento específico né rastreado pelo
+hubspot dentro do anexo do e-mail então
+eu consigo identificar inclusive quanto
+tempo o usuário passou em cada página do
+meu arquivo anexo posso também inserir
+uma reunião aqui dentro pessoal a minha
+agenda o meu link de agenda não tá
+configurado mas é super simples de
+configurar você configura um link de
+agend mento de reuniões e o cliente
+recebe isso e ele pode fazer o
+agendamento já sincronizado com o seu
+calendário outra coisa que ele pode
+fazer é criar um orçamento você pode
+criar um orçamento e disparar dentro do
+corpo de e-mail pro seu cliente final
+Beleza a gente vai explorar um pouco
+melhor sobre isso nas demais aulas desse
+treinamento descendo aqui pro lado
+direito né a gente tem Registro de
+chamadas o hubspot ele possui a
+possibilidade de você fazer uma ligação
+Porém esse é o módulo bloqueado você
+precisa comprar créditos da própria
+hubspot para fazer esse tipo de ligação
+ou você pode usar um VoIP terceiro
+integrado ao hubspot para fazer esse
+disparo de chamada as chamadas elas
+ficam gravadas e registradas aqui dentro
+e nos módulos mais avançados do hubspot
+ele já faz a transcrição desse áudio
+para texto é uma função super legal
+muito interessante por penúltimo né não
+último por penúltimo e Talvez o mais
+importante de todos a gente tem a
+criação de tarefas isso aqui gente é o
+que vira o jogo de 99% dos vendedores
+por exemplo falei com o Mateus vamos
+pegar aqui as atividades falei com o
+Mateus ele pode investir até R 500 por
+mês e eu disparei um e-mail para ele com
+uma proposta por exemplo vou avançar o
+Mateus pra próxima etapa nesse caso aqui
+ele entraria uma etapa em contato e eu
+vou colocar aqui a tarefa que é o nosso
+próximo passo então eu vou ligar para
+ele e
+questionar sobre
+proposta beleza eu coloquei aqui ligar e
+questionar sobre a proposta eu posso
+colocar em qual dia essa atividade vai
+ser realizada eu vou colocar aqui dois
+dias úteis e qual foi o horário que eu
+combinei um retorno com o Mateus então
+dia primo de outubro às 10 horas da
+manhã eu terei um próximo passo e o
+hubspot vai me notificar por e-mail na
+hora do vencimento dessa tarefa isso é
+super importante para que eu não deixe
+nenhum próximo passo nenhum cliente sem
+atividade futura não deixar nenhum
+cliente sem atividade Futura é
+fundamental pro seu sucesso em vendas e
+principalmente para uma boa
+administração do CRM você pode também
+aqui como último opção criar uma reunião
+né eu comentei com vocês sobre o link de
+reunião e sincronização com calendário
+vocês podem vir aqui em conectar agenda
+ou simplesmente registrar uma reunião
+Poxa eu tava numa cafeteria encontrei o
+Matheus e eu fiz uma reunião com ele tá
+Fiz uma reunião com ele na cafeteria foi
+um papo rápido Enfim então ó falei com
+Mateus A reunião foi concluída falei com
+ele hoje nesse horário né falamos na
+cafeteria sobre a
+proposta eu combinei de me encontrar com
+ele e falar sobre essa proposta tá então
+registrei aqui que houve uma reunião
+essa reunião não foi agendada na minha
+no meu calendário né essa reunião foi
+uma reunião externa beleza todos os
+dados de negociação desse cliente estão
+aqui detalhados passo a passo nesse
+módulo de negócios e se você quer
+aprender como é que você pode
+transformar o seu processo comercial
+numa máquina de geração de leads E
+agendar reuniões falar com clientes que
+realmente podem comprar de você todo
+santo dia eu tenho um convite para te
+fazer o meu treinamento do sistema de
+prospecção já tá disponível vou deixar o
+qrcode aqui na tela o treinamento 100%
+prático e o link vai ficar na descrição
+desse vídeo e finalizamos esse vídeo
+onde a gente falou sobre a configuração
+do pipeline de vendas e também a
+estrutura de negócios dentro do hubspot
+CRM se você quer saber mais como
+utilizar essa ferramenta e Como
+potencializar o seu processo comercial
+eu sugiro que você acompanhe os demais
+vídeos desse treinamento seguindo essa
+playlist aqui eu te vejo na próxima aula
+um abraço e até mais eee
