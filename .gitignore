@@ -37,3 +37,10 @@ desktop.ini
 *_backup.*
 *.old
 __pycache__/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+*.pyc
+*.pyo
