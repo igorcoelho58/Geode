@@ -1,6 +1,6 @@
 """
-GEODE SUPER CRAWLER V2.5 (Sistema de Fila Única)
-=================================================
+GEODE SUPER CRAWLER V2.6 (Busca Inteligente + Logs Limpos)
+===========================================================
 ARQUITETURA: Fila é a ÚNICA fonte de verdade
 - Todas as ferramentas pendentes estão em fila_processamento.txt
 - Script lê EXCLUSIVAMENTE da fila (não usa lista hardcoded)
@@ -47,7 +47,7 @@ FLUXO DE TRABALHO:
 
 Autor: Igor Coelho / Refinado por Gemini
 Data: 27/12/2024
-Última Atualização: 29/12/2024 - V2.5 (Sistema de Fila Única)
+Última Atualização: 29/12/2024 - V2.6 (Busca Inteligente + Logs Limpos)
 """
 
 import os
@@ -182,6 +182,7 @@ URLS_CONHECIDAS = {
     "trello": {"site": "https://trello.com/", "pricing": "https://trello.com/pricing"},
     "slack": {"site": "https://slack.com/", "pricing": "https://slack.com/pricing"},
     "agendor": {"site": "https://www.agendor.com.br/", "pricing": "https://www.agendor.com.br/planos/"},
+    "meetime": {"site": "https://meetime.com.br/", "pricing": "https://meetime.com.br/planos/"},
     "chatwoot": {"site": "https://www.chatwoot.com/", "pricing": "https://www.chatwoot.com/pricing"},
     "manychat": {"site": "https://manychat.com/", "pricing": "https://manychat.com/pricing"}
 }
@@ -582,6 +583,23 @@ def coletar_dados_site_oficial(nome_ferramenta):
 # FUNÇÕES DE YOUTUBE MULTILÍNGUE
 # ============================================
 
+def verificar_duracao_video(video_id):
+    """Verifica APENAS a duração do vídeo sem baixar.
+    Retorna: (duracao_segundos, titulo) ou (0, None) se erro
+    """
+    try:
+        with yt_dlp.YoutubeDL({
+            'quiet': True,
+            'no_warnings': True,
+            'ignoreerrors': True,
+            'extract_flat': False,
+        }) as ydl:
+            info = ydl.extract_info(f"https://youtube.com/watch?v={video_id}", download=False)
+            return info.get('duration', 0), info.get('title', 'Sem título')
+    except Exception:
+        return 0, None
+
+
 def transcrever_com_whisper(video_url, video_id, video_titulo, pasta_dossie=None, numero_video=None):
     """Baixa o áudio do YouTube e transcreve usando IA local (Whisper)
     FALLBACK quando youtube-transcript-api não achar legendas oficiais
@@ -625,30 +643,53 @@ def transcrever_com_whisper(video_url, video_id, video_titulo, pasta_dossie=None
             'preferredcodec': 'mp3',
             'preferredquality': '64',  # Baixa qualidade é suficiente para voz
         }],
-        'outtmpl': temp_audio.replace('.mp3', '.%(ext)s'),
-        'quiet': True,
+        'outtmpl': temp_audio.replace('.mp3', ''),  # Remove extensão, yt-dlp adiciona depois
+        'quiet': True,  # Silencioso para terminal limpo
         'no_warnings': True,
-        'match_filter': lambda info: None if (info.get('duration') or 0) > 300 else 'Vídeo muito curto (<5 min)',
+        'ignoreerrors': True,
+        'ignoreerrors': True,
+        'keepvideo': False,
     }
 
     try:
-        # 1. Baixa o áudio do vídeo
+        # Baixa o áudio do vídeo (duração já foi verificada antes)
         print(f"         📥 Baixando áudio...")
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             ydl.download([video_url])
         
-        # 2. Carrega o modelo Whisper (usa GPU NVIDIA se disponível)
+        # 2. Verifica se o arquivo MP3 foi criado
+        # yt-dlp cria: outtmpl + '.mp3' = temp_audio (sem extensão) + '.mp3'
+        if not os.path.exists(temp_audio):
+            print(f"         ❌ Arquivo MP3 não foi criado")
+            print(f"         ℹ️ Esperado em: {temp_audio}")
+            # Lista arquivos na pasta para debug
+            pasta = os.path.dirname(temp_audio)
+            if os.path.exists(pasta):
+                arquivos = os.listdir(pasta)
+                print(f"         ℹ️ Arquivos na pasta: {arquivos[:5]}")
+            return None
+        
+        # 3. Valida tamanho do arquivo
+        tamanho = os.path.getsize(temp_audio)
+        if tamanho < 1000:
+            print(f"         ❌ Arquivo MP3 muito pequeno: {tamanho} bytes")
+            return None
+        
+        # 4. Carrega o modelo Whisper (usa GPU NVIDIA se disponível)
         # Modelos: tiny (rápido, 75MB), base (bom, 150MB), small (melhor, 500MB)
         print(f"         🧠 Carregando modelo de IA...")
         model = whisper.load_model("base")  # Compromise entre velocidade e qualidade
         
-        # 3. Transcreve o arquivo (pode levar 1-3 minutos para vídeos de 10 min)
-        print(f"         ⏳ Processando transcrição (aguarde)...")
+        # 5. Transcreve o arquivo (pode levar 1-3 minutos para vídeos de 10 min)
+        print(f"         ⏳ Transcrevendo (isso pode demorar alguns minutos)...")
         
-        # Barra de progresso durante transcrição
-        with tqdm(total=100, desc="         Transcrevendo", ncols=80, bar_format='{l_bar}{bar}| {n_fmt}/{total_fmt}') as pbar:
+        try:
             result = model.transcribe(temp_audio, fp16=False)  # AUTO-DETECT LANGUAGE!
-            pbar.update(100)
+        except Exception as transcribe_error:
+            print(f"         ❌ Erro ao transcrever: {str(transcribe_error)[:100]}")
+            if os.path.exists(temp_audio):
+                os.remove(temp_audio)
+            return None
         
         # Exibe idioma detectado
         idioma_detectado = result.get('language', 'desconhecido')
@@ -675,22 +716,32 @@ def transcrever_com_whisper(video_url, video_id, video_titulo, pasta_dossie=None
         return texto_transcrito
 
     except Exception as e:
-        print(f"         ❌ Whisper falhou: {str(e)[:50]}")
+        erro_msg = str(e)
+        print(f"         ❌ Whisper falhou: {erro_msg[:150]}")
+        
+        # Log completo do erro para debug
+        if 'ffmpeg' in erro_msg.lower():
+            print(f"         ℹ️ Problema de ffmpeg detectado. Arquivo: {temp_audio}")
+            print(f"         ℹ️ Arquivo existe: {os.path.exists(temp_audio) if os.path.exists(temp_audio) else 'NÃO'}")
+            if os.path.exists(temp_audio):
+                print(f"         ℹ️ Tamanho: {os.path.getsize(temp_audio)} bytes")
+        
         # Remove arquivo temporário em caso de erro (somente se não estiver no dossiê)
         if not pasta_dossie and os.path.exists(temp_audio):
             os.remove(temp_audio)
         return None
 
-def buscar_videos_multilingue(nome_ferramenta, limite_por_idioma=5, max_videos=25):
-    """Busca vídeos em PT, EN e ES com limite expandido para compensar descartes
+def buscar_videos_multilingue(nome_ferramenta, limite_por_idioma=10, max_videos=50):
+    """Busca vídeos em PT, EN e ES ordenados por relevância (visualizações)
     
     Args:
         limite_por_idioma: Máximo de vídeos por query
-        max_videos: Limite total de vídeos retornados (para evitar sobrecarga)
+        max_videos: Limite total de vídeos retornados (ordenados por views)
     """
-    print(f"\n🎥 Buscando reviews multilíngues (até {max_videos} vídeos)...")
+    print(f"\n🎥 Buscando reviews multilíngues (até {max_videos} vídeos, ordenados por relevância)...")
     
     videos_encontrados = []
+    video_ids_vistos = set()  # Rastreia IDs já processados (evita duplicatas)
     
     # Queries expandidas para garantir variedade
     queries = [
@@ -713,16 +764,49 @@ def buscar_videos_multilingue(nome_ferramenta, limite_por_idioma=5, max_videos=2
             url = f"https://www.youtube.com/results?search_query={quote_plus(query)}"
             response = requests.get(url, headers=HEADERS_BROWSER, timeout=10)
             
-            # Extrai IDs de vídeos
+            # Extrai IDs, títulos e view counts
             video_ids = re.findall(r'"videoId":"([^"]{11})"', response.text)
             titles = re.findall(r'"title":\{"runs":\[\{"text":"([^"]+)"\}\]', response.text)
+            view_counts = re.findall(r'"viewCountText":\{"simpleText":"([^"]+)"\}', response.text)
             
-            # Adiciona vídeos únicos
+            # Cria lista com metadados para ordenação
+            videos_temp = []
             for i, vid in enumerate(video_ids[:limite_por_idioma]):
                 if len(videos_encontrados) >= max_videos:
                     break
-                if vid not in [v[0] for v in videos_encontrados] and i < len(titles):
-                    videos_encontrados.append((vid, titles[i], idioma))
+                
+                # ✅ DEDUPLICAÇÃO: Pula se vídeo já foi processado
+                if vid in video_ids_vistos:
+                    continue
+                
+                if i < len(titles):
+                    # Extrai número de views (ex: "1.2M" -> 1200000)
+                    views = 0
+                    if i < len(view_counts):
+                        view_str = view_counts[i].replace(',', '').replace('.', '')
+                        if 'K' in view_str:
+                            views = int(float(view_str.replace('K', '')) * 1000)
+                        elif 'M' in view_str:
+                            views = int(float(view_str.replace('M', '')) * 1000000)
+                        elif 'mi' in view_str:  # "mi" = milhão em PT
+                            views = int(float(view_str.split()[0].replace(',', '.')) * 1000000)
+                        elif 'mil' in view_str:  # "mil" em PT
+                            views = int(float(view_str.split()[0].replace(',', '.')) * 1000)
+                        else:
+                            try:
+                                views = int(view_str.split()[0])
+                            except:
+                                views = 0
+                    videos_temp.append((vid, titles[i], idioma, views))
+                    video_ids_vistos.add(vid)  # ✅ Marca como visto
+            
+            # Ordena por visualizações (mais relevantes primeiro)
+            videos_temp.sort(key=lambda x: x[3], reverse=True)
+            
+            # Adiciona à lista final (já deduplicados)
+            for vid, title, lang, views in videos_temp:
+                if len(videos_encontrados) < max_videos:
+                    videos_encontrados.append((vid, title, lang))
                     
         except Exception as e:
             print(f"   ⚠️ Erro na busca {idioma}: {e}")
@@ -732,72 +816,159 @@ def buscar_videos_multilingue(nome_ferramenta, limite_por_idioma=5, max_videos=2
     return videos_encontrados
 
 def extrair_transcricoes_multilingue(nome_ferramenta, pasta_dossie=None):
-    """Extrai transcrições de forma AGRESSIVA (Whisper AI prioritário + fallback para legendas)
-    COM FILTRO DE QUALIDADE: Descarta vídeos muito curtos (< 3.000 chars)
+    """Extrai transcrições multilíngues de vídeos do YouTube com filtro de qualidade.
     
-    Args:
-        nome_ferramenta: Nome da ferramenta
-        pasta_dossie: Caminho do dossiê para salvar áudios (opcional)
-        
-    Retorna: (transcricoes_completas_string, idiomas_usados_list, videos_dados_list)
+    NOVO EM V2.7:
+    - Filtra duração (>5min) ANTES de processar
+    - Contador de falhas corrigido (não conta vídeos curtos como falha)
+    - Prompt interativo para buscar mais vídeos se necessário
+    
+    Returns: (transcricoes_str, idiomas_list, videos_dados_list)
     """
-    # Busca até 25 vídeos para compensar possíveis descartes (+ filtro >5min)
-    videos = buscar_videos_multilingue(nome_ferramenta, max_videos=25)
+    # PASSO 1: Buscar 50 vídeos candidatos
+    videos_candidatos = buscar_videos_multilingue(nome_ferramenta, max_videos=50)
     
-    if not videos:
+    if not videos_candidatos:
         return "Sem vídeos encontrados no YouTube.", [], []
     
-    print(f"\n📥 Extraindo transcrições de {len(videos)} vídeos (WHISPER PRIORITÁRIO + FILTRO QUALIDADE)...")
+    # PASSO 2: Filtrar por duração (>5min) ANTES de processar
+    print(f"\n🔍 Filtrando {len(videos_candidatos)} vídeos por duração (mínimo 5 min)...")
+    videos_validos = []
+    video_ids_processados = set()  # ✅ Evita duplicatas na filtragem
     
-    # Cria instância da API (necessário para usar .list())
+    for video_id, titulo, idioma in videos_candidatos:
+        # ✅ DEDUPLICAÇÃO: Pula se vídeo já foi processado
+        if video_id in video_ids_processados:
+            print(f"   🔁 Duplicata ignorada: {titulo[:60]}...")
+            continue
+        
+        video_ids_processados.add(video_id)
+        
+        duracao, titulo_real = verificar_duracao_video(video_id)
+        if titulo_real:
+            titulo = titulo_real  # Atualiza com título real
+        
+        if duracao >= 300 and duracao <= 3600:  # 5-60 minutos
+            videos_validos.append((video_id, titulo, idioma, duracao))
+            print(f"   ✅ {titulo[:60]}... ({duracao//60}min{duracao%60}s)")
+        elif duracao < 300:
+            print(f"   ⏭️ {titulo[:60]}... ({duracao}s - muito curto)")
+        else:
+            print(f"   ⏭️ {titulo[:60]}... ({duracao//60}min{duracao%60}s - muito longo, máx 60min)")
+    
+    print(f"\n📊 Resultado: {len(videos_validos)} vídeos válidos (>5min) de {len(videos_candidatos)} candidatos")
+    
+    # PASSO 3: Se <5 vídeos, buscar automaticamente mais 25 (1ª expansão)
+    if len(videos_validos) < 5:
+        print(f"\n⚠️ Encontrados apenas {len(videos_validos)} vídeos acima de 5 minutos")
+        print("🔄 Buscando automaticamente mais 25 vídeos (1ª expansão)...")
+        
+        videos_extras = buscar_videos_multilingue(nome_ferramenta, max_videos=25)
+        
+        print(f"🔍 Filtrando {len(videos_extras)} vídeos extras por duração...")
+        for video_id, titulo, idioma in videos_extras:
+            # Evita duplicatas
+            if video_id not in [v[0] for v in videos_validos]:
+                duracao, titulo_real = verificar_duracao_video(video_id)
+                if titulo_real:
+                    titulo = titulo_real
+                
+                if duracao >= 300 and duracao <= 3600:
+                    videos_validos.append((video_id, titulo, idioma, duracao))
+                    print(f"   ✅ {titulo[:60]}... ({duracao//60}min{duracao%60}s)")
+                elif duracao < 300:
+                    print(f"   ⏭️ {titulo[:60]}... ({duracao}s - muito curto)")
+                else:
+                    print(f"   ⏭️ {titulo[:60]}... ({duracao//60}min{duracao%60}s - muito longo, máx 60min)")
+        
+        print(f"\n📊 Após 1ª expansão: {len(videos_validos)} vídeos válidos")
+    
+    # PASSO 4: Se ainda <5 vídeos, buscar automaticamente mais 25 (2ª expansão)
+    if len(videos_validos) < 5:
+        print(f"\n⚠️ Ainda insuficiente: {len(videos_validos)} vídeos válidos")
+        print("🔄 Buscando automaticamente mais 25 vídeos (2ª expansão)...")
+        
+        videos_extras2 = buscar_videos_multilingue(nome_ferramenta, max_videos=25)
+        
+        print(f"🔍 Filtrando {len(videos_extras2)} vídeos extras por duração...")
+        for video_id, titulo, idioma in videos_extras2:
+            # Evita duplicatas
+            if video_id not in [v[0] for v in videos_validos]:
+                duracao, titulo_real = verificar_duracao_video(video_id)
+                if titulo_real:
+                    titulo = titulo_real
+                
+                if duracao >= 300 and duracao <= 3600:
+                    videos_validos.append((video_id, titulo, idioma, duracao))
+                    print(f"   ✅ {titulo[:60]}... ({duracao//60}min{duracao%60}s)")
+                elif duracao < 300:
+                    print(f"   ⏭️ {titulo[:60]}... ({duracao}s - muito curto)")
+                else:
+                    print(f"   ⏭️ {titulo[:60]}... ({duracao//60}min{duracao%60}s - muito longo, máx 60min)")
+        
+        print(f"\n📊 Após 2ª expansão: {len(videos_validos)} vídeos válidos")
+    
+    # PASSO 5: Verifica se encontrou PELO MENOS 1 vídeo (senão aborta)
+    if len(videos_validos) == 0:
+        print(f"\n❌ ERRO: Nenhum vídeo válido encontrado após 2 expansões (50+25+25 vídeos buscados)")
+        return "Nenhum vídeo válido encontrado no YouTube.", [], []
+    
+    # PASSO 6: Processar os vídeos encontrados (até 5, ou menos se não houver 5)
+    videos = videos_validos[:5]
+    print(f"\n🎯 Processando {len(videos)} vídeo(s) encontrado(s):")
+    for i, (video_id, titulo, idioma, duracao) in enumerate(videos, 1):
+        print(f"   {i}. {titulo[:70]}... ({duracao//60}min{duracao%60}s, {idioma})")
+    
+    print(f"\n📥 Extraindo transcrições dos {len(videos)} vídeos (WHISPER PRIORITÁRIO)...")
+    
+    # PASSO 7: Processar os vídeos selecionados
     ytt_api = YouTubeTranscriptApi()
-    
     transcricoes_completas = ""
     idiomas_usados = set()
     videos_dados = []
     videos_descartados = []
     count_sucesso = 0
-    TAMANHO_MINIMO = 3000  # Caracteres mínimos para considerar vídeo de qualidade
+    falhas_whisper_reais = 0
+    MAX_FALHAS_WHISPER = 3
+    TAMANHO_MINIMO = 3000
     
-    for video_id, titulo, idioma_busca in videos:
+    for idx, (video_id, titulo, idioma_busca, duracao) in enumerate(videos, 1):
+        print(f"\n   🎬 Vídeo {idx}/{len(videos)}: {titulo[:70]}... ({duracao//60}min{duracao%60}s)")
         video_url = f"https://youtube.com/watch?v={video_id}"
         
         texto_final = None
         tipo_legenda = "desconhecida"
         idioma_final = idioma_busca
         
-        # ═══════════════════════════════════════════════════════════
-        # PRIORIDADE 1: WHISPER AI (transcrição local sempre precisa)
-        # ═══════════════════════════════════════════════════════════
-        if WHISPER_DISPONIVEL:
+        # ═════════════════════════════════════════════════════════
+        # PRIORIDADE 1: WHISPER AI (vídeo já validado por duração!)
+        # ═════════════════════════════════════════════════════════
+        if WHISPER_DISPONIVEL and falhas_whisper_reais < MAX_FALHAS_WHISPER:
             print(f"   🎙️ Tentando Whisper IA primeiro...")
-            texto_whisper = transcrever_com_whisper(video_url, video_id, titulo, pasta_dossie, count_sucesso + 1)
+            texto_whisper = transcrever_com_whisper(video_url, video_id, titulo, pasta_dossie, idx)
             
             if texto_whisper and len(texto_whisper) >= TAMANHO_MINIMO:
+                # ✅ Sucesso total
                 texto_final = texto_whisper
                 tipo_legenda = "whisper-ai"
                 idioma_final = "pt (Whisper IA)"
-                print(f"   ✅ Whisper: {len(texto_final):,} chars - {titulo[:50]}...")
+                print(f"   ✅ Whisper: {len(texto_final):,} chars")
             elif texto_whisper:
-                # Whisper funcionou mas vídeo muito curto
-                videos_descartados.append({
-                    "video_id": video_id,
-                    "titulo": titulo,
-                    "idioma": "pt (Whisper IA)",
-                    "url": video_url,
-                    "tamanho": len(texto_whisper),
-                    "status": "descartado",
-                    "motivo": f"Vídeo muito curto via Whisper ({len(texto_whisper)} chars < {TAMANHO_MINIMO} mínimo)"
-                })
-                print(f"   ⚠️ Whisper DESCARTADO ({len(texto_whisper):,} chars < {TAMANHO_MINIMO:,} mínimo): {titulo[:50]}...")
-                continue  # Pula para próximo vídeo
+                # ⚠️ Whisper OK, mas transcrição curta (vídeo tem pouco áudio falado)
+                print(f"   ⚠️ Whisper OK, mas transcrição curta ({len(texto_whisper):,} chars < {TAMANHO_MINIMO:,}). Tentando legendas...")
+                # NÃO incrementa falhas (Whisper funcionou!)
             else:
-                # Whisper retornou None (vídeo já foi descartado na função)
-                continue
+                # ❌ Whisper falhou (retornou None)
+                falhas_whisper_reais += 1
+                print(f"   ❌ Whisper falhou ({falhas_whisper_reais}/{MAX_FALHAS_WHISPER}). Tentando legendas...")
+                if falhas_whisper_reais >= MAX_FALHAS_WHISPER:
+                    print(f"   ⚠️ Whisper falhou {MAX_FALHAS_WHISPER}x. Usando apenas legendas daqui pra frente...")
+        elif WHISPER_DISPONIVEL and falhas_whisper_reais >= MAX_FALHAS_WHISPER:
+            print(f"   ℹ️ Pulando Whisper (muitas falhas). Tentando legendas YouTube...")
         
-        # ═══════════════════════════════════════════════════════════
-        # PRIORIDADE 2: LEGENDAS OFICIAIS (fallback se Whisper falhar)
-        # ═══════════════════════════════════════════════════════════
+        # ═════════════════════════════════════════════════════════
+        # PRIORIDADE 2: LEGENDAS OFICIAIS (fallback)
+        # ═════════════════════════════════════════════════════════
         if not texto_final:
             print(f"   📜 Whisper falhou/indisponível, tentando legendas oficiais...")
             
@@ -966,13 +1137,59 @@ def extrair_transcricoes_multilingue(nome_ferramenta, pasta_dossie=None):
     COM FILTRO DE QUALIDADE: Descarta vídeos muito curtos (< 3.000 chars)
     Retorna: (transcricoes_completas_string, idiomas_usados_list, videos_dados_list)
     """
-    # Busca até 25 vídeos para compensar possíveis descartes (+ filtro >5min)
-    videos = buscar_videos_multilingue(nome_ferramenta, max_videos=25)
+    # PASSO 1: Busca 50 vídeos ordenados por visualizações (mais relevantes primeiro)
+    videos_candidatos = buscar_videos_multilingue(nome_ferramenta, max_videos=50)
     
-    if not videos:
+    if not videos_candidatos:
         return "Sem vídeos encontrados no YouTube.", [], []
     
-    print(f"\n📥 Extraindo transcrições de {len(videos)} vídeos (MODO AGRESSIVO + FILTRO QUALIDADE)...")
+    # PASSO 2: Filtra por duração (>5min) ANTES de processar
+    print(f"\n🔍 Filtrando {len(videos_candidatos)} vídeos por duração (mínimo 5 min)...")
+    videos_validos = []
+    for video_id, titulo, idioma in videos_candidatos:
+        duracao, _ = verificar_duracao_video(video_id)
+        if duracao >= 300:  # 5 minutos
+            videos_validos.append((video_id, titulo, idioma, duracao))
+            print(f"   ✅ {titulo[:60]}... ({duracao//60}min{duracao%60}s)")
+        else:
+            print(f"   ⏭️ {titulo[:60]}... ({duracao}s - muito curto)")
+    
+    print(f"\n📊 Resultado: {len(videos_validos)} vídeos válidos de {len(videos_candidatos)} candidatos")
+    
+    # PASSO 3: Se <5 vídeos, perguntar se quer buscar mais
+    if len(videos_validos) < 5:
+        print(f"\n⚠️ Encontrados apenas {len(videos_validos)} vídeos acima de 5 minutos (mínimo: 5)")
+        resposta = input("\n❓ Deseja buscar mais 25 vídeos? (s/n): ").strip().lower()
+        
+        if resposta == 's':
+            print("\n🔄 Buscando mais 25 vídeos...")
+            videos_extras = buscar_videos_multilingue(nome_ferramenta, max_videos=25)
+            
+            print(f"🔍 Filtrando {len(videos_extras)} vídeos extras por duração...")
+            for video_id, titulo, idioma in videos_extras:
+                if (video_id, titulo, idioma, 0) not in [(v[0], v[1], v[2], 0) for v in videos_validos]:
+                    duracao, _ = verificar_duracao_video(video_id)
+                    if duracao >= 300:
+                        videos_validos.append((video_id, titulo, idioma, duracao))
+                        print(f"   ✅ {titulo[:60]}... ({duracao//60}min{duracao%60}s)")
+            
+            print(f"\n📊 Novo total: {len(videos_validos)} vídeos válidos")
+        else:
+            print("\n🛑 Processamento cancelado pelo usuário.")
+            return "Processamento cancelado: vídeos insuficientes.", [], []
+    
+    # PASSO 4: Se ainda <5 vídeos, abortar
+    if len(videos_validos) < 5:
+        print(f"\n❌ Insuficiente: apenas {len(videos_validos)} vídeos >5min encontrados (mínimo: 5)")
+        return "Vídeos insuficientes para análise de qualidade.", [], []
+    
+    # PASSO 5: Já ordenados por relevância, pegar top 5
+    videos = videos_validos[:5]
+    print(f"\n🎯 Selecionados TOP 5 vídeos mais relevantes (já ordenados por views)")
+    for i, (video_id, titulo, idioma, duracao) in enumerate(videos, 1):
+        print(f"   {i}. {titulo[:70]}... ({duracao//60}min{duracao%60}s, {idioma})")
+    
+    print(f"\n📥 Extraindo transcrições dos 5 vídeos selecionados (WHISPER PRIORITÁRIO)...")
     
     # Cria instância da API (necessário para usar .list())
     ytt_api = YouTubeTranscriptApi()
@@ -983,46 +1200,70 @@ def extrair_transcricoes_multilingue(nome_ferramenta, pasta_dossie=None):
     videos_descartados = []
     count_sucesso = 0
     TAMANHO_MINIMO = 3000  # Caracteres mínimos para considerar vídeo de qualidade
+    whisper_falhas_seguidas = 0
+    MAX_WHISPER_FALHAS = 3
     
-    for video_id, titulo, idioma_busca in videos:
+    for idx, (video_id, titulo, idioma_busca, duracao) in enumerate(videos, 1):
+        print(f"\n   🎬 Vídeo {idx}/{len(videos)}: {titulo[:70]}... ({duracao//60}min{duracao%60}s)")
         video_url = f"https://youtube.com/watch?v={video_id}"
         
         transcript = None
         tipo_legenda = "desconhecida"
         
-        # TENTATIVA 1: Buscar legendas oficiais (manual, auto-gerada ou qualquer uma)
-        try:
-            transcript_list = ytt_api.list(video_id)
-            
-            # Tentativa 1A: Legenda MANUAL nos idiomas preferidos
+        # TENTATIVA 1: WHISPER IA (prioritário, vídeo já foi validado por duração)
+        if WHISPER_DISPONIVEL and whisper_falhas_seguidas < MAX_WHISPER_FALHAS:
+            print(f"   🎙️ Tentando Whisper IA primeiro...")
+            transcript = transcrever_com_whisper(
+                video_id, titulo, video_url, 
+                pasta_dossie=pasta_dossie, 
+                numero_video=idx
+            )
+            if transcript:
+                tipo_legenda = "whisper"
+                idiomas_usados.add("multilíngue (IA)")
+                whisper_falhas_seguidas = 0  # Reset contador
+            else:
+                whisper_falhas_seguidas += 1
+                if whisper_falhas_seguidas >= MAX_WHISPER_FALHAS:
+                    print(f"   ⚠️ Whisper falhou {MAX_WHISPER_FALHAS}x seguidas. Usando apenas legendas YouTube daqui pra frente...")
+        elif whisper_falhas_seguidas >= MAX_WHISPER_FALHAS:
+            print(f"   ℹ️ Pulando Whisper (muitas falhas). Tentando legendas YouTube...")
+        
+        # TENTATIVA 2: Buscar legendas oficiais (manual, auto-gerada ou qualquer uma)
+        if not transcript:
+            print(f"   📜 Whisper falhou/indisponível, tentando legendas oficiais...")
             try:
-                transcript = transcript_list.find_manually_created_transcript(['pt', 'pt-BR', 'en', 'en-US', 'es'])
-                tipo_legenda = "manual"
-            except:
+                transcript_list = ytt_api.list(video_id)
+                
+                # Tentativa 2A: Legenda MANUAL nos idiomas preferidos
+                try:
+                    transcript = transcript_list.find_manually_created_transcript(['pt', 'pt-BR', 'en', 'en-US', 'es'])
+                    tipo_legenda = "manual"
+                except:
+                    pass
+                
+                # Tentativa 2B: Legenda AUTO-GERADA (aceita qualquer idioma)
+                if not transcript:
+                    try:
+                        transcript = transcript_list.find_generated_transcript(['pt', 'pt-BR', 'en', 'en-US', 'es'])
+                        tipo_legenda = "auto-gerada"
+                    except:
+                        pass
+                
+                # Tentativa 2C: QUALQUER legenda disponível (última tentativa)
+                if not transcript:
+                    try:
+                        # Pega a primeira que aparecer
+                        for t in transcript_list:
+                            transcript = t
+                            tipo_legenda = "disponível"
+                            break
+                    except:
+                        pass
+            except Exception as e:
+                # Vídeo não tem legendas OU erro ao listar → transcript continua None
+                print(f"   ⚠️ Sem legendas oficiais: {str(e)[:50]}...")
                 pass
-            
-            # Tentativa 1B: Legenda AUTO-GERADA (aceita qualquer idioma)
-            if not transcript:
-                try:
-                    transcript = transcript_list.find_generated_transcript(['pt', 'pt-BR', 'en', 'en-US', 'es'])
-                    tipo_legenda = "auto-gerada"
-                except:
-                    pass
-            
-            # Tentativa 1C: QUALQUER legenda disponível (última tentativa)
-            if not transcript:
-                try:
-                    # Pega a primeira que aparecer
-                    for t in transcript_list:
-                        transcript = t
-                        tipo_legenda = "disponível"
-                        break
-                except:
-                    pass
-        except Exception as e:
-            # Vídeo não tem legendas OU erro ao listar → transcript continua None
-            print(f"   ⚠️ Sem legendas oficiais: {str(e)[:50]}...")
-            pass
         
         # BRANCH 1: Se conseguiu legenda oficial do YouTube
         if transcript:
@@ -1109,119 +1350,31 @@ def extrair_transcricoes_multilingue(nome_ferramenta, pasta_dossie=None):
                     break
             except Exception as e:
                 print(f"   ⚠️ Erro ao processar legenda oficial: {str(e)[:50]}...")
-                # Mesmo com legenda encontrada, se houver erro no processamento, tenta Whisper
+                # Mesmo com legenda encontrada, se houver erro no processamento, continua
                 transcript = None
         
-        # BRANCH 2: Se NÃO conseguiu legenda oficial → Tenta Whisper
+        # BRANCH 2: Se NENHUMA tentativa funcionou (nem Whisper, nem legendas)
         if not transcript:
-            print(f"   ⚠️ Sem legendas oficiais. Tentando Whisper (IA local)...")
-            texto_whisper = transcrever_com_whisper(video_url, video_id)
-            texto_whisper = transcrever_com_whisper(video_url, video_id)
-            
-            if texto_whisper:
-                # VALIDAÇÃO DE QUALIDADE: Descarta se muito curto (mesmo via Whisper)
-                if len(texto_whisper) < TAMANHO_MINIMO:
-                    videos_descartados.append({
-                        "video_id": video_id,
-                        "titulo": titulo,
-                        "idioma": 'pt (Whisper IA)',
-                        "url": video_url,
-                        "tamanho": len(texto_whisper),
-                        "status": "descartado",
-                        "motivo": f"Vídeo muito curto via Whisper ({len(texto_whisper)} chars < {TAMANHO_MINIMO} mínimo)"
-                    })
-                    print(f"   ⚠️ Whisper DESCARTADO ({len(texto_whisper):,} chars < {TAMANHO_MINIMO:,} mínimo): {titulo[:50]}...")
-                    continue
-                
-                idioma_final = 'pt (Whisper IA)'
-                idiomas_usados.add(idioma_final)
-                
-                # Salva dados estruturados
-                videos_dados.append({
-                    "video_id": video_id,
-                    "titulo": titulo,
-                    "idioma": idioma_final,
-                    "url": video_url,
-                    "texto": texto_whisper,
-                    "tamanho": len(texto_whisper),
-                    "status": "sucesso",
-                    "tipo_legenda": "whisper-ai"
-                })
-                
-                # Adiciona ao texto completo
-                transcricoes_completas += f"\n{'='*60}\n"
-                transcricoes_completas += f"REVIEW: {titulo}\n"
-                transcricoes_completas += f"URL: {video_url}\n"
-                transcricoes_completas += f"IDIOMA: {idioma_final} (IA local)\n"
-                transcricoes_completas += f"{'='*60}\n"
-                transcricoes_completas += texto_whisper + "\n"
-                
-                count_sucesso += 1
-                print(f"   ✅ Whisper AI ({len(texto_whisper):,} chars): {titulo[:50]}...")
-                
-                # 💾 SALVAR TRANSCRIÇÃO IMEDIATAMENTE (validação incremental)
-                if pasta_dossie:
-                    try:
-                        os.makedirs(pasta_dossie, exist_ok=True)
-                        nome_arquivo = gerar_nome_arquivo(count_sucesso, titulo, "txt")
-                        arquivo_saida = os.path.join(pasta_dossie, nome_arquivo)
-                        with open(arquivo_saida, 'w', encoding='utf-8') as f:
-                            f.write(f"VÍDEO #{count_sucesso}\n")
-                            f.write(f"{'='*70}\n")
-                            f.write(f"Título: {titulo}\n")
-                            f.write(f"URL: {video_url}\n")
-                            f.write(f"Idioma: {idioma_final} (IA local)\n")
-                            f.write(f"Tamanho: {len(texto_whisper)} caracteres\n")
-                            f.write(f"Data Coleta: {datetime.now().strftime('%d/%m/%Y %H:%M')}\n")
-                            f.write(f"{'='*70}\n\n")
-                            f.write(f" {texto_whisper}")
-                        print(f"   💾 Salvo: {nome_arquivo} ({len(texto_whisper):,} chars)")
-                    except Exception as e:
-                        print(f"   ⚠️ Erro ao salvar: {e}")
-                
-                # OTIMIZAÇÃO: Para de processar após 5 vídeos de qualidade
-                if count_sucesso >= 5:
-                    print(f"   ℹ️ Limite de 5 vídeos de qualidade atingido")
-                    break
-            else:
-                # Whisper também falhou - marca como falha SOMENTE se Whisper está disponível
-                if WHISPER_DISPONIVEL:
-                    videos_dados.append({
-                        "video_id": video_id,
-                        "titulo": titulo,
-                        "idioma": idioma_busca,
-                        "url": video_url,
-                        "texto": None,
-                        "tamanho": 0,
-                        "status": "falha",
-                        "erro": "Sem legendas oficiais e Whisper falhou"
-                    })
-                    print(f"   ❌ Whisper falhou: {titulo[:50]}...")
-                else:
-                    # Whisper não disponível - pula sem salvar (permite reprocessamento futuro)
-                    print(f"   ⏭️ Pulando (Whisper não instalado): {titulo[:50]}...")
-                continue
+            print(f"   ❌ Falhou TODAS tentativas (Whisper + Legendas): {titulo[:50]}...")
+            videos_descartados.append({
+                "video_id": video_id,
+                "titulo": titulo,
+                "idioma": idioma_busca,
+                "url": video_url,
+                "tamanho": 0,
+                "status": "falha",
+                "motivo": "Sem Whisper nem legendas disponíveis"
+            })
+            continue
         
-        # Se chegou aqui sem processar nada, algo deu errado (não deveria acontecer)
-        # continue para próximo vídeo
+        # ✅ SUCESSO: Contador final
+        count_sucesso += 1
+        
+        if count_sucesso >= 5:
+            print(f"   ℹ️ Limite de 5 vídeos de qualidade atingido")
+            break
     
-    if count_sucesso == 0:
-        print(f"   ❌ NENHUMA transcrição de qualidade extraída de {len(videos)} vídeos")
-        print(f"   💡 POSSÍVEL BLOQUEIO DO YOUTUBE - Rate limit ou detecção de bot")
-        print(f"   ⏸️ SOLUÇÃO: Aguarde 15-30 minutos e tente novamente")
-        return "Nenhuma transcrição disponível (vídeos sem legendas ou muito curtos).", [], videos_dados + videos_descartados
-    
-    # VALIDAÇÃO CRÍTICA: Mínimo de 3 vídeos de qualidade para garantir análise confiável
-    if count_sucesso < 3:
-        print(f"   ⚠️ ATENÇÃO: Apenas {count_sucesso} vídeo(s) de qualidade encontrado(s)")
-        print(f"   💡 Recomendação: Instale Whisper para fallback (pip install openai-whisper yt-dlp)")
-    
-    # Relatório final
-    total_falhas = len([v for v in videos_dados if v.get('status') == 'falha'])
-    print(f"   📊 Total: {count_sucesso} vídeos de qualidade ✅ + {len(videos_descartados)} descartados ⚠️ + {total_falhas} sem legenda ❌")
-    
-    if videos_descartados:
-        print(f"   ℹ️ Vídeos descartados por serem muito curtos: {len(videos_descartados)}")
+    print(f"   📊 Total: {count_sucesso} vídeos de qualidade ✅ + {len(videos_descartados)} descartados/falhados ⚠️")
     
     return transcricoes_completas, list(idiomas_usados), videos_dados + videos_descartados
 
@@ -1421,11 +1574,16 @@ def registrar_request_gemini(tokens_estimados):
 # PROCESSAMENTO PRINCIPAL
 # ============================================
 
-def processar_ferramenta(nome_ferramenta, categoria, model):
-    """Processa uma ferramenta: Site + YouTube + Gemini"""
+def processar_ferramenta(nome_ferramenta, categoria, model, modo_dossie=False):
+    """Processa uma ferramenta: Site + YouTube + Gemini
     
+    Args:
+        modo_dossie: Se True, apenas cria dossiê sem enviar ao Gemini
+    """
+    
+    modo_texto = "DOSSIÊ" if modo_dossie else "PROCESSANDO"
     print(f"\n{'='*70}")
-    print(f"🚀 PROCESSANDO: {nome_ferramenta} ({categoria})")
+    print(f"🚀 {modo_texto}: {nome_ferramenta} ({categoria})")
     print(f"{'='*70}")
     
     # 0. VERIFICAÇÃO: Pula se já foi processado
@@ -1451,18 +1609,27 @@ def processar_ferramenta(nome_ferramenta, categoria, model):
     # 2. COLETA: Reviews Multilíngues (PASSA pasta_dossie para Whisper)
     transcricoes, idiomas, videos_dados = extrair_transcricoes_multilingue(nome_ferramenta, pasta_dossie)
     
-    # 2.1. VALIDAÇÃO CRÍTICA: Se menos de 5 vídeos foram extraídos, PULA ferramenta
+    # 2.1. VALIDAÇÃO CRÍTICA: Se nenhum vídeo foi extraído, PULA ferramenta
     videos_com_sucesso = [v for v in videos_dados if v.get('status') == 'sucesso']
     
-    if len(videos_com_sucesso) < 5:
-        print(f"\n   ⚠️ FALHA CRÍTICA: Apenas {len(videos_com_sucesso)} vídeo(s) extraído(s) (mínimo: 5)")
+    if len(videos_com_sucesso) == 0:
+        print(f"\n   ⚠️ FALHA CRÍTICA: Nenhum vídeo extraído com sucesso")
         print(f"   💡 Possível bloqueio do YouTube (rate limit/detecção de bot)")
         print(f"   ⏭️ PULANDO {nome_ferramenta} - reprocessar depois")
         print(f"   ℹ️ NÃO salvando dossiê nem _raw.md (permite reprocessamento)\n")
         return None
     
+    print(f"\n   ✅ Total de vídeos processados com sucesso: {len(videos_com_sucesso)}")
+    
     # 3. SALVAR DOSSIÊ (Auditoria e Reutilização)
     salvar_dossie(nome_ferramenta, categoria, dados_site, videos_dados, idiomas)
+    
+    # SE MODO DOSSIÊ: Para aqui (não chama Gemini)
+    if modo_dossie:
+        print(f"\n✅ DOSSIÊ CRIADO: {nome_ferramenta}")
+        print(f"   📁 Pasta: dossies/{nome_arquivo}/")
+        print(f"   ℹ️ Dados coletados mas NÃO enviados ao Gemini (modo dossiê)")
+        return "DOSSIE_OK"  # Retorna string especial para marcar na fila
     
     # 4. CONTROLE DE RATE LIMITING (ANTES de chamar Gemini)
     if not aguardar_rate_limit():
@@ -1595,6 +1762,61 @@ def ler_fila():
     return ferramentas_fila
 
 
+def marcar_dossie_na_fila(ferramentas_com_dossie):
+    """Marca ferramentas com dossiê na fila (ADICIONA tag [DOSSIÊ OK])
+    
+    Args:
+        ferramentas_com_dossie: Lista de nomes de ferramentas que tiveram dossiê gerado
+    """
+    if not ferramentas_com_dossie:
+        return
+    
+    arquivo_fila = os.path.join(os.path.dirname(BASE_PATH), "fila_processamento.txt")
+    
+    if not os.path.exists(arquivo_fila):
+        return
+    
+    # Lê todas as linhas
+    with open(arquivo_fila, 'r', encoding='utf-8') as f:
+        linhas = f.readlines()
+    
+    linhas_atualizadas = []
+    marcadas = 0
+    
+    for linha in linhas:
+        linha_original = linha
+        linha_limpa = linha.strip()
+        
+        # Ignora linhas vazias e comentários
+        if not linha_limpa or linha_limpa.startswith('#'):
+            linhas_atualizadas.append(linha_original)
+            continue
+        
+        # Verifica se é uma das ferramentas com dossiê
+        nome_na_linha = linha_limpa.split('|')[0].strip()
+        
+        if nome_na_linha in ferramentas_com_dossie:
+            # Verifica se já tem a tag
+            if '[DOSSIÊ OK]' not in linha_limpa:
+                # Adiciona tag no final (mantém \n original)
+                linha_atualizada = linha_original.rstrip('\n') + ' [DOSSIÊ OK]\n'
+                linhas_atualizadas.append(linha_atualizada)
+                marcadas += 1
+            else:
+                # Já marcada, mantém como está
+                linhas_atualizadas.append(linha_original)
+        else:
+            # Não é ferramenta processada, mantém como está
+            linhas_atualizadas.append(linha_original)
+    
+    # Reescreve arquivo
+    with open(arquivo_fila, 'w', encoding='utf-8') as f:
+        f.writelines(linhas_atualizadas)
+    
+    print(f"\n📋 Fila atualizada:")
+    print(f"   ✅ {marcadas} ferramenta(s) MARCADA(S) com [DOSSIÊ OK]")
+
+
 def remover_da_fila(ferramentas_processadas):
     """Remove ferramentas processadas da fila (DELETA as linhas)
     
@@ -1648,7 +1870,7 @@ def main():
     import sys
     
     print("\n" + "="*70)
-    print("  🚀 GEODE SUPER CRAWLER V2.5 - SISTEMA DE FILA")
+    print("  🚀 GEODE SUPER CRAWLER V2.6 - BUSCA INTELIGENTE")
     print("="*70)
     print(f"  📊 Limites API Gemini: {GEMINI_RPD} req/dia | {GEMINI_RPM} req/min | {GEMINI_TPM:,} tok/min")
     print(f"  ⏱️ Delay entre requests: {GEMINI_DELAY_MIN}s")
@@ -1678,9 +1900,10 @@ def main():
     print("2️⃣  Processar 1 FERRAMENTA da fila (primeira)")
     print("3️⃣  Processar ferramenta ESPECÍFICA da fila (buscar por nome)")
     print("4️⃣  Ver FILA completa (ferramentas pendentes)")
-    print("5️⃣  Sair\n")
+    print("5️⃣  Sair")
+    print("6️⃣  MODO DOSSIÊ: Criar dossiês SEM enviar ao Gemini (não remove da fila)\n")
     
-    escolha = input("👉 Sua opção (1-5): ").strip()
+    escolha = input("👉 Sua opção (1-6): ").strip()
     
     if escolha == "5":
         print("\n👋 Até logo!\n")
@@ -1749,6 +1972,135 @@ def main():
     # ═══════════════════════════════════════════════════════════
     # OPÇÃO 2: Processar 1 ferramenta DA FILA (primeira)
     # ═══════════════════════════════════════════════════════════
+    elif escolha == "6":
+        print("\n" + "="*70)
+        print("📂 MODO DOSSIÊ: Criar dossiês SEM enviar ao Gemini")
+        print("="*70)
+        print("\n⚠️ Este modo coleta dados (site + YouTube) mas NÃO gera artigo.")
+        print("💡 Útil para preparar material ou evitar uso da API Gemini.")
+        print("📝 Ferramentas continuam na fila, mas marcadas com [DOSSIÊ OK]\n")
+        
+        print("📋 SUBMODO:\n")
+        print("1️⃣  Criar dossiês para TODAS da fila")
+        print("2️⃣  Criar dossiê para 1 ferramenta (primeira)")
+        print("3️⃣  Criar dossiê para ferramenta ESPECÍFICA")
+        print("4️⃣  Voltar\n")
+        
+        submodo = input("👉 Sua opção (1-4): ").strip()
+        
+        if submodo == "4":
+            print("\n🔙 Voltando ao menu principal...\n")
+            return main()
+        
+        # SUBMODO 1: Todas da fila
+        if submodo == "1":
+            print(f"\n📊 Total de {len(fila)} ferramenta(s) na fila")
+            print(f"⏱️ Tempo estimado: ~{len(fila) * 2} minutos (sem Gemini)\n")
+            
+            confirma = input("✅ Criar dossiês para TODAS? (s/n): ").strip().lower()
+            if confirma != 's':
+                print("\n❌ Cancelado")
+                return
+            
+            sucesso = 0
+            falhas = 0
+            processadas = []
+            
+            for i, (ferramenta, categoria) in enumerate(fila, 1):
+                print(f"\n{'='*70}")
+                print(f"📦 Dossiê {i}/{len(fila)}: {ferramenta}")
+                print(f"{'='*70}")
+                
+                try:
+                    resultado = processar_ferramenta(ferramenta, categoria, model, modo_dossie=True)
+                    if resultado:
+                        sucesso += 1
+                        processadas.append(ferramenta)
+                    else:
+                        falhas += 1
+                except Exception as e:
+                    print(f"\n❌ ERRO: {e}")
+                    falhas += 1
+            
+            # Marca na fila (NÃO remove)
+            marcar_dossie_na_fila(processadas)
+            
+            print("\n" + "="*70)
+            print("📊 RELATÓRIO - MODO DOSSIÊ")
+            print("="*70)
+            print(f"✅ Dossiês criados: {sucesso}")
+            print(f"❌ Falhas: {falhas}")
+            print(f"📝 Ferramentas marcadas na fila: {len(processadas)}")
+            print(f"💡 Para gerar artigos, use opções 1-3 do menu principal")
+            print("="*70 + "\n")
+        
+        # SUBMODO 2: Primeira da fila
+        elif submodo == "2":
+            if not fila:
+                print("\n🎉 Fila vazia!")
+                return
+            
+            ferramenta, categoria = fila[0]
+            print(f"\n🎯 Criar dossiê: {ferramenta} ({categoria})")
+            
+            confirma = input("\n✅ Confirma? (s/n): ").strip().lower()
+            if confirma != 's':
+                print("\n❌ Cancelado")
+                return
+            
+            resultado = processar_ferramenta(ferramenta, categoria, model, modo_dossie=True)
+            
+            if resultado:
+                marcar_dossie_na_fila([ferramenta])
+                print(f"\n✅ Dossiê de {ferramenta} criado e marcado na fila!")
+            else:
+                print(f"\n❌ Falha ao criar dossiê de {ferramenta}")
+        
+        # SUBMODO 3: Específica
+        elif submodo == "3":
+            print(f"\n📋 Ferramentas disponíveis na fila:\n")
+            for i, (f, c) in enumerate(fila, 1):
+                print(f"   {i}. {f} ({c})")
+            
+            busca = input("\n🔍 Digite o nome (ou parte): ").strip().lower()
+            
+            encontradas = [(f, c) for f, c in fila if busca in f.lower()]
+            
+            if not encontradas:
+                print(f"\n❌ Nenhuma ferramenta encontrada com '{busca}'")
+                return
+            
+            if len(encontradas) > 1:
+                print(f"\n📋 Encontradas {len(encontradas)} ferramentas:\n")
+                for i, (f, c) in enumerate(encontradas, 1):
+                    print(f"   {i}. {f} ({c})")
+                
+                idx = input("\n👉 Escolha o número: ").strip()
+                try:
+                    ferramenta, categoria = encontradas[int(idx) - 1]
+                except:
+                    print("\n❌ Opção inválida")
+                    return
+            else:
+                ferramenta, categoria = encontradas[0]
+            
+            print(f"\n🎯 Criar dossiê: {ferramenta} ({categoria})")
+            
+            confirma = input("\n✅ Confirma? (s/n): ").strip().lower()
+            if confirma != 's':
+                print("\n❌ Cancelado")
+                return
+            
+            resultado = processar_ferramenta(ferramenta, categoria, model, modo_dossie=True)
+            
+            if resultado:
+                marcar_dossie_na_fila([ferramenta])
+                print(f"\n✅ Dossiê de {ferramenta} criado e marcado na fila!")
+            else:
+                print(f"\n❌ Falha ao criar dossiê de {ferramenta}")
+        else:
+            print("\n❌ Opção inválida")
+    
     elif escolha == "2":
         if not fila:
             print("\n🎉 Fila vazia - todas processadas!")

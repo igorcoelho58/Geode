@@ -1,0 +1,53 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 29/12/2025 19:43
+Total de Vídeos Encontrados: 8
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt] Já conhecia o Intercomunicador? O fone de ouvidos para Capacete 😱 #intercomunicador #capacete
+   URL: https://youtube.com/watch?v=u1n1JqgnFvA
+   Status: sucesso
+   Tamanho: 3181 caracteres
+   Arquivo: 01_Já_conhecia_o_Intercomunicador_O_fone_de_ouvidos_p.txt
+
+2. ✅ [en] Intercom Review - Top Features, Pros \u0026 Cons, and Alternatives
+   URL: https://youtube.com/watch?v=vl2kcLpwOAs
+   Status: sucesso
+   Tamanho: 4699 caracteres
+   Arquivo: 02_Intercom_Review_-_Top_Features,_Pros_u0026_Cons,_a.txt
+
+3. ✅ [en] Intercom Tutorial For Beginners (Full 2024 Guide)
+   URL: https://youtube.com/watch?v=mPsDb__IJvQ
+   Status: sucesso
+   Tamanho: 8165 caracteres
+   Arquivo: 03_Intercom_Tutorial_For_Beginners_(Full_2024_Guide).txt
+
+4. ✅ [es] Reseña Total: Cardo Spirit (un año de uso) En Español
+   URL: https://youtube.com/watch?v=njYfacYmZ_A
+   Status: sucesso
+   Tamanho: 10782 caracteres
+   Arquivo: 04_Reseña_Total_Cardo_Spirit_(un_año_de_uso)_En_Españ.txt
+
+5. ✅ [es] Módulo 1: Qué es la herramienta Intercom y cuáles son sus usos.
+   URL: https://youtube.com/watch?v=_HOM4Dyg7FI
+   Status: sucesso
+   Tamanho: 4688 caracteres
+   Arquivo: 05_Módulo_1_Qué_es_la_herramienta_Intercom_y_cuáles_s.txt
+
+6. ❌ [pt] INTERCOM HEADSET FOR HELMETS BEST REVIEWED WITH LOWEST PRICE ARE Y10 AND Y20 GOOD?
+   URL: https://youtube.com/watch?v=vFSBzWzs_Kk
+   Status: descartado
+   Erro: Sem legendas disponíveis
+
+7. ❌ [ar] Vai no melhor que não tem erro Linha completa de intercomunicadores Cardo!! #intercomunicador
+   URL: https://youtube.com/watch?v=1nd0dZUq204
+   Status: descartado
+   Erro: Sem legendas disponíveis
+
+8. ❌ [pt] ✅ Como colocar Intercomunicador #moto #motocicleta #capacete #intercomunicador
+   URL: https://youtube.com/watch?v=TJqc8nRAwxY
+   Status: descartado
+   Erro: Sem legendas disponíveis
+

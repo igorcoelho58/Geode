@@ -1,0 +1,136 @@
+VÍDEO #5
+======================================================================
+Título: Módulo 1: Qué es la herramienta Intercom y cuáles son sus usos.
+URL: https://youtube.com/watch?v=_HOM4Dyg7FI
+Idioma: es (auto-gerada)
+Tamanho: 4688 caracteres
+Data Coleta: 29/12/2025 19:43
+======================================================================
+
+ [Música]
+hoy la comunidad leaf y el día de hoy
+vamos a dar contexto a lo que es la
+herramienta intercom y sus principales
+usos es partamos de que la herramienta
+intercom es la herramienta de
+comunicación a nivel interno que usamos
+en donde se puede canalizar os llega a
+toda la información tanto de la app de
+conductores como el tms esta herramienta
+la usamos equipos como el área de
+soporte del área de servicio a cliente
+principalmente donde que analizamos
+todos los casos o consultas que llegan
+de nuestros clientes internos el vídeo
+está dividido en cuatro módulos el
+primero de ellos es el que vamos a
+abordar en esta oportunidad que es cómo
+agrupamos en los diferentes leaf ers
+para poder enviar mensajes de texto
+masivos ya sea a través de la aplicación
+que es lo ideal o pues directamente a
+través de otros medios el primer módulo
+en la parte izquierda tenemos digamos
+todo el panel
+de intercom vamos a dar clic en platform
+en play for es donde están registrados
+todos los usuarios que usan o que en
+algún momento se lograron o en el tms o
+en la app de live test aquí lo que
+tenemos que tener en cuenta es que no
+sólo vamos a encontrar usuarios
+nuestros míster sino también inhouse o
+de operaciones bien en el primer módulo
+entonces tenemos lo que dice el texto al
+ios os vamos a dar clic ahí y nos va a
+abrir esta pantalla que tenemos acá en
+el panel central aquí vamos a empezar a
+añadir los filtros de búsqueda es decir
+tenemos que tener muy claro cuál es
+nuestra audiencia a quién vamos a
+enviarles los mensajes entonces añadimos
+el filtro el primer filtro muy
+importante que no puede faltar es el
+user time el you ser type es el que me
+define a mí qué tipo de usuario es al
+que yo le va a enviar el mensaje en este
+caso como el vídeo está enfocado a todos
+los lifter vamos a escribir work
+importante que siempre que usemos un
+filtro de búsqueda elijamos la opción
+contiene para que me busque
+coincidencias
+hizo y lo guardo como vemos acá el
+filtro ya quedó parametrizar vamos a
+añadir otro filtro que en este caso lo
+podemos hacer como tenemos acá intercom
+nos permite a nosotros elegir entre
+estos diferentes parámetros de aquí le
+vamos a enviar el mensaje puede ser a
+través de nombre correo electrónico por
+placa pero vamos a usar el que se usa
+comúnmente que es 11 listo esto es muy
+importante porque no queremos enviar un
+mensaje masivo que tal vez se ha
+enfocado ejemplo solamente a nivel
+colombia y llegue nuestro sisters de
+otros países porque puede generar
+confusión a quien contiene por ejemplo
+entonces vamos a poner la palabra color
+si puede ser completo colombia como lo
+queramos poner listo y le damos guardar
+aquí vemos que el intercom nos está
+limitando la audiencia que sea y externa
+en este caso pues con el isr tight
+worker y contiene en el país colombia
+importante que en esta opción siempre
+tenga el importe se ubican la opción org
+lo que nos va a hacer es que busquen
+ciencia o la otra y lo importante es que
+se cumplan con los dos parámetros
+aquí podemos ver a cuántos usuarios se
+han filtrado que cumplen con estas dos
+condiciones que es 1710 usuarios si bien
+podemos seguir jugando aquí con los
+filtros ya sea por ciudad e infinidad de
+filtros bien cuando ya tengamos elegido
+la audiencia vamos a dar clic aquí en
+nuevo mensaje y posteriormente vamos a
+dar clic en aplicación en móvil mucho
+personalmente pues es preferible en mode
+y fusión lo vamos a ver porque vamos a
+dar clic ahí y luego en crear mensaje
+esto automáticamente nos va a llevar al
+módulo de mensajes en la parte superior
+vamos a elegir un título no
+necesariamente podemos poner pero es
+para mejor para llevar la organización
+visto aquí vamos a dar clic y es donde
+vamos a escribir el mensaje que le
+queremos enviar a nuestros líderes si
+vemos aquí en el más lo que vamos a
+hacer es insertar imágenes vídeos urls
+en general en la parte superior vemos
+quién envía el mensaje y en la parte
+inferior vemos
+y el hipster nos llega a responder a qué
+usuario o equipo en la parte de abajo
+vamos a asignar la conversación para que
+respondan muy importante aquí escoger la
+opción android para que nos aparezca
+esta notificación esto qué quiere decir
+que el conductor va a poder ver la
+notificación que le ha llegado un
+mensaje a la aplicación sin necesidad de
+que la tenga abierta es decir va a
+manejar el tipo de notificaciones como
+se usa comúnmente en whatsapp por
+ejemplo vamos a darle clic a stan
+guardar
+aquí nos genera un resumen de audiencia
+le vamos a enviar el mensaje confirmamos
+que todo esté correcto guardar y cerrar
+aquí me dice que lo hemos guardado como
+un borrador cuando ya esté segura enviar
+el mensaje le damos clic aquí en enviar
+en vivo listo y el mensaje se ha enviado

@@ -1,0 +1,111 @@
+{
+  "ferramenta": "Intercom",
+  "categoria": "atendimento",
+  "data_coleta": "29/12/2025 19:43",
+  "site": {
+    "homepage": {
+      "url": "https://intercom.com/",
+      "coletado": true,
+      "tamanho": 31
+    },
+    "pricing": {
+      "url": "https://intercom.com/pricing",
+      "coletado": true,
+      "tamanho": 15187
+    },
+    "features": {
+      "url": "https://intercom.com/tour",
+      "coletado": true,
+      "tamanho": 31
+    },
+    "about": {
+      "url": "https://intercom.com/about",
+      "coletado": true,
+      "tamanho": 4558
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 8,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "en",
+      "es",
+      "pt"
+    ],
+    "videos": [
+      {
+        "titulo": "Já conhecia o Intercomunicador? O fone de ouvidos para Capacete 😱 #intercomunicador #capacete",
+        "url": "https://youtube.com/watch?v=u1n1JqgnFvA",
+        "idioma": "pt",
+        "status": "sucesso",
+        "tamanho": 3181,
+        "erro": null
+      },
+      {
+        "titulo": "Intercom Review - Top Features, Pros \\u0026 Cons, and Alternatives",
+        "url": "https://youtube.com/watch?v=vl2kcLpwOAs",
+        "idioma": "en",
+        "status": "sucesso",
+        "tamanho": 4699,
+        "erro": null
+      },
+      {
+        "titulo": "Intercom Tutorial For Beginners (Full 2024 Guide)",
+        "url": "https://youtube.com/watch?v=mPsDb__IJvQ",
+        "idioma": "en",
+        "status": "sucesso",
+        "tamanho": 8165,
+        "erro": null
+      },
+      {
+        "titulo": "Reseña Total: Cardo Spirit (un año de uso) En Español",
+        "url": "https://youtube.com/watch?v=njYfacYmZ_A",
+        "idioma": "es",
+        "status": "sucesso",
+        "tamanho": 10782,
+        "erro": null
+      },
+      {
+        "titulo": "Módulo 1: Qué es la herramienta Intercom y cuáles son sus usos.",
+        "url": "https://youtube.com/watch?v=_HOM4Dyg7FI",
+        "idioma": "es",
+        "status": "sucesso",
+        "tamanho": 4688,
+        "erro": null
+      },
+      {
+        "titulo": "INTERCOM HEADSET FOR HELMETS BEST REVIEWED WITH LOWEST PRICE ARE Y10 AND Y20 GOOD?",
+        "url": "https://youtube.com/watch?v=vFSBzWzs_Kk",
+        "idioma": "pt",
+        "status": "descartado",
+        "tamanho": 853,
+        "erro": null
+      },
+      {
+        "titulo": "Vai no melhor que não tem erro Linha completa de intercomunicadores Cardo!! #intercomunicador",
+        "url": "https://youtube.com/watch?v=1nd0dZUq204",
+        "idioma": "ar",
+        "status": "descartado",
+        "tamanho": 8,
+        "erro": null
+      },
+      {
+        "titulo": "✅ Como colocar Intercomunicador #moto #motocicleta #capacete #intercomunicador",
+        "url": "https://youtube.com/watch?v=TJqc8nRAwxY",
+        "idioma": "pt",
+        "status": "descartado",
+        "tamanho": 1827,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 19807,
+    "total_chars_youtube": 31515,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 8,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

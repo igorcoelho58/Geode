@@ -1,0 +1,655 @@
+VÍDEO #5
+======================================================================
+Título: Zapier for Beginners: 5 Amazing Automations to Simplify Your Daily Life
+URL: https://youtube.com/watch?v=ElCFy_0lWmo
+Idioma: pt (auto-gerada)
+Tamanho: 24501 caracteres
+Data Coleta: 29/12/2025 20:13
+======================================================================
+
+ hoje eu vou te mostrar o zapper uma
+ferramenta que conecta vários
+aplicativos várias ferramentas para que
+você possa unificar uma automação que
+funciona como se fosse um robô só que
+você não vai precisar utilizar nenhum
+tipo de desenvolvimento nenhum tipo de
+programação nem nada é muito simples de
+utilizar o zapper é como um assistente
+invisível que conecta seus aplicativos e
+faz tarefas repetitivas por você é como
+um povo com vários tentáculos onde
+conecta suas diversas ferramentas é
+possível fazer diversas atividades do
+seu dia a dia tornar-se automáticas
+através dele tudo que você precisa é
+entender Como o zapper funciona e depois
+eu juro o céu é o limite nesse vídeo
+além de te ensinar como funciona o
+zapper eu vou te dar cinco ideias de
+automações que você pode usar no teu dia
+a dia mas como sugestão mesmo para você
+entender como que pode funcionar e como
+que se constrói também Lembrando que
+essa é uma ferramenta gratuita e você
+vai poder fazer apenas automações
+simples ou seja entre dois pontos um
+gatilho e uma
+no zapper você pode criar diversas
+automações um caminho enorme de quando
+algo acontecer várias coisas podem
+acontecer ao mesmo tempo uma cadeia de
+ações mas para isso você vai precisar
+pagar um plano do zapper O legal é que o
+zapper já fornece mais de 7.000
+integrações você tem noção disso que tem
+mais de 7.000 aplicativos que podem se
+conectar através do zapper é uma loucura
+e hoje o zapper ele tá tão evoluído que
+ele possui uma busca feita com
+inteligência artificial que aí que Vai
+facilitar a tua vida você não sabe como
+criar uma automação você pergunta para
+ele e ele mesmo já cria essa automação
+já sugere e você pode utilizar a
+sugestão dele e só aparar algumas
+arestas tá cada vez mais fácil utilizar
+automações agora e ele possui várias
+ferramentas ali dentro mas hoje a gente
+vai falar sobre os Zaps os Zaps são
+justamente essas automações que a gente
+trabalha conectando ferramentas por
+exemplo você pode criar uma automação
+onde você cria uma etiqueta e toda vez
+que você etiquetar algum e-mail você
+pode fazer alguma coisa específica por
+exemplo Salvar esse contato no Google
+Contex ou Salvar esse contato numa
+planilha do Google também você pode
+fazer diversas coisas você pode sempre
+que você etiquetar uma um e-mail Você
+pode enviar diretamente pro notion pro
+trelo pro clickup para onde você quiser
+isso vai tirar todo aquele trabalho
+manual que a gente pega de ficar
+copiando abrir um notion abrir um
+organizador adicionar a parada você pode
+fazer tudo de forma automática aqui só
+criando gatilhos então só te ensinando
+na nomenclatura caso você não tenha
+nenhum tipo de contato com automações
+para ela acontecer é preciso que
+aconteça um gatilho que eles chamam de
+Trigger tá só para você saber a
+nomenclatura e a partir desse Trigger
+desse gatilho Acontece uma ou mais ações
+é isso então através de um gatilho Então
+se chegar nesse ponto aqui que vai ser o
+gatilho vai acionar toda a automação
+isso aqui é como se fosse aquelas
+brincadeiras que o cara aciona um
+gatilho e várias coisas vão acontecendo
+ao mesmo tempo vai cair num dominó vai
+cair numa burquinha vai cair no várias
+coisas ali ao mesmo
+[Música]
+tempo então você pode criar que sempre
+que você receber e-mail do métod
+nago.com.br vai que você assina a
+newsletter 2 minutos Então sempre que
+você receber um e-mail do método nag
+Então esse é o gatilho chegou o e-mail
+do método nag você pode criar uma ação
+por exemplo de adicionar uma etiqueta a
+esse e-mail E aí você sempre vai ter um
+filtro para você ter todos os e-mails
+num lugar só entendeu É uma
+possibilidade que você pode fazer que
+vai acontecer de forma automática você
+nunca mais vai precisar mexer ali agora
+antes de falar cinco uso do dia a dia
+que você pode utilizar quero te lembrar
+de se inscrever no canal de dar um like
+deixar um comentário tudo isso ajuda
+muito a gente cria esse esse canal aqui
+de graça para poder ajudar as pessoas
+sem nenhuma pretensão porém quanto mais
+pessoas esse projeto alcançar mais ele
+cresce então eu conto muito com você se
+você quiser se inscrever na newsletter 2
+minutos o link tá na descrição é uma
+newsletter onde eu envio e-mails de até
+2 minutos que são e-mails práticos que
+você pode utilizar no teu dia a dia
+sobre produtividade gestão de tempo
+utilizando a tecnologia Então pessoal
+Essa é a carinha do zapper quando você
+abre ele infelizmente ele é em inglês
+mas você pode traduzir a página vindo
+aqui no cantinho se você tiver no Google
+Chrome e traduzir para português nós
+vamos trabalhar com o Zap hoje nesse
+vídeo mas antes de qualquer configuração
+antes de qualquer automação nós vamos
+vir aqui na nossa fotinha em settings
+quando você tiver nessa fotinha você vai
+vir aqui em time Zone que é o fuso
+horário e vai colocar o seu fuso horário
+por qu todas as automações que serem
+refletidas em horários ele vai fazer
+baseado no teu fuso horário então tem
+que tá o seu fuso horário específico
+aqui tá bom essa a primeira configuração
+que você precisa fazer no zapper
+voltando na página inicial essa primeira
+aba aqui ó o que você quer automatizar
+Você pode escrever em português ou
+inglês que ele vai fazer através da
+Inteligência Artificial ele vai sugerir
+uma automação então você pode escrever
+até em português assim ó quando eu
+receber qualquer e-mail criar uma tarefa
+no todoist entendeu Você pode escrever
+de qualquer maneira em inglês ou em
+português que ele vai reconhecer e a
+partir daqui ele já vai criar uma
+automação para você criar uma automação
+você tem três lugares para fazer isso
+você pode vir diretamente pela essa
+caixa aqui de pesquisa da ia você pode
+vir aqui em mais que tem no canto
+superior esquerdo o Create ou você vem
+em Zaps E clicando em Zaps Você tem o
+botão de de Create também aqui embaixo
+nós temos alguns templates populares
+Então antes de você criar Você pode
+buscar aqui alguns que todos utilizam já
+e você pode utilizar só clicando nele
+você já consegue fazer a configuração no
+raiozinho em Zaps ficam todas as
+automações que você criou as que estão
+ativas estão aqui em status ativo e as
+que não estão ativas estão desligadas
+aqui para você ativar eu vou mostrar
+daqui a pouco para vocês então vamos
+falar do primeiro agora que é Como
+salvar um anexo do Gmail ou de qualquer
+e-mail diretamente para uma pasta
+específica do Google Drive Qual que é a
+ideia aqui Digamos que você atendo um
+determinado cliente né ou sua empresa
+atende também e você quer deixar salvo
+tudo que tem de anexo desses e-mails na
+sua pasta do Google Drive Isso facilita
+porque normalmente no e-mail a gente
+acaba se perdendo Aqueles e-mails né
+então a gente pode deixar toda vez que o
+cliente enviar um documento no e-mail
+automaticamente ele vai salvar numa
+pasta específica do seu Google
+e você vai ter sempre a pasta do seu
+cliente com esses anexos você pode pedir
+diretamente por aqui então né colocando
+salvar anexo do Gmail com Google Drive
+ou você pode vir em Zaps eu já vou abrir
+um Zap que eu criei em relação a isso
+para facilitar aqui na na gravação Só
+lembrando aqui ó os status significa as
+automações que são ativas Então essas
+esses apps aqui estão ativos e esses
+ainda não então para ele funcionar eu
+preciso ativar ele eu vou mostrar para
+vocês como é que ativa de verdade após
+aberto a gente vai a vai fazer o
+seguinte aqui tem o primeiro item que é
+o gatilho que a gente falou que é o que
+vai chamar pra ação e aqui a ação de
+fato o zapper gratuito ele permite
+apenas essa etapa a etapa de gatil ação
+você pode fazer Quantas automações você
+quiser desde que tenha só essas duas
+etapas um gatilho e uma ação você pode
+criar n ações Se você pagar o o zaper se
+você tiver curtindo esse tipo de
+conteúdo se ele te ajudar eu vou pedir
+para você colocar no comentário porque
+se tiver bastante comentário aqui eu vou
+assinar o zapper só para ensinar coisas
+mais complexas para vocês também então
+aqui a gente fez o seguinte a gente
+adicionou um aplicativo então o
+aplicativo que eu adicionei foi o Gmail
+então eu vou usar pro meu e-mail do
+Gmail tá o Trigger ou seja o nosso
+gatilho vai ser um novo anexo tá E aqui
+eu selecionei o e-mail que eu quero
+utilizar E aí eu criei o seguinte eu
+criei uma eu criei uma etiqueta
+específica pra gente fazer esse teste
+que tá chamando cliente teste só para
+vocês entenderem o funcionamento da
+parada então Digamos que a gente tá no
+e-mail eu vou mandar um e-mail do meu do
+método nag e-mail teste Oi Lucas tudo
+bem Segue
+anexo o que me pediu beleza vou colocar
+um anexo qualquer aqui ah um ponto
+importante ele consegue captar um anexo
+específico se você quiser que ele que
+ele capte todos os anexos é importante
+que você alinhe com o teu cliente que
+ele faça um zip disso ou você faça um
+zip né Mas o importante se ele mandar em
+zip todas as informações que tem lá
+dentro vai ser ele vai pegar um item só
+inicialmente mas vou colocar aqui um zip
+Então tá chegou o e-mail do método nag
+que é o nosso cliente no caso vou abrir
+o e-mail vi que tem um anexo e tudo mais
+você poderia pegar adicionar o Google
+Drive salvar ou você pode simplesmente
+mover
+né pra nossa etiqueta do cliente teste
+pronto movemos ela vai vir aqui para cá
+para essa pasta que a gente criou e aqui
+na configuração a Label que a gente vai
+criar é justamente o cliente teste Então
+você vai buscar aqui por cliente teste
+até você encontrar seleciona ele você
+pode buscar também se quiser deixar mais
+específico todos os e-mails que vai para
+cliente teste de um determinado e-mail
+você pode colocar aqui ó from e coloca o
+e-mail mtodo nag
+@gmail.com aí ele vai fazer um filtro de
+todos que entram mas que sej com essa
+keyword que seja desse meil então você
+pode fazer isso também aí você vem em
+continuar ele vai dar um load aqui você
+pode puxar os mais mais atuais porque o
+teste ele vai fazer com o último tá ou
+com qualquer outro que você queira fazer
+vou puxar esse último que nós fizemos
+aqui vou continuar e agora a gente vem
+pra etapa da ação que é o Google Drive
+então no Google Drive você vai colocar
+em upload file ou seja fazer um upload
+daquele arquivo vai selecionar Qual o
+teu Google Drive continuar e aqui a
+gente começa a selecionar então eu
+selecionei o Google Drive que é o meu
+Google Drive a pasta eu criei uma pasta
+teste aqui só pra gente fazer em file
+você pode colocar aqui no mais e colocar
+esse attachment que é o justamente o
+anexo né você coloca false para
+converter o documento Então deixa ele
+original e no File name eu gosto de
+puxar o mesmo nome que a pessoa colocou
+então eu venho aqui em mais e coloco
+aqui ó attachments file name que da ele
+vai puxar exatamente o me mesmo nome que
+o arquivo que ela colocou e pode
+continuar E aí a gente faz um teste aqui
+eu vou fazer um reteste para ver se tá
+funcionando vou abrir o drive aqui a
+pasta teste que eu tinha feito e aqui
+está o nosso Arquivo ele já vem buscado
+então todos os arquivos que foram
+enviado para lá automaticamente ele vem
+para cá Como que faz para funcionar
+agora para funcionar você tem que
+publicar então você vem aqui em publicar
+Pronto agora ele tá funcionando aí de
+tempos em tempos eu não lembro muito bem
+mas eu acho que a cada 10 minutos um
+tempo assim ele vai e ativa de novo se
+você quiser ativar manualmente Quero
+rodar manualmente você vem aqui em Run
+que ele vai rodar tudo que tem para
+rodar automaticamente né então Lembrando
+que não é não é uma parada tão
+automática que acontece Ele demora um
+tempinho mas ele sempre acontece você
+pode estar verificando se tá tudo certo
+aqui então a nossa próxima automação que
+eu quero mostrar para vocês é como
+captar todas as informações de um Google
+forms e passar para uma planilha do
+Excel Digamos que você tem uma planilha
+do Excel Onde você quer anotar o e-mail
+das pessoas o nome e aonde que ela viu o
+evento esse aqui é um é um específico
+você pode selecionar o que você quer
+saber o que você quer puxar dessa dessa
+desse forme então quando a gente tem o
+form Eu tenho um form aqui ó de
+confirmação de interesse você quer
+participar seu nome sobrenome como você
+viu falar desse evento comentários e
+perguntas e o e-mail da pessoa que que
+eu quero puxar você põe aqui tudo que
+você quer puxar numa coluna é importante
+você ter a coluna já no teu no teu na
+tua planilha e nós vamos pro Zap agora
+então você vai criar um Zap com
+aplicativo Google forms então você vem
+aqui em Google forms e seleciona ele o
+nosso gatilho vai ser sempre que houver
+uma resposta nova no formulário você vai
+selecionar a conta Qual o formulário que
+você vai utilizar então a gente tá
+utilizando aqui ó o interesse no master
+plan 2025 então selecionei aqui
+interesse no Masterplan 2025 você vai
+rodar um teste né n vamos fazer agora
+uma nova resposta aqui então eu vou
+colocar quero muito participar nome
+Roberta Andrade vou Prim uma indicação
+adorei quero participar e vou enviar
+então beleza enviado eu vou procurar
+aqui por novas recordações que
+provavelmente ele vai achar essa aqui
+agora vai achar uma e aqui pronto achou
+aqui a e a gente vai selecionar e vai
+continuar então ele vai fazer automação
+baseado nessa última resposta que a
+gente fez agora na parte do Google
+sheets lembrando você pode fazer com
+qualquer outra aplicativo eu tô fazendo
+com go sheets para facilitar aqui no
+vídeo tá então a gente vai criar uma
+linha nova né Create spread sheet Row né
+Você pode colocar outras coisas aqui tem
+várias coisas que você pode fazer mas
+nesse caso a gente vai criar uma linha
+ao continuar a gente vai selecionar Qual
+a planilha que você vai usar então vim
+aqui achei a planilha teste que eu criei
+né Em qual página que você quer colocar
+Então tá aqui na página um aqui embaixo
+né e aqui você vai puxar o que você quer
+em cada coluna então ó na coluna e-mail
+que eu que eu criei aqui o que que eu
+quero puxar então puxei exatamente o
+e-mail quer participar né foi a pergunta
+que eu quero aí nessa pergunta aqui do
+quer participar Eu puxei exatamente a
+pergunta do formulário para ficar
+exatamente a mesma coisa Ah Lucas não
+quero puxar essa aqui só não colocar
+nada ele vai ele vai encontrar todas as
+colunas do teu Google sheets aqui e aí
+você vai puxar o que você quer do forms
+para alimentar essa coluna Então você
+vai selecionar todos e vai dar um
+continuar ó aqui em comentários eu não
+tinha colocado nada vou colocar aqui os
+comentários ó comentários ou perguntas
+vou puxar aqui também e vou dar um
+continuar e vou fazer um teste para ver
+se vai puxar certinho aquela última
+resposta que a gente fez Ó veio o e-mail
+certinho aqui que eu tinha feito quer
+participar a resposta todas as respostas
+ó Roberta Andrade que a gente tinha
+criado e beleza com isso aqui você não
+precisa mais se preocupar em pegar o pdf
+salvar o pdf ou pegar cada item e colar
+aqui no teu na tua planilha não vai ter
+que se preocupar mais com isso porque
+ele vai fazer automaticamente Lembrando
+que após testar e funcionar você precisa
+publicar como reagendar uma tarefa do
+notion automaticamente através do zapier
+eu sei que é possível fazer diretamente
+do notion mas ele é bem complexo tem que
+fazer fórmulas tem que entender de
+fórmulas construir a fórmula para cada
+um das tarefas que você vai fazer e no
+zapper você vai ver que é muito simples
+e vai resolver esse grande problema que
+eu tive quando eu comecei a usar o
+notion que é Poxa tem uma tarefa que eu
+faço toda a semana eu vou ter que criar
+uma página toda vez que eu fizer essa
+tarefa eu gosto de guardar os históricos
+das coisas que eu faço então eu gosto de
+manter a mesma tarefa quando ela é
+recorrente para eu ter todas as
+informações que eu já fiz nesse caso eu
+construí uma automação que vai funcionar
+da seguinte maneira todo dia x na hora Y
+ele vai reagendar a minha tarefa não é
+baseado no est que ela tá e sim no tempo
+porque as minhas tarefas normalmente eu
+faço na terça-feira toda terça eu faço e
+aí chega no final do dia eu só peço para
+ela reagendar pra terça que vem é só
+isso que eu faço então a gente tá com a
+página em branco aqui o primeiro item
+que você vai criar é Schedule que é uma
+parte que é Nativa do zapper a gente vai
+utizar utilizar uma automação baseada no
+zapper e uma coisa importante lembra o
+time Zone que a gente mudou lá no começo
+do vídeo ele vai ser extremamente
+importante aqui para fazer as coisas na
+hora que você pediu após posso
+selecionar o agendamento do zapper por
+aqui o nosso Trigger o nosso gatilho vai
+ser toda semana porque é uma coisa que
+eu vou fazer semanalmente mas pode ser
+todo dia toda hora você pode selecionar
+do jeito que você quiser no meu caso vai
+ser toda a semana continuar dias da
+semana eu escolhi terça-feira Então essa
+tarefa é para uma tarefa específica
+nessa tarefa específica eu quero que
+toda terça às 7 da manhã essa é uma
+tarefa que eu faço na segunda então na
+terça eu peço para ele só pular para lá
+então na terça-feira 7 da manhã Esse é o
+gatilho toda terça 7 da manhã ele vai
+fazer alguma coisa depois disso a gente
+vai selecionar o aplicativo do notion só
+buscar aqui notion que você vai
+encontrar facilmente e a gente vai fazer
+um update no item da da Database que que
+significa isso isso aqui é uma Database
+de todas as tarefas que eu tenho para
+fazer cada página dessa é um item da
+Database então lembrando precisa estar
+dentro de uma Database específica para
+funcionar isso então a gente vai fazer
+um update em alguma coisa em algum item
+perfeito o que que nós vamos mudar é
+aqui na configuração que a gente vai
+mexer primeiro você vai escolher a
+Database que você tem Eu já escolhi a
+minha Qual é o item Então qual é a
+tarefa que eu criei é planejar conteúdo
+eu planejo conteúdo toda segunda-feira
+então toda terça às 7 da manhã ele vai
+reagendar pra segunda que vem Então como
+que eu faço isso coloquei o item o resto
+eu deixo todo em branco porque eu só
+quero saber do item E aí ele quer saber
+se eu quero incluir data né que é a
+única coisa que eu vou mudar eu poderia
+mudar toda terça-feira mudar o status
+mudar o projeto eu posso mudar o status
+Digamos que eu coloco como feito né eu
+posso colocar para não iniciado que ele
+vai voltar do zero se seu fiz está em
+Progresso ele vai voltar para não
+iniciado E aí na data você pode excluir
+a data início e a data fim e eu coloquei
+a data início e data fim dessa tarefa
+para mim Lembrando que isso funciona
+para qualquer outra ferramenta de gestão
+de projetos que tenha conexão com o
+zaper tado e ele vai colocar a tarefa
+das 10 às 12 entendeu E é só dar
+continuar faz o teste e ver se funciona
+assim que funcionar Não esqueça de
+publicar Qual que é a facilidade disso
+depois que você faz para uma tarefa
+única coisa que vai precisar fazer é ó
+eu já tenho para três tarefas que são
+recorrentes para mim planejar a semana
+gravar e planejar meus conteúdos para
+você fazer para mais tarefas você vem
+aqui nos três pontinhos e duplica na
+hora que você duplicar ele vai fazer uma
+cópia Idêntica e nessa cópia você só vai
+mudar a tarefa mais nada e vai mudar os
+horários que você precisar mudar agora
+como criar tarefas no trelo através de
+um e-mail do notion serve pro trelo
+serve pro notion serve para qualquer
+outra ferramenta que tem a integração
+com o zaper então a mesma coisa que eu
+tô fazendo pro trelo poderia ser pro
+notion também tá bom então nós vamos
+criar de novo o Gmail mas pode ser
+Outlook pode ser qualquer outra coisa e
+a gente vai colocar como gatilho um novo
+e-mail que bata com a nossa busca aqui
+com a palavra específica que a gente vai
+colocar na configuração eu coloquei ó
+que venha desse e-mail então qualquer
+e-mail que venha do método
+nago a gente vai fazer alguma coisa
+correto então vou fazer mais um um fio
+aqui ó recebi novos e-mails Então vou
+selecionar esse último pra gente fazer
+um teste no segundo a gente vai
+selecionar o aplicativo trelo e a gente
+vai criar um novo Card então após
+selecionar aqui a gente vai em continuar
+e a gente vai selecionar em qual board
+que vai então eu tô selecionando aqui na
+recepção que é onde eu quero colocar
+tudo que eu recebo Então vai ser em
+recepção em qual coluna coloquei na
+caixa de entrada o nome dessa tarefa vai
+ser chamar o nome do e-mail Então vai
+ser o subject e a descrição eu coloquei
+aqui a data quero que coloque a data do
+e-mail e quero que coloque o body plan
+que é o texto do corpo do e-mail também
+você pode selecionar se você quer
+colocar alguma Label eu coloquei nada
+aqui né no caso não vou não vou mexer
+nisso você pode selecionar um membro
+específico eu selecionei o Lucas então
+ele vai ficar já como Responsável a data
+para começar eu coloquei a data do
+e-mail O Do date eu coloquei em sete
+dias então Digamos que aqui é uma equipe
+que recebe problemas do cliente e tem
+sete dias para resolver então eu
+coloquei aqui em sete dias mas você pode
+deixar em branco também eu coloquei para
+adicionar todos os anexos então só você
+vir aqui e colocar a attachments aqui
+então selecionei todos Tod os anexos
+você pode colocar mais itens Se você
+quiser eu deixei bem simples pra gente
+fazer um teste então fazendo um teste
+aqui do último e-mail que eu recebi
+feito acabou de funcionar o Card acabou
+de ser criado aqui ó e-mail teste já
+apareceu Ó apareceu do dia 28 em sete
+dias então até o dia 4 de fevereiro
+quando a gente abre o corpo de e-mail tá
+aqui ó todo o texto e as informações da
+sinatura ficam aqui também o anexo tá
+aqui aquele anexo que a gente fez no
+começo do vídeo e pronto tá tudo certo ó
+já tá pro Lucas pro Lucas fazer e dá
+para colocar mais itens se você quiser
+também Lembrando que isso funciona para
+qualquer outra ferramenta de gestão de
+projetos que tem a conexão com o zaper e
+de novo não esqueça de publicar senão
+não vai funcionar esse aqui então bônus
+é a mesma coisa só que funcionando pro
+notion porque eu sei que as pessoas vão
+perguntar como é que funciona eu vou te
+mostrar Note que é a mesma coisa a gente
+colocou ó sempre que receber o novo
+e-mail você pode colocar no Trigger lá
+que a gente colocou vai dar na mesma
+aqui é que nesse caso eu diferente só
+para vocês verem que funciona de
+diferentes maneiras Então sempre que o
+e-mail for PR aquela Label lá do cliente
+teste a gente vai fazer alguma coisa
+então vamos buscar aqui se tem novos
+e-mails vamos pegar o último como teste
+beleza e agora a gente seleciona o
+aplicativo notion cria uma Database item
+que que é uma Database item é justamente
+uma linha na nossa planilha que nós
+temos aqui como no RVO para quem não
+conhece ele é um sistema que tem um uma
+parte só de recepção ou seja tudo que
+chega de novo ele chega aqui antes da
+gente organizar em algum lugar então na
+recepção Eu quero que chegue aqui e para
+chegar aqui eu tenho um filtro
+específico que é pode estar escrito
+qualquer coisa pode ter qualquer data
+Desde que não tenha nenhum tipo de
+projeto nem nada ele vai continuar aqui
+então na hora de configurar eu configuro
+de uma forma que ele apareça ali né
+dentro do filtro coloquei o nome da
+tarefa o e-mail teste não coloquei
+nenhuma tag coloquei status como não
+iniciado
+coloquei um projeto específico mas não
+precisa tá pode deixar em branco também
+no datafield eu deixei desligado para
+colocar tempo para mim não precisa mas
+eu coloquei o start date é colocado aqui
+você pode fazer a mesma coisa em sete
+dias se você quiser aqui no formato
+deixa markd aqui no formato deixa markd
+que funciona melhor mas pode testar em
+texto depois se você quiser vamos fazer
+um teste aqui e pronto já falou que foi
+adicionado a gente chega aqui na
+recepção e o e-mail teste já tá aqui que
+é mesmo daquele do trelo quando a gente
+abre ele já tá com a data como vocês
+podem ver tá como não iniciado tá com o
+projeto que eu coloquei ali e o corpo do
+do e-mail já tá aqui também nesse caso
+eu não coloquei para adicionar os anexos
+mas vocês viram é a mesma coisa se
+quiser colocar anexo só chegar aqui em
+configuração vem aqui no corpo de e-mail
+Adiciona os anexos vem aqui ó a
+attachments que ele vai adicionar também
+espero que esse vídeo tenha te ajudado
+Espero que ele abra uma porta infinita
+para você criar várias coisas diferentes
+o c é o limite para você agora para você
+criar novas automações simples nesse
+caso mas se você pagar você pode fazer
+coisas incríveis se você gostou desse
+vídeo Não deixe de se inscrever coloa um
+comentário se você quiser automações
+mais complexas dê ideias de automações
+que você queria ver aqui para eu testar
+também porque se tiver bastante pedido
+eu posso fazer mais conteúdos e e de
+verdade isso aqui muda a nossa vida se
+você gostou desse vídeo vou deixar aqui
+o próximo vídeo para você assistir que
+são as automações no iPhone que você
+pode fazer direto do seu celular um
+beijo um queijo e até a próxima

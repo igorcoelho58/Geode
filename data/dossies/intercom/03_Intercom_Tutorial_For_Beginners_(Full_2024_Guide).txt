@@ -1,0 +1,242 @@
+VÍDEO #3
+======================================================================
+Título: Intercom Tutorial For Beginners (Full 2024 Guide)
+URL: https://youtube.com/watch?v=mPsDb__IJvQ
+Idioma: en (auto-gerada)
+Tamanho: 8165 caracteres
+Data Coleta: 29/12/2025 19:43
+======================================================================
+
+ are you ready to master intercom like a
+pro well you are in the right place
+because whether you're new to intercom
+or looking to brush up on your skills
+this tutorial series is perfect for you
+now we'll cover everything you need to
+know to get started with aircom from
+setting up your account to mastering its
+powerful features we've got you covered
+so what are we waiting for without
+further Ado let's begin
+okay so the first thing you need to do
+is to log in using your credentials if
+this is your first time here intercom
+you might want to click on the start
+free trial option and from here all you
+have to do is just provide all the
+information necessary you can use your
+work or business email you can continue
+with their Google account and by
+following the on screen instructions you
+are all
+set okay so once you have your account
+setup remember that intercom is a
+powerful customer communication platform
+that offers a range of tools for
+businesses to engage with their
+customers through a live chat as you can
+see it from here in the support Channel
+targeted messages and more all right so
+the thing with intercom you can explore
+the dashboard right here once you
+install and set it up you can take some
+time to familiarize with yourself with
+the dashboard layout normal in the left
+side panel as you can see this is your
+inbox and right now you can click on the
+setup
+channels and from here you can install
+the messenger and more channels to
+connect with their customers so you have
+an option to click on the messenger when
+you click on
+it when you install the messenger you
+can simply talk to your customers all
+right because the messenger lets you
+talk to your customers on your website
+or app or even send in in messages and
+of course send customer data to intercom
+for a more personalized experience so
+you have an option for the web iOS if
+you're using an Android you can do it as
+well or you can install Messenger on
+your site or web app now let's go back
+again to General um
+dashboard again from here in the inbox
+tab right here you can configure your
+messages
+settings right you can you can
+uh you you can use macros for shortcuts
+and you can customize your welcome
+message such as
+maybe something like this one you can
+also set up some autor responses and
+other messaging settings to suit your
+business needs like say for example this
+one so there's a lot that you can
+explore on here the uh
+ellipses gives an option to export or
+ticket you can even show your tickets
+right here you can assign this um ticket
+to one of your support channels right
+here to one teammate say for example
+you're collaborating with a project and
+you have also a teammate within your
+organization you can assign this ticket
+to right but if we not right now don't
+have a teammate but if you have an
+option to just do it and in terms of the
+conversations right here that's what I'm
+um
+trying to say because you can um add
+some T in and support the more
+information and if you want to
+understand your team's volume and
+capacity click on the get
+feature but
+obviously once you created the free plan
+you have 4 days left in your Advanced
+trial but again if you are scaling up
+you might want to take advantage of the
+essential um plan which is $39 per month
+but here you can get customer support
+plan for individual startups and small
+businesses and these are the products
+and benefits that you can explore and
+take advantage when you use this
+essential plan if you wanted to scale up
+you can go to the advance and expert and
+here are side by-side comparisons to
+help you make an informed decision all
+right now let's skip this for now let's
+go to the automation or or maybe the app
+store first because in the app store
+right here these are the
+popular apps that you can
+connect into your intercom so um this
+Tri payment Gateway Salesforce Joc Cloud
+Google analytics WhatsApp all right so
+um if you are a heavy user of these
+platforms it's very convenient and you
+can maximize and you can fully exhaust
+the intercom tools with this app store
+right
+here right now in my team we are using a
+MailChimp right say for example we're
+going to be clicking on the MailChimp
+all you have to do say for example in
+this situation click on install now and
+from here you can leverage MailChimp
+data inside and
+out so MailChimp wants to access andig
+good which is us the people companies
+and all a lot more just click on
+authorized access and from here all you
+have to do is just follow the on screen
+instructions so you can automate this
+two
+platform right
+here and once you've done that all right
+you can customize all these settings and
+preferences when
+you integrated mail Cham to your inner
+Chrome account so it's the same process
+for the uh other platforms here right
+just choose the uh services that you
+have an account and just click on it if
+you have now the next thing is when we
+go to the automation process right so
+they support a lot but in my case I am
+using um a platform
+called woocommerce right here so in my
+store because I'm uh I run a Pages for
+my store so if you want
+to integrate woocommerce to your
+intercome that's doable and possible all
+you're going to do is just click on it
+and also it's also um have an
+integration and automation to Wordpress
+so there's a lot that you can do you can
+also go to the uh search for n app maybe
+look let's look for elementer if they
+have
+it say no they don't have they don't
+support
+elementer but let's go to the uh CRM
+because this is one of the best um
+platform for crms because I am using
+HubSpot and when
+you install HubSpot here what will
+happen is it'll keep you up to date and
+view important hobot data on leads and
+customers right from the Inc com inbox
+all right it enables you to stay up to
+date automatically syncing new leads you
+capture along with qualification data
+you collect and from here now in terms
+of the
+uh contacts
+here again you can install the messenger
+to view segment and filter your customer
+data when you install messenger you can
+track data here and you can craft the
+best customer experience using a
+complete picture of your customer's data
+and past actions so you can also add an
+uh have a filter here some such as
+name web session City owner and a lot
+more even lead category right so there's
+more options
+here which is for advanc
+analytics when you click on the
+proactive support all
+right as you can see you can proactively
+support your customers without bone
+messages you can resolve customer issues
+before they contact you all right now
+you can set up a new message right here
+you can start from scratch for from chat
+Banner email checklist SMS but for now
+we're going to the chat because we can
+customize encraft messages right here so
+we can um monitor incoming messages and
+respond to customer inquiries in real
+time using the live chat feature all
+right and as you can see you can put
+some customization
+here you can customize your welcome
+message autor responses and other
+messaging settings to suit your business
+business needs and again you can explore
+different messaging channels such as
+live chat email and inapp messages you
+can even set some rules if you wanted
+now in terms of the reports right
+here here you can analyze incomes tools
+to track the performance of your
+messaging campaigns and custom
+interactions all right now the monitor
+metric such as response times conversion
+volume and customer satisfaction to
+identify areas for improvement but
+there's a lot you can also explore
+Advanced features as you become more
+comfortable with intercome explore
+Advanced features such as product tools
+knowledge base and integration with
+other
+tools now continuously learn from
+interactions with customers in your
+messaging strategies based on feedbacks
+and performance data and always stay
+updated on new features and best
+practices by exploring intercoms
+resources including blog post webinars
+and help documentation and by following
+these steps you'll be well on your way
+to effectively using intercom to engage
+with their customers and provide
+excellent customer support and I believe
+with that to wrap for today's video
+thank you so much for watching we will
+see you in the next one

@@ -22,13 +22,11 @@ Notion | produtividade
 
 # === SECUNDÁRIAS (TOP 10) ===
 ClickUp | produtividade
-Zapier | produtividade
 Monday.com | produtividade
 Asana | produtividade
 Trello | produtividade
 
 # === ATENDIMENTO (8 ferramentas) ===
-Intercom | atendimento
 Octadesk | atendimento
 Respond.io | atendimento
 Take Blip | atendimento
