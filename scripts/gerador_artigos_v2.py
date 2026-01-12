@@ -31,6 +31,8 @@ MENU:
 3. Processar ferramenta específica da fila (buscar por nome)
 4. Ver fila completa (ferramentas pendentes)
 5. Sair
+6. MODO DOSSIÊ: Criar dossiês SEM enviar ao Gemini
+7. Processar 20 ferramentas da fila (batch COMPLETO - ~1h) 🔥
 
 LIMITES (AI Studio - 28/12/2024):
 - 20 requests/dia
@@ -47,7 +49,7 @@ FLUXO DE TRABALHO:
 
 Autor: Igor Coelho / Refinado por Gemini
 Data: 27/12/2024
-Última Atualização: 29/12/2024 - V2.6 (Busca Inteligente + Logs Limpos)
+Última Atualização: 11/01/2026 - V2.7 (Batch 20 + Desligamento Automático)
 """
 
 import os
@@ -1925,9 +1927,10 @@ def main():
     print("3️⃣  Processar ferramenta ESPECÍFICA da fila (buscar por nome)")
     print("4️⃣  Ver FILA completa (ferramentas pendentes)")
     print("5️⃣  Sair")
-    print("6️⃣  MODO DOSSIÊ: Criar dossiês SEM enviar ao Gemini (não remove da fila)\n")
+    print("6️⃣  MODO DOSSIÊ: Criar dossiês SEM enviar ao Gemini (não remove da fila)")
+    print("7️⃣  Processar 20 FERRAMENTAS da fila (batch COMPLETO - ~1h)\n")
     
-    escolha = input("👉 Sua opção (1-6): ").strip()
+    escolha = input("👉 Sua opção (1-7): ").strip()
     
     if escolha == "5":
         print("\n👋 Até logo!\n")
@@ -1957,6 +1960,11 @@ def main():
         if confirma != 's':
             print("\n❌ Cancelado")
             return
+        
+        # Pergunta sobre desligamento ANTES de iniciar
+        desligar_ao_final = input("\n🔌 Desligar PC automaticamente quando terminar? (s/n): ").strip().lower() == 's'
+        if desligar_ao_final:
+            print("✅ PC desligará automaticamente após conclusão")
         
         # Processa
         sucesso = 0
@@ -1992,6 +2000,23 @@ def main():
         print(f"🔥 Requests: {gemini_requests_hoje}/{GEMINI_RPD}")
         print(f"📋 Restam na fila: {len(fila) - len(processadas)} ferramenta(s)")
         print("="*70 + "\n")
+        
+        # Desliga PC se confirmado no início
+        if desligar_ao_final:
+            print("\n" + "="*70)
+            print("⚡ DESLIGAMENTO AUTOMÁTICO PROGRAMADO")
+            print("="*70)
+            print("\n⏳ Desligando o computador em 10 segundos...")
+            print("💡 Pressione Ctrl+C para CANCELAR\n")
+            try:
+                time.sleep(10)
+                import subprocess
+                subprocess.run(["shutdown", "/s", "/f", "/t", "0"], check=True)
+            except KeyboardInterrupt:
+                print("\n❌ Desligamento cancelado pelo usuário")
+            except Exception as e:
+                print(f"\n⚠️ Erro ao desligar: {e}")
+                print("💡 Execute manualmente: shutdown /s /f /t 0")
     
     # ═══════════════════════════════════════════════════════════
     # OPÇÃO 2: Processar 1 ferramenta DA FILA (primeira)
@@ -2026,6 +2051,13 @@ def main():
                 print("\n❌ Cancelado")
                 return
             
+            # Pergunta sobre desligamento ANTES (só se 10+)
+            desligar_ao_final = False
+            if len(fila) >= 10:
+                desligar_ao_final = input("\n🔌 Desligar PC automaticamente quando terminar? (s/n): ").strip().lower() == 's'
+                if desligar_ao_final:
+                    print(f"✅ PC desligará automaticamente após criar {len(fila)} dossiês")
+            
             sucesso = 0
             falhas = 0
             processadas = []
@@ -2057,6 +2089,23 @@ def main():
             print(f"📝 Ferramentas marcadas na fila: {len(processadas)}")
             print(f"💡 Para gerar artigos, use opções 1-3 do menu principal")
             print("="*70 + "\n")
+            
+            # Desliga PC se confirmado no início
+            if desligar_ao_final:
+                print("\n" + "="*70)
+                print("⚡ DESLIGAMENTO AUTOMÁTICO PROGRAMADO")
+                print("="*70)
+                print("\n⏳ Desligando o computador em 10 segundos...")
+                print("💡 Pressione Ctrl+C para CANCELAR\n")
+                try:
+                    time.sleep(10)
+                    import subprocess
+                    subprocess.run(["shutdown", "/s", "/f", "/t", "0"], check=True)
+                except KeyboardInterrupt:
+                    print("\n❌ Desligamento cancelado pelo usuário")
+                except Exception as e:
+                    print(f"\n⚠️ Erro ao desligar: {e}")
+                    print("💡 Execute manualmente: shutdown /s /f /t 0")
         
         # SUBMODO 2: Primeira da fila
         elif submodo == "2":
@@ -2231,6 +2280,113 @@ def main():
         print(f"📊 Total na fila: {total} ferramenta(s)")
         print(f"⏱️ Tempo estimado (5 por batch): ~{(total // 5 + 1) * 15} minutos")
         print("="*70 + "\n")
+    
+    # ═══════════════════════════════════════════════════════════
+    # OPÇÃO 7: Processar 20 ferramentas DA FILA (batch COMPLETO)
+    # ═══════════════════════════════════════════════════════════
+    elif escolha == "7":
+        print("\n" + "="*70)
+        print("🚀 MODO BATCH COMPLETO: Processando 20 ferramentas da fila")
+        print("="*70)
+        print("\n⚠️ ATENÇÃO: Este processo pode levar ~1 hora!")
+        print(f"⚠️ Limite diário Gemini: {GEMINI_RPD} requests/dia")
+        
+        if gemini_requests_hoje >= GEMINI_RPD:
+            print(f"\n❌ LIMITE DIÁRIO ATINGIDO ({gemini_requests_hoje}/{GEMINI_RPD})")
+            print("💡 Tente novamente amanhã ou use MODO DOSSIÊ (opção 6)")
+            return
+        
+        # Pega as 20 primeiras da fila (ou menos se não houver 20)
+        ferramentas_processar = fila[:20]
+        
+        print(f"\n📊 Fila total: {len(fila)} ferramenta(s)")
+        print(f"🎯 Processando as {len(ferramentas_processar)} primeiras:\n")
+        
+        for i, (ferramenta, categoria) in enumerate(ferramentas_processar, 1):
+            print(f"   {i:2d}. {ferramenta} ({categoria})")
+        
+        print(f"\n⏱️ Tempo estimado: ~{len(ferramentas_processar) * 3} minutos")
+        print(f"📊 Requests Gemini: {len(ferramentas_processar)}/{GEMINI_RPD}")
+        
+        # Verifica se vai estourar o limite
+        if gemini_requests_hoje + len(ferramentas_processar) > GEMINI_RPD:
+            print(f"\n⚠️ ATENÇÃO: Processamento pode estourar limite diário!")
+            print(f"   Requests hoje: {gemini_requests_hoje}")
+            print(f"   Processando: {len(ferramentas_processar)}")
+            print(f"   Total: {gemini_requests_hoje + len(ferramentas_processar)}/{GEMINI_RPD}")
+            print(f"\n💡 Algumas ferramentas podem falhar por limite de API")
+        
+        confirma = input("\n✅ Confirma processamento? (s/n): ").strip().lower()
+        if confirma != 's':
+            print("\n❌ Cancelado")
+            return
+        
+        # Pergunta sobre desligamento ANTES de iniciar
+        desligar_ao_final = input("\n🔌 Desligar PC automaticamente quando terminar? (s/n): ").strip().lower() == 's'
+        if desligar_ao_final:
+            print("✅ PC desligará automaticamente após conclusão (~1 hora)")
+        
+        # Processa
+        sucesso = 0
+        falhas = 0
+        processadas = []
+        
+        print("\n🔥 INICIANDO PROCESSAMENTO EM LOTE...\n")
+        
+        for i, (ferramenta, categoria) in enumerate(ferramentas_processar, 1):
+            print(f"\n{'='*70}")
+            print(f"📦 Batch: {i}/{len(ferramentas_processar)} | Progresso: {(i/len(ferramentas_processar)*100):.1f}%")
+            print(f"✅ Sucesso até agora: {sucesso} | ❌ Falhas: {falhas}")
+            print(f"{'='*70}")
+            
+            try:
+                resultado = processar_ferramenta(ferramenta, categoria, model)
+                if resultado:
+                    sucesso += 1
+                    processadas.append(ferramenta)
+                else:
+                    falhas += 1
+            except Exception as e:
+                print(f"\n❌ ERRO: {e}")
+                falhas += 1
+            
+            # Atualiza contador de requests
+            if i % 5 == 0 and i < len(ferramentas_processar):
+                print(f"\n⏸️ Checkpoint: {i} de {len(ferramentas_processar)} processadas")
+                print(f"⏱️ Tempo restante estimado: ~{(len(ferramentas_processar) - i) * 3} minutos")
+        
+        # Remove da fila
+        remover_da_fila(processadas)
+        
+        # Relatório Final
+        print("\n" + "="*70)
+        print("🏁 RELATÓRIO FINAL - BATCH COMPLETO (20 FERRAMENTAS)")
+        print("="*70)
+        print(f"✅ Sucesso: {sucesso}")
+        print(f"❌ Falhas: {falhas}")
+        print(f"📊 Total processado: {len(ferramentas_processar)}")
+        print(f"📈 Taxa de sucesso: {(sucesso/len(ferramentas_processar)*100):.1f}%")
+        print(f"🔥 Requests Gemini hoje: {gemini_requests_hoje}/{GEMINI_RPD}")
+        print(f"📋 Restam na fila: {len(fila) - len(processadas)} ferramenta(s)")
+        print(f"⏱️ Tempo total decorrido: ~{len(ferramentas_processar) * 3} minutos")
+        print("="*70 + "\n")
+        
+        # Desliga PC se confirmado no início
+        if desligar_ao_final:
+            print("\n" + "="*70)
+            print("⚡ DESLIGAMENTO AUTOMÁTICO PROGRAMADO")
+            print("="*70)
+            print("\n⏳ Desligando o computador em 10 segundos...")
+            print("💡 Pressione Ctrl+C para CANCELAR\n")
+            try:
+                time.sleep(10)
+                import subprocess
+                subprocess.run(["shutdown", "/s", "/f", "/t", "0"], check=True)
+            except KeyboardInterrupt:
+                print("\n❌ Desligamento cancelado pelo usuário")
+            except Exception as e:
+                print(f"\n⚠️ Erro ao desligar: {e}")
+                print("💡 Execute manualmente: shutdown /s /f /t 0")
     
     else:
         print("\n❌ Opção inválida\n")
