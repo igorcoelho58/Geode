@@ -58,6 +58,10 @@ import requests
 from datetime import datetime
 from urllib.parse import quote_plus
 from bs4 import BeautifulSoup
+from dotenv import load_dotenv
+
+# Carrega variáveis de ambiente do arquivo .env
+load_dotenv()
 
 # Bibliotecas de IA e YouTube
 import google.generativeai as genai
@@ -78,7 +82,15 @@ except ImportError:
 # CONFIGURAÇÃO
 # ============================================
 
-API_KEY = "AIzaSyAGL5sgJDQauQJ5Es21vSdB4b3stP0D5A8"
+# API Key (carregada de variável de ambiente - NUNCA commitar no Git!)
+API_KEY = os.getenv("GEMINI_API_KEY")
+if not API_KEY:
+    raise ValueError(
+        "❌ API Key não encontrada!\n"
+        "   Configure a variável GEMINI_API_KEY no arquivo .env\n"
+        "   Copie .env.example para .env e adicione sua chave"
+    )
+
 BASE_PATH = r"c:\Users\Igor\Documents\Projetos\Geode\content"
 DOSSIES_PATH = r"c:\Users\Igor\Documents\Projetos\Geode\data\dossies"
 MODELO_GEMINI = "gemini-3-flash-preview"  # Modelo experimental mais avançado (Gemini 3.0)
@@ -193,6 +205,10 @@ URLS_CONHECIDAS = {
 
 PROMPT_TEMPLATE = """Você é um analista sênior de ferramentas SaaS para PMEs brasileiras. Sua especialidade é criar análises profundas, honestas e humanizadas baseadas em pesquisa rigorosa de mercado.
 
+⚠️ **ATENÇÃO CRÍTICA**: Alguns vídeos/transcrições fornecidos podem ser IRRELEVANTES (sobre outras ferramentas ou tópicos aleatórios). 
+Você é responsável por FILTRAR e DESCARTAR qualquer conteúdo que não esteja relacionado à ferramenta sendo analisada.
+USE APENAS conteúdo pertinente. Reporte vídeos descartados na seção VALIDAÇÃO.
+
 **FERRAMENTA:** {nome_ferramenta}
 **CATEGORIA:** {categoria}
 **SITE OFICIAL:** {link_oficial}
@@ -220,6 +236,13 @@ PROMPT_TEMPLATE = """Você é um analista sênior de ferramentas SaaS para PMEs 
 - NUNCA mencione "vídeos", "transcrições", "análise de conteúdo" ou similares
 - Use frases como: "Na prática observa-se que...", "Usuários relatam...", "A experiência mostra..."
 - Seja crítico quando necessário - não é publieditorial
+
+**FILTRO DE RELEVÂNCIA (CRÍTICO):**
+ANTES de iniciar a análise, você DEVE avaliar cada transcrição/análise de mercado fornecida:
+- **DESCARTE IMEDIATAMENTE** qualquer vídeo/conteúdo que NÃO esteja relacionado à ferramenta {nome_ferramenta}
+- Vídeos aleatórios, sobre outras ferramentas, ou genéricos demais DEVEM ser IGNORADOS
+- Você é o FILTRO INTELIGENTE - se um vídeo não menciona a ferramenta ou fala de assunto diferente, NÃO USE
+- **IMPORTANTE**: Mencione na seção VALIDAÇÃO quantos vídeos foram descartados por irrelevância (se houver)
 
 **INSTRUÇÃO CRÍTICA DE USO DAS FONTES:**
 Você DEVE integrar as informações das duas seções acima (Site Oficial + Análises de Mercado) em sua análise. 
@@ -334,6 +357,7 @@ faq:
 - Preços Confirmados: ✅ Extraídos diretamente do site oficial
 - Páginas do Site Coletadas: {paginas_coletadas}
 - Vídeos Analisados: {total_videos} vídeos{urls_videos}
+- Vídeos Descartados por Irrelevância: [PREENCHA: número de vídeos que você identificou como não relacionados à ferramenta]
 - Transcrições Lidas: {status_transcricoes}
 - Idiomas das Fontes: {idiomas}
 - Total de Caracteres Analisados: {total_caracteres}
