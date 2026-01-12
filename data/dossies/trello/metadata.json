@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Trello",
+  "categoria": "produtividade",
+  "data_coleta": "09/01/2026 11:42",
+  "site": {
+    "homepage": {
+      "url": "https://trello.com/",
+      "coletado": true,
+      "tamanho": 3801
+    },
+    "pricing": {
+      "url": "https://trello.com/pricing",
+      "coletado": true,
+      "tamanho": 10709
+    },
+    "features": {
+      "url": "https://trello.com/features",
+      "coletado": true,
+      "tamanho": 267
+    },
+    "about": {
+      "url": "https://trello.com/about",
+      "coletado": true,
+      "tamanho": 3221
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "TRELLO FREE VS TRELLO PREMIUM - O PREMIUM VALE A PENA? (OVERVIEW COMPLETO) TRELLO 2023",
+        "url": "https://youtube.com/watch?v=bNqjukyc8bI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7649,
+        "erro": null
+      },
+      {
+        "titulo": "VALE A PENA PAGAR O TRELLO PREMIU ANÁLISE E OPINIÃO SINCERA! (REVIEW TRELLO PREMIUM X TRELLO FREE)",
+        "url": "https://youtube.com/watch?v=jJrko9B2mE4",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7674,
+        "erro": null
+      },
+      {
+        "titulo": "DOMINE O TRELLO: GUIA COMPLETO 2025",
+        "url": "https://youtube.com/watch?v=nUFbCpSH7YA",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 36382,
+        "erro": null
+      },
+      {
+        "titulo": "Como Usar o TRELLO? SUPER Tutorial para Iniciantes 2024",
+        "url": "https://youtube.com/watch?v=BXNdjuRIx2U",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 27531,
+        "erro": null
+      },
+      {
+        "titulo": "Trello App: Full Trello Tutorial for Beginners! [A-Z Guide] 💻",
+        "url": "https://youtube.com/watch?v=lfMJ-NeoUGM",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 40723,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 17998,
+    "total_chars_youtube": 119959,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

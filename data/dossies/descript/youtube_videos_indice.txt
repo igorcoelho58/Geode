@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 16:03
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Complete Descript Tutorial 2026: Zero to Expert
+   URL: https://youtube.com/watch?v=RgwJNOXGARI
+   Status: sucesso
+   Tamanho: 26853 caracteres
+   Arquivo: 01_Complete_Descript_Tutorial_2026_Zero_to_Expert.txt
+
+2. ✅ [pt (Whisper IA)] Como EDITAR Vídeos 10x MAIS RÁPIDO Usando IA (Visão Geral do Descript)
+   URL: https://youtube.com/watch?v=7YAttAP56FA
+   Status: sucesso
+   Tamanho: 10230 caracteres
+   Arquivo: 02_Como_EDITAR_Vídeos_10x_MAIS_RÁPIDO_Usando_IA_(Visã.txt
+
+3. ✅ [pt (Whisper IA)] Descript vs Riverside – Which One’s Actually Better for Creators?
+   URL: https://youtube.com/watch?v=AbqVJ6lO5tM
+   Status: sucesso
+   Tamanho: 17963 caracteres
+   Arquivo: 03_Descript_vs_Riverside_–_Which_One’s_Actually_Bette.txt
+
+4. ✅ [pt (Whisper IA)] Descript For Beginners 2025 | Everything You NEED To KNOW!
+   URL: https://youtube.com/watch?v=qHtqRWUKPfc
+   Status: sucesso
+   Tamanho: 12932 caracteres
+   Arquivo: 04_Descript_For_Beginners_2025_Everything_You_NEED_To.txt
+
+5. ✅ [pt (Whisper IA)] Learn Descript in 15 Minutes [Full Tutorial]
+   URL: https://youtube.com/watch?v=YEzJ_r7geuc
+   Status: sucesso
+   Tamanho: 17486 caracteres
+   Arquivo: 05_Learn_Descript_in_15_Minutes_[Full_Tutorial].txt
+

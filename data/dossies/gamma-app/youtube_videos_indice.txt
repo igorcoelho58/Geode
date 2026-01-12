@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 17:03
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Gamma.app: Vale a pena assinar a versão PRO?
+   URL: https://youtube.com/watch?v=Pvo6RWkUpLk
+   Status: sucesso
+   Tamanho: 9216 caracteres
+   Arquivo: 01_Gamma.app_Vale_a_pena_assinar_a_versão_PRO.txt
+
+2. ✅ [pt (Whisper IA)] Como Usar a Gamma App Para Criar Ebook e Slides Com IA (Tutorial Completo)
+   URL: https://youtube.com/watch?v=nnBEHMzsmvw
+   Status: sucesso
+   Tamanho: 24811 caracteres
+   Arquivo: 02_Como_Usar_a_Gamma_App_Para_Criar_Ebook_e_Slides_Co.txt
+
+3. ✅ [pt (Whisper IA)] Is gamma app worth using in 2025 | Honest Gamma AI Review
+   URL: https://youtube.com/watch?v=lElnuDyOE1Q
+   Status: sucesso
+   Tamanho: 11708 caracteres
+   Arquivo: 03_Is_gamma_app_worth_using_in_2025_Honest_Gamma_AI_R.txt
+
+4. ✅ [pt (Whisper IA)] How to Use Gamma AI (Full Tutorial for Presentations, Websites & More)
+   URL: https://youtube.com/watch?v=KcbXKUR7-a0
+   Status: sucesso
+   Tamanho: 16222 caracteres
+   Arquivo: 04_How_to_Use_Gamma_AI_(Full_Tutorial_for_Presentatio.txt
+
+5. ✅ [pt (Whisper IA)] Tutorial Gamma App 2025 - La MEJOR App para Presentaciones con IA
+   URL: https://youtube.com/watch?v=WHW4VK_leqI
+   Status: sucesso
+   Tamanho: 7999 caracteres
+   Arquivo: 05_Tutorial_Gamma_App_2025_-_La_MEJOR_App_para_Presen.txt
+

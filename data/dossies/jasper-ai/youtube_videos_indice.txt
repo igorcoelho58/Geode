@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 17:58
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] ESSA IA VAI TE DEIXAR RICO? Testei o Jasper AI e Me Surpreendi! 🚀
+   URL: https://youtube.com/watch?v=RyDZmJNJ29c
+   Status: sucesso
+   Tamanho: 7069 caracteres
+   Arquivo: 01_ESSA_IA_VAI_TE_DEIXAR_RICO_Testei_o_Jasper_AI_e_Me.txt
+
+2. ✅ [pt (Whisper IA)] jasper ai 🤖como comecar a usar gratis🤖jasper ai tutorial
+   URL: https://youtube.com/watch?v=9VrKtMusbP4
+   Status: sucesso
+   Tamanho: 15894 caracteres
+   Arquivo: 02_jasper_ai_🤖como_comecar_a_usar_gratis🤖jasper_ai_tu.txt
+
+3. ✅ [pt (Whisper IA)] Jasper AI Tutorial for Beginners - 2025 | Guide for Marketers & Creators | How to Use Jasper AI
+   URL: https://youtube.com/watch?v=W9y2rodf7Zg
+   Status: sucesso
+   Tamanho: 9253 caracteres
+   Arquivo: 03_Jasper_AI_Tutorial_for_Beginners_-_2025_Guide_for.txt
+
+4. ✅ [pt (Whisper IA)] Jasper AI: Uma análise honesta e guia para iniciantes (2024)
+   URL: https://youtube.com/watch?v=oMSwm18PpgQ
+   Status: sucesso
+   Tamanho: 7568 caracteres
+   Arquivo: 04_Jasper_AI_Uma_análise_honesta_e_guia_para_iniciant.txt
+
+5. ✅ [pt (Whisper IA)] Claude vs Jasper AI Comparison | Best AI Writing Tool 2025
+   URL: https://youtube.com/watch?v=bK4QeYpaJ1A
+   Status: sucesso
+   Tamanho: 6024 caracteres
+   Arquivo: 05_Claude_vs_Jasper_AI_Comparison_Best_AI_Writing_Too.txt
+

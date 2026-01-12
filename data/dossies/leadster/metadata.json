@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Leadster",
+  "categoria": "marketing",
+  "data_coleta": "09/01/2026 18:19",
+  "site": {
+    "homepage": {
+      "url": "https://leadster.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "LEADSTER FUNCIONA MESMO? TESTANDO A FERRAMENTA! 🚨",
+        "url": "https://youtube.com/watch?v=p4XUfmuZCoc",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 20046,
+        "erro": null
+      },
+      {
+        "titulo": "Leadster - Demonstração da plataforma de Marketing Conversacional",
+        "url": "https://youtube.com/watch?v=94RY0tD4chE",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 24509,
+        "erro": null
+      },
+      {
+        "titulo": "Demonstração Completa da Leadster Website",
+        "url": "https://youtube.com/watch?v=FzuLItOVnYQ",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7032,
+        "erro": null
+      },
+      {
+        "titulo": "Como aumentar a Geração de Leads Qualificados do seu Site",
+        "url": "https://youtube.com/watch?v=9L9ZkGX1p_k",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9004,
+        "erro": null
+      },
+      {
+        "titulo": "Leadster Review: Generate Qualified Leads with a Personalized Marketing Chatbot",
+        "url": "https://youtube.com/watch?v=WDBxGXXIv1o",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 12683,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 73274,
+    "paginas_coletadas": 0,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

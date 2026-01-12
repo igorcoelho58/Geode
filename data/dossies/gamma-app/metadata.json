@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Gamma App",
+  "categoria": "marketing",
+  "data_coleta": "09/01/2026 17:03",
+  "site": {
+    "homepage": {
+      "url": "https://gammaapp.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Gamma.app: Vale a pena assinar a versão PRO?",
+        "url": "https://youtube.com/watch?v=Pvo6RWkUpLk",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9216,
+        "erro": null
+      },
+      {
+        "titulo": "Como Usar a Gamma App Para Criar Ebook e Slides Com IA (Tutorial Completo)",
+        "url": "https://youtube.com/watch?v=nnBEHMzsmvw",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 24811,
+        "erro": null
+      },
+      {
+        "titulo": "Is gamma app worth using in 2025 | Honest Gamma AI Review",
+        "url": "https://youtube.com/watch?v=lElnuDyOE1Q",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 11708,
+        "erro": null
+      },
+      {
+        "titulo": "How to Use Gamma AI (Full Tutorial for Presentations, Websites & More)",
+        "url": "https://youtube.com/watch?v=KcbXKUR7-a0",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 16222,
+        "erro": null
+      },
+      {
+        "titulo": "Tutorial Gamma App 2025 - La MEJOR App para Presentaciones con IA",
+        "url": "https://youtube.com/watch?v=WHW4VK_leqI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7999,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 69956,
+    "paginas_coletadas": 0,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

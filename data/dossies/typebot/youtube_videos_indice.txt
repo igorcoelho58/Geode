@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 13:47
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] TypeBot Definitivo em 2026: Como Instalar o TypeBot ILIMITADO (Mastigado)
+   URL: https://youtube.com/watch?v=38d3BrU-eik
+   Status: sucesso
+   Tamanho: 39802 caracteres
+   Arquivo: 01_TypeBot_Definitivo_em_2026_Como_Instalar_o_TypeBot.txt
+
+2. ✅ [pt (Whisper IA)] [CURSO TYPEBOT Passo a Passo] AULA 15 - TEMA E CONFIGURAÇÕES / COMO USAR
+   URL: https://youtube.com/watch?v=pbLfiDE0RJ8
+   Status: sucesso
+   Tamanho: 20082 caracteres
+   Arquivo: 02_[CURSO_TYPEBOT_Passo_a_Passo]_AULA_15_-_TEMA_E_CON.txt
+
+3. ✅ [pt (Whisper IA)] Mini Curso de TypeBot para Iniciantes: Tutorial Passo a Passo | TypeBot
+   URL: https://youtube.com/watch?v=4cVGU8DxPTQ
+   Status: sucesso
+   Tamanho: 24892 caracteres
+   Arquivo: 03_Mini_Curso_de_TypeBot_para_Iniciantes_Tutorial_Pas.txt
+
+4. ✅ [pt (Whisper IA)] [CURSO TYPEBOT Passo a Passo] AULA 14 - RECURSO DE INTEGRAÇÕES HTTP REQUEST (WEBHOOK) / COMO USAR
+   URL: https://youtube.com/watch?v=v_7UgN8yMks
+   Status: sucesso
+   Tamanho: 10864 caracteres
+   Arquivo: 04_[CURSO_TYPEBOT_Passo_a_Passo]_AULA_14_-_RECURSO_DE.txt
+
+5. ✅ [pt (Whisper IA)] Botpress vs Dialogflow vs Rasa vs Typebot | Which is the Best AI Chatbot in 2025?
+   URL: https://youtube.com/watch?v=KGqGNUdB1NA
+   Status: sucesso
+   Tamanho: 7050 caracteres
+   Arquivo: 05_Botpress_vs_Dialogflow_vs_Rasa_vs_Typebot_Which_is.txt
+

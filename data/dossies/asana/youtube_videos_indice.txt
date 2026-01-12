@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 11:25
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Não assine o Asana sem saber dessas 5 coisas!
+   URL: https://youtube.com/watch?v=P2_RP8IX-oI
+   Status: sucesso
+   Tamanho: 7335 caracteres
+   Arquivo: 01_Não_assine_o_Asana_sem_saber_dessas_5_coisas!.txt
+
+2. ✅ [pt (Whisper IA)] Visão Geral do Asana (Tutorial em Português)
+   URL: https://youtube.com/watch?v=CS_xZT8DtJc
+   Status: sucesso
+   Tamanho: 16753 caracteres
+   Arquivo: 02_Visão_Geral_do_Asana_(Tutorial_em_Português).txt
+
+3. ✅ [pt (Whisper IA)] Como Criar Projetos no Asana (Lista ou Quadro)
+   URL: https://youtube.com/watch?v=OJcZZR1dJEw
+   Status: sucesso
+   Tamanho: 20342 caracteres
+   Arquivo: 03_Como_Criar_Projetos_no_Asana_(Lista_ou_Quadro).txt
+
+4. ✅ [pt (Whisper IA)] COMO USAR O ASANA? Gestão de Projetos #gestaodeprojetos #produtividade #tecnologia
+   URL: https://youtube.com/watch?v=Q8V_R0BBIFI
+   Status: sucesso
+   Tamanho: 9325 caracteres
+   Arquivo: 04_COMO_USAR_O_ASANA_Gestão_de_Projetos_#gestaodeproj.txt
+
+5. ✅ [pt (Whisper IA)] Asana Deep Dive - Top Features, Pros & Cons
+   URL: https://youtube.com/watch?v=OR88dpy6vWk
+   Status: sucesso
+   Tamanho: 6372 caracteres
+   Arquivo: 05_Asana_Deep_Dive_-_Top_Features,_Pros_&_Cons.txt
+

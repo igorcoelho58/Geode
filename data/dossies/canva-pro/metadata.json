@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Canva Pro",
+  "categoria": "marketing",
+  "data_coleta": "09/01/2026 15:11",
+  "site": {
+    "homepage": {
+      "url": "https://canvapro.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Tutorial de arte SOCIAL MEDIA para FUTEBOL no CANVA ⚽ | Post com design e efeitos PROFISSIONAIS🤤",
+        "url": "https://youtube.com/watch?v=iXkfZlhHYEA",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 20198,
+        "erro": null
+      },
+      {
+        "titulo": "Como Fazer Carrossel no Canva para Instagram | Criar, Cortar e Salvar, Post Perfeito 💜😮",
+        "url": "https://youtube.com/watch?v=FdtRy1H1X3M",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6078,
+        "erro": null
+      },
+      {
+        "titulo": "Curso de Canva grátis e completo do zero ao avançado",
+        "url": "https://youtube.com/watch?v=zFeTVoix4-U",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 32836,
+        "erro": null
+      },
+      {
+        "titulo": "Como Usar o Canva? Tutorial da Ferramenta Canva Grátis em 10 Minutos!",
+        "url": "https://youtube.com/watch?v=s78NnXD4TgU",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9973,
+        "erro": null
+      },
+      {
+        "titulo": "Canva Free vs. Canva Pro: Is Canva Pro Worth it? [Honest Review]",
+        "url": "https://youtube.com/watch?v=2sTEQgkDNHU",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 12796,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 81881,
+    "paginas_coletadas": 0,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 15:29
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] COPY AI: Vale a pena? Como usar? Teste!
+   URL: https://youtube.com/watch?v=RIX6D41TXlA
+   Status: sucesso
+   Tamanho: 12015 caracteres
+   Arquivo: 01_COPY_AI_Vale_a_pena_Como_usar_Teste!.txt
+
+2. ✅ [pt (Whisper IA)] Ferramenta Criadora de Copys Infinitas Copy.ai
+   URL: https://youtube.com/watch?v=rFtH5Ujo2Ik
+   Status: sucesso
+   Tamanho: 8076 caracteres
+   Arquivo: 02_Ferramenta_Criadora_de_Copys_Infinitas_Copy.ai.txt
+
+3. ✅ [pt (Whisper IA)] How to use Copy.ai | Best AI writing software for small business (Copy.ai tutorial)
+   URL: https://youtube.com/watch?v=QqAd7wo7uVU
+   Status: sucesso
+   Tamanho: 13715 caracteres
+   Arquivo: 03_How_to_use_Copy.ai_Best_AI_writing_software_for_sm.txt
+
+4. ✅ [pt (Whisper IA)] Cómo USAR COPY AI En Español
+   URL: https://youtube.com/watch?v=cF1JmR35X9U
+   Status: sucesso
+   Tamanho: 5215 caracteres
+   Arquivo: 04_Cómo_USAR_COPY_AI_En_Español.txt
+
+5. ✅ [pt (Whisper IA)] Cómo usar Copy.ai | El mejor software de escritura con IA para pequeñas empresas (tutorial)
+   URL: https://youtube.com/watch?v=M_gke0VoCJs
+   Status: sucesso
+   Tamanho: 13714 caracteres
+   Arquivo: 05_Cómo_usar_Copy.ai_El_mejor_software_de_escritura_c.txt
+

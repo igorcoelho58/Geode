@@ -1,0 +1,85 @@
+{
+  "ferramenta": "HeyGen AI",
+  "categoria": "marketing",
+  "data_coleta": "09/01/2026 17:32",
+  "site": {
+    "homepage": {
+      "url": "https://heygen.com/",
+      "coletado": true,
+      "tamanho": 11354
+    },
+    "pricing": {
+      "url": "https://heygen.com/pricing",
+      "coletado": true,
+      "tamanho": 10881
+    },
+    "features": {
+      "url": "https://heygen.com/solutions",
+      "coletado": true,
+      "tamanho": 4965
+    },
+    "about": {
+      "url": "https://heygen.com/about",
+      "coletado": true,
+      "tamanho": 5980
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "HEYGEN no Instagram: Crie CONTEÚDO INFINITO, SEM APARECER, com CLONE ou AVATAR!",
+        "url": "https://youtube.com/watch?v=XKYqUuZZb2U",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7638,
+        "erro": null
+      },
+      {
+        "titulo": "Como CRIAR VÍDEO com IA: TUTORIAL de HEY GEN",
+        "url": "https://youtube.com/watch?v=k8Vbat1Ni1k",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 12358,
+        "erro": null
+      },
+      {
+        "titulo": "Watch this Before getting HeyGen AI - Honest Review",
+        "url": "https://youtube.com/watch?v=sraiJ-_bmyQ",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9003,
+        "erro": null
+      },
+      {
+        "titulo": "HeyGen AI Avatar Tutorial: Complete Workflow from Start to Finish",
+        "url": "https://youtube.com/watch?v=G8u1-hKEqig",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 36141,
+        "erro": null
+      },
+      {
+        "titulo": "FULL Veo 3.1 Tutorial (Consistent Characters, Extended Scenes, and MORE)",
+        "url": "https://youtube.com/watch?v=Z5DLMAi18eE",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6475,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 33180,
+    "total_chars_youtube": 71615,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

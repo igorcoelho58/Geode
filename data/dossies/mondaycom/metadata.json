@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Monday.com",
+  "categoria": "produtividade",
+  "data_coleta": "09/01/2026 11:14",
+  "site": {
+    "homepage": {
+      "url": "https://monday.com/",
+      "coletado": true,
+      "tamanho": 7822
+    },
+    "pricing": {
+      "url": "https://monday.com/pricing",
+      "coletado": true,
+      "tamanho": 13936
+    },
+    "features": {
+      "url": "https://monday.com/features",
+      "coletado": true,
+      "tamanho": 7822
+    },
+    "about": {
+      "url": "https://monday.com/about",
+      "coletado": true,
+      "tamanho": 19880
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Monday.com | É BOM? Veja como funciona",
+        "url": "https://youtube.com/watch?v=wB0q9bf80EI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7271,
+        "erro": null
+      },
+      {
+        "titulo": "Como Usar a Monday.com em 2024 | Tutorial Completo para Iniciantes",
+        "url": "https://youtube.com/watch?v=BIJ32dJ34og",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 11834,
+        "erro": null
+      },
+      {
+        "titulo": "Como Usar a Monday.com em 2025 | Tutorial Completo",
+        "url": "https://youtube.com/watch?v=MjvgnXafpWo",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 35551,
+        "erro": null
+      },
+      {
+        "titulo": "Monday.com vs Asana | Top Monday.com alternative 2024 | Project Management Tools | Let's Compare",
+        "url": "https://youtube.com/watch?v=PE1DykRcZik",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8128,
+        "erro": null
+      },
+      {
+        "titulo": "monday.com - Tutorial for Beginners",
+        "url": "https://youtube.com/watch?v=K-j7Ty2rHBc",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 15989,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 49460,
+    "total_chars_youtube": 78773,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

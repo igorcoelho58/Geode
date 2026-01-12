@@ -1,0 +1,85 @@
+{
+  "ferramenta": "mLabs",
+  "categoria": "marketing",
+  "data_coleta": "10/01/2026 12:32",
+  "site": {
+    "homepage": {
+      "url": "https://mlabs.com/",
+      "coletado": true,
+      "tamanho": 3080
+    },
+    "pricing": {
+      "url": "https://mlabs.com/pricing",
+      "coletado": true,
+      "tamanho": 3080
+    },
+    "features": {
+      "url": "https://mlabs.com/features",
+      "coletado": true,
+      "tamanho": 3080
+    },
+    "about": {
+      "url": "https://mlabs.com/about",
+      "coletado": true,
+      "tamanho": 3080
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Como Funciona a mLabs (2026)",
+        "url": "https://youtube.com/watch?v=5OZW1fsCJ_w",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6051,
+        "erro": null
+      },
+      {
+        "titulo": "Como funciona a mLabs (2025)",
+        "url": "https://youtube.com/watch?v=1Ur3YlIRLNs",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6176,
+        "erro": null
+      },
+      {
+        "titulo": "mLabs Analytics - Relatórios e Dashboards de Redes Sociais e Ads",
+        "url": "https://youtube.com/watch?v=RScIeh1qLz8",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 5106,
+        "erro": null
+      },
+      {
+        "titulo": "Mlabs Vale a Pena? Analise Sincera 2025",
+        "url": "https://youtube.com/watch?v=plGLQjYTtEI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6745,
+        "erro": null
+      },
+      {
+        "titulo": "Vale a pena usar o mLabs?",
+        "url": "https://youtube.com/watch?v=TesJ_omny_8",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7268,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 12320,
+    "total_chars_youtube": 31346,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

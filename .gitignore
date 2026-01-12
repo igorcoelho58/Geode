@@ -54,9 +54,26 @@ dist/
 build/
 *.egg-info/
 
-# Arquivos raw do Gemini (temporários - não commitar)
+# ============================================================
+# ARQUIVOS DE TRABALHO - Leia antes de alterar!
+# ============================================================
+
+# Arquivos raw do Gemini (temporários - já convertidos para .md)
+# ✅ SEGURO IGNORAR: Apenas formato intermediário, já processados
 *_raw.md
 *_raw.md.bak
 
-# Dossiês de pesquisa (dados brutos - muito grandes)
-data/dossies/
+# Dossiês de pesquisa (transcrições, áudios, metadata)
+# ⚠️ IMPORTANTE: Contém dados de pesquisa originais!
+# 
+# IGNORE APENAS ARQUIVOS GRANDES (áudios/vídeos):
+data/dossies/**/*.webm
+data/dossies/**/*.mp3
+data/dossies/**/*.mp4
+data/dossies/**/*.wav
+data/dossies/**/audios/
+
+# ✅ COMMITAR: Textos e metadata (pequenos mas valiosos)
+# - *.txt (transcrições e textos de sites)
+# - metadata.json (informações da coleta)
+# - youtube_videos_indice.txt (índice de vídeos)

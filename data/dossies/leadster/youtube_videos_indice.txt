@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 18:19
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] LEADSTER FUNCIONA MESMO? TESTANDO A FERRAMENTA! 🚨
+   URL: https://youtube.com/watch?v=p4XUfmuZCoc
+   Status: sucesso
+   Tamanho: 20046 caracteres
+   Arquivo: 01_LEADSTER_FUNCIONA_MESMO_TESTANDO_A_FERRAMENTA!_🚨.txt
+
+2. ✅ [pt (Whisper IA)] Leadster - Demonstração da plataforma de Marketing Conversacional
+   URL: https://youtube.com/watch?v=94RY0tD4chE
+   Status: sucesso
+   Tamanho: 24509 caracteres
+   Arquivo: 02_Leadster_-_Demonstração_da_plataforma_de_Marketing.txt
+
+3. ✅ [pt (Whisper IA)] Demonstração Completa da Leadster Website
+   URL: https://youtube.com/watch?v=FzuLItOVnYQ
+   Status: sucesso
+   Tamanho: 7032 caracteres
+   Arquivo: 03_Demonstração_Completa_da_Leadster_Website.txt
+
+4. ✅ [pt (Whisper IA)] Como aumentar a Geração de Leads Qualificados do seu Site
+   URL: https://youtube.com/watch?v=9L9ZkGX1p_k
+   Status: sucesso
+   Tamanho: 9004 caracteres
+   Arquivo: 04_Como_aumentar_a_Geração_de_Leads_Qualificados_do_s.txt
+
+5. ✅ [pt (Whisper IA)] Leadster Review: Generate Qualified Leads with a Personalized Marketing Chatbot
+   URL: https://youtube.com/watch?v=WDBxGXXIv1o
+   Status: sucesso
+   Tamanho: 12683 caracteres
+   Arquivo: 05_Leadster_Review_Generate_Qualified_Leads_with_a_Pe.txt
+

@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 10/01/2026 12:43
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Opus Clip: Crie Vídeos Virais em Minutos com Inteligência Artificial! Tutorial completo
+   URL: https://youtube.com/watch?v=0f-f3VQfpKY
+   Status: sucesso
+   Tamanho: 27221 caracteres
+   Arquivo: 01_Opus_Clip_Crie_Vídeos_Virais_em_Minutos_com_Inteli.txt
+
+2. ✅ [pt (Whisper IA)] Tutorial: Bulk Automate Opus Clip With Zapier! (new integration)
+   URL: https://youtube.com/watch?v=-l4oBe_BHoA
+   Status: sucesso
+   Tamanho: 8606 caracteres
+   Arquivo: 02_Tutorial_Bulk_Automate_Opus_Clip_With_Zapier!_(new.txt
+
+3. ✅ [pt (Whisper IA)] Opus Clip Tutorial | How To Use Opus Clip Step-by-Step
+   URL: https://youtube.com/watch?v=S-YZs5h32AY
+   Status: sucesso
+   Tamanho: 9460 caracteres
+   Arquivo: 03_Opus_Clip_Tutorial_How_To_Use_Opus_Clip_Step-by-St.txt
+
+4. ✅ [pt (Whisper IA)] Cómo Hacer YouTube Shorts Con IA  / Cómo Usar Opus Clip
+   URL: https://youtube.com/watch?v=1syX4DdGCzk
+   Status: sucesso
+   Tamanho: 10286 caracteres
+   Arquivo: 04_Cómo_Hacer_YouTube_Shorts_Con_IA_Cómo_Usar_Opus_Cl.txt
+
+5. ✅ [pt (Whisper IA)] Tutorial Opus Clip En Español | Opus Clip Tutorial COMPLETO
+   URL: https://youtube.com/watch?v=kkwe8zVecM0
+   Status: sucesso
+   Tamanho: 10430 caracteres
+   Arquivo: 05_Tutorial_Opus_Clip_En_Español_Opus_Clip_Tutorial_C.txt
+

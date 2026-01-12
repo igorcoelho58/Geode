@@ -1,0 +1,85 @@
+{
+  "ferramenta": "ClickUp",
+  "categoria": "produtividade",
+  "data_coleta": "09/01/2026 11:01",
+  "site": {
+    "homepage": {
+      "url": "https://clickup.com/",
+      "coletado": true,
+      "tamanho": 7112
+    },
+    "pricing": {
+      "url": "https://clickup.com/pricing",
+      "coletado": true,
+      "tamanho": 6379
+    },
+    "features": {
+      "url": "https://clickup.com/features",
+      "coletado": true,
+      "tamanho": 7422
+    },
+    "about": {
+      "url": "https://clickup.com/about",
+      "coletado": true,
+      "tamanho": 3162
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Como usar o Clickup - Tutorial de ClickUp completo em português (2025)",
+        "url": "https://youtube.com/watch?v=emH9ygQ0AV4",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 45052,
+        "erro": null
+      },
+      {
+        "titulo": "ClickUp FÁCIL: aprenda a usar do ZERO",
+        "url": "https://youtube.com/watch?v=Rws-TwIGp0Y",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 10249,
+        "erro": null
+      },
+      {
+        "titulo": "ClickUp Review 2026: Features Tested, Pros and Cons",
+        "url": "https://youtube.com/watch?v=zA0iatqvtYw",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8978,
+        "erro": null
+      },
+      {
+        "titulo": "The Best ClickUp Alternatives for 2025",
+        "url": "https://youtube.com/watch?v=P7mbKhtVD8A",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8978,
+        "erro": null
+      },
+      {
+        "titulo": "ClickUp vs Notion: ¿Cuál es la Mejor Herramienta de Gestión de Proyectos?",
+        "url": "https://youtube.com/watch?v=yBjhmmIQVQQ",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6989,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 24075,
+    "total_chars_youtube": 80246,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

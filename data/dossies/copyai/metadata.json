@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Copy.ai",
+  "categoria": "marketing",
+  "data_coleta": "09/01/2026 15:29",
+  "site": {
+    "homepage": {
+      "url": "https://copy.ai.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "COPY AI: Vale a pena? Como usar? Teste!",
+        "url": "https://youtube.com/watch?v=RIX6D41TXlA",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 12015,
+        "erro": null
+      },
+      {
+        "titulo": "Ferramenta Criadora de Copys Infinitas Copy.ai",
+        "url": "https://youtube.com/watch?v=rFtH5Ujo2Ik",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8076,
+        "erro": null
+      },
+      {
+        "titulo": "How to use Copy.ai | Best AI writing software for small business (Copy.ai tutorial)",
+        "url": "https://youtube.com/watch?v=QqAd7wo7uVU",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 13715,
+        "erro": null
+      },
+      {
+        "titulo": "Cómo USAR COPY AI En Español",
+        "url": "https://youtube.com/watch?v=cF1JmR35X9U",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 5215,
+        "erro": null
+      },
+      {
+        "titulo": "Cómo usar Copy.ai | El mejor software de escritura con IA para pequeñas empresas (tutorial)",
+        "url": "https://youtube.com/watch?v=M_gke0VoCJs",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 13714,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 52735,
+    "paginas_coletadas": 0,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

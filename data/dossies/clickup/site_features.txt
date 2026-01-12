@@ -1,0 +1,264 @@
+URL: https://clickup.com/features
+Data Coleta: 09/01/2026 11:01
+Tamanho: 7422 caracteres
+======================================================================
+
+ClickUp™ Product Features
+Hundreds of powerful tools, one platform.
+ClickUp comes with hundreds of features that can be customized for any work needâwith more added every week. And they're all free, forever.
+01.
+overview
+02.
+Views
+03.
+Customization
+04.
+Collaboration
+05.
+Docs
+06.
+Reporting
+07.
+Time
+08.
+All features
+Get Started
+ClickUp
+Overview.
+ClickUp's unique Hierarchy helps you create the perfect structure
+that scales with your needs. Each level of ClickUp gives you more flexibility and control to organize everything
+from small teams to enterprise companies.
+Everything view
+ClickUp's Everything view makes it easy to find anything you're looking for, no
+matter where it lives in the Hierarchy. It's your birds-eye view for all tasks across every level of your
+organization that can be filtered, sorted, and saved for any need.
+Space, Folder, List
+Organize teams and departments into Spaces, group big projects or initiatives
+into Folders, and break out tasks into Lists for a clear visual hierarchy of all your work.
+Learn more
+Customizable Tasks
+Choose from 35+ ClickApps to customize your task management for any work need.
+Save time with task Automations, assign Sprint Points, add Custom Field data, and more.
+Nested subtasks & checklists
+SimplifyÂ complexÂ projects by breaking them down into levels of subtasks.
+Create checklists within tasks to track anything from multi-step workflows to simple to-do lists.
+Learn more
+Tackle work from any angle with
+15+ powerful views.
+List View.
+Board View.
+Box View.
+Calendar View.
+Gantt View.
+Embed View.
+Form View.
+Doc View.
+Chat View.
+Activity View.
+Mind Maps View.
+Timeline View.
+Workload View.
+Table View.
+Map View.
+Whiteboard View.
+Customize
+ClickUp for any
+need, no code required.
+Everything in ClickUp can be easily customized to manage any type
+of project, no code or add-ons required.
+ClickApps
+Tailor your tasks for any work need with 35+ ClickApps that each add different
+functionalities. Save time with task Automations, assign Sprint Points, add Custom Fields, and more
+Visit App Center
+Automations
+Automate routine work and processes with 50+ actions, triggers, and conditions.
+Use pre-built automation recipes or customize them based on your needs.
+Templates
+Save time by leveraging hundreds of templates for team use cases, views, tasks,
+checklists, Docs, and more.
+Relationships
+Create the perfect visual database with Relationships. Link tasks, documents,
+integrations and more to access everything you need in one place.
+Integrations
+ClickUp integrates with over 1,000 of your favorite tools. Sync your team
+calendars, messaging apps, cloud storage, and more to keep all of your tools in one place
+Collaborate on anything
+with your team.
+Streamline teamwork with powerful collaboration features that make it easy to work together on any type of project.
+Collaborate on team ideas and workflows in real-time on a visual canvas. Then bring them to life through
+coordinated action by converting them into trackable tasks.
+Send and reply to comments on any task within ClickUp. Share task or document links, add attachments,
+embed files and web links, and assign comments to your team as action items.
+Proof and annotate all of your design files directly within ClickUp. Share attachments with others, invite guests,
+and assign comments to your team for quick iterations.
+Send and receive emails directly within ClickUp. Create and automate tasks from emails, collaborate on
+messages with your team, and save time by managing emails right alongside relevant work.
+Communicate in real-time with your team using Chat. Link tasks and documents, tag team members, share
+attachments, and add smart notifications to fast-track work conversations.
+Previous
+Next
+Document
+and share
+anything with your team.
+Collaborate on product ideas, document bugs, or jot down meeting
+minutes with ClickUp Docs. Edit in real-time with others, add rich editing, and keep everyone up-to-date with a
+visual knowledge base.
+Play video.
+Stay on track with real-time reporting.
+Set goals, track progress, and manage resources more effectively with powerful reporting features.
+Dashboards
+Bring important project indicators into one place with Dashboards. Add visual
+widgets for team members, tasks, sprints, time tracking, statuses, docs, embeds, and more.
+Workload & Box view
+Visualize your team's day-by-day work capacity with Workload and Box views. See
+who is under or over capacity to reduce bottlenecks and allocate resources effectively.
+Goals
+Measure your project goals by tying them to specific tasks, numbers, monetary
+values, and more. Organize your OKRs and Sprints into Goal Folders and automatically track your progress
+for linked tasks.
+Milestones
+Set milestones to signify when an important stage in the project is complete.
+Pulse
+View automatic activity reports powered by machine learning to easily see where
+your time is being spent.
+Time
+management made easy.
+Make the most of your time with global Time Tracking from any
+device, Time Estimates, and time Reporting.
+Tracking
+Track time automatically (or manually) link it to tasks from your desktop,
+mobile, or browser with ClickUp's global timer.
+Learn more
+Estimates
+Add time estimates to tasks to allocate resources smarter and set
+expectations for your team.
+Learn more
+Reporting
+Access detailed reporting for time tracked and automatically create reports
+for billable time.
+Learn more
+But wait,
+there's more.
+ClickUp comes
+with hundreds of more features to help your team tackle any type of work, check them all out below.
+Task
+Management
+Recurring Checklists
+Reminders
+Resolve Comments
+Scrum Points
+Status Templates
+View all
+Import
+Milestones
+Sprints
+Sorting
+Recurring Tasks
+Favorite Views
+Multitask
+Toolbar
+Task Tray
+Task Templates
+Task Mentions
+Right-Click Menus
+Subtasks
+Copy Projects, Spaces, and
+Lists
+Priorities
+Notepad
+Bulk
+Rescheduling
+Epics
+Home
+Webhooks
+LineUp
+Tasks in Multiple Lists
+Nested Subtasks
+Start and Due
+Times
+Native Time
+Tracking
+Sync with
+Calendars
+Critical Path
+Time in Status
+Command Center
+Complete
+Customization
+Custom Fields
+Custom Statuses
+Customize Assignees
+Filter and Search Tasks
+Hotkeys & Shortcuts
+View all
+Super Rich Editing
+Simple
+Statuses
+Full Screen Mode
+Custom
+Notifications
+Saved filters
+Tags
+Drag and Drop
+Attachments
+Two-Factor Authentication
+Custom Color Themes
+Dark Mode
+Spreadsheets
+Custom Roles
+White Label
+Team
+Collaboration
+2-Way Calendar Sync
+Capture, Mark Up, and Edit
+Screenshots
+List Details & Discussions
+Mentions
+Real-Time Editing
+View all
+Assign Comments
+Profiles
+Markdown
+Formula Fields
+Guests
+Progress
+Percentage
+Permissions
+Privacy and
+sharing
+Link to Comments
+Public Sharing
+Who's Online
+Work in Progress Limits
+User Groups
+Thread Comments (Replies)
+Proofing
+Sprint Points
+Clip
+Localization
+See All Features
+Letâs make the world more
+productive, together.
+Please enter a valid email address
+Get Started
+Free training
+&
+24-hour support
+Serious about
+security & privacy
+Highest levels of uptime
+the last 12 months
+Sign up for FREE
+and start using ClickUp in seconds!
+Next
+Please enter a valid email address
+Send
+The everything app, for work.
+Contact Sales
+Thanks!
+We'll be right with you.
+Save one day every week. Guaranteed.
+We analyzed the time saved by over 4,000 teams after switching to ClickUp to manage their projects. That's 52 days back every year!
+Please enter a valid email address
+Get More Time
+No, I want to waste 1 day per week

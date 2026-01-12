@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 11:14
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Monday.com | É BOM? Veja como funciona
+   URL: https://youtube.com/watch?v=wB0q9bf80EI
+   Status: sucesso
+   Tamanho: 7271 caracteres
+   Arquivo: 01_Monday.com_É_BOM_Veja_como_funciona.txt
+
+2. ✅ [pt (Whisper IA)] Como Usar a Monday.com em 2024 | Tutorial Completo para Iniciantes
+   URL: https://youtube.com/watch?v=BIJ32dJ34og
+   Status: sucesso
+   Tamanho: 11834 caracteres
+   Arquivo: 02_Como_Usar_a_Monday.com_em_2024_Tutorial_Completo_p.txt
+
+3. ✅ [pt (Whisper IA)] Como Usar a Monday.com em 2025 | Tutorial Completo
+   URL: https://youtube.com/watch?v=MjvgnXafpWo
+   Status: sucesso
+   Tamanho: 35551 caracteres
+   Arquivo: 03_Como_Usar_a_Monday.com_em_2025_Tutorial_Completo.txt
+
+4. ✅ [pt (Whisper IA)] Monday.com vs Asana | Top Monday.com alternative 2024 | Project Management Tools | Let's Compare
+   URL: https://youtube.com/watch?v=PE1DykRcZik
+   Status: sucesso
+   Tamanho: 8128 caracteres
+   Arquivo: 04_Monday.com_vs_Asana_Top_Monday.com_alternative_202.txt
+
+5. ✅ [pt (Whisper IA)] monday.com - Tutorial for Beginners
+   URL: https://youtube.com/watch?v=K-j7Ty2rHBc
+   Status: sucesso
+   Tamanho: 15989 caracteres
+   Arquivo: 05_monday.com_-_Tutorial_for_Beginners.txt
+

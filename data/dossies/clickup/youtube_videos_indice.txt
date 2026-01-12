@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 11:01
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Como usar o Clickup - Tutorial de ClickUp completo em português (2025)
+   URL: https://youtube.com/watch?v=emH9ygQ0AV4
+   Status: sucesso
+   Tamanho: 45052 caracteres
+   Arquivo: 01_Como_usar_o_Clickup_-_Tutorial_de_ClickUp_completo.txt
+
+2. ✅ [pt (Whisper IA)] ClickUp FÁCIL: aprenda a usar do ZERO
+   URL: https://youtube.com/watch?v=Rws-TwIGp0Y
+   Status: sucesso
+   Tamanho: 10249 caracteres
+   Arquivo: 02_ClickUp_FÁCIL_aprenda_a_usar_do_ZERO.txt
+
+3. ✅ [pt (Whisper IA)] ClickUp Review 2026: Features Tested, Pros and Cons
+   URL: https://youtube.com/watch?v=zA0iatqvtYw
+   Status: sucesso
+   Tamanho: 8978 caracteres
+   Arquivo: 03_ClickUp_Review_2026_Features_Tested,_Pros_and_Cons.txt
+
+4. ✅ [pt (Whisper IA)] The Best ClickUp Alternatives for 2025
+   URL: https://youtube.com/watch?v=P7mbKhtVD8A
+   Status: sucesso
+   Tamanho: 8978 caracteres
+   Arquivo: 04_The_Best_ClickUp_Alternatives_for_2025.txt
+
+5. ✅ [pt (Whisper IA)] ClickUp vs Notion: ¿Cuál es la Mejor Herramienta de Gestión de Proyectos?
+   URL: https://youtube.com/watch?v=yBjhmmIQVQQ
+   Status: sucesso
+   Tamanho: 6989 caracteres
+   Arquivo: 05_ClickUp_vs_Notion_¿Cuál_es_la_Mejor_Herramienta_de.txt
+

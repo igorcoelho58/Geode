@@ -1,0 +1,85 @@
+{
+  "ferramenta": "ElevenLabs",
+  "categoria": "marketing",
+  "data_coleta": "09/01/2026 16:37",
+  "site": {
+    "homepage": {
+      "url": "https://elevenlabs.com/",
+      "coletado": true,
+      "tamanho": 8846
+    },
+    "pricing": {
+      "url": "https://elevenlabs.com/pricing",
+      "coletado": true,
+      "tamanho": 8942
+    },
+    "features": {
+      "url": "https://elevenlabs.com/use-cases",
+      "coletado": true,
+      "tamanho": 4224
+    },
+    "about": {
+      "url": "https://elevenlabs.com/about",
+      "coletado": true,
+      "tamanho": 2320
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "GUIA COMPLETO DE COMO USAR O ELEVENLABS: TUTORIAIS, DICAS E TRUQUES | Poder Artificial",
+        "url": "https://youtube.com/watch?v=EFTTgqEm34M",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 19452,
+        "erro": null
+      },
+      {
+        "titulo": "Como usar o ElevenLabs Criar Locução, Melhor IA e Dicas para Canal DARK",
+        "url": "https://youtube.com/watch?v=wZxdzIdyE5k",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9347,
+        "erro": null
+      },
+      {
+        "titulo": "Build Your First Conversational Voice Agent with ElevenLabs – Complete Setup Guide",
+        "url": "https://youtube.com/watch?v=fnivYSh0Cqk",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 12298,
+        "erro": null
+      },
+      {
+        "titulo": "How To Use Elevenlabs - Master This AI Voice Generator in 23 minutes!",
+        "url": "https://youtube.com/watch?v=s7p6OLwV_50",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 25599,
+        "erro": null
+      },
+      {
+        "titulo": "Cómo usar Eleven Labs Paso a Paso - Crear voces artificiales realistas 🎤 Texto a Voz",
+        "url": "https://youtube.com/watch?v=cOZ9pgafaOU",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 18638,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 24332,
+    "total_chars_youtube": 85334,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

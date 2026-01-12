@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Midjourney",
+  "categoria": "marketing",
+  "data_coleta": "10/01/2026 12:27",
+  "site": {
+    "homepage": {
+      "url": "https://midjourney.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "GUIA COMPLETO | NOVO MIDJOURNEY 2025 - (SITE E FUNÇÕES NOVAS)",
+        "url": "https://youtube.com/watch?v=qL1y1N7R5V8",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 41111,
+        "erro": null
+      },
+      {
+        "titulo": "Como Usar o Midjourney - Tutorial Completo 2025",
+        "url": "https://youtube.com/watch?v=oyb3XEBJCCU",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 20391,
+        "erro": null
+      },
+      {
+        "titulo": "Tutorial MIDJOURNEY: Como usar e fazer Prompts Perfeitos",
+        "url": "https://youtube.com/watch?v=QUoyCfFQUqI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 18465,
+        "erro": null
+      },
+      {
+        "titulo": "The ULTIMATE Beginners Guide to Midjourney in 2025",
+        "url": "https://youtube.com/watch?v=vUj4VNXXC1c",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 66117,
+        "erro": null
+      },
+      {
+        "titulo": "How To Use Midjourney | The ULTIMATE Beginners Guide to Midjourney 2025",
+        "url": "https://youtube.com/watch?v=J3DWZ60ShzM",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 18835,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 164919,
+    "paginas_coletadas": 0,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

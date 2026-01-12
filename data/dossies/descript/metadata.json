@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Descript",
+  "categoria": "marketing",
+  "data_coleta": "09/01/2026 16:03",
+  "site": {
+    "homepage": {
+      "url": "https://descript.com/",
+      "coletado": true,
+      "tamanho": 8505
+    },
+    "pricing": {
+      "url": "https://descript.com/pricing",
+      "coletado": true,
+      "tamanho": 15524
+    },
+    "features": {
+      "url": "https://descript.com/features",
+      "coletado": true,
+      "tamanho": 2057
+    },
+    "about": {
+      "url": "https://descript.com/about",
+      "coletado": true,
+      "tamanho": 2373
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Complete Descript Tutorial 2026: Zero to Expert",
+        "url": "https://youtube.com/watch?v=RgwJNOXGARI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 26853,
+        "erro": null
+      },
+      {
+        "titulo": "Como EDITAR Vídeos 10x MAIS RÁPIDO Usando IA (Visão Geral do Descript)",
+        "url": "https://youtube.com/watch?v=7YAttAP56FA",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 10230,
+        "erro": null
+      },
+      {
+        "titulo": "Descript vs Riverside – Which One’s Actually Better for Creators?",
+        "url": "https://youtube.com/watch?v=AbqVJ6lO5tM",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 17963,
+        "erro": null
+      },
+      {
+        "titulo": "Descript For Beginners 2025 | Everything You NEED To KNOW!",
+        "url": "https://youtube.com/watch?v=qHtqRWUKPfc",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 12932,
+        "erro": null
+      },
+      {
+        "titulo": "Learn Descript in 15 Minutes [Full Tutorial]",
+        "url": "https://youtube.com/watch?v=YEzJ_r7geuc",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 17486,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 28459,
+    "total_chars_youtube": 85464,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

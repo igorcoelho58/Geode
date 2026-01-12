@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 13:55
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Wati vs AiSensy (2026) | Which One is Better?
+   URL: https://youtube.com/watch?v=X8EyK9YqdQ4
+   Status: sucesso
+   Tamanho: 5361 caracteres
+   Arquivo: 01_Wati_vs_AiSensy_(2026)_Which_One_is_Better.txt
+
+2. ✅ [pt (Whisper IA)] Team Inbox - WATI.io - Powered by WhatsApp API
+   URL: https://youtube.com/watch?v=i0w4rqJVepY
+   Status: sucesso
+   Tamanho: 3660 caracteres
+   Arquivo: 02_Team_Inbox_-_WATI.io_-_Powered_by_WhatsApp_API.txt
+
+3. ✅ [pt (Whisper IA)] Broadcasts and Template Submission - WATI.io - Powered by WhatsApp API
+   URL: https://youtube.com/watch?v=LXihCsbeoTo
+   Status: sucesso
+   Tamanho: 5173 caracteres
+   Arquivo: 03_Broadcasts_and_Template_Submission_-_WATI.io_-_Pow.txt
+
+4. ✅ [pt (Whisper IA)] WATI vs Whaticket: ¿Cuál es la mejor alternativa para CRM Multiagente para WhatsApp Business?
+   URL: https://youtube.com/watch?v=NNj-los56Cs
+   Status: sucesso
+   Tamanho: 5193 caracteres
+   Arquivo: 04_WATI_vs_Whaticket_¿Cuál_es_la_mejor_alternativa_pa.txt
+
+5. ✅ [pt (Whisper IA)] #wati #globalsoft  Introducción a WATI
+   URL: https://youtube.com/watch?v=zBM5ALpTo0I
+   Status: sucesso
+   Tamanho: 4447 caracteres
+   Arquivo: 05_#wati_#globalsoft_Introducción_a_WATI.txt
+

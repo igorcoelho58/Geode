@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Respond.io",
+  "categoria": "atendimento",
+  "data_coleta": "09/01/2026 12:07",
+  "site": {
+    "homepage": {
+      "url": "https://respond.io.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "🚀 Anuncios Facebook a WhatsApp [Objetivo Ventas] 💬 – Cierra ventas con respond.io",
+        "url": "https://youtube.com/watch?v=eSizTy8vU7E",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 22689,
+        "erro": null
+      },
+      {
+        "titulo": "Respond.io vs Kommo ⚔️ [Agentes IA WhatsApp] Tutorial 2025",
+        "url": "https://youtube.com/watch?v=0zRadTKAGiM",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 23959,
+        "erro": null
+      },
+      {
+        "titulo": "SleekFlow vs Respond | Which AI Agent is Better for Boosting Sales?",
+        "url": "https://youtube.com/watch?v=3-M2prMAPq4",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9923,
+        "erro": null
+      },
+      {
+        "titulo": "Respond.io Tutorial for Beginners | How to Use Respond.io Chat 2026",
+        "url": "https://youtube.com/watch?v=_bHS75nJz7E",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 5961,
+        "erro": null
+      },
+      {
+        "titulo": "Respond.io l ¿Sirve para tu Empresa? (2025): WhatsApp, inbox unificada y workflows",
+        "url": "https://youtube.com/watch?v=QT-Q40NAxRM",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6542,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 69074,
+    "paginas_coletadas": 0,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

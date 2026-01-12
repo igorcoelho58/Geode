@@ -1,0 +1,227 @@
+URL: https://asana.com/features
+Data Coleta: 09/01/2026 11:25
+Tamanho: 8321 caracteres
+======================================================================
+
+Asana's Work Tracking & Project Management Features • Asana
+Understand Asana's core features
+Asana’s Work Graph® data model helps you and your teams work together intelligently and scale effortlessly.
+Get started
+Project management
+Manage your projects from start to finish. With all of your projects in Asana, you’ll always know who’s doing what, by when.
+See project management
+Tasks
+Break work into bite-size pieces with clear owners and due dates.
+See tasks
+arrow-right icon
+Projects
+Organize tasks and tackle work together in a shared hub.
+See projects
+arrow-right icon
+Project views
+Organize your work as a list, calendar, timeline, Gantt chart, or Kanban board.
+See project views
+arrow-right icon
+Custom fields
+Add labels to tasks so you can sort, filter, and automatically report on work.
+See custom fields
+arrow-right icon
+Status updates
+Craft project updates in minutes with time-saving automations.
+See status updates
+arrow-right icon
+Time tracking
+Measure how much time you’re spending on work, so you can correctly budget the time you need.
+See time tracking
+arrow-right icon
+My tasks
+See all your assignments in one place, so you can prioritize what’s next.
+See my tasks
+arrow-right icon
+Inbox
+Get automatic updates about work that matters to you, and filter out the rest.
+See inbox
+arrow-right icon
+Mobile and desktop apps
+Get to inbox zero, whether you’re at the office or on the go.
+See Asana apps
+arrow-right icon
+Home
+Jump right in with an overview of your tasks, goals, projects, and more.
+See home
+arrow-right icon
+Scroll carousel back
+Scroll carousel forward
+Goals and reporting
+Connect every team’s work to company objectives, then track progress with real-time data.
+See goals and reporting
+Goals
+Connect every team’s work to company-wide objectives.
+See goals
+arrow-right icon
+Portfolios
+Your mission control center to monitor connected projects and collaborate across teams.
+See portfolios
+arrow-right icon
+Reporting dashboards
+Visualize the state of your team’s work with real-time charts and insights.
+See reporting dashboards
+arrow-right icon
+Scroll carousel back
+Scroll carousel forward
+Asana AI
+Use AI-powered features to advise you on where to focus, automate routine work, and accelerate decision-making.
+workload icon
+Introducing: Smart workflow gallery
+Get started fast with AI-powered workflows tailored for your business processes.
+Learn more
+arrow-right icon
+asana-intelligence icon
+Asana AI Studio
+Design AI-powered workflows to pass off your teams' busywork.
+Learn more
+arrow-right icon
+project icon
+Asana AI for project management
+Use AI to organize your projects and help keep your team up-to-date on work.
+See AI for project management
+arrow-right icon
+goal icon
+Asana AI for goals and reporting
+Draft more effective goals, standardize them across your organization, and easily track progress with the help of AI.
+See AI for goals and reporting
+arrow-right icon
+Scroll carousel back
+Scroll carousel forward
+Workflows and automation
+Create processes that run themselves, so teams can focus on the next big thing.
+See workflows and automation
+Forms
+Standardize work requests so your team has the information they need from the start.
+See forms
+arrow-right icon
+Rules
+Automate routine tasks to get more done, faster.
+See rules
+arrow-right icon
+Bundles
+Easily create, apply, and update processes across projects in one place.
+See bundles
+arrow-right icon
+Templates
+Standardize your team’s best practices with ready-made guides for projects and tasks.
+See templates
+arrow-right icon
+Scroll carousel back
+Scroll carousel forward
+Resource management
+Get the visibility you need. Plan accurate timelines, adjust workloads, and stay on track to achieve your strategy.
+See resource management
+Capacity planning
+Create long-term staffing plans that align your resourcing decisions to goals and maximize impact.
+See capacity planning
+arrow-right icon
+Workload
+See how busy your team is, so you can rebalance work quickly.
+See workload
+arrow-right icon
+Time tracking
+Measure how much time you’re spending on work, so you can correctly budget the time you need.
+See time tracking
+arrow-right icon
+Scroll carousel back
+Scroll carousel forward
+Admin and security
+Create and manage teams and team settings to ensure that everyone has access to the right information.
+See admin and security
+Admin console
+Manage settings for your entire organization, in one place.
+See admin console
+arrow-right icon
+Permissions and access controls
+Maintain data privacy by customizing who can access work across Asana.
+See permissions and access controls
+arrow-right icon
+Audit suite
+Access APIs that support integrations to help keep your organization secure and compliant.
+See audit suite
+arrow-right icon
+Trust at Asana
+Protect your organization's data with a secure platform that scales for the largest enterprises.
+See trust at Asana
+arrow-right icon
+Team management
+Designate admins to manage member settings and enforce password complexity. Enterprise customers have additional control with SAML and our Admin API.
+See team management
+arrow-right icon
+Guest management
+Collaborate with external vendors, contractors, and partners in Asana, all in a secure environment.
+See guest management
+arrow-right icon
+Scroll carousel back
+Scroll carousel forward
+Integrations
+Connect Asana to the hundreds of tools your teams use the most so everyone works seamlessly in one place.
+See integrations
+Google
+arrow-right icon
+Microsoft
+arrow-right icon
+Salesforce
+arrow-right icon
+Slack
+arrow-right icon
+Zoom
+arrow-right icon
+Jira
+arrow-right icon
+Tableau
+arrow-right icon
+PowerBI
+arrow-right icon
+1
+2
+3
+Success and support
+Help Center
+Visit our Help Center for tips and support articles that help you get the most out of Asana.
+arrow-right icon
+Asana Academy
+Learn Asana at your own pace with self-guided courses, trainings and video tutorials.
+arrow-right icon
+Certification program
+Learn critical skills to help your business reach its goals while you achieve your own.
+arrow-right icon
+Customer success
+We offer tailored training, consultation, change management, integration and deployment support to scale Asana across your organization.
+arrow-right icon
+Frequently asked questions
+Can you create custom fields in Asana?
+chevron-up icon
+All paid Asana plans include unlimited custom fields. Additionally, Asana Basic users have access to predefined custom fields, like priority status.
+Custom fields let you add additional data to tasks in your Asana projects. Creating a custom field using one of our 17 different custom field types means you can create a field for stage, priority, cost, or anything else that’s important to your workflow, team, and company.
+Can you create a project in Asana by importing a CSV?
+chevron-up icon
+Yes, every CSV you import will become a project. Once imported, you’ll see your data in Asana as tasks in a project. In addition to task names and descriptions, the CSV importer supports information such as assignee, due dates, start dates, dependencies, followers, and custom fields. For more information on how to format your .csv file before importing, check out our
+guide article
+.
+Can you use Asana to track your personal life?
+chevron-up icon
+Yes, you can create an Asana project for anything. Asana customers have created projects to manage their grocery lists, their
+personal to-dos
+, and even their weddings!
+Asana is flexible enough to adapt to any time management and organizational strategy you use. With My Tasks, you can view all of the work assigned to you in one place, and action on it accordingly. Whether you want to assign work to sprints and work within the
+Scrum methodology
+, or timebox your work with the
+Pomodoro method
+, Asana can help.
+Can you create repeating tasks for your recurring to-dos?
+chevron-up icon
+Yes, you can turn any one-off to-do into a recurring task. With our date picker, it’s easy to create tasks that recur on a specific day, periodically, or within a custom time frame.
+Can you color-code tasks?
+chevron-up icon
+The best way to color-code tasks is to use custom fields. Choose from our 16 color options for your single- and multi-select custom fields. Then, easily identify tasks at-a-glance based on the custom field color.
+Work smarter with Asana
+See why millions of people across 200 countries use Asana.
+Get started
+Contact sales

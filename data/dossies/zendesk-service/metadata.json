@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Zendesk Service",
+  "categoria": "atendimento",
+  "data_coleta": "09/01/2026 14:17",
+  "site": {
+    "homepage": {
+      "url": "https://zendeskservice.com/",
+      "coletado": true,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": "https://zendeskservice.com/pricing",
+      "coletado": true,
+      "tamanho": 0
+    },
+    "features": {
+      "url": "https://zendeskservice.com/features",
+      "coletado": true,
+      "tamanho": 0
+    },
+    "about": {
+      "url": "https://zendeskservice.com/about",
+      "coletado": true,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "ZENDESK EM 10 MINUTOS",
+        "url": "https://youtube.com/watch?v=ly3j9eqz6cc",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 12006,
+        "erro": null
+      },
+      {
+        "titulo": "Zendesk 101: How to use Zendesk for customer support",
+        "url": "https://youtube.com/watch?v=rNB7k-cG1RM",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 15967,
+        "erro": null
+      },
+      {
+        "titulo": "Zendesk Alternatives & Competitors | Ultimate Zendesk Review 2025 [7/10]",
+        "url": "https://youtube.com/watch?v=Q_J7u_0wjuA",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 5504,
+        "erro": null
+      },
+      {
+        "titulo": "Webinar - ¿Cómo integrar Redes Sociales en Zendesk Support?",
+        "url": "https://youtube.com/watch?v=rmd0VFyWaok",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 21302,
+        "erro": null
+      },
+      {
+        "titulo": "Zendesk - ¿Qué es y para qué sirve?",
+        "url": "https://youtube.com/watch?v=Ja8qXM9TBjc",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 4513,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 59292,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Jasper AI",
+  "categoria": "marketing",
+  "data_coleta": "09/01/2026 17:58",
+  "site": {
+    "homepage": {
+      "url": "https://jasper.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "ESSA IA VAI TE DEIXAR RICO? Testei o Jasper AI e Me Surpreendi! 🚀",
+        "url": "https://youtube.com/watch?v=RyDZmJNJ29c",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7069,
+        "erro": null
+      },
+      {
+        "titulo": "jasper ai 🤖como comecar a usar gratis🤖jasper ai tutorial",
+        "url": "https://youtube.com/watch?v=9VrKtMusbP4",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 15894,
+        "erro": null
+      },
+      {
+        "titulo": "Jasper AI Tutorial for Beginners - 2025 | Guide for Marketers & Creators | How to Use Jasper AI",
+        "url": "https://youtube.com/watch?v=W9y2rodf7Zg",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9253,
+        "erro": null
+      },
+      {
+        "titulo": "Jasper AI: Uma análise honesta e guia para iniciantes (2024)",
+        "url": "https://youtube.com/watch?v=oMSwm18PpgQ",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7568,
+        "erro": null
+      },
+      {
+        "titulo": "Claude vs Jasper AI Comparison | Best AI Writing Tool 2025",
+        "url": "https://youtube.com/watch?v=bK4QeYpaJ1A",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6024,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 45808,
+    "paginas_coletadas": 0,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

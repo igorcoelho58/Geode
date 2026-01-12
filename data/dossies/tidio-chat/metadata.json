@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Tidio Chat",
+  "categoria": "atendimento",
+  "data_coleta": "09/01/2026 13:06",
+  "site": {
+    "homepage": {
+      "url": "https://tidiochat.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": "https://tidiochat.com/pricing",
+      "coletado": true,
+      "tamanho": 14357
+    },
+    "features": {
+      "url": "https://tidiochat.com/features",
+      "coletado": true,
+      "tamanho": 15068
+    },
+    "about": {
+      "url": "https://tidiochat.com/about",
+      "coletado": true,
+      "tamanho": 3184
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Tidio Review: Best Live Chat & AI Chatbot for Customer Support?",
+        "url": "https://youtube.com/watch?v=TADLSTese-o",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 11872,
+        "erro": null
+      },
+      {
+        "titulo": "Tidio Tutorial For Beginners 2025 | How To Use Tidio",
+        "url": "https://youtube.com/watch?v=yKBeMkVp8kU",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 10288,
+        "erro": null
+      },
+      {
+        "titulo": "Tidio AI Chatbot Tutorial | How to Set Up AI Chat on Your Website",
+        "url": "https://youtube.com/watch?v=SrRmXo9kRbc",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7116,
+        "erro": null
+      },
+      {
+        "titulo": "Tidio vs Freshchat | Which is Better in 2025?",
+        "url": "https://youtube.com/watch?v=rVGb12-_YXo",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6016,
+        "erro": null
+      },
+      {
+        "titulo": "Best AI Chatbot Platforms 2025: Tidio vs ManyChat vs Drift vs Intercom",
+        "url": "https://youtube.com/watch?v=qUmuH_LdK9o",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9867,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 32609,
+    "total_chars_youtube": 45159,
+    "paginas_coletadas": 3,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

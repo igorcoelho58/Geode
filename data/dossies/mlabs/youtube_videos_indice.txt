@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 10/01/2026 12:32
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Como Funciona a mLabs (2026)
+   URL: https://youtube.com/watch?v=5OZW1fsCJ_w
+   Status: sucesso
+   Tamanho: 6051 caracteres
+   Arquivo: 01_Como_Funciona_a_mLabs_(2026).txt
+
+2. ✅ [pt (Whisper IA)] Como funciona a mLabs (2025)
+   URL: https://youtube.com/watch?v=1Ur3YlIRLNs
+   Status: sucesso
+   Tamanho: 6176 caracteres
+   Arquivo: 02_Como_funciona_a_mLabs_(2025).txt
+
+3. ✅ [pt (Whisper IA)] mLabs Analytics - Relatórios e Dashboards de Redes Sociais e Ads
+   URL: https://youtube.com/watch?v=RScIeh1qLz8
+   Status: sucesso
+   Tamanho: 5106 caracteres
+   Arquivo: 03_mLabs_Analytics_-_Relatórios_e_Dashboards_de_Redes.txt
+
+4. ✅ [pt (Whisper IA)] Mlabs Vale a Pena? Analise Sincera 2025
+   URL: https://youtube.com/watch?v=plGLQjYTtEI
+   Status: sucesso
+   Tamanho: 6745 caracteres
+   Arquivo: 04_Mlabs_Vale_a_Pena_Analise_Sincera_2025.txt
+
+5. ✅ [pt (Whisper IA)] Vale a pena usar o mLabs?
+   URL: https://youtube.com/watch?v=TesJ_omny_8
+   Status: sucesso
+   Tamanho: 7268 caracteres
+   Arquivo: 05_Vale_a_pena_usar_o_mLabs.txt
+

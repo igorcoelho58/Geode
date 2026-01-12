@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Notion",
+  "categoria": "produtividade",
+  "data_coleta": "09/01/2026 00:55",
+  "site": {
+    "homepage": {
+      "url": "https://www.notion.so/",
+      "coletado": true,
+      "tamanho": 2824
+    },
+    "pricing": {
+      "url": "https://www.notion.so/pricing",
+      "coletado": true,
+      "tamanho": 20809
+    },
+    "features": {
+      "url": "https://www.notion.so/product",
+      "coletado": true,
+      "tamanho": 2824
+    },
+    "about": {
+      "url": "https://www.notion.so/about",
+      "coletado": true,
+      "tamanho": 3139
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Notion é bom? Vale a pena? Pontos positivos e Negativos (Veja se é para você)",
+        "url": "https://youtube.com/watch?v=M-nkT65AxCU",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 13217,
+        "erro": null
+      },
+      {
+        "titulo": "⚡️ Como Aprender NOTION do ZERO | Aprenda a como usar o Notion em 20min",
+        "url": "https://youtube.com/watch?v=zP-fAJ8uGS0",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 24351,
+        "erro": null
+      },
+      {
+        "titulo": "Notion Agents - Mi Opinión sobre la IA de Notion",
+        "url": "https://youtube.com/watch?v=pNw74IhRdqA",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 12899,
+        "erro": null
+      },
+      {
+        "titulo": "Cómo Empezar En Notion (Sin Volverte Loco) - Primeros Pasos Para Principiantes - Tutorial 2025",
+        "url": "https://youtube.com/watch?v=VjQcV1WhRo8",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 28685,
+        "erro": null
+      },
+      {
+        "titulo": "Best Notion Alternatives in 2025",
+        "url": "https://youtube.com/watch?v=TBwL5P1OD3A",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9945,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 29596,
+    "total_chars_youtube": 89097,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

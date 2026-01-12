@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Typebot",
+  "categoria": "atendimento",
+  "data_coleta": "09/01/2026 13:47",
+  "site": {
+    "homepage": {
+      "url": "https://typebot.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "TypeBot Definitivo em 2026: Como Instalar o TypeBot ILIMITADO (Mastigado)",
+        "url": "https://youtube.com/watch?v=38d3BrU-eik",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 39802,
+        "erro": null
+      },
+      {
+        "titulo": "[CURSO TYPEBOT Passo a Passo] AULA 15 - TEMA E CONFIGURAÇÕES / COMO USAR",
+        "url": "https://youtube.com/watch?v=pbLfiDE0RJ8",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 20082,
+        "erro": null
+      },
+      {
+        "titulo": "Mini Curso de TypeBot para Iniciantes: Tutorial Passo a Passo | TypeBot",
+        "url": "https://youtube.com/watch?v=4cVGU8DxPTQ",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 24892,
+        "erro": null
+      },
+      {
+        "titulo": "[CURSO TYPEBOT Passo a Passo] AULA 14 - RECURSO DE INTEGRAÇÕES HTTP REQUEST (WEBHOOK) / COMO USAR",
+        "url": "https://youtube.com/watch?v=v_7UgN8yMks",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 10864,
+        "erro": null
+      },
+      {
+        "titulo": "Botpress vs Dialogflow vs Rasa vs Typebot | Which is the Best AI Chatbot in 2025?",
+        "url": "https://youtube.com/watch?v=KGqGNUdB1NA",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7050,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 102690,
+    "paginas_coletadas": 0,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

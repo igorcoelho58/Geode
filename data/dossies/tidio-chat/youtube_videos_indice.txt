@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 13:06
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Tidio Review: Best Live Chat & AI Chatbot for Customer Support?
+   URL: https://youtube.com/watch?v=TADLSTese-o
+   Status: sucesso
+   Tamanho: 11872 caracteres
+   Arquivo: 01_Tidio_Review_Best_Live_Chat_&_AI_Chatbot_for_Custo.txt
+
+2. ✅ [pt (Whisper IA)] Tidio Tutorial For Beginners 2025 | How To Use Tidio
+   URL: https://youtube.com/watch?v=yKBeMkVp8kU
+   Status: sucesso
+   Tamanho: 10288 caracteres
+   Arquivo: 02_Tidio_Tutorial_For_Beginners_2025_How_To_Use_Tidio.txt
+
+3. ✅ [pt (Whisper IA)] Tidio AI Chatbot Tutorial | How to Set Up AI Chat on Your Website
+   URL: https://youtube.com/watch?v=SrRmXo9kRbc
+   Status: sucesso
+   Tamanho: 7116 caracteres
+   Arquivo: 03_Tidio_AI_Chatbot_Tutorial_How_to_Set_Up_AI_Chat_on.txt
+
+4. ✅ [pt (Whisper IA)] Tidio vs Freshchat | Which is Better in 2025?
+   URL: https://youtube.com/watch?v=rVGb12-_YXo
+   Status: sucesso
+   Tamanho: 6016 caracteres
+   Arquivo: 04_Tidio_vs_Freshchat_Which_is_Better_in_2025.txt
+
+5. ✅ [pt (Whisper IA)] Best AI Chatbot Platforms 2025: Tidio vs ManyChat vs Drift vs Intercom
+   URL: https://youtube.com/watch?v=qUmuH_LdK9o
+   Status: sucesso
+   Tamanho: 9867 caracteres
+   Arquivo: 05_Best_AI_Chatbot_Platforms_2025_Tidio_vs_ManyChat_v.txt
+

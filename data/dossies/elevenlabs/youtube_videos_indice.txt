@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 16:37
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] GUIA COMPLETO DE COMO USAR O ELEVENLABS: TUTORIAIS, DICAS E TRUQUES | Poder Artificial
+   URL: https://youtube.com/watch?v=EFTTgqEm34M
+   Status: sucesso
+   Tamanho: 19452 caracteres
+   Arquivo: 01_GUIA_COMPLETO_DE_COMO_USAR_O_ELEVENLABS_TUTORIAIS,.txt
+
+2. ✅ [pt (Whisper IA)] Como usar o ElevenLabs Criar Locução, Melhor IA e Dicas para Canal DARK
+   URL: https://youtube.com/watch?v=wZxdzIdyE5k
+   Status: sucesso
+   Tamanho: 9347 caracteres
+   Arquivo: 02_Como_usar_o_ElevenLabs_Criar_Locução,_Melhor_IA_e.txt
+
+3. ✅ [pt (Whisper IA)] Build Your First Conversational Voice Agent with ElevenLabs – Complete Setup Guide
+   URL: https://youtube.com/watch?v=fnivYSh0Cqk
+   Status: sucesso
+   Tamanho: 12298 caracteres
+   Arquivo: 03_Build_Your_First_Conversational_Voice_Agent_with_E.txt
+
+4. ✅ [pt (Whisper IA)] How To Use Elevenlabs - Master This AI Voice Generator in 23 minutes!
+   URL: https://youtube.com/watch?v=s7p6OLwV_50
+   Status: sucesso
+   Tamanho: 25599 caracteres
+   Arquivo: 04_How_To_Use_Elevenlabs_-_Master_This_AI_Voice_Gener.txt
+
+5. ✅ [pt (Whisper IA)] Cómo usar Eleven Labs Paso a Paso - Crear voces artificiales realistas 🎤 Texto a Voz
+   URL: https://youtube.com/watch?v=cOZ9pgafaOU
+   Status: sucesso
+   Tamanho: 18638 caracteres
+   Arquivo: 05_Cómo_usar_Eleven_Labs_Paso_a_Paso_-_Crear_voces_ar.txt
+

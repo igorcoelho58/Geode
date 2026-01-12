@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Leonardo AI",
+  "categoria": "marketing",
+  "data_coleta": "09/01/2026 18:32",
+  "site": {
+    "homepage": {
+      "url": "https://leonardo.com/",
+      "coletado": true,
+      "tamanho": 2168
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": "https://leonardo.com/solutions",
+      "coletado": true,
+      "tamanho": 9539
+    },
+    "about": {
+      "url": "https://leonardo.com/about",
+      "coletado": true,
+      "tamanho": 5772
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Como USAR O LEONARDO AI para CRIAR IMAGENS",
+        "url": "https://youtube.com/watch?v=hFUqWiAToBs",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 20664,
+        "erro": null
+      },
+      {
+        "titulo": "CRIAR IMAGEM com IA (ULTRA REALISTA) com FLUX, MIDJOURNEY e LEONARDO AI - Inteligência Artificial",
+        "url": "https://youtube.com/watch?v=bckBWSAe-aM",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 23012,
+        "erro": null
+      },
+      {
+        "titulo": "Leonardo AI - AULA COMPLETA E GRÁTIS",
+        "url": "https://youtube.com/watch?v=lpCcWrl7M9M",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7306,
+        "erro": null
+      },
+      {
+        "titulo": "Leonardo AI - Tutorial for Beginners in 12 MINS!  [ FULL GUIDE 2025 ]",
+        "url": "https://youtube.com/watch?v=xbUE56kmVl0",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8311,
+        "erro": null
+      },
+      {
+        "titulo": "LEONARDO AI 2026 ⭐ Nuevas Funciones IA | Tutorial Completo",
+        "url": "https://youtube.com/watch?v=MtuQv5hXHQo",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 22868,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 17479,
+    "total_chars_youtube": 82161,
+    "paginas_coletadas": 3,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

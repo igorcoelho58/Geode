@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 12:50
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] META Declara Guerra aos Intermediários: Blip, Twilio e Agora?
+   URL: https://youtube.com/watch?v=plJL3vG1y3I
+   Status: sucesso
+   Tamanho: 5794 caracteres
+   Arquivo: 01_META_Declara_Guerra_aos_Intermediários_Blip,_Twili.txt
+
+2. ✅ [pt (Whisper IA)] Python Image Captioning Tutorial | Image To Text Blip Python Guide
+   URL: https://youtube.com/watch?v=CzO8VuaHfKM
+   Status: sucesso
+   Tamanho: 15277 caracteres
+   Arquivo: 02_Python_Image_Captioning_Tutorial_Image_To_Text_Bli.txt
+
+3. ✅ [pt (Whisper IA)] Primeiro contato com a plataforma Take Blip Chatbot Developer Aula 01 Módulo 01
+   URL: https://youtube.com/watch?v=nsx1lPgZBuo
+   Status: sucesso
+   Tamanho: 14757 caracteres
+   Arquivo: 03_Primeiro_contato_com_a_plataforma_Take_Blip_Chatbo.txt
+
+4. ✅ [pt (Whisper IA)] Crie Chatbots Educacionais - Tutorial TakeBlip
+   URL: https://youtube.com/watch?v=i54MZDG9hzI
+   Status: sucesso
+   Tamanho: 8635 caracteres
+   Arquivo: 04_Crie_Chatbots_Educacionais_-_Tutorial_TakeBlip.txt
+
+5. ✅ [pt (Whisper IA)] O Dia de Brincadeiras do Blippi! 🤪 Melhores Episódios do Blippi 🤠 Vídeos Educativos para Crianças
+   URL: https://youtube.com/watch?v=edOaTKMWgaM
+   Status: sucesso
+   Tamanho: 19711 caracteres
+   Arquivo: 05_O_Dia_de_Brincadeiras_do_Blippi!_🤪_Melhores_Episód.txt
+

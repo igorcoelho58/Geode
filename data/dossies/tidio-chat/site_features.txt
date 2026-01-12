@@ -1,0 +1,444 @@
+URL: https://tidiochat.com/features
+Data Coleta: 09/01/2026 13:06
+Tamanho: 15068 caracteres
+======================================================================
+
+Tidio Features (All Plans)
+EN
+Log in
+Close X
+dashboard_customize
+Tools & Features
+Lyro AI Agent
+chat_bubble
+Live Chat
+confirmation_number
+Ticketing
+family_history
+Flows
+forum
+Communication Channels
+library_books
+Order Management
+analytics
+Analytics
+colors
+Customization
+signpost
+Departments
+support_agent
+Support
+devices
+Apps
+apps
+Integrations
+Tidio's tools and features
+See how Tidio can help your business
+list
+Show all categories
+Lyro AI Agent
+Reclaim up to 67% of your team's time by answering common questions and performing recurring tasks with a truly conversational AI.
+Learn more about Lyro AI Agent
+chevron_right
+add_task
+Lyro Smart Actions
+Lyro AI Agent can handle tasks—like order updates or lead qualification—without human assistance. It integrates with your external systems to take real-time action.
+category_search
+Product recommendations
+Lyro connects to your store inventory. It pulls your entire product catalog in real-time to provide accurate, helpful recommendations based on what you actually sell.
+mail
+AI-driven email resolutions
+Lyro AI scans incoming emails and solves common problems in seconds, giving your team more time to focus on high-priority tasks.
+rule_settings
+Simple, configurable setup
+Add Lyro AI Agent to your website with a few clicks. Share links to your support content to feed it with your data, and the AI is good to go.
+table
+Data-backed answers
+Lyro AI Agent answers customers using only your support knowledge to minimize hallucinations.
+translate
+Multilanguage
+Lyro AI Agent uses your support content to answer customers in dozens of languages, including English, Spanish, French, Portuguese, and German.
+responsive_layout
+Multichannel
+Lyro AI Agent answers customers on all your live communication channels - live chat, WhatsApp, Instagram, and Messenger.
+prompt_suggestion
+Smart redirections
+Lyro AI Agent redirects customers who ask for information outside its knowledge to your support department.
+face
+Human-like conversations
+Lyro AI Agent understands context and asks clarifying questions when necessary, making the conversations feel natural.
+analytics
+Analytics
+Understand how the audience interacts with your support system.
+timelapse
+Time saved calculator
+See Lyro AI Agent's answer rate and how many customer problems it solved.
+Try Lyro AI Agent for free
+Answer customer questions with AI on all your live communication channels.
+Start for free
+chevron_right
+strategy
+Playground
+See how Lyro AI Agent responds to customer questions based on the data you shared and update its knowledge base accordingly.
+deployed_code_update
+Instant updates
+Update Lyro AI Agent’s knowledge base so it adapts its responses based on the new data in an instant.
+shuffle
+Conversation control
+Track Lyro AI Agent’s conversations in real-time and jump in to take over the conversation whenever you want.
+difference
+Multiple sources
+Update Lyro AI Agent’s information using multiple information sources in different data formats, such as links, PDF files, and manual entries.
+quiz
+Missed questions
+Get a list of the questions Lyro AI Agent didn’t answer so you can update its knowledge base.
+custom_typography
+Custom name
+Change Lyro AI Agent's name to something that suits your brand and messaging.
+Show more
+chevron_right
+Get a free Chrome extension for your help desk
+Meet Copilot that helps you reply faster with AI-powered response suggestions right inside your existing tool. Automate 30% of the support workload.
+Add to Chrome - It's free
+Live Chat
+Offer a clear route for customer questions and provide immediate answers through a lightweight live chat widget.
+Learn more about Live Chat
+chevron_right
+text_fields
+Live typing
+Speed up your replies by previewing what users write before they hit the "send" button and preparing your answer.
+library_books
+Macros
+Create a library of common answers and use them to reply in seconds.
+psychology
+Tidio AI Reply Assistant
+Instantly turn basic answers into professional-looking ones with GPT-4 technology.
+person_cancel
+Ban users
+Block users from accessing the widget based on their IP address.
+chat_paste_go
+Chat page
+Send your customers to a dedicated chat window instead of talking with them through the widget.
+grading
+Transcripts
+Save transcripts for your records or send them to clients via email.
+clinical_notes
+Pre-chat survey
+Collect your customers' contact data before the chat starts.
+attach_file
+Attachments
+Send supported files via chat: .jpg .jpeg .png .txt .rtf .xlsx .docx .pdf .gif, and videos.
+Try Tidio Live Chat for free
+Offer live customer support to improve the shopping experience you offer.
+Start for free
+chevron_right
+note_stack
+Tags and contact properties
+Add tags and contact details to customer profiles so you can personalize your conversations and improve customer experience.
+translate
+Multilanguage
+Add multiple languages to your widget and use special characters when talking to international customers in their native languages.
+thumbs_up_down
+Measure customer satisfaction
+Collect feedback and assess the quality of your customer service.
+work_history
+Operating hours
+Set your working hours and let visitors know when they can find you online.
+mark_chat_read
+Read receipt
+See if the visitor read your messages.
+co_present
+Live visitor list
+See all your website visitors and the pages they're browsing in real-time. Offer custom advice based on their activity.
+article_shortcut
+Automatic chat assignment
+Speed up your response time by automatically directing new chats to available operators.
+comments_disabled
+Offline message
+Inform customers that you're not available and collect their email addresses to contact them later.
+Show more
+chevron_right
+Ticketing
+Shorten your time to resolution and boost customer satisfaction with a smart ticketing system. Manage, assign, prioritize, and reply to customers requests in one place.
+Learn more about Ticketing
+chevron_right
+confirmation_number
+Create tickets from chats and emails
+Turn chats and emails into tickets so it's easier for your team to understand context.
+conversion_path
+Workflows
+Workflows help you automate repetitive support actions like closing tickets without customer response, sending customized auto-replies, and more.
+label
+Tags
+Use tags to organize your tickets.
+priority_high
+Priorities
+Set different priority levels to highlight a ticket's urgency.
+eye_tracking
+Track operator tickets
+Oversee your team's tickets to assess their work and ensure consistency.
+more
+Tickets history
+Store all your tickets in one place so you can access them whenever necessary.
+partner_exchange
+Switch ownership
+Change a ticket's ownership whenever you need to.
+filter_alt
+Advanced ticket filtering
+Create custom filters so you can manage your tickets with ease.
+unsubscribe
+Spam management
+Mark unimportant messages as spam to keep your inbox clutter-free.
+table_eye
+Smart views
+See how your team tackles various subjects. Track and analyze specific topics to gain valuable insights.
+Show more
+chevron_right
+Already convinced?
+Then get started
+Free plan available. Easy installation in under 5 minutes.
+Start for free
+chevron_right
+Contact sales
+Flows
+Boost your lead gen and sales funnels with Flows - no-code automation paths that trigger at crucial moments in the customer journey.
+Learn more about Flows
+chevron_right
+rebase_edit
+Visual automation builder
+Intuitive, visual Flows builder - Create custom automations without coding skills.
+note_stack
+40+ e-commerce templates
+Plug-and-play Flows scenarios to help you engage users and sell more.
+flowsheet
+Flows in live conversations
+Create Flows and use them to save time during client conversations.
+contact_page
+Data collection
+Automatically collect contact details from your customers.
+communication
+Post communication surveys
+Collect customer feedback after the chat ends.
+auto_read_play
+Respond when operators are busy
+Send pre-designed conversation Flows to customers when none of your agents are available.
+production_quantity_limits
+Save abandoned carts
+Convince people who are about to abandon their carts to complete their purchases by sending them automated discounts.
+extension
+Connect to third-party platforms
+Use Flows to send data in third-party tools.
+Try Tidio Flows for free
+Automate your support, lead gen, and sales with 40+ ready to use Flows templates.
+Start for free
+chevron_right
+install_desktop
+Scroll percentage trigger
+Automatically perform specific actions when a visitor reaches a certain page scroll depth.
+stream_apps
+Mobile-specific actions
+Activate different automation paths for mobile users.
+3p
+Transfer to operator
+Send pre-configured, translatable messages to customers asking for human support.
+Show more
+chevron_right
+Communication Channels
+Handle messages from all your communication channels in a single dashboard.
+Learn more about Communication Channels
+chevron_right
+chat_bubble
+Live Chat
+Answer customers quickly when they're browsing your website.
+mail
+Email
+Connect multiple email inboxes to Tidio.
+Instagram
+Reply to Instagram DMs and Story reactions either manually or using automated Flows. Manage Facebook and Instagram comments from your Tidio inbox.
+Messenger
+Use Live Chat and Flows to talk to your clients on Messenger.
+WhatsApp
+Offer instant, 24/7 support on WhatsApp with conversation Flows.
+Show more
+chevron_right
+Order Management (for Shopify)
+Use in-build Shopify actions during conversations. Preview carts, recommend products, see your customers' order history, and manage orders without leaving the chat window.
+Learn more about Shopify features
+chevron_right
+preview
+Shopping cart preview
+See what your clients have in their carts in real time so you can provide tailored answers to their questions.
+device_reset
+Order history
+Check what your clients ordered in the past so you can personalize your advice.
+recommend
+Recommend products
+Suggest specific products directly from the chat window.
+order_approve
+Manage orders
+Cancel orders, change shipping addresses, and offer refunds directly from the chat window.
+shoppingmode
+Offer discounts
+Send customers custom coupon codes without leaving the chat window.
+quick_reorder
+Check delivery zones (via Flows)
+Allow clients to check available order zones on their own.
+Show more
+chevron_right
+Analytics
+Understand how the audience interacts with your support system.
+Learn more about Analytics
+chevron_right
+currency_exchange
+Sales
+Determine the contribution Tidio made to your sales value.
+finance
+Conversation-related metrics
+Track crucial support KPIs, including number of conversations, missed conversations, hourly occupation, first response time, and time to close.
+frame_person
+Operator performance
+Evaluate your team's performance and filter the data by operator.
+chart_data
+Channel performance
+See how each of your communication channels performs.
+query_stats
+Flows performance
+Assess the performance of your automation Flows.
+auto_awesome_motion
+Leads
+See how many leads you collected with Tidio.
+person_alert
+Improvement suggestions
+Get advice on how to improve specific metrics.
+compare
+Comparisons
+Generate charts to analyze and compare data across different time periods.
+hotel_class
+Satisfaction rate
+Uncover insights on your CSAT using customer ratings.
+Show more
+chevron_right
+Customization
+Adjust the look and feel of your Tidio widget to your branding to create a seamless experience.
+colors
+Background color & picture
+Set custom colors and profile pictures.
+position_bottom_right
+Widget position
+Position your Tidio widget on the right or left side of the screen.
+variable_remove
+Remove Tidio branding
+Hide the Tidio logo from your live chat widget.
+speaker_notes_off
+Chat visibility
+Set different visibility options per device and site.
+ad_off
+Offline visibility
+Turn the widget on or off based on your working hours.
+waving_hand
+Welcome screen
+Customize the message users see when they open the chat window.
+folder_supervised
+Permissions
+Limit the access your operators have to selected sections/features of your Tidio panel.
+emoji_language
+Multilanguage
+Add multiple languages to your widget and your welcome messeges will be displayed in the visitor’s default browser language.
+folder_managed
+API documentation
+Make it easy for your developers to connect to Tidio via API.
+code_blocks
+Script templates
+Script templates help you adjust your widget.
+Show more
+chevron_right
+Departments
+Redirect customers to the right person or department in your team so you can resolve customer problems faster.
+group_add
+Grouping
+Split your operators in multiple departments.
+alt_route
+Automated ticket routing
+Speed up your response time by automatically routing tickets to the right department.
+app_badging
+Personal notifications
+Notify specific operators about the tickets they're managing.
+autoplay
+Auto Solve
+Automatically solve tickets when they’re done.
+rebase
+Reassign with Flows
+Allow users to choose the department they want to contact via conversation Flows.
+Show more
+chevron_right
+Support
+We're here to help you whenever you need. Our average response time is of only 1 minute.
+contact_mail
+Email support
+Connect with our support team over email and get answers to all of your questions. Available 24h/day, Mon-Fri.
+live_help
+Live Chat support
+Contact us through the live chat widget and we'll get back to you in minutes. Available 24h/day, Mon-Fri.
+stars
+Dedicated Customer Success Manager
+Our dedicated customer success managers recommend support and lead generation chatbot scenarios, highlight optimization opportunities, and more. They help you make the most out of your Tidio subscription.
+settings_account_box
+Dedicated implementation specialist
+Our implementation team will help you set up your solution and connect it with third-party business apps.
+id_card
+Account reviews
+Get reports on your account setup and uncover actionable insights that can help you improve your support and lead generation processes.
+cast_for_education
+Training sessions
+Learn how to use Tidio directly from one of our specialists.
+rebase
+Flows building assistance
+Consult with one of our specialists to create Flows scenarios that are tailored to your website.
+Show more
+chevron_right
+Apps
+Adjust the look and feel of your Tidio widget to your branding to create a seamless experience.
+web_traffic
+Browser
+Download
+open_in_new
+macOS app
+Download
+open_in_new
+Windows app
+Download
+open_in_new
+iOS app
+Download
+open_in_new
+Android app
+Download
+open_in_new
+Show more
+chevron_right
+Integrations
+Connect Tidio to your website builder and pair it with your tech stack.
+Explore more Integrations
+chevron_right
+display_settings
+E-commerce platforms
+Shopify, WordPress, WooCommerce, Adobe Commerce, Shopware, and others.
+stacked_email
+Email marketing tools
+Klavyio, Mailchimp.
+quickreply
+CRMs
+Hubspot, Agile CRM, Zoho CRM.
+analytics
+Analytics
+Google Tag Manager, Google Analytics.
+ads_click
+Sales & marketing
+Hubspot, Zendesk, Pipedrive.
+open_in_browser
+OpenAPI
+Integrate Tidio with your data through OpenAPI to streamline processes and improve efficiency.
+Zapier
+Connect to hundreds of apps via Zapier.
+Show more
+chevron_right

@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 18:32
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Como USAR O LEONARDO AI para CRIAR IMAGENS
+   URL: https://youtube.com/watch?v=hFUqWiAToBs
+   Status: sucesso
+   Tamanho: 20664 caracteres
+   Arquivo: 01_Como_USAR_O_LEONARDO_AI_para_CRIAR_IMAGENS.txt
+
+2. ✅ [pt (Whisper IA)] CRIAR IMAGEM com IA (ULTRA REALISTA) com FLUX, MIDJOURNEY e LEONARDO AI - Inteligência Artificial
+   URL: https://youtube.com/watch?v=bckBWSAe-aM
+   Status: sucesso
+   Tamanho: 23012 caracteres
+   Arquivo: 02_CRIAR_IMAGEM_com_IA_(ULTRA_REALISTA)_com_FLUX,_MID.txt
+
+3. ✅ [pt (Whisper IA)] Leonardo AI - AULA COMPLETA E GRÁTIS
+   URL: https://youtube.com/watch?v=lpCcWrl7M9M
+   Status: sucesso
+   Tamanho: 7306 caracteres
+   Arquivo: 03_Leonardo_AI_-_AULA_COMPLETA_E_GRÁTIS.txt
+
+4. ✅ [pt (Whisper IA)] Leonardo AI - Tutorial for Beginners in 12 MINS!  [ FULL GUIDE 2025 ]
+   URL: https://youtube.com/watch?v=xbUE56kmVl0
+   Status: sucesso
+   Tamanho: 8311 caracteres
+   Arquivo: 04_Leonardo_AI_-_Tutorial_for_Beginners_in_12_MINS!_[.txt
+
+5. ✅ [pt (Whisper IA)] LEONARDO AI 2026 ⭐ Nuevas Funciones IA | Tutorial Completo
+   URL: https://youtube.com/watch?v=MtuQv5hXHQo
+   Status: sucesso
+   Tamanho: 22868 caracteres
+   Arquivo: 05_LEONARDO_AI_2026_⭐_Nuevas_Funciones_IA_Tutorial_Co.txt
+

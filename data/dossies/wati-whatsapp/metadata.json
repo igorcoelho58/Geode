@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Wati WhatsApp",
+  "categoria": "atendimento",
+  "data_coleta": "09/01/2026 13:55",
+  "site": {
+    "homepage": {
+      "url": "https://watiwhatsapp.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Wati vs AiSensy (2026) | Which One is Better?",
+        "url": "https://youtube.com/watch?v=X8EyK9YqdQ4",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 5361,
+        "erro": null
+      },
+      {
+        "titulo": "Team Inbox - WATI.io - Powered by WhatsApp API",
+        "url": "https://youtube.com/watch?v=i0w4rqJVepY",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 3660,
+        "erro": null
+      },
+      {
+        "titulo": "Broadcasts and Template Submission - WATI.io - Powered by WhatsApp API",
+        "url": "https://youtube.com/watch?v=LXihCsbeoTo",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 5173,
+        "erro": null
+      },
+      {
+        "titulo": "WATI vs Whaticket: ¿Cuál es la mejor alternativa para CRM Multiagente para WhatsApp Business?",
+        "url": "https://youtube.com/watch?v=NNj-los56Cs",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 5193,
+        "erro": null
+      },
+      {
+        "titulo": "#wati #globalsoft  Introducción a WATI",
+        "url": "https://youtube.com/watch?v=zBM5ALpTo0I",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 4447,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 23834,
+    "paginas_coletadas": 0,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

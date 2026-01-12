@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Asana",
+  "categoria": "produtividade",
+  "data_coleta": "09/01/2026 11:25",
+  "site": {
+    "homepage": {
+      "url": "https://asana.com/",
+      "coletado": true,
+      "tamanho": 4721
+    },
+    "pricing": {
+      "url": "https://asana.com/pricing",
+      "coletado": true,
+      "tamanho": 33480
+    },
+    "features": {
+      "url": "https://asana.com/features",
+      "coletado": true,
+      "tamanho": 8321
+    },
+    "about": {
+      "url": "https://asana.com/about",
+      "coletado": true,
+      "tamanho": 4890
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Não assine o Asana sem saber dessas 5 coisas!",
+        "url": "https://youtube.com/watch?v=P2_RP8IX-oI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7335,
+        "erro": null
+      },
+      {
+        "titulo": "Visão Geral do Asana (Tutorial em Português)",
+        "url": "https://youtube.com/watch?v=CS_xZT8DtJc",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 16753,
+        "erro": null
+      },
+      {
+        "titulo": "Como Criar Projetos no Asana (Lista ou Quadro)",
+        "url": "https://youtube.com/watch?v=OJcZZR1dJEw",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 20342,
+        "erro": null
+      },
+      {
+        "titulo": "COMO USAR O ASANA? Gestão de Projetos #gestaodeprojetos #produtividade #tecnologia",
+        "url": "https://youtube.com/watch?v=Q8V_R0BBIFI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9325,
+        "erro": null
+      },
+      {
+        "titulo": "Asana Deep Dive - Top Features, Pros & Cons",
+        "url": "https://youtube.com/watch?v=OR88dpy6vWk",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6372,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 51412,
+    "total_chars_youtube": 60127,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

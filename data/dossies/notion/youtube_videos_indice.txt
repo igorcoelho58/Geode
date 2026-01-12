@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 00:55
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Notion é bom? Vale a pena? Pontos positivos e Negativos (Veja se é para você)
+   URL: https://youtube.com/watch?v=M-nkT65AxCU
+   Status: sucesso
+   Tamanho: 13217 caracteres
+   Arquivo: 01_Notion_é_bom_Vale_a_pena_Pontos_positivos_e_Negati.txt
+
+2. ✅ [pt (Whisper IA)] ⚡️ Como Aprender NOTION do ZERO | Aprenda a como usar o Notion em 20min
+   URL: https://youtube.com/watch?v=zP-fAJ8uGS0
+   Status: sucesso
+   Tamanho: 24351 caracteres
+   Arquivo: 02_⚡️_Como_Aprender_NOTION_do_ZERO_Aprenda_a_como_usa.txt
+
+3. ✅ [pt (Whisper IA)] Notion Agents - Mi Opinión sobre la IA de Notion
+   URL: https://youtube.com/watch?v=pNw74IhRdqA
+   Status: sucesso
+   Tamanho: 12899 caracteres
+   Arquivo: 03_Notion_Agents_-_Mi_Opinión_sobre_la_IA_de_Notion.txt
+
+4. ✅ [pt (Whisper IA)] Cómo Empezar En Notion (Sin Volverte Loco) - Primeros Pasos Para Principiantes - Tutorial 2025
+   URL: https://youtube.com/watch?v=VjQcV1WhRo8
+   Status: sucesso
+   Tamanho: 28685 caracteres
+   Arquivo: 04_Cómo_Empezar_En_Notion_(Sin_Volverte_Loco)_-_Prime.txt
+
+5. ✅ [pt (Whisper IA)] Best Notion Alternatives in 2025
+   URL: https://youtube.com/watch?v=TBwL5P1OD3A
+   Status: sucesso
+   Tamanho: 9945 caracteres
+   Arquivo: 05_Best_Notion_Alternatives_in_2025.txt
+

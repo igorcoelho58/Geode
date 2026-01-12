@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Take Blip",
+  "categoria": "atendimento",
+  "data_coleta": "09/01/2026 12:50",
+  "site": {
+    "homepage": {
+      "url": "https://takeblip.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "META Declara Guerra aos Intermediários: Blip, Twilio e Agora?",
+        "url": "https://youtube.com/watch?v=plJL3vG1y3I",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 5794,
+        "erro": null
+      },
+      {
+        "titulo": "Python Image Captioning Tutorial | Image To Text Blip Python Guide",
+        "url": "https://youtube.com/watch?v=CzO8VuaHfKM",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 15277,
+        "erro": null
+      },
+      {
+        "titulo": "Primeiro contato com a plataforma Take Blip Chatbot Developer Aula 01 Módulo 01",
+        "url": "https://youtube.com/watch?v=nsx1lPgZBuo",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 14757,
+        "erro": null
+      },
+      {
+        "titulo": "Crie Chatbots Educacionais - Tutorial TakeBlip",
+        "url": "https://youtube.com/watch?v=i54MZDG9hzI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8635,
+        "erro": null
+      },
+      {
+        "titulo": "O Dia de Brincadeiras do Blippi! 🤪 Melhores Episódios do Blippi 🤠 Vídeos Educativos para Crianças",
+        "url": "https://youtube.com/watch?v=edOaTKMWgaM",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 19711,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 64174,
+    "paginas_coletadas": 0,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

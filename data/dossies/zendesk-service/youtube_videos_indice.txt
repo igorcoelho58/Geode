@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 09/01/2026 14:17
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] ZENDESK EM 10 MINUTOS
+   URL: https://youtube.com/watch?v=ly3j9eqz6cc
+   Status: sucesso
+   Tamanho: 12006 caracteres
+   Arquivo: 01_ZENDESK_EM_10_MINUTOS.txt
+
+2. ✅ [pt (Whisper IA)] Zendesk 101: How to use Zendesk for customer support
+   URL: https://youtube.com/watch?v=rNB7k-cG1RM
+   Status: sucesso
+   Tamanho: 15967 caracteres
+   Arquivo: 02_Zendesk_101_How_to_use_Zendesk_for_customer_suppor.txt
+
+3. ✅ [pt (Whisper IA)] Zendesk Alternatives & Competitors | Ultimate Zendesk Review 2025 [7/10]
+   URL: https://youtube.com/watch?v=Q_J7u_0wjuA
+   Status: sucesso
+   Tamanho: 5504 caracteres
+   Arquivo: 03_Zendesk_Alternatives_&_Competitors_Ultimate_Zendes.txt
+
+4. ✅ [pt (Whisper IA)] Webinar - ¿Cómo integrar Redes Sociales en Zendesk Support?
+   URL: https://youtube.com/watch?v=rmd0VFyWaok
+   Status: sucesso
+   Tamanho: 21302 caracteres
+   Arquivo: 04_Webinar_-_¿Cómo_integrar_Redes_Sociales_en_Zendesk.txt
+
+5. ✅ [pt (Whisper IA)] Zendesk - ¿Qué es y para qué sirve?
+   URL: https://youtube.com/watch?v=Ja8qXM9TBjc
+   Status: sucesso
+   Tamanho: 4513 caracteres
+   Arquivo: 05_Zendesk_-_¿Qué_es_y_para_qué_sirve.txt
+

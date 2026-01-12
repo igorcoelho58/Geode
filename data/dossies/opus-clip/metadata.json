@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Opus Clip",
+  "categoria": "marketing",
+  "data_coleta": "10/01/2026 12:43",
+  "site": {
+    "homepage": {
+      "url": "https://opusclip.com/",
+      "coletado": true,
+      "tamanho": 647
+    },
+    "pricing": {
+      "url": "https://opusclip.com/pricing",
+      "coletado": true,
+      "tamanho": 647
+    },
+    "features": {
+      "url": "https://opusclip.com/features",
+      "coletado": true,
+      "tamanho": 647
+    },
+    "about": {
+      "url": "https://opusclip.com/about",
+      "coletado": true,
+      "tamanho": 647
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Opus Clip: Crie Vídeos Virais em Minutos com Inteligência Artificial! Tutorial completo",
+        "url": "https://youtube.com/watch?v=0f-f3VQfpKY",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 27221,
+        "erro": null
+      },
+      {
+        "titulo": "Tutorial: Bulk Automate Opus Clip With Zapier! (new integration)",
+        "url": "https://youtube.com/watch?v=-l4oBe_BHoA",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8606,
+        "erro": null
+      },
+      {
+        "titulo": "Opus Clip Tutorial | How To Use Opus Clip Step-by-Step",
+        "url": "https://youtube.com/watch?v=S-YZs5h32AY",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9460,
+        "erro": null
+      },
+      {
+        "titulo": "Cómo Hacer YouTube Shorts Con IA  / Cómo Usar Opus Clip",
+        "url": "https://youtube.com/watch?v=1syX4DdGCzk",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 10286,
+        "erro": null
+      },
+      {
+        "titulo": "Tutorial Opus Clip En Español | Opus Clip Tutorial COMPLETO",
+        "url": "https://youtube.com/watch?v=kkwe8zVecM0",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 10430,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 2588,
+    "total_chars_youtube": 66003,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}
