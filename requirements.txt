@@ -1,0 +1,26 @@
+# Geode - Dependências Python
+# Instalação: pip install -r requirements.txt
+
+# Gerenciamento de variáveis de ambiente
+python-dotenv==1.2.1
+
+# API Google Gemini
+google-generativeai>=0.3.0
+
+# YouTube e transcrições
+youtube-transcript-api>=0.6.0
+yt-dlp>=2024.0.0
+
+# Transcrição de áudio (opcional - IA local)
+openai-whisper>=20231117
+tqdm>=4.66.0
+
+# Web scraping
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Processamento de dados
+PyYAML>=6.0.0
+
+# Utilitários
+lxml>=5.0.0
