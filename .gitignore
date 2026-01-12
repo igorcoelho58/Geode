@@ -6,10 +6,10 @@
 # OS generated files
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # Editor directories and files
 .idea
-.vscode
 *.swp
 *.swo
 *~
@@ -30,17 +30,30 @@ Thumbs.db
 node_modules/
 package-lock.json
 
-# Arquivos temporários do Windows
-desktop.ini
-
 # Arquivos de backup
 *_backup.*
 *.old
-__pycache__/
+dossies_backup/
 
-# Python virtual environments
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
 .venv/
 venv/
 env/
-*.pyc
-*.pyo
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Arquivos raw do Gemini (backups)
+*_raw.md.bak
+
