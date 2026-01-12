@@ -25,30 +25,10 @@
 # === ATENDIMENTO (8 ferramentas) ===
 
 # === MARKETING (14 ferramentas) ===
-Midjourney | marketing
-mLabs | marketing
-Opus Clip | marketing
-Trakto Design | marketing
 
 # === PRODUTIVIDADE (8 ferramentas restantes) ===
-Bitrix24 | produtividade
-Conta Azul | produtividade
-Fireflies AI | produtividade
-Make.com | produtividade
-Otter AI | produtividade
-Pipefy | produtividade
-Slack | produtividade
-tldv.io | produtividade
 
 # === VENDAS (11 ferramentas) ===
-Apollo.io | vendas
-Clay AI | vendas
-Close CRM | vendas
-Freshsales CRM | vendas
-Kommo CRM | vendas
-Meetime | vendas
-Moskit CRM | vendas
-Ploomes | vendas
 Salesforce Starter | vendas
 Snov.io | vendas
 Zoho CRM | vendas
