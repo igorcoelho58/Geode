@@ -54,6 +54,9 @@ dist/
 build/
 *.egg-info/
 
-# Arquivos raw do Gemini (backups)
+# Arquivos raw do Gemini (temporários - não commitar)
+*_raw.md
 *_raw.md.bak
 
+# Dossiês de pesquisa (dados brutos - muito grandes)
+data/dossies/
