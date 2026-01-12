@@ -18,34 +18,13 @@
 # ============================================
 
 # === PRIORIDADES (TOP 5 - Processar primeiro) ===
-Notion | produtividade
 
 # === SECUNDÁRIAS (TOP 10) ===
-ClickUp | produtividade
-Monday.com | produtividade
-Asana | produtividade
-Trello | produtividade
+# Trello | produtividade
 
 # === ATENDIMENTO (8 ferramentas) ===
-Octadesk | atendimento
-Respond.io | atendimento
-Take Blip | atendimento
-Tidio Chat | atendimento
-Typebot | atendimento
-Wati WhatsApp | atendimento
-Zendesk Service | atendimento
 
 # === MARKETING (14 ferramentas) ===
-Canva Pro | marketing
-Copy.ai | marketing
-Descript | marketing
-ElevenLabs | marketing
-Gamma App | marketing
-HeyGen AI | marketing
-InVideo AI | marketing
-Jasper AI | marketing
-Leadster | marketing
-Leonardo AI | marketing
 Midjourney | marketing
 mLabs | marketing
 Opus Clip | marketing
