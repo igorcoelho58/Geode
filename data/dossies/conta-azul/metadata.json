@@ -1,0 +1,69 @@
+{
+  "ferramenta": "Conta Azul",
+  "categoria": "produtividade",
+  "data_coleta": "11/01/2026 22:30",
+  "site": {
+    "homepage": {
+      "url": "https://contaazul.com/",
+      "coletado": true,
+      "tamanho": 6379
+    },
+    "pricing": {
+      "url": "https://contaazul.com/planos",
+      "coletado": true,
+      "tamanho": 3530
+    },
+    "features": {
+      "url": "https://contaazul.com/funcionalidades",
+      "coletado": true,
+      "tamanho": 6379
+    },
+    "about": {
+      "url": "https://contaazul.com/sobre",
+      "coletado": true,
+      "tamanho": 4141
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 3,
+    "videos_com_transcricao": 3,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "VALE A PENA CONTRATAR O CONTA AZUL COMO SISTEMA FINANCEIRO? | A verdade sobre a Conta Azul",
+        "url": "https://youtube.com/watch?v=cY7mzmCOKEQ",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6810,
+        "erro": null
+      },
+      {
+        "titulo": "GESTÃO FINANCEIRA CONTROLADA E AUTOMÁTICA COM CONTA AZUL (SIMPLIFIQUE SUA GESTÃO FINANCEIRA)",
+        "url": "https://youtube.com/watch?v=8IB8fjOoU1w",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 10518,
+        "erro": null
+      },
+      {
+        "titulo": "REVIEW CONTA AZUL 2025, SERÁ QUE VALE A PENA?",
+        "url": "https://youtube.com/watch?v=sSNkuV1yHYw",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 36801,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 20429,
+    "total_chars_youtube": 54129,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 3,
+    "videos_com_transcricao": 3,
+    "videos_sem_transcricao": 0
+  }
+}

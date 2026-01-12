@@ -1,0 +1,93 @@
+URL: https://slack.com/features
+Data Coleta: 11/01/2026 23:30
+Tamanho: 6077 caracteres
+======================================================================
+
+Team Collaboration Tools  | Slack
+Skip to main content
+Collaboration
+Bring people, projects, knowledge, and culture under one roof.
+Channels
+Collaborate in real time with transparent conversations. Create channels around teams, projects, or anything else.
+Slack Connect
+Turn partners into team members and break down boundaries, with secure collaboration right in Slack.
+Huddles
+Clips
+Messaging
+Slack for Enterprise
+Project Management
+Move work forward faster by aligning on priorities and managing to-dos, all in Slack.
+Canvas
+Lists
+File sharing
+Templates
+Integrations
+Orchestrate work from a single operating system connected across apps and digital agents.
+Apps and Integrations
+Streamline work by connecting Slack with other services like Google Drive, Office 365 and over 2,600 more.
+Workflow Builder
+Build no-code automations of routine tasks and processes to get back to focusing on high-value work.
+Slack Sales Elevate
+Manage your book of business better in Slack with complete visibility into Salesforce accounts from any device.
+Salesforce and Slack integrations
+Bring Salesforce insights into Slack without having to leave the conversation, to align teams and work faster.
+Intelligence
+Tap into your company’s collective knowledge and CRM data to work in a smarter, simpler way.
+Slack AI
+Catch up instantly with channel and thread summaries, schedule daily channel recaps, and take huddle notes automatically.
+Agentforce
+Ask an agent to analyze customer data, draft emails, provide recommendations on sales opportunities, and more.
+Enterprise Search
+Search all your company’s third-party apps, data sources, and conversations, all from a single, AI-powered search bar.
+“The thing that keeps us connected the most is Slack. It’s a very immediate and straightforward method of communication, and really the only channel that people prefer and enjoy using.”
+Link may open in new tab
+Read more
+Link may open in new tab
+Read more
+Link may open in new tab
+Read more
+Link may open in new tab
+Product Tour
+Link may open in new tab
+Read more
+Link may open in new tab
+Read more
+Link may open in new tab
+Read more
+Link may open in new tab
+Product Tour
+Why should my company use Slack?
+Excellent question. Slack is a new way for your entire company to work. Instead of email, Slack is a faster, better-organized, and more secure platform — all your communication is organized into channels that are easy to create, join, and search. When there’s a channel for everything going on at your company, everyone knows exactly where to go to get work done. Slack also brings AI into the flow of work, helping you throughout your workday, making it faster and easier to find and act on the information you need. And unlike email, Slack integrates with all the other systems in your tech stack to become the single OS for all your work. Slack puts everything and everyone you need to get work done in one single place, so no more context switching, data silos, or lost intel.
+For more reading on the topic, we recommend checking out our
+Resources Library
+.
+How do channels in Slack drive productivity?
+Work in Slack starts with channels. By creating a channel for all your projects, teams, offices, and departments — everything you’re doing at work — you create a space for every conversation to happen. And because channels are easy to join and create, Slack can adapt to meet changing needs. If someone new joins a project, simply add them to the channel and they can scroll up to read through old conversations. When it’s time to start something new, create a new channel and invite the right people.
+To learn more, read up on how to
+collaborate effectively in channels
+.
+How does Slack AI protect the security of your data?
+Slack AI runs on Slack’s trusted infrastructure, and upholds the security practices and compliance standards that customers expect from Slack itself. Slack does not share customer data with LLM (large language model) providers and does not use customer data to train LLMs.
+Our LLMs are hosted directly within Slack’s AWS virtual private cloud, ensuring that your data remains in-house. Learn more
+here
+.
+Is Slack secure?
+Yes — you can securely discuss confidential information in Slack. Slack offers multiple ways to ensure that your information, conversations, and files stay safe. Slack delivers enterprise-grade security at every layer, adhering to multiple compliance certifications, including SOC 2, SOC 3, ISO/IEC 27001, and more. Slack is GDPR-compliant and can be configured for HIPAA and FINRA compliance. It is FedRAMP Moderate authorized.
+In addition, Slack offers advanced security features, like Enterprise Key Management, that allow admins fine-grained control over data encryption. You can also integrate your own security tools with Slack to get an instant notification if a threat is detected. Learn more about Slack’s comprehensive security program
+here
+.
+Is Slack more secure than e-mail?
+Yes! Unlike email, Slack is not susceptible to spam or phishing, which causes 90% of data breaches. Your Slack handle cannot be sold to advertisers or put on a mailing list, and you will only ever receive Slack messages from other people inside your organization, or from trusted partners using
+Slack Connect
+. You may get notifications from apps integrated with your workspace, such as Asana, Google Docs, or Jira.
+Slack offers enterprise-grade data protection and privacy. Granular controls allow admins to customize security for each user, so no one sees anything they shouldn’t. Learn more about how
+Slack can securely replace email
+inside your company.
+What is Slack Connect?
+Slack Connect is a more secure and productive way for organizations to communicate together. It lets you move all the conversations with your external partners, clients, vendors, and others into Slack, replacing email and fostering collaboration. Slack’s enterprise-grade security features and compliance standards, like Enterprise Key Management, extend to Slack Connect. Learn more about Slack Connect
+here
+.
+esc
+Slack is where work happens.
+Get started
+Request a demo

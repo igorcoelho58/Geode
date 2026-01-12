@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Make.com",
+  "categoria": "produtividade",
+  "data_coleta": "11/01/2026 23:01",
+  "site": {
+    "homepage": {
+      "url": "https://make.com.com/",
+      "coletado": true,
+      "tamanho": 3067
+    },
+    "pricing": {
+      "url": "https://make.com.com/pricing",
+      "coletado": true,
+      "tamanho": 3067
+    },
+    "features": {
+      "url": "https://make.com.com/features",
+      "coletado": true,
+      "tamanho": 3067
+    },
+    "about": {
+      "url": "https://make.com.com/about",
+      "coletado": true,
+      "tamanho": 3067
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Por Que Você NÃO Deve Aprender Automação com n8n?",
+        "url": "https://youtube.com/watch?v=5Sz3tdqGiG8",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 25665,
+        "erro": null
+      },
+      {
+        "titulo": "API no Make.com: Como Integrar Qualquer API no Make? Apify, Rapid API e + (Guia Completo)",
+        "url": "https://youtube.com/watch?v=rwg6X3ina_o",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 32153,
+        "erro": null
+      },
+      {
+        "titulo": "FERRAMENTA MAKE INTEGROMAT e AUTOMAÇÕES | TUDO QUE VOCÊ PRECISA SABER",
+        "url": "https://youtube.com/watch?v=PtErY1tIbP8",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 27792,
+        "erro": null
+      },
+      {
+        "titulo": "Curso Completo de Make.com em 2025 (Tutorial na Prática)",
+        "url": "https://youtube.com/watch?v=4zVBlJto_KQ",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 44092,
+        "erro": null
+      },
+      {
+        "titulo": "MAKE INTEGROMAT: Passo a passo para iniciantes | Tudo que você precisa saber!",
+        "url": "https://youtube.com/watch?v=HkbO7mpxDmY",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 22270,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 12268,
+    "total_chars_youtube": 151972,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

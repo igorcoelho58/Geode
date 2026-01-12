@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Kommo CRM",
+  "categoria": "vendas",
+  "data_coleta": "12/01/2026 00:39",
+  "site": {
+    "homepage": {
+      "url": "https://kommo.com/",
+      "coletado": true,
+      "tamanho": 4609
+    },
+    "pricing": {
+      "url": "https://kommo.com/pricing",
+      "coletado": true,
+      "tamanho": 11443
+    },
+    "features": {
+      "url": "https://kommo.com/product",
+      "coletado": true,
+      "tamanho": 237
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Aula 1: Explorando o Kommo CRM - Configuração e Funcionalidades Básicas",
+        "url": "https://youtube.com/watch?v=tAZVlAAFONY",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9281,
+        "erro": null
+      },
+      {
+        "titulo": "Como conectar o Whatsapp no Chat GPT via Kommo CRM | Aula 07 (parte 01)",
+        "url": "https://youtube.com/watch?v=A7YxFDne-zs",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 30057,
+        "erro": null
+      },
+      {
+        "titulo": "Como conectar o Whatsapp no Chat GPT via Kommo CRM | Aula 07 (parte 02)",
+        "url": "https://youtube.com/watch?v=nePlHkUwnsI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 55538,
+        "erro": null
+      },
+      {
+        "titulo": "KOMMO CRM REALMENTE É BOM? VEJA O REVIEW COMPLETO! (CRM E AUTOMAÇÕES) KOMMO 2024",
+        "url": "https://youtube.com/watch?v=6XGda4juvYo",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8657,
+        "erro": null
+      },
+      {
+        "titulo": "La solución CRM definitiva: Kommo CRM tutorial",
+        "url": "https://youtube.com/watch?v=DBxzUkQ-5pA",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 12806,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 16289,
+    "total_chars_youtube": 116339,
+    "paginas_coletadas": 3,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

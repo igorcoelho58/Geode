@@ -1,0 +1,375 @@
+URL: https://bitrix24.com/about
+Data Coleta: 11/01/2026 22:21
+Tamanho: 12463 caracteres
+======================================================================
+
+What is Bitrix24 and who are the people behind it?
+Start for free
+Product
+CRM
+CRM
+Manage sales and clients effortlessly
+Sales management
+Manage leads, deals, contacts, pipelines, access permissions & roles
+Contact center
+Omnichannel communications via CRM forms, website widget, live chat, WhatsApp, Instagram, telephony, email
+Sales team collaboration
+Work with chat, video calls, tasks, calendar, file storage, online documents
+Sales enablement
+Get estimates, invoices, payments, catalog, inventory, e-signature, CRM store
+Analytics & reports
+Analyze sales funnel, employee performance, Sales Intelligence, BI Builder dashboards
+Mobile CRM
+Leads, deals, invoices, payments, telephony, emails, inventory, calendar at your fingertips
+Marketing
+Use email campaigns, social media ads, SMS, telemarketing, landing pages
+Automation & integrations
+Set CRM rules and triggers, workflow automation, automated funnels, API
+CoPilot in CRM
+Call audio-to-text transcription, call summary, field autocompletion in deals
+See all CRM features
+Tasks & Projects
+Tasks & Projects
+Get work done easier & faster
+Task management
+Choose between Kanban board, Gantt chart, Scrum, task list
+Task tracking
+Take advantage of checklists & sub-tasks, task summary, time tracking, focus & supervisor mode
+API & integrations
+Connect your tasks to other services via API integration for advanced task automation
+Project management
+Use projects, workgroups, project planning, roles, access permissions
+Employee performance
+Get productive with task reports, workload management, task efficiency & KPI
+Mobile tasks
+Task creation, task tracking, notifications, comments, chat on the go
+Project collaboration
+Work faster with chat, video calls, comments, file storage, documents, external users, task templates
+Automation
+Save time with automatic task creation and workflow automation
+CoPilot in Tasks
+AI-generated task descriptions, task summaries, checklists, comments
+See all Tasks & Projects features
+Collaboration
+Collaboration
+Power up your teamwork
+Online workspace
+Use chat, activity feed, comments, reactions, company-wide video announcements
+Online documents & file storage
+Store, share and edit documents online easily with co-workers using company drive
+Workgroups
+Create workgroups, invite external users, set access permissions and work on tasks and projects
+Online meetings
+Do more with video calls, video conferencing, screen sharing, call recording and custom backgrounds
+Shared calendars
+Plan with company & personal calendar, open time slots, meeting room booking, calendar sync
+Mobile communications
+Team messenger, video calls, comments, calendar, notifications anywhere
+CoPilot in Chat
+Unlimited source of ideas, AI-generated texts, brainstorming, and more
+See all Collaboration features
+Sites & Stores
+Sites & Stores
+Create websites that sell
+Website builder
+Use our free CMS, templates, hosting, AI-generated images and texts to create awesome sites
+Social selling
+Sell your products directly via Facebook, Instagram, WhatsApp or Telegram
+Website forms
+Capture leads with custom order forms, registration & feedback forms, and forms with conditional fields
+Landing pages
+Generate leads with capture forms, automated funnels and Google Analytics integration
+Online store
+Maximize ecommerce with inventory management, order processing, delivery and online payments
+Mobile sites & online stores
+Responsive design, online orders, client management in your pocket
+Website widget
+Enable widget to chat with site visitors, use popular messengers and accept callback requests
+Online marketing tools
+Increase sales with email marketing, Facebook or Google Ads, marketing automation, CRM integration
+CoPilot in Sites & Stores
+Compelling copy on demand, AI-generated images, detailed prompts, text translation
+See all Sites & Stores features
+HR & Automation
+HR & Automation
+Optimize workflows & manage HR data
+Employee management
+Use employee profiles, company structure, access permissions, Active Directory
+Culture & engagement
+Get company news, polls, appreciation badges, tags, personal notifications
+Mobile HR
+Chat, video calls, employee profiles, approvals, notifications on the go
+Work management
+Track employee performance with KPI, work reports, supervisor view
+Internal communications
+Communicate via video announcements, memos, public and private chats
+CoPilot in Feed
+Thread summaries, AI-generated ideas, text editing & creation, AI-written responses, text translation
+Information management
+Work with knowledge bases, online documents, file storage, access permissions
+Automation
+Streamline operations with requests, approvals, expense reports, RPA, workflow automation
+See all HR & Automation features
+CoPilot
+CoPilot
+Your AI-powered assistant in Bitrix24
+CoPilot in CRM
+Call audio-to-text transcription, call summary, field autocompletion in deals
+CoPilot in Tasks
+AI-generated task descriptions, task summaries, checklists, comments
+CoPilot in Chat
+Unlimited source of ideas, AI-generated texts, brainstorming, and more
+CoPilot in Sites & Stores
+Compelling copy on demand, AI-generated images, detailed prompts, text translation
+CoPilot in Feed
+Thread summaries, AI-generated ideas, text editing & creation, AI-written responses, text translation
+CoPilot in Video Calls
+AI-powered call transcription, analysis, summary, and recommendations
+See all CoPilot features
+See all tools
+Pricing
+Resources
+Learn
+Webinars
+Helpdesk
+Guides & API documentation
+Connect
+Submit ticket
+Contact local Bitrix24 partners
+Read
+Growth Hub
+Bitrix24 tips & updates
+Solutions
+Role
+Marketing
+HR
+Project management
+Customer service
+Industry
+Legal
+Retail
+Travel
+Transportation & storage
+Restaurant
+Remote work
+Real estate
+Call center
+Marketing agency
+Software development teams
+Professional service firms
+Goal
+Productivity
+Communication
+Mobility
+Management & leadership
+Tool
+Telephony
+CRM
+Calendars
+Contact center
+Tasks & projects
+Website builder
+Business size
+Solo entrepreneur
+Small business
+Enterprise
+See all solutions
+Integrations
+Import & Export
+Tasks: completion time
+LexOffice Integration
+MailChimp Exporter
+Tasks: actual completion time
+Sales & CRM
+PayU Integration
+Deal analytics summary
+Payment Calendar
+Leads
+Marketing
+SerwerSMS Integration
+Fontumi SMS
+UMNICO: WhatsApp, Telegram, WhatsApp Business API, and Social Media
+MailChimp Exporter
+Tasks & Projects
+Burnup Chart
+REST Activity - Expands business process capabilities
+Helpdesk
+TASKS & PROJECTS REPORTS
+See 650+ apps & integrations
+Partners
+For clients
+Partner directory
+Get personal consultation
+For partners
+Become Bitrix24 partner
+Partner login
+Why Bitrix24
+Bitrix24 advantages
+Why Bitrix24
+Customer reviews
+Compare with other solutions
+Product customization
+Our company
+About us
+Contact us
+In the press
+Legal
+Latest from Bitrix24
+The Role of AI in Improving Customer Engagement Strategies
+Demystifying AI: Understanding Its Impact in Today's Business World
+How to Start a Project Like a Pro: A Beginner's Ultimate Guide
+Start for free
+Log In
+Log In
+My account
+en
+America
+United States (English)
+América Latina (Español)
+Brasil (Português)
+México (Español)
+Colombia (Español)
+Europe
+Europe (English)
+Deutschland (Deutsch)
+France (Français)
+Polska (Polski)
+Italia (Italiano)
+United Kingdom (English)
+Asia
+India (English)
+UAE (عربي)
+Türkiye (Türkçe)
+中国 (简体中文)
+台灣 (繁體中文)
+Indonesia (Bahasa Indonesia)
+Malaysia (Bahasa Melayu)
+ประเทศไทย (ภาษาไทย)
+Việt Nam (Tiếng Việt)
+日本 (日本語)
+You can change your region here, if necessary
+About Us
+About Us
+Contact Us
+In the Press
+About Us
+A little backstory
+The history of Bitrix24 dates back to the late 2000s. Having originally developed it around the time iPhone 4 came out, we thought we’d create some platform we could use for communication and collaboration inside Bitrix24. Our productivity increased almost immediately and everyone on the team seemed to like the new approach.
+A year or so later, we thought “Hey, we have this really great CRM we’re offering to our clients - why not marry it with the online collaboration platform we’re using inside the company?”. The idea took off and the initial beta-testing showed very promising results, which inspired us to commit to the product full-time and finally release it to the public in April of 2012.
+It was an instant success for both us and our clients and partners. Bitrix24 has been growing ever since and is currently used by over 15 million organizations worldwide - from businesses to non-profits.
+What is Bitrix24?
+Bitrix24 is an online workspace. At the heart of Bitrix24 is CRM, complete with project management, online collaboration, communication, and workflow automation tools. Being a highly versatile product, Bitrix24 offers a wide variety of tools for every need and purpose:
+CRM
+Tasks & Projects
+Messenger & video calls
+Website builder
+AI-powered assistant
+HR & Automation
+Bitrix24 is free for an unlimited number of users - to see it in action, you can create your account
+here
+(no credit card required, only email).
+Top 10 facts about Bitrix24
+1
+World’s most popular CRM by the sheer number of users (over 15 million)
+2
+Available in 16 languages (including German, Spanish, Chinese, French, and Vietnamese)
+3
+Bitrix24 stores data in 9 data centers and 600 servers in North America and Europe
+4
+Always secure and reliable: 99.9% service availability
+5
+Bitrix24 team currently consists of 600+ people working in 12 different countries
+6
+Around 75,000 customer support chats and tickets every month
+7
+Every second, there are at least 3 new leads added to Bitrix24 CRM by its users around the world
+8
+Bitrix24 Partner Network currently lists over 960 partners in 90+ countries
+9
+The only major CRM system in the world without per-user pricing
+10
+Available via a browser, mobile app (iOS and Android), or a desktop app (for Mac or Windows)
+Bitrix24 Team
+Behind our product is a team of 600+ people working in 12 different countries around the world to support you, our clients, and develop new features that will help your company to achieve its goals easier and faster.
+Even though Bitrix24 is a labor of love for us, we strive for maximum efficiency in everything we do and always look for ways to improve the product (even a tiny bit) and make it work better for you.
+Bitrix24 Partner Network
+Bitrix24 partners are organizations and individuals officially certified by us to assist our users with product implementation and customization.
+In addition to that, our partners can provide you with a wide variety of third-party apps, add-ons, and integrations that enhance the product performance and tie it in with local services including solutions for telephony, payments, accounting, data transfer, and more.
+To find a Bitrix24 partner in your area, click
+here
+. If you’re thinking about becoming a Bitrix24 partner, we couldn’t be more excited - please see
+this page
+to learn more about our partnership program and how Bitrix24 helps partners make money.
+Bitrix24
+Product
+Pricing
+Media kit
+Contact us
+In the press
+Sustainability
+Bitrix24 Enterprise
+Support
+Helpdesk
+Webinars
+How-to videos
+Contact support
+Schedule a demo
+Status
+Courses
+Resources
+Blog
+Articles
+Solutions
+Customer reviews
+Alternatives
+Uses
+Resources
+On-premise
+On-premise edition
+Download
+Documentation
+Compare to
+Asana
+Clickup
+Monday
+Zoho
+Trello
+Hubspot
+Microsoft Project
+Deskera
+Sharepoint
+Odoo
+Apps
+Market
+Mobile app
+Desktop app
+API/developers
+Google API Services
+Partners
+Find a partner
+Become a partner
+Partner login
+Legal
+Terms
+Privacy
+GDPR
+Security
+Abuse
+Do Not Sell or Share My Information
+© 2026 Alaio
+Privacy Overview
+Cookies:
+This website uses cookies for analytical and technical reasons. ‘Analytical Cookies’ are inserted by Google Analytics to help us understand which countries our visitors come from, which pages they visit and what actions they take on this site. ‘Strictly Necessary Cookies’, as the name implies, are a type of cookies that are required for proper functioning of certain features of this website, such as the ability to use live chat. Disabling these cookies will disable access to those features and degrade your website experience.
+Cookies of both types can be enabled or disabled within this plugin.
+Cookie Settings
+Strictly Necessary Cookies
+Do Not Sell or Share My Information
+Cookie Policy
+More information about our
+Cookie Policy
+We use cookies to enhance your browsing experience -
+Find out more
+. By continuing to browse this site you are agreeing to our use of cookies. Change your
+cookie settings
+.
+Got it

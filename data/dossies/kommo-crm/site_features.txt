@@ -1,0 +1,11 @@
+URL: https://kommo.com/product
+Data Coleta: 12/01/2026 00:39
+Tamanho: 237 caracteres
+======================================================================
+
+Lists
+Common information
+Max number of lists per account is 10
+There are 2 types of lists – regular and products (you need to add such a list in the Settings)
+There can be only 1 list of products type
+List elements can be linked to leads

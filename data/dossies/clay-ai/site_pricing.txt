@@ -1,0 +1,237 @@
+URL: https://clay.com/pricing
+Data Coleta: 12/01/2026 00:02
+Tamanho: 6429 caracteres
+======================================================================
+
+Compare plans, features & costs | Clay.com
+Skip to main
+Copy logo to clipboard (png)
+Copied!
+Copy icon to clipboard (png)
+Copied!
+Download brand assets
+Downloaded!
+Get a demo
+Login
+Sign up
+Copy logo to clipboard (png)
+Copied!
+Copy icon to clipboard (png)
+Copied!
+Download brand assets
+Downloaded!
+Get a demo
+Login
+Sign up
+Compare our plans
+Pay Monthly
+Pay annually - 10%
+discount & all credits upfront
+Try Clay for free
+Free
+$0
+/mo
+Billed yearly. All credits granted upfront
+1,200 credits/year
+Try for free
+Unlimited users
+Up to 100/search
+Exporting
+AI / Claygent
+Rollover credits
+Starter
+$134
+/mo
+Billed yearly. All credits granted upfront
+24K credits/year
+Buy now
+Unlimited users
+Up to 2,000/search
+Exporting
+AI / Claygent
+Rollover credits
+Use your own API key
+Explorer
+$314
+/mo
+Billed yearly. All credits granted upfront
+120K credits/year
+Buy now
+Unlimited users
+Up to 10,000/search
+Exporting
+AI / Claygent
+Rollover credits
+Use your own API key
+Integrate with any HTTP API
+Webhooks
+Email sequencing integrations
+Pro
+$720
+/mo
+Billed yearly. All credits granted upfront
+600K credits/year
+Buy now
+Unlimited users
+Up to 25,000/search
+Exporting
+AI / Claygent
+Rollover credits
+Use your own API key
+Integrate with any HTTP API
+Webhooks
+Email sequencing integrations
+CRM integrations
+Enterprise
+Custom credits
+Best for large teams with high volume
+Contact sales
+All pro features
+Unlimited rows (API)
+Custom automation templates
+Sources sync hourly
+40 action columns per table
+AI prompting support
+Snowflake
+Dedicated Slack support
+Credit reporting analytics
+Private Clay recipes
+Users
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+People/Company searches
+Up to 100/search
+Up to 5,000/search
+Up to 25,000/search
+Up to 50,000/search
+Up to 50,000/search
+Sculptor
+Sequencer
+Exporting
+AI/Claygent
+Rollover credits
+100+ integration providers
+Scheduling
+-
+Phone number enrichments
+-
+Use your own API keys
+-
+Signals
+-
+Integrate with any HTTP API
+-
+-
+Webhooks
+-
+-
+Email sequencing integrations
+-
+-
+Exclude people/company filters
+-
+-
+Web intent
+-
+-
+-
+CRM integrations
+-
+-
+-
+Audiences (coming soon)
+-
+-
+-
+-
+Unlimited rows
+-
+-
+-
+-
+40 action columns per table
+-
+-
+-
+-
+AI prompting support
+-
+-
+-
+-
+Data engineering (Snowflake)
+-
+-
+-
+-
+Dedicated Slack support
+-
+-
+-
+-
+Credit reporting analytics
+-
+-
+-
+-
+SSO
+-
+-
+-
+-
+Flexible pricing: build your data stack, your way
+All in one
+Access 100+ databases of leads and company research - without subscribing to a single external plan. Just pay for what you use with Clay credits. If you already have external plans with a provider, you can still use them on Clay for free!
+No middle-men
+We never white-label or overcharge you to use data providers on Clay. Instead, we let you go to the source: directly access providers at wholesale prices. Understand exactly what providers your data is coming from, try them out, and adjust as needed.
+Save as you grow
+Grow with Clay to unlock increasingly big savings! The higher your Clay plan is, the lower your cost per credit will be. â¨Our Pro plan is up to 7x cheaper than our starter plan.
+Estimate your credits usage
+Calculate how many credits you will need to get your team
+all
+the data they need
+Calculate credits
+What our customers say about us...
+Previous
+Next
+"In my professional opinion, Clay has one of the most practical and exciting applications of AI, in a decades-old practice that has long been stale."
+Keith Jones
+GTM Systems Lead
+"Clay should be an essential pillar of every company's GTM stack, enabling outbound built on the highest quality data foundation possible. Now you can automate hours of manual research so sales teams can focus on selling."
+Stevie Case
+CRO
+"This job has always been about creativity, despite how it might seem, and Clay enables me to answer more 'what if we could...' questions from our GTM teams than I ever could before."
+Alexander DeMoulin
+Director of Revenue Operations
+I love using and working with
+Clay.com
+because its extensive customization options allow it to seamlessly integrate into various systems, making it an essential part of our tech stack. Their hands-on customer support ensures we build out flows in the most efficient way possible, enhancing our overall productivity and effectiveness.
+David Bulmer
+Sales Ops
+"Clay is a game changer for marketing, data, and operations. We have 3x our enrichment rate with Clayâs combination of data providers. Clay makes it easy to use AI for GTM initiatives, unlocking new workflows that were infeasible before."
+Adam Wall
+Head of Sales Operations
+"Clay is a central part of our outbound campaign program. Itâs helped us fully automate lead enrichment that previously required expensive and time consuming manual research. We can use the hours we've saved on manual work for more interesting, creative, and important tasks, like coming up with new outreach ideas or nurturing relationships with prospects."
+Davide Grieco
+Director of Growth
+"Clay saves us hours a week that we previously spent researching and vetting companies that applied to our startup program. Our auto-approval rate has jumped to ~40%âwith no manual work needed."
+Josh Kim
+Head of Growth Programs
+"Scaling inefficient SDR work isnât possible without an infinite flow of capital. Clay helps automate mundane tasks like contact data enrichment, including pulling signals and triggers, so SDRs can focus their time on prioritized selling and spend their days more effectively. It evolves the SDR role and aligns it with better with marketing paths for more upward career momentum."
+Kris Rudegraap
+CEO
+"Not having Clay would hugely reduce our ability to run good outbound campaigns. We wouldnât be calling people as much, because itâs hard to get good phone numbers. We wouldnât be emailing as much, because weâd be likely to bounce or go to spam. With Clay, we have a reliable source of data enrichment and can run dynamic, multi-touch outreach sequences."
+Julien Reiman
+Head of Sales
+"Clay is the Rippling marketing team's secret weapon. It has helped us build an experimentation-driven GTM motion that iterates on ideas and scales what works. We've greatly improved our outbound email performance, deeply enriched our customer base with AI, and more."
+Ryan Narod
+VP, Corporate and Integrated Marketing
+FAQ
+What is Clay?
+What kinds of companies uses Clay?
+Who on my team should use Clay?
+What tools does Clay replace for me?
+What common use cases can I accomplish in Clay?

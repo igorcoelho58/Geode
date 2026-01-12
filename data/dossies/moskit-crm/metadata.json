@@ -1,0 +1,77 @@
+{
+  "ferramenta": "Moskit CRM",
+  "categoria": "vendas",
+  "data_coleta": "12/01/2026 01:02",
+  "site": {
+    "homepage": {
+      "url": "https://moskit.com/",
+      "coletado": true,
+      "tamanho": 10
+    },
+    "pricing": {
+      "url": "https://moskit.com/pricing",
+      "coletado": true,
+      "tamanho": 10
+    },
+    "features": {
+      "url": "https://moskit.com/features",
+      "coletado": true,
+      "tamanho": 10
+    },
+    "about": {
+      "url": "https://moskit.com/about",
+      "coletado": true,
+      "tamanho": 10
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 4,
+    "videos_com_transcricao": 4,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Demonstração - Moskit CRM",
+        "url": "https://youtube.com/watch?v=Zpaunaobr7w",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 32328,
+        "erro": null
+      },
+      {
+        "titulo": "O que é Moskit CRM?",
+        "url": "https://youtube.com/watch?v=rAlxS2OcEYg",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7466,
+        "erro": null
+      },
+      {
+        "titulo": "⭐ SUPER AULA 1 - Curso de CRM Grátis com Bitrix24 (Gestão de Empresas Online)",
+        "url": "https://youtube.com/watch?v=tsixxPAuElE",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 16613,
+        "erro": null
+      },
+      {
+        "titulo": "Como Criar uma LANDING PAGE Grátis no Bitrix24 (AULA 2)",
+        "url": "https://youtube.com/watch?v=FPoaeCNrDKU",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 19226,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 40,
+    "total_chars_youtube": 75633,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 4,
+    "videos_com_transcricao": 4,
+    "videos_sem_transcricao": 0
+  }
+}

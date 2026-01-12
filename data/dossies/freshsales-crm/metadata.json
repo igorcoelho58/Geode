@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Freshsales CRM",
+  "categoria": "vendas",
+  "data_coleta": "12/01/2026 00:21",
+  "site": {
+    "homepage": {
+      "url": "https://freshsales.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Demo Day – Freshsales, um completo CRM  de marketing e vendas.",
+        "url": "https://youtube.com/watch?v=68X3-vNwoNE",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 16527,
+        "erro": null
+      },
+      {
+        "titulo": "[3 em 1 - Freshworks] Demo Freshsales CRM [Webinar Gratuito]",
+        "url": "https://youtube.com/watch?v=nxrvrzERaE4",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 13758,
+        "erro": null
+      },
+      {
+        "titulo": "Zoho CRM vs FreshSales under 8 minutes",
+        "url": "https://youtube.com/watch?v=yQzAhAtBHNc",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8153,
+        "erro": null
+      },
+      {
+        "titulo": "Freshsales CRM Tutorial from SCRATCH (2026 Complete Guide)",
+        "url": "https://youtube.com/watch?v=10A8yRyXSo4",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7204,
+        "erro": null
+      },
+      {
+        "titulo": "TUTORIAL DE FRESHSALES (2025) COMO USAR FRESHSALES EN ESPAÑOL (Guía Completa)",
+        "url": "https://youtube.com/watch?v=l7FXc96pIfI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7278,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 52920,
+    "paginas_coletadas": 0,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

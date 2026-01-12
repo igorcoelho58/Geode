@@ -1,0 +1,272 @@
+VÍDEO #5
+======================================================================
+Título: The Best AI Meeting Notetakers of 2025
+URL: https://youtube.com/watch?v=0inVCwpbP3s
+Idioma: en (auto-gerada)
+Tamanho: 9983 caracteres
+Data Coleta: 11/01/2026 23:36
+======================================================================
+
+ meetings is where the magic or chaos
+happens ideas fly deals get sealed and
+let's be honest a lot gets forgotten
+Research indicates that the average
+attention span during meetings is
+usually 10 to 18 minutes long now I
+don't know about you but I don't have
+the luxury of 10minute meeting so does
+that mean that a lot of the important
+stuff gets forgotten well that's where
+AI noakers come in these tools help you
+transcribe and track conversations so
+that you can focus on talking instead of
+scribbling down notes hey there I'm Alex
+NOS from Automation helpers.com and we
+help companies like yours get set up and
+automated using industry leading portals
+apps and Integrations now plain and
+simple every business should have an AI
+notetaking tool but not every AI
+notetaking tool is created equally in
+this video we're going to break down
+some of the best AI note taking tools
+and compare their differences looking at
+their accuracy features pricing and and
+Integrations two of these tools I
+actually use so let's dive in and take a
+look let's kick things off with
+fireflies AI a tool that we actually use
+internally to automatically transcribe
+summarize and analyze our meetings which
+makes it easier to track key discussions
+and takeaways we've actually built an
+automated business operating system that
+automatically pulls in notes and action
+items from fireflies.ai links it
+directly to the correlating project so
+that our team doesn't have to spend
+hours going through transcripts or
+trying to remember that task that that
+client wanted them to do if your team
+has regular meetings and needs a
+reliable way to capture notes action
+items and key takeaways well
+fireflies.ai is definitely worth
+considering it's incredibly accurate and
+the free plan is incredibly generous
+you'll see that we have a number of ways
+to search a meeting transcript as well
+we can filter through the focus as well
+interestingly the sentiment and we also
+have specific speakers which has yet to
+fail me we can also quickly search for
+keywords to surface relevant meeting
+highlights fireflies offers a free plan
+that includes unlimited transcription
+limited AI summaries and 800 minutes of
+storage per seat this plan is generous
+and perfect for individuals starting out
+for those seeking more advanced features
+and greater capacity fireflies AI
+provides Pro business and Enterprise
+plans each with with varying levels of
+storage Integrations and support to
+connect your fireflies AI to other apps
+and we're not talking about Zoom Google
+meets or video conferencing we're
+talking about sharing the meeting notes
+with another app like slack or air table
+well you will need to upgrade to a paid
+plan as well as if you want to receive
+unlimited storage premium features and
+AI search and filtering oh yeah you're
+going to have to upgrade next up we have
+otter AI one of the most well-known AI
+powered node takers Within estimated 20
+million users it's widely used by
+professionals students and businesses
+for realtime transcription and
+collaboration Auto AI stands out for its
+real-time transcription meaning you can
+access your meeting notes while you're
+still in the meeting also just like
+fireflies it connects with all major
+video conferencing platforms like Google
+meets zoom and Microsoft teams one of
+the best features of uto AI is its
+collaborative workspace allowing teams
+to highlight comment and edit
+transcriptions in real time it's AI
+powered summaries break down long
+conversations into key takeaways but
+this is only available on the paid plan
+unlike fireflies so what about the price
+tag of those paid plans the free plan
+provides you with 300 minutes per month
+but that's capped at a limit of only 30
+minutes per conversation so really you
+only get 10 conversations a month and
+you'll need to cut those conversations
+short or pull out your pen and paper to
+start taking notes M the summarization
+of transcripts is also really lacking in
+comparison to fireflies that is unless
+you are on that paid plan which bumps
+you up to 1,200 monthly transcription
+minutes with a cap again at 90 minutes
+per conversation regardless of those
+limits on meeting times OT AI is still a
+solid choice and when we consider the
+well priced entry level plan well it
+could be the right tool for your
+business now let's talk about fathom a
+rising star in the AI note taking space
+it offers fre unlimited recordings for
+individuals which is something rare
+among AI powered meeting assistants it
+also connects with zoom Microsoft teams
+and Google meets unlike the other tools
+we'll cover fathom offers that free
+unlimited recording plan however you
+only get five AI summaries per month so
+you will be going through the
+transcripts of majority of your meetings
+it standout feature is the realtime note
+taking and timestamped highlights
+meaning you can revisit important
+moments in a conversation while you're
+still in the conversation for teams
+fathom offers A Team edition at $19 a
+month and a team Edition Pro a bit
+higher at $29 a month with more advanced
+collaboration tools one fullback of
+fathom is in its native Integrations and
+ability to connect with other platforms
+I want to be able to connect my AI not
+taking tool to my other platforms
+particularly my project management so I
+can directly link a meeting I had with a
+client with that client's record next we
+have AA and AI powered noeker designed
+specifically for sales and customer
+facing teams unlike other tools we've
+looked at aoma doesn't just transcribe
+meetings and summarize those meetings it
+also provides deep insights into how to
+improve sales conversations aoma offers
+AI not taking conversation intelligence
+and speaker tracking the conversation
+intelligence well this is aimed at
+improving your future sales
+conversations by looking at what you
+might have stuffed up in the past aom
+integrates well with CRM tools sales
+platforms and of course connects with
+the usual video conferencing apps like
+zoom and Google meet a key advantage of
+aoma is in its conversation intelligence
+which helps sales team track patterns
+measure engagement and improve client
+interactions it also provides real-time
+coaching insights making it an excellent
+tool for sales and customer focused
+teams however no free plan here a 14-day
+free trial is offered though if you want
+to take a look after that you'll
+expecting a $19 a month subscription for
+that entry level plan this option is
+definitely pricier than the other
+competitors but if your team is sales
+and customer facing Focus well it could
+be the right tool to improve your
+overall customer engagement and finally
+we have TLD DV too long didn't view a
+great AI powered notaker designed
+specifically for remote teams and a sync
+collaboration unlike some of the other
+tools TLD DV or to Long didn't view spe
+specifically aims at creating an AI
+notaker for us remote teams TV works
+with the usual video conferencing
+platforms Google meets Zoom Microsoft
+teams but what it does slightly
+different is it allows users to create
+timestamps while in meeting so they can
+look back and remember important moments
+that they wanted to remind themselves
+about it also allows quick note sharing
+and summarization but really it doesn't
+offer anything more than what fireflies
+or any one of the other competitors do
+the free plan though packs a punch
+allowing users to access essential AI
+driven meeting features at no cost you
+can enjoy unlimited meetings and viewers
+with 10 AI meeting summaries each month
+oh one thing that I almost forgot to
+mention and I need to is that TLD DV or
+too long didn't view actually offers
+transcription in over 30 languages so if
+your team is diverse well they've got
+you covered and the AI summaries and
+speaker recognition also works for those
+different languages the platform also
+offers Integrations with platforms like
+slack Gmail and calendar tools and other
+features like automatic meeting
+recording clipping and embedding and a
+meeting view tracker allowing you to
+understand what meetings you've got
+coming up will help your team work
+efficiently and manage their meetings
+while the free plan is generous heavier
+AI usage and more uploads require an
+upgrade to a paid plan each of these AI
+not takers Has Its Own Strength well we
+took a look at some of the options out
+there so which one is going to be best
+for you and your team fireflies AI is
+definitely one of the best options for
+businesses and sales teams who need
+Integrations great AI summarization and
+a pricing that doesn't hurt the bank
+otter AI is also great for General
+business use with realtime transcription
+and team collaboration but I would point
+you in the direction of fireflies over
+otter just because you get more bang for
+your buck fathom which offers the best
+free plan with unlimited recordings and
+some AI meeting summaries is great for
+individuals or small teams wanting to
+dip their toes into AI note taking aoma
+is great for sales teams needing AI
+powered insights and more functional CRM
+Integrations and to Long didn't view is
+a great option for remote teams but
+again I would still point you in the
+direction of fireflies as we can see
+when we stack each tool side by side
+fireflies and fathoms free plans are
+great to Long didn't view is another
+awesome option however if you want the
+premium features well Auto AI entry
+level plan is enticing but we've got to
+remember the per meeting limits which
+can quickly become a nuisance if you're
+looking for a truly hands-off experience
+with fewer limits then upgrading to the
+business plan might be necessary and in
+that case fireflies or faom are a
+cheaper option well I hope this video
+has been helpful and I'm curious to
+learn which tool are you going to go
+with or which tools have you already
+tested if you need help setting up your
+business for success or automating parts
+of that business then don't hesitate to
+reach out to us at automation
+helpers.com our team of experts are
+offering a free 30-minute consultation
+so book yours today
+[Music]

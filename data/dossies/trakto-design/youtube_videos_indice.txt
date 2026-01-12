@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 11/01/2026 22:11
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] TRAKTO para iniciantes
+   URL: https://youtube.com/watch?v=ts6g7c9Vepo
+   Status: sucesso
+   Tamanho: 13550 caracteres
+   Arquivo: 01_TRAKTO_para_iniciantes.txt
+
+2. ✅ [pt (Whisper IA)] Traktor Pro 3 Vs Rekordbox DJ Head To Head - DJ Software Compared
+   URL: https://youtube.com/watch?v=zvjToQrZVgs
+   Status: sucesso
+   Tamanho: 6248 caracteres
+   Arquivo: 02_Traktor_Pro_3_Vs_Rekordbox_DJ_Head_To_Head_-_DJ_So.txt
+
+3. ✅ [pt (Whisper IA)] Crie apresentações INCRÍVEIS com o Trakto + Tutorial
+   URL: https://youtube.com/watch?v=9iyvm8gYfWQ
+   Status: sucesso
+   Tamanho: 17820 caracteres
+   Arquivo: 03_Crie_apresentações_INCRÍVEIS_com_o_Trakto_+_Tutori.txt
+
+4. ✅ [pt (Whisper IA)] Basicão da Trakto 1 - Como criar um mini-site com link para BIO do Instagram
+   URL: https://youtube.com/watch?v=DqWx3xXRpGU
+   Status: sucesso
+   Tamanho: 17158 caracteres
+   Arquivo: 04_Basicão_da_Trakto_1_-_Como_criar_um_mini-site_com.txt
+
+5. ✅ [pt (Whisper IA)] Traktor Pro 4 Review - What's New?
+   URL: https://youtube.com/watch?v=dkFh5sCNEYc
+   Status: sucesso
+   Tamanho: 8649 caracteres
+   Arquivo: 05_Traktor_Pro_4_Review_-_What's_New.txt
+

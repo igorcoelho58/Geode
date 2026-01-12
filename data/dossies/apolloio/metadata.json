@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Apollo.io",
+  "categoria": "vendas",
+  "data_coleta": "11/01/2026 23:48",
+  "site": {
+    "homepage": {
+      "url": "https://apollo.io.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "[Apollo.io] Guia completo para TURBINAR sua prospecção B2B",
+        "url": "https://youtube.com/watch?v=8Nszwb35FS4",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 22001,
+        "erro": null
+      },
+      {
+        "titulo": "Aula #1 | Configurações básicas do Apollo + Instalando as extensões!",
+        "url": "https://youtube.com/watch?v=nRJdC3ZsWHk",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 5191,
+        "erro": null
+      },
+      {
+        "titulo": "Aula #2 | Quais filtros existem no Apollo?",
+        "url": "https://youtube.com/watch?v=UQAOj926uXs",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 18121,
+        "erro": null
+      },
+      {
+        "titulo": "How To Use Apollo.io 2025 - Full Tutorial",
+        "url": "https://youtube.com/watch?v=n_lRMtWDU40",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 25240,
+        "erro": null
+      },
+      {
+        "titulo": "¿CÓMO GENERAR LEADS CON APOLLO.IO? | TUTORIAL PARA PRINCIPIANTES",
+        "url": "https://youtube.com/watch?v=ORE4eSNpKEM",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 23038,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 93591,
+    "paginas_coletadas": 0,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

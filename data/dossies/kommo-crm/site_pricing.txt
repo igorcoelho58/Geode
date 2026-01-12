@@ -1,0 +1,354 @@
+URL: https://kommo.com/pricing
+Data Coleta: 12/01/2026 00:39
+Tamanho: 11443 caracteres
+======================================================================
+
+Pricing
+— Kommo
+Log in
+Email
+Password
+Show
+Hide
+Log in
+Continue with Google
+Continue with Facebook
+Forgot password?
+Forgot password
+Email
+Request password reset
+< Back to log in
+Check your email
+We’ve emailed you instructions for resetting your password.
+Don't forget to check your spam folder.
+< Back to log in
+Create new password
+Password
+Password of at least 8 characters
+Show
+Hide
+Confirm password
+Show
+Hide
+Change password
+Nicely done!
+Your password has been changed succesfully.
+Log in >
+2-step verification
+Enter the 6-digit code we sent to
+Enter one of the 6-digit one-time codes you saved when setting up 2-step verification
+For your security, please enter a second one-time code to confirm it’s really you
+Confirm
+< Back to log in
+Didn’t receive a code?
+Resend
+You can request a new code in
+No email access?
+Use a one-time code
+Start your 14-day trial
+You’ll get full access to all features and 10GB storage. No credit card required.
+Email
+Sign up
+Continue with Google
+Continue with Facebook
+By signing up, you agree to our
+Terms of Service
+and
+Privacy Policy
+Create your account
+Email
+Full name
+Password
+Password of at least 8 characters
+Show
+Hide
+Create an account
+By signing up, you agree to our
+Terms of Service
+and
+Privacy Policy
+Start your 14-day trial
+You’ll get full access to all features and 10GB storage. No credit card required.
+Account name
+Account subdomain
+Create account
+Create another account
+Go to partner portal
+Log out
+Select an account
+Contact support
+Hire an expert partner
+Get the #1 CRM for Messenger-based sales
+Book a demo with our team or try Kommo free for 14 days, no credit card required.
+Book a demo with our team or try Kommo free for 14 days, no credit card required.
+Free for 14 days, no credit card required.
+6 months
+9 months
+1 year
+2 years
+Base
+For small businesses that want to boost sales quickly
+$15 USD
+per user/month
+What’s my total cost?
+Billed $90/user for 6 months
+Try it free
+Key features:
+Base limits
+2.500 active leads per user
+12.500 contacts & companies per user
+Unified inbox
+Multiple sales pipelines
+Customizable dashboard
+Kommo AI
+AI agent (limited)
+100 free outgoing messages included. Additional messages require a paid add-on.
+Broadcasting
+Automations
+Salesbot
+Activity limits
+Super fields pack
+Advanced
+For growing companies that want to automate their work
+$25 USD
+per user/month
+What’s my total cost?
+Billed $150/user for 6 months
+Try it free
+Key features:
+Advanced limits
+5.000 active leads per user
+25.000 contacts & companies per user
+Unified inbox
+Multiple sales pipelines
+Customizable dashboard
+Kommo AI
+AI agent (limited)
+250 free outgoing messages included. Additional messages require a paid add-on.
+Broadcasting
+Automations
+Salesbot
+Activity limits
+Super fields pack
+Enterprise
+For larger businesses that keep up with a lot of leads
+$45 USD
+per user/month
+What’s my total cost?
+Billed $270/user for 6 months
+Try it free
+Key features:
+Enterprise limits
+10.000 active leads per user
+50.000 contacts & companies per user
+Unified inbox
+Multiple sales pipelines
+Customizable dashboard
+Kommo AI
+AI agent (limited)
+750 free outgoing messages included. Additional messages require a paid add-on.
+Broadcasting
+Automations
+Salesbot
+Activity limits
+Super fields pack
+We offer 6, 9, 12, or 24 month subscriptions paid in USD, with prices per user.
+View detailed plan comparison
+AI you can rely on
+Meet the AI agent that assists clients, analyzes their needs, and recommends products — around the clock.
+Learn more
+FAQ
+Frequently asked questions
+What Kommo plan should I choose?
+The Base plan is ideal if you are looking to unify all your communication channels in a single app and organize your sales process better.
+The Advanced plan is a good fit if you want to power up your processes by automating your workflow, sending broadcasts, and upgrading your chats with bots.
+If you’re a super user and want to make the most of Kommo’s AI power up for Salesbot, lead scoring, data backup and more, then Enterprise plan is for you!
+Can I pay for Kommo monthly?
+Monthly payment is not currently available. The minimum subscription period is 6 months.
+Are there additional costs?
+No, all of your plan’s features are included in its price. The only extra fees you might pay (which are totally optional) are for 3rd party integrations or services that you choose to purchase.
+If I cancel my subscription, can I get a refund?
+Yes, you can request a refund for the period you haven’t used yet. Simply chat with our customer support team in your account or email us at support@kommo.com.
+Which features are available during my trial?
+During the 14-day trial period, you get full access to all Kommo’s features. The only restriction is that media storage is limited to 10GB.
+Can I add users to my account for free?
+You can add both paid and free users. Paid members can move freely through your Kommo account, using any account features that you have given them access to use.
+Free users have limited rights: they can view and chat within the client profiles that have been specifically shared with them.
+Which plan lets me connect and use messenger apps?
+You only need a Base plan to integrate all your messengers and more than 100 other integrations on our marketplace.
+What currency can I pay in?
+We bill in USD only, but you may be able to find an official partner who resells Kommo in your currency.
+What payment methods does Kommo support?
+You can use your card or choose from popular payment systems like
+PayPal
+.
+Does everyone on the account need to have the same plan?
+Every user on the account needs to be on the same plan.
+Base
+Advanced
+Enterprise
+Plans
+Pricing
+Base
+$15 USD
+per user/month
+Advanced
+$25 USD
+per user/month
+Enterprise
+$45 USD
+per user/month
+Generate & capture leads
+Messenger apps
+Chat with clients in popular apps like WhatsApp without leaving Kommo
+Live chat
+Exchange an unlimited number of messages with your website visitors for free
+Email (2-way sync)
+Connect personal and team-shared email addresses
+Web form builder
+Create shareable forms that send submitted data straight to Kommo
+Website chat button
+Add a button for your website that lets clients connect through any messenger
+Advanced chat button
+Customize your chat button to react to a website visitor's actions
+SMS and VoIP integrations
+Connect apps for calling and texting
+Google Sheets sync
+Feed data from Google Sheets to Kommo automatically
+Email parsing
+Create and fill in lead profiles from emails automatically
+Business card scanner
+Create leads by scanning business cards
+Amplify communication
+Omnichannel inbox
+Communicate with clients via email and popular messengers like WhatsApp
+Chat broadcasting
+Create targeted messaging campaigns to send through chats like WhatsApp
+Chat & email templates
+Make personalized template messages and emails to send to clients
+Call logging & recording
+Keep a record of every call in the client's profile
+Call routing integrations
+Connect apps for routing calls to the right team member
+Team chat & mentions
+Collaborate with team members in direct messages or in lead profiles
+Organize your workflow
+Task management
+Create tasks for yourself and team members within client profiles
+Calendar & reminders
+Track all your tasks and get reminders about what's coming next
+Document generator
+Automatically fill in docs with client information
+Mobile app
+Take Kommo on the road with our Android and iOS apps
+Media storage
+Exchange an unlimited number of docs, pics and videos with clients (10 GB limit during trial)
+Unlimited
+Unlimited
+Unlimited
+Create custom lists
+Create multiple custom lists that you can use in lead profiles
+Bots & automation
+Salesbots
+Build digital assistants that can chat with clients and accomplish workflows
+Unlimited
+Unlimited
+No-code bot builder
+Create salesbots in an easy-to-use visual workspace
+Bot AI power-up
+Trigger bots with an AI-enhanced keyword database
+Kommo AI
+Use suggested replies, conversation summaries, and our AI prompts to improve your conversations
+Net promoter score
+Instantly collect feedback that helps you gauge how clients feel about your brand
+Triggered SMS & emails
+Launch messages and emails based on scheduled- and behavior-based rules
+Add-on trigger pack
+Create automations powered by even more triggers: adding/removing tags and updating fields
+Workflow automation
+Trigger workflows based on rules, such as setting a task when a client is assigned to a user
+AI agent
+An AI assistant that engages in live chats with clients and delivers smart recommendations using your business data.
+Manage leads
+Pipelines
+Create up to 50 board-like views for tracking where your clients are in the sales process
+50
+50
+50
+Custom pipeline stages
+Personalize the names of each stage in your pipeline
+Message/email read status
+View whether outgoing chats and emails have been sent, delivered or read
+Link click tracking
+View when a link you sent is clicked
+Search in lead profiles
+Search in a client's profile for messages, notes, tasks and more
+Active leads per seat
+Active leads are clients who are in any of the active (non-closed) stages of a pipeline
+2.500
+5.000
+10.000
+Contacts & Companies per seat
+Contacts are individuals connected to a client profile
+12.500
+25.000
+50.000
+Custom fields per account
+Create your own fields to customize client profiles with the info your business needs
+100
+200
+400
+Required fields
+Require users to fill in important fields at particular stages in the pipeline
+Super fields pack
+Get game-changing add-ons for fields: 2 new field types for global currencies and catalogs, ability to use formulas in fields, ability to set field visibility
+Analytics
+Customizable dashboard
+See all your important sales stats and favorite filters in one customizable view
+Chat performance tracking
+See which chat sources earn you valuable clients and which waste your time
+Win-loss analysis
+Get a report that helps highlight why some clients are buying and others aren't
+Advanced reports
+Track call activity, set performance goals for users and forecast future sales
+Lead scoring
+Create a formula that helps you instantly predict any client's likelihood to buy
+Security & access
+SSL certificate
+An SSL certificate helps to protect your sensitive information from being intercepted by unauthorized parties
+Customizable user permissions
+Set how much access to give each team member
+Create user teams
+Group users into teams for team-wide permission setting, data filtering, mentions and more
+Enable/block IP addresses
+Control which IP addresses have access to your account
+Set field permissions
+Control access to view and edit certain fields
+Activity limits
+Set limits on how many cards or lists users can view, track your team's activity, and get notified when limits are exceeded
+Data backup
+Rest easy, we back up all your data daily
+Periodic data backup
+Schedule a regular data backup emailed at the interval of your choice
+Support & customization
+Phone, email & chat support
+Contact the Kommo team to help with your account
+5000+ expert partners
+Hire a 3rd party expert to set up or customize your account
+100+ integration marketplace
+Connect your favorite apps to Kommo
+RESTful API
+Build your own integrations and widgets
+WebSDK
+Customize Kommo to fit your business
+Webhooks
+Trigger automations based on webhooks
+Try Kommo for free today
+Try Kommo for free today
+Try Kommo for free today
+Try it free
+Get a demo
+Get a demo
+We use cookies to provide you with the best website experience
+Learn more
+Accept

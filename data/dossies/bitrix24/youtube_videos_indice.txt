@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 11/01/2026 22:21
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Como Criar uma LANDING PAGE Grátis no Bitrix24 (AULA 2)
+   URL: https://youtube.com/watch?v=FPoaeCNrDKU
+   Status: sucesso
+   Tamanho: 19226 caracteres
+   Arquivo: 01_Como_Criar_uma_LANDING_PAGE_Grátis_no_Bitrix24_(AU.txt
+
+2. ✅ [pt (Whisper IA)] ⭐ SUPER AULA 1 - Curso de CRM Grátis com Bitrix24 (Gestão de Empresas Online)
+   URL: https://youtube.com/watch?v=tsixxPAuElE
+   Status: sucesso
+   Tamanho: 16613 caracteres
+   Arquivo: 02_⭐_SUPER_AULA_1_-_Curso_de_CRM_Grátis_com_Bitrix24.txt
+
+3. ✅ [pt (Whisper IA)] Como Criar um Funil de Contratação no CRM Bitrix24 - #RH
+   URL: https://youtube.com/watch?v=UpJzS2NVH10
+   Status: sucesso
+   Tamanho: 6721 caracteres
+   Arquivo: 03_Como_Criar_um_Funil_de_Contratação_no_CRM_Bitrix24.txt
+
+4. ✅ [pt (Whisper IA)] Bitrix24 Review :  Pros and Cons of Bitrix24
+   URL: https://youtube.com/watch?v=LOkVi8rijQM
+   Status: sucesso
+   Tamanho: 5805 caracteres
+   Arquivo: 04_Bitrix24_Review_Pros_and_Cons_of_Bitrix24.txt
+
+5. ✅ [pt (Whisper IA)] Bitrix24 Training Course 24. Collabs
+   URL: https://youtube.com/watch?v=9lffo7IBUMg
+   Status: sucesso
+   Tamanho: 15689 caracteres
+   Arquivo: 05_Bitrix24_Training_Course_24._Collabs.txt
+

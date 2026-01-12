@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Trakto Design",
+  "categoria": "marketing",
+  "data_coleta": "11/01/2026 22:11",
+  "site": {
+    "homepage": {
+      "url": "https://traktodesign.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "TRAKTO para iniciantes",
+        "url": "https://youtube.com/watch?v=ts6g7c9Vepo",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 13550,
+        "erro": null
+      },
+      {
+        "titulo": "Traktor Pro 3 Vs Rekordbox DJ Head To Head - DJ Software Compared",
+        "url": "https://youtube.com/watch?v=zvjToQrZVgs",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6248,
+        "erro": null
+      },
+      {
+        "titulo": "Crie apresentações INCRÍVEIS com o Trakto + Tutorial",
+        "url": "https://youtube.com/watch?v=9iyvm8gYfWQ",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 17820,
+        "erro": null
+      },
+      {
+        "titulo": "Basicão da Trakto 1 - Como criar um mini-site com link para BIO do Instagram",
+        "url": "https://youtube.com/watch?v=DqWx3xXRpGU",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 17158,
+        "erro": null
+      },
+      {
+        "titulo": "Traktor Pro 4 Review - What's New?",
+        "url": "https://youtube.com/watch?v=dkFh5sCNEYc",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8649,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 63425,
+    "paginas_coletadas": 0,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

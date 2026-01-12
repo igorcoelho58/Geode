@@ -1,0 +1,61 @@
+{
+  "ferramenta": "Ploomes",
+  "categoria": "vendas",
+  "data_coleta": "12/01/2026 01:08",
+  "site": {
+    "homepage": {
+      "url": "https://ploomes.com/",
+      "coletado": true,
+      "tamanho": 4898
+    },
+    "pricing": {
+      "url": "https://ploomes.com/pricing",
+      "coletado": true,
+      "tamanho": 4898
+    },
+    "features": {
+      "url": "https://ploomes.com/features",
+      "coletado": true,
+      "tamanho": 4898
+    },
+    "about": {
+      "url": "https://ploomes.com/about",
+      "coletado": true,
+      "tamanho": 4898
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 2,
+    "videos_com_transcricao": 2,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Tutorial simplificado do CRM Ploomes - Ferramenta completa e acessível",
+        "url": "https://youtube.com/watch?v=XAZGGF1YsXo",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 33384,
+        "erro": null
+      },
+      {
+        "titulo": "Anaplan Review: Pros, Cons, Pricing (2026)",
+        "url": "https://youtube.com/watch?v=RMJl0200AiA",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6285,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 19592,
+    "total_chars_youtube": 39669,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 2,
+    "videos_com_transcricao": 2,
+    "videos_sem_transcricao": 0
+  }
+}

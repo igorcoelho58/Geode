@@ -1,0 +1,20 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 12/01/2026 01:08
+Total de Vídeos Encontrados: 2
+Vídeos COM Transcrição: 2
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Tutorial simplificado do CRM Ploomes - Ferramenta completa e acessível
+   URL: https://youtube.com/watch?v=XAZGGF1YsXo
+   Status: sucesso
+   Tamanho: 33384 caracteres
+   Arquivo: 01_Tutorial_simplificado_do_CRM_Ploomes_-_Ferramenta.txt
+
+2. ✅ [pt (Whisper IA)] Anaplan Review: Pros, Cons, Pricing (2026)
+   URL: https://youtube.com/watch?v=RMJl0200AiA
+   Status: sucesso
+   Tamanho: 6285 caracteres
+   Arquivo: 02_Anaplan_Review_Pros,_Cons,_Pricing_(2026).txt
+

@@ -1,0 +1,390 @@
+URL: https://close.com/pricing
+Data Coleta: 12/01/2026 00:13
+Tamanho: 13663 caracteres
+======================================================================
+
+Close CRM Pricing, Plans, and Reviews
+Product
+Pricing
+Blog
+Resources
+About
+Log in
+Try Close
+NEW
+Solo Plan
+Starting at $9/mo
+Win more with Close
+Plans designed to grow with your business
+Annual
+Monthly
+Essentials
+$35
+$
+49
+Per seat / month.
+Billed annually.
+Billed monthly.
+No contracts required.
+Try for free
+CRM for small teams.
+Included in all Close plans:
+Unlimited contacts & leads
+Multiple pipelines
+Advanced lead & activity filters
+Built-in email, calling & SMS
+Centralized inbox & task lists
+POPULAR
+Growth
+$99
+$109
+Per seat / month.
+Billed annually.
+Billed monthly.
+No contracts required.
+Try for free
+Automation to help your team move faster.
+Everything in Essentials plus:
+Automated workflows
+Power Dialer
+AI Email Assistant
+Custom Activities
+Scale
+$139
+$149
+Per seat / month.
+Billed annually.
+Billed monthly.
+No contracts required.
+Try for free
+Advanced control for scaling orgs.
+Everything in Growth plus:
+Role-based access & permissions
+Lead visibility rules
+Predictive Dialer
+Unlimited call recording
+Custom pricing for large teams
+Have 10+ users or complex CRM needs? We can help.
+Talk to sales
+Introducing a CRM for Solo Users
+Getting started with CRM by yourself?
+Solo is perfect for individuals organizing leads, managing pipelines, and keeping communication in one place.
+Annual
+Monthly
+Solo
+$9
+$19
+Per seat / month.
+Billed annually.
+Billed Monthly.
+Try for free
+Includes everything in Essential, but:
+Limited to 1 user
+Limited to 10k leads
+Workflows not included
+Compare plan features
+Expand all
+Collapse all
+Solo
+Essentials
+Growth
+Scale
+Core Features (CRM)
+Leads
+Contacts are defined as individuals within an organization and are attached to a Lead in Close.
+Up to 10,000
+Unlimited
+Unlimited
+Unlimited
+Unlimited Contacts
+Contacts are defined as individuals within an organization and are attached to a Lead in Close.
+Opportunity management
+Track your Opportunities and view the Total Value and Expected Value of the deals in your pipelines. Up to 300 per lead.
+Multi-channel inbox view
+Centralize your to-do list to ensure no leads slip through the cracks.
+Pipelines
+Create multiple opportunity pipelines to track different teams, products, or sales processes.
+Pipeline Guidance
+Pipeline Guidance highlights stalled or at-risk deals and suggests next steps to keep them moving.
+Task management
+Assign tasks to yourself and others to never miss a next step.
+Dynamic list building (Smart Views)
+Search, filter, and save customized views of Leads and Contacts and share them with other team members.
+Follow-up reminders
+Set reminders to follow-up with your contacts.
+Data import and export
+Import data from another CRM, a spreadhseet, or manually add in data.
+Duplicate lead management
+Duplicate lead detection on import and ability to merge duplicate leads.
+Lead and Contact activity timeline
+View, filter, and search all of the activities with a Lead or Contact in a chronological timeline.
+API access + event log API
+Connect your Close organization using API keys of using OAuth access.
+Mobile app
+Manage the CRM, make & receive calls and texts, and review reports on the go. Available for iOS & Android.
+AIÂ Lead Summaries
+Get caught up on a lead quickly with an AI generated summary of key activities on the lead.
+Custom Fields
+Customize Close to store data unique to your business on Leads, Contacts, and Opportunities.
+250
+250
+250
+250
+Custom Objects
+Create your own unique CRM objects to store and associate with Leads in Close.
+Custom Activities
+Create your own unique templates that record activities specific to your sales process.
+250
+250
+Custom Activity instances
+Limits on the number of custom activity stored monthly.
+50,000 / month
+50,000 / month
+AI Enrich
+Enrichment is charged based on usage. Your free trial includes $5 of calling and enrichment credits.
+Additional organizations
+Growth and Scale customers receive 1 free secondary org. All customers can purchase additional orgs.
+$50/month extra
+$50/month extra
+1 free + $50/month / additional
+1 free + $50/month / additional
+Email
+Two-way email sync (send/receive)
+See emails in Close and your external email client, no matter where the email was sent from.
+Historical email import
+Import past email communication with your Leads to keep and share historical context.
+Email templates
+Emails that can be reused to save time. They can be used to send individual emails or in bulk emails.
+Snippets
+Reusable blocks of text, like frequently used sentences or paragraphs, that you can easily insert into emails.
+Dynamic template tags
+Personalize emails by including tags into your email templates (e.g. âfirst nameâ) and have them populated automatically.
+Connected accounts
+Connect multiple email accounts within your Close account, such as a personal email and a sales email.
+3
+3
+10
+10
+Send bulk email
+Send a templated email to multiple contacts at once.
+Email open tracking
+See if your contact has opened your email before following up.
+Sending limits
+Prevent your email accounts from exceeding the sending thresholds set by your email providers to safeguard your sender reputation.
+Unsubscribe
+Manage email unsubscribers directly within Close.
+Email scheduling
+Schedule emails to send at a future date/time.
+AI Email Rewrite
+Use AI to draft and edit emails directly within Close
+Send As
+Let users send emails on your behalf.
+Email and domain filtering
+Automatically filter out any intra-organization emails, selected external email addresses, or domains by request.
+Calling &Â SMS
+Make/receive calls worldwide within Close
+Calling is charged based on usage. Your free trial includes $5 of calling and enrichment credits.
+Automatic call logging
+After a call is completed in Close, it will be automatically added to the Lead page (including time and duration).
+Customizable call outcomes
+Get accurate answer and conversion rate reports when reps log call outcomes.
+Custom voicemail greeting
+Call recordings
+When enabled, calls completed through Close will be recorded and can be replayed directly on the Lead page.
+30-day retention
+30-day retention
+90 Days
+Unlimited
+Premium Phone Numbers
+Upgrade to business phone capabilities with lead-based call routing, customizable phone menu (IVR), and round-robin routing to sales reps. $19/month per line.
+$19/month per line
+$19/month per line
+$19/month per line
+$19/month per line
+Call Assistant
+Record, summarize, and transcribe calls synced to Close. Add-on cost is $50 per month, per organization, plus a usage fee of $.02 per minute.
+$50/month + usage
+$50/month + usage
+$50/month + usage
+$50/month + usage
+Voicemail Drop
+Click to leave a pre-recorded voicemail.
+Send/receive text messages within Close
+Close supports SMS sending to over a dozen countries, including the US, CA, GB, and AU. Note: A2P 10DLC registration is required for sending SMS to US phone numbers.
+SMS templates
+Reusable blocks of text, like frequently used sentences or paragraphs, that you can easily insert into text templates.
+Text scheduling
+Draft and schedule texts to send at a later time or date.
+Use text messages in automated workflows
+Include SMS/MMS.
+Power Dialer
+Automatically call through any list of contacts without touching your keyboard or mouse.
+Predictive Dialer
+Built-in calling automation software that allows your team to dial multiple numbers at once and get automatically connected once someone picks up.
+Bring your own phone line, or rent a line from Close
+Lines with Close starting at $1/line/month.
+Group numbers
+Use a shared inbound phone number that, when dialed, rings a group of phones simultaneously, stopping when any one of them is picked up.
+Call forwarding
+Redirect incoming calls to another phone number.
+Standard call transferring
+Listen Call Coaching
+Listen to in-progress calls for your team
+Whisper Call Coaching
+Coach the salesperson without the lead hearing.
+Barge Call Coaching
+Jump into a call with your salesperson and lead.
+Automated Workflows
+Automate outreach (SMS, emails, calls)
+Trigger SMS, email, and call follow-up when Leads hit a certain criteria.
+Update the CRM
+Enrich Leads using AI, update Leads, or create Opportunities using Workflows.
+Assign leads and follow-up tasks
+Automatically assign Leads and set follow up tasks for yourself or your teammates.
+Blackout Dates
+Prevent automated email and SMS messages from being sent on certain holidays or when your team is unavailable.
+Meetings + Scheduling
+Calendar sync
+Join and track meetings from within Close. Supports Google Calendar and Microsoft Outlook.
+Meeting reminders
+Close will automatically remind you about upcoming meetings.
+Customizable meeting outcomes
+Get accurate connect and conversion rate reports when reps log meeting outcomes.
+Meeting Notetaker
+Record, transcribe, and summarize all meetings synced to Close from Zoom, Teams, and Meet.
+Free in Beta
+Free in Beta
+Free in Beta
+Free in Beta
+Collaboration + Admin Tools
+Mentions
+@mention users and groups to alert and collaborate with coworkers.
+Comments
+Add comment directly on activities and objects in Close to keep discussions about your contacts all in one place.
+Roles and permissions
+Control a user's accessibility within Close by assigning them to one of four predefined roles. On Scale only, create a custom role with unique permissions.
+Customizable
+Lead visibility settings
+Control which leads different users can see.
+User groups
+Organize your team into up to 100 groups of up to 100 users each for faster reporting.
+Required Fields (Currently Custom Activities Only)
+Field Editing restrictions
+Reporting
+Activity reports and dashboards
+See all of your team's activity (calls, emails, won deals, etc.), updated in real-time.
+Opportunity Funnel Report
+Analyze your Pipeline health with KPIs like conversion rates, time to close, and sales velocity.
+Email template performance reports
+Workflow Performance Report
+Analyze the effectiveness of your email, call, and SMS Workflows.
+Custom Graphs (Explorer)
+Create Custom Graphs for more advanced reporting.
+Leaderboard
+Rank and compare Users for metrics that matter within a specified timeframe.
+Integrations
+Zoom
+Join Zoom meetings and watch past recordings directly within Close.
+Segment
+Create or update Leads and Contacts with Close as a Segment Destination.
+Zapier
+Connect with 2000+ third-party apps through Zapier.
+Calendly
+Sync you and your teamâs Calendly links with Close and insert them into emails with 1-click
+Over 100 apps integrate with Close.
+See all integrations
+Support
+24/7 Knowledge Base
+Get answers to your technical questions.
+Email support
+Connect with our support team via email.
+Security
+SOC2 Type 2 Compliant
+Close securely manages your data to protect the interests and privacy of your organization.
+Two-factor authentication
+Add additional security with 2FA.
+Google SSO
+Sign up and log in to Close using your authenticated Google account.
+Work faster and smarter
+with plan add-ons
+Premium Phone Numbers
+Need a phone number? Weâve got you covered with Premium Phone Numbers.
+Lead-based call routing:
+Route inbound calls to the right rep.
+Personalized phone menu:
+Interactive Voice Response (IVR) lets you direct callers with a custom greeting.
+Round-robin routing:
+Distribute calls fairly across your team.
+$19
+/ month
+Per phone line (plus usage)
+AI Call Assistant
+Never take call notes again. We (and AI) will take it from here.
+Automatic transcriptions:
+Clear, searchable call transcripts (in any language).
+Summarized action items:
+Get a searchable post-call summary including action items and owners.
+Talk time analysis:
+Improve rep performance and active listening.
+$50
+/ month
++ $0.02 per minute
+Additional Organizations
+Use additional organizations to drive different parts of your business.
+You may want separate orgs for specific teams, sandbox testing, or different entities.
+Customers on the Growth and Scale plans receive 1 free additional org automatically. All customers can purchase additional organizations.
+$50
+/ month
+Per organization
+Start your free trial of Close
+Why small businesses love Close.
+Yes, love. (Really.)
+It has everything, including a good dialer, emailer, SMS, as well as Salesforce-like CRM functionalities. Also is automation friendly, and extremely customizable. The best CRM & Sales Engagement platform on the market. Getting it setup and implemented is super easy. Integrations are also seamlessly doable. I use it daily for outreach and data management.
+Daniel D.
+Sales Professional
+Keeps my contacts organized and my messages in one app/platform. Even though we're a small construction company, our contact list still grows each year. I've finally gotten everyone off my phone and into something more functional and robust where I can take genuine time off the tools and talk with customers and my building partners.
+Chad H.
+Director
+Close is one of the best CRM tools that helps manage tasks with its awesome features like the built-in communication and reporting tools. It is very easy to use and helps to close deals sooner. The interface is very simple; we can have it all at one place â all emails, conversations with customers are well organized and easy to set up.
+Beena N.
+Project Manager, Enterprise
+Try Close free for 14 Days
+Sign up, import leads, and start selling within an hour.
+Start my free trial
+Book a demo
+Product
+Overview
+Communication
+Automation
+Integrations
+Reporting
+SMS
+Calling
+Security
+Pricing & Use Cases
+Pricing
+Close vs Other CRMs
+Customer Stories
+Resources
+Sales Blog
+Sales Resources
+Sales Guides
+Webinars
+On-Demand Demo
+Sales Tools
+Company
+About
+Careers
+Partner with Close
+Brand Guidelines
+Terms
+Privacy
+GDPR
+CCPA
+Get Help
++1-833-GO-CLOSE
+Help Center
+API Documentation
+Download the Close App
+Product Updates
+System Status

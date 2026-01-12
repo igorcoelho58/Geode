@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 12/01/2026 00:39
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Aula 1: Explorando o Kommo CRM - Configuração e Funcionalidades Básicas
+   URL: https://youtube.com/watch?v=tAZVlAAFONY
+   Status: sucesso
+   Tamanho: 9281 caracteres
+   Arquivo: 01_Aula_1_Explorando_o_Kommo_CRM_-_Configuração_e_Fun.txt
+
+2. ✅ [pt (Whisper IA)] Como conectar o Whatsapp no Chat GPT via Kommo CRM | Aula 07 (parte 01)
+   URL: https://youtube.com/watch?v=A7YxFDne-zs
+   Status: sucesso
+   Tamanho: 30057 caracteres
+   Arquivo: 02_Como_conectar_o_Whatsapp_no_Chat_GPT_via_Kommo_CRM.txt
+
+3. ✅ [pt (Whisper IA)] Como conectar o Whatsapp no Chat GPT via Kommo CRM | Aula 07 (parte 02)
+   URL: https://youtube.com/watch?v=nePlHkUwnsI
+   Status: sucesso
+   Tamanho: 55538 caracteres
+   Arquivo: 03_Como_conectar_o_Whatsapp_no_Chat_GPT_via_Kommo_CRM.txt
+
+4. ✅ [pt (Whisper IA)] KOMMO CRM REALMENTE É BOM? VEJA O REVIEW COMPLETO! (CRM E AUTOMAÇÕES) KOMMO 2024
+   URL: https://youtube.com/watch?v=6XGda4juvYo
+   Status: sucesso
+   Tamanho: 8657 caracteres
+   Arquivo: 04_KOMMO_CRM_REALMENTE_É_BOM_VEJA_O_REVIEW_COMPLETO!.txt
+
+5. ✅ [pt (Whisper IA)] La solución CRM definitiva: Kommo CRM tutorial
+   URL: https://youtube.com/watch?v=DBxzUkQ-5pA
+   Status: sucesso
+   Tamanho: 12806 caracteres
+   Arquivo: 05_La_solución_CRM_definitiva_Kommo_CRM_tutorial.txt
+

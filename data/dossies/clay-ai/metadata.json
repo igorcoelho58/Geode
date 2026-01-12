@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Clay AI",
+  "categoria": "vendas",
+  "data_coleta": "12/01/2026 00:02",
+  "site": {
+    "homepage": {
+      "url": "https://clay.com/",
+      "coletado": true,
+      "tamanho": 9704
+    },
+    "pricing": {
+      "url": "https://clay.com/pricing",
+      "coletado": true,
+      "tamanho": 6429
+    },
+    "features": {
+      "url": "https://clay.com/customers",
+      "coletado": true,
+      "tamanho": 14325
+    },
+    "about": {
+      "url": "https://clay.com/about",
+      "coletado": true,
+      "tamanho": 13788
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Clay.com Beginner Walkthrough 2025 - Step-by-Step Guide",
+        "url": "https://youtube.com/watch?v=HqdvpIGiOz4",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 34781,
+        "erro": null
+      },
+      {
+        "titulo": "I Tried Clay AI for 9 Months, Here’s What I Learned (Beginner's Guide)",
+        "url": "https://youtube.com/watch?v=nWnc3cZ1nFs",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 10784,
+        "erro": null
+      },
+      {
+        "titulo": "Did This AI Tool Just Change Sales Forever? (Clay AI Review)",
+        "url": "https://youtube.com/watch?v=Z9xzPDRrQHw",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 10458,
+        "erro": null
+      },
+      {
+        "titulo": "The ONLY Clay Tutorial You Need in 2025 (For Beginners)",
+        "url": "https://youtube.com/watch?v=kY5E4wl8wlA",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 41380,
+        "erro": null
+      },
+      {
+        "titulo": "Clay 101 en español: Herramienta para generar nuevos clientes B2B",
+        "url": "https://youtube.com/watch?v=fgqLJipflj8",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8311,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 44246,
+    "total_chars_youtube": 105714,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

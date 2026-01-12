@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 11/01/2026 23:48
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] [Apollo.io] Guia completo para TURBINAR sua prospecção B2B
+   URL: https://youtube.com/watch?v=8Nszwb35FS4
+   Status: sucesso
+   Tamanho: 22001 caracteres
+   Arquivo: 01_[Apollo.io]_Guia_completo_para_TURBINAR_sua_prospe.txt
+
+2. ✅ [pt (Whisper IA)] Aula #1 | Configurações básicas do Apollo + Instalando as extensões!
+   URL: https://youtube.com/watch?v=nRJdC3ZsWHk
+   Status: sucesso
+   Tamanho: 5191 caracteres
+   Arquivo: 02_Aula_#1_Configurações_básicas_do_Apollo_+_Instalan.txt
+
+3. ✅ [pt (Whisper IA)] Aula #2 | Quais filtros existem no Apollo?
+   URL: https://youtube.com/watch?v=UQAOj926uXs
+   Status: sucesso
+   Tamanho: 18121 caracteres
+   Arquivo: 03_Aula_#2_Quais_filtros_existem_no_Apollo.txt
+
+4. ✅ [pt (Whisper IA)] How To Use Apollo.io 2025 - Full Tutorial
+   URL: https://youtube.com/watch?v=n_lRMtWDU40
+   Status: sucesso
+   Tamanho: 25240 caracteres
+   Arquivo: 04_How_To_Use_Apollo.io_2025_-_Full_Tutorial.txt
+
+5. ✅ [pt (Whisper IA)] ¿CÓMO GENERAR LEADS CON APOLLO.IO? | TUTORIAL PARA PRINCIPIANTES
+   URL: https://youtube.com/watch?v=ORE4eSNpKEM
+   Status: sucesso
+   Tamanho: 23038 caracteres
+   Arquivo: 05_¿CÓMO_GENERAR_LEADS_CON_APOLLO.IO_TUTORIAL_PARA_PR.txt
+

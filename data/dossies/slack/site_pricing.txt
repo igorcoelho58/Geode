@@ -1,0 +1,25 @@
+URL: https://slack.com/pricing
+Data Coleta: 11/01/2026 23:30
+Tamanho: 332 caracteres
+======================================================================
+
+Slack
+We're very sorry, but your browser is not supported!
+Please upgrade to a
+supported browser
+, or try one of our apps.
+Desktop Apps
+Mac
+See system requirements
+v4.47.72
+Windows
+See system requirements
+v4.47.69
+Linux
+See system requirements
+v4.47.69
+Mobile Apps
+iOS
+Android
+Don't see the platform you're looking for?
+Let us know.

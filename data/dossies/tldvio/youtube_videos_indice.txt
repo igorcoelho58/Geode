@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 11/01/2026 23:36
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] tldv: IA que grava, transcreve e dá feedbacks de reuniões
+   URL: https://youtube.com/watch?v=QIjOzhOM4gQ
+   Status: sucesso
+   Tamanho: 9883 caracteres
+   Arquivo: 01_tldv_IA_que_grava,_transcreve_e_dá_feedbacks_de_re.txt
+
+2. ✅ [pt (Whisper IA)] Aula Gratuita: Como gerar anotações em reuniões com IA usando TL;DV e Tactiq | Curso IA na Prática
+   URL: https://youtube.com/watch?v=U4uFaFJP5PE
+   Status: sucesso
+   Tamanho: 6748 caracteres
+   Arquivo: 02_Aula_Gratuita_Como_gerar_anotações_em_reuniões_com.txt
+
+3. ✅ [pt (Whisper IA)] O Segredo para Reuniões 10x Mais Produtivas com IA | Tutorial TLDV
+   URL: https://youtube.com/watch?v=boBbs_XhVi0
+   Status: sucesso
+   Tamanho: 9815 caracteres
+   Arquivo: 03_O_Segredo_para_Reuniões_10x_Mais_Produtivas_com_IA.txt
+
+4. ✅ [pt (Whisper IA)] MeetGeek vs tl;dv: Which is the Best AI Notetaker?
+   URL: https://youtube.com/watch?v=afP2oun4JoI
+   Status: sucesso
+   Tamanho: 9266 caracteres
+   Arquivo: 04_MeetGeek_vs_tl;dv_Which_is_the_Best_AI_Notetaker.txt
+
+5. ✅ [en] The Best AI Meeting Notetakers of 2025
+   URL: https://youtube.com/watch?v=0inVCwpbP3s
+   Status: sucesso
+   Tamanho: 9983 caracteres
+   Arquivo: 05_The_Best_AI_Meeting_Notetakers_of_2025.txt
+

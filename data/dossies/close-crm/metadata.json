@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Close CRM",
+  "categoria": "vendas",
+  "data_coleta": "12/01/2026 00:13",
+  "site": {
+    "homepage": {
+      "url": "https://close.com/",
+      "coletado": true,
+      "tamanho": 5031
+    },
+    "pricing": {
+      "url": "https://close.com/pricing",
+      "coletado": true,
+      "tamanho": 13663
+    },
+    "features": {
+      "url": "https://close.com/product",
+      "coletado": true,
+      "tamanho": 6536
+    },
+    "about": {
+      "url": "https://close.com/about",
+      "coletado": true,
+      "tamanho": 8132
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Close CRM Review 2025 | THE TRUTH (Pros, Cons And Pricing)",
+        "url": "https://youtube.com/watch?v=-2_U2WFZvEk",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8347,
+        "erro": null
+      },
+      {
+        "titulo": "Aula 1: Explorando o Kommo CRM - Configuração e Funcionalidades Básicas",
+        "url": "https://youtube.com/watch?v=tAZVlAAFONY",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9634,
+        "erro": null
+      },
+      {
+        "titulo": "Como Usar a Visualização de Chat do WhatsApp no Close CRM | Tutorial TimelinesAI",
+        "url": "https://youtube.com/watch?v=Slr-MqRAds4",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 10489,
+        "erro": null
+      },
+      {
+        "titulo": "Close CRM Tutorial For Beginners | How to Use Close CRM in 2025",
+        "url": "https://youtube.com/watch?v=nd7N9LD82_s",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7528,
+        "erro": null
+      },
+      {
+        "titulo": "Close CRM Tutorial 2025 (full demo)",
+        "url": "https://youtube.com/watch?v=iFRRVaS_1OA",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 39836,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 33362,
+    "total_chars_youtube": 75834,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

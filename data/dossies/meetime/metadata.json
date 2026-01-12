@@ -1,0 +1,77 @@
+{
+  "ferramenta": "Meetime",
+  "categoria": "vendas",
+  "data_coleta": "12/01/2026 00:51",
+  "site": {
+    "homepage": {
+      "url": "https://meetime.com.br/",
+      "coletado": true,
+      "tamanho": 3986
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 4,
+    "videos_com_transcricao": 4,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Meetime + Ploomes: Como unir CRM e Sales Engagement para ter uma máquina de vendas completa",
+        "url": "https://youtube.com/watch?v=AAeqe3ZXu7o",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 50159,
+        "erro": null
+      },
+      {
+        "titulo": "Meetime - Como Usar, Prospectar e Agendar Atividades de Prospecção",
+        "url": "https://youtube.com/watch?v=X5BAoNi9TnI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9042,
+        "erro": null
+      },
+      {
+        "titulo": "COMO USAR O WHATSAPP na prospecção de clientes",
+        "url": "https://youtube.com/watch?v=2nSk8sAGRyU",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6933,
+        "erro": null
+      },
+      {
+        "titulo": "CÓMO HACER VIDEOLLAMADAS CON MEETIME en la HUAWEI VISION S - Xataka Basics",
+        "url": "https://youtube.com/watch?v=pi-0SUZ3kis",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6772,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 3986,
+    "total_chars_youtube": 72906,
+    "paginas_coletadas": 1,
+    "videos_encontrados": 4,
+    "videos_com_transcricao": 4,
+    "videos_sem_transcricao": 0
+  }
+}

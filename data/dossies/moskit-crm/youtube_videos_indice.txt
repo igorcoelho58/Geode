@@ -1,0 +1,32 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 12/01/2026 01:02
+Total de Vídeos Encontrados: 4
+Vídeos COM Transcrição: 4
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Demonstração - Moskit CRM
+   URL: https://youtube.com/watch?v=Zpaunaobr7w
+   Status: sucesso
+   Tamanho: 32328 caracteres
+   Arquivo: 01_Demonstração_-_Moskit_CRM.txt
+
+2. ✅ [pt (Whisper IA)] O que é Moskit CRM?
+   URL: https://youtube.com/watch?v=rAlxS2OcEYg
+   Status: sucesso
+   Tamanho: 7466 caracteres
+   Arquivo: 02_O_que_é_Moskit_CRM.txt
+
+3. ✅ [pt (Whisper IA)] ⭐ SUPER AULA 1 - Curso de CRM Grátis com Bitrix24 (Gestão de Empresas Online)
+   URL: https://youtube.com/watch?v=tsixxPAuElE
+   Status: sucesso
+   Tamanho: 16613 caracteres
+   Arquivo: 03_⭐_SUPER_AULA_1_-_Curso_de_CRM_Grátis_com_Bitrix24.txt
+
+4. ✅ [pt (Whisper IA)] Como Criar uma LANDING PAGE Grátis no Bitrix24 (AULA 2)
+   URL: https://youtube.com/watch?v=FPoaeCNrDKU
+   Status: sucesso
+   Tamanho: 19226 caracteres
+   Arquivo: 04_Como_Criar_uma_LANDING_PAGE_Grátis_no_Bitrix24_(AU.txt
+

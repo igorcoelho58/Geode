@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 11/01/2026 23:30
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] O que é Slack? Como usar? (tudo que você precisa saber) - Slack Tutorial Completo 🚀
+   URL: https://youtube.com/watch?v=rz8W-1ikzRQ
+   Status: sucesso
+   Tamanho: 8475 caracteres
+   Arquivo: 01_O_que_é_Slack_Como_usar_(tudo_que_você_precisa_sab.txt
+
+2. ✅ [pt (Whisper IA)] 4 motivos para usar o SLACK na SUA EMPRESA
+   URL: https://youtube.com/watch?v=yoOpJsG1rfg
+   Status: sucesso
+   Tamanho: 8018 caracteres
+   Arquivo: 02_4_motivos_para_usar_o_SLACK_na_SUA_EMPRESA.txt
+
+3. ✅ [pt (Whisper IA)] How to Use Slack - Complete Tutorial For Beginners
+   URL: https://youtube.com/watch?v=o3HJuPaITWk
+   Status: sucesso
+   Tamanho: 12628 caracteres
+   Arquivo: 03_How_to_Use_Slack_-_Complete_Tutorial_For_Beginners.txt
+
+4. ✅ [pt (Whisper IA)] SLACK ¿Qué es y para qué usarlo? - Ser más productivo
+   URL: https://youtube.com/watch?v=qu7adt5f6n4
+   Status: sucesso
+   Tamanho: 9541 caracteres
+   Arquivo: 04_SLACK_¿Qué_es_y_para_qué_usarlo_-_Ser_más_producti.txt
+
+5. ✅ [pt (Whisper IA)] Como Usar Slack - Tutorial Paso a Paso 2025
+   URL: https://youtube.com/watch?v=FUeHfBTLBs0
+   Status: sucesso
+   Tamanho: 12740 caracteres
+   Arquivo: 05_Como_Usar_Slack_-_Tutorial_Paso_a_Paso_2025.txt
+

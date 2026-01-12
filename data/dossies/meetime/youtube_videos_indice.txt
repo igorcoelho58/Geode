@@ -1,0 +1,32 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 12/01/2026 00:51
+Total de Vídeos Encontrados: 4
+Vídeos COM Transcrição: 4
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Meetime + Ploomes: Como unir CRM e Sales Engagement para ter uma máquina de vendas completa
+   URL: https://youtube.com/watch?v=AAeqe3ZXu7o
+   Status: sucesso
+   Tamanho: 50159 caracteres
+   Arquivo: 01_Meetime_+_Ploomes_Como_unir_CRM_e_Sales_Engagement.txt
+
+2. ✅ [pt (Whisper IA)] Meetime - Como Usar, Prospectar e Agendar Atividades de Prospecção
+   URL: https://youtube.com/watch?v=X5BAoNi9TnI
+   Status: sucesso
+   Tamanho: 9042 caracteres
+   Arquivo: 02_Meetime_-_Como_Usar,_Prospectar_e_Agendar_Atividad.txt
+
+3. ✅ [pt (Whisper IA)] COMO USAR O WHATSAPP na prospecção de clientes
+   URL: https://youtube.com/watch?v=2nSk8sAGRyU
+   Status: sucesso
+   Tamanho: 6933 caracteres
+   Arquivo: 03_COMO_USAR_O_WHATSAPP_na_prospecção_de_clientes.txt
+
+4. ✅ [pt (Whisper IA)] CÓMO HACER VIDEOLLAMADAS CON MEETIME en la HUAWEI VISION S - Xataka Basics
+   URL: https://youtube.com/watch?v=pi-0SUZ3kis
+   Status: sucesso
+   Tamanho: 6772 caracteres
+   Arquivo: 04_CÓMO_HACER_VIDEOLLAMADAS_CON_MEETIME_en_la_HUAWEI.txt
+

@@ -1,0 +1,161 @@
+URL: https://pipefy.com/pricing
+Data Coleta: 11/01/2026 23:23
+Tamanho: 3295 caracteres
+======================================================================
+
+Pricing | Pipefy
+Skip to content
+Business process automation software for every budget
+Starter
+For small teams, startups, freelancers, and students who need to organize their tasks
++
+Free
+No credit card required
+Get started
+Free plan includes:
+Pipefy AI
+Up to 5 processes
+Up to 10 users
+Basic automations
+Plug-n-play process templates
+Request tracker
+Visual Customization
+Business
+For mid-market teams needing to centralize and scale business processes
++
+Contact Sales
+All features in Free, plus:
+Pipefy AI
+Unlimited processes
+Unlimited users (per-user billing)
+Access to Pipefy’s API
+Role-based access
+Private processes
+Conditional logic
+Data recovery
+Electronic signature
+MOST POPULAR
+Enterprise
+For companies that need enterprise-level security, control, and support to manage complex processes
++
+Contact Sales
+All features in Business, plus:
+Pipefy AI
+Multiple automations
+Integrations
+Two-factor authentication
+Single Sign-On
+Custom email domain
+Support from Pipefy’s team
+Higher database and storage limits
+White label
+Electronic signature
+See all features and compare plans
+General Features
+Starter
+Get started
+Business
+Contact Sales
+Enterprise
+Contact Sales
+Process templates
+Public shareable forms
+Email templates
+Standard productivity and lead time metrics
+Complete activity log inside cards
+Mobile App
+Request tracker (for non users)
+Dashboards
+Ability to combine and export multiple processes data
+Single process & up to 10 records
+Field conditional logic
+3
+SLA alerts and notifications
+Add-ons to power up workflows
+Possibility of hiring professional services
+Workflows
+Up to 5
+Unlimited
+Unlimited
+Users (per-user billing)
+Up to 10
+Unlimited
+Unlimited
+Cards created
+Up to 50/month
+Unlimited
+Unlimited
+Guest users
+None
+Up to 100
+Unlimited
+Interfaces
+2
+20
+100
+Database records
+Up to 500
+Up to 10,000
+Custom
+Storage
+Up to 2GB
+Up to 20GB
+Custom
+Automation and Integration
+Native integrations
+Zapier integration
+Mass card creation with spreadsheet imports
+Automation jobs (per month)
+15
+300
+2,000
+API call (per month)
+205
+500
+10,000
+Custom integrations
+Add-ons
+Connections between workflows
+Up to 1
+Unlimited
+Unlimited
+Visual Customization
+Personalized branding
+White label
+Privacy and Security
+Encryption in transit
+Encryption at rest
+Private workflows
+Role-based access and permissions
+User restrictions to view/edit only their own cards
+Data recovery of the last 90 days
+Single Sign-On
+Two-factor authentication
+Training & Support
+Access to Pipefy University
+Access to help articles
+Community support
+Each plan includes 1,000
+single-use AI credits.
+After consumption,
+additional credits
+can be purchased as
+add-ons.
+Special plan for Small Businesses
+Achieve more with less by automating processes across the entire company. Hassle-free. No-code.
+Up to 90% discount for SMB packages
+Integration with over 500 other tools
+Expert support
+Access to all features
+Personalized knowledge base
+Platform training for your team
+Exclusive fixed-price offer!
+This offer is valid for companies with 11 to 200 employees, subject to certain conditions.
+Learn more
+Globally trusted by some of the most prestigious enterprises
+Questions & Answers
+If you need help, we are ready to provide guidance and support.
+Discover the future of business automation with Pipefy
+Get started
+Book a demo
+Book a Demo

@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Pipefy",
+  "categoria": "produtividade",
+  "data_coleta": "11/01/2026 23:23",
+  "site": {
+    "homepage": {
+      "url": "https://pipefy.com/",
+      "coletado": true,
+      "tamanho": 9066
+    },
+    "pricing": {
+      "url": "https://pipefy.com/pricing",
+      "coletado": true,
+      "tamanho": 3295
+    },
+    "features": {
+      "url": "https://pipefy.com/features",
+      "coletado": true,
+      "tamanho": 9066
+    },
+    "about": {
+      "url": "https://pipefy.com/about-us",
+      "coletado": true,
+      "tamanho": 2407
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Importando dados do Excel direto para o Pipefy",
+        "url": "https://youtube.com/watch?v=ZgHCTH8MD3c",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 12495,
+        "erro": null
+      },
+      {
+        "titulo": "Aprendendo o PIPEFY do ZERO | O que é e Como funciona? | Criando e Editando um PIPE do Zero",
+        "url": "https://youtube.com/watch?v=VOrbUeX1_2s",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 44937,
+        "erro": null
+      },
+      {
+        "titulo": "🚀 01 - Introdução ao #pipefy",
+        "url": "https://youtube.com/watch?v=loDrR-jEWwo",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 29023,
+        "erro": null
+      },
+      {
+        "titulo": "Pipefy Review - 5 Reasons Not To Use Pipefy - Walktrough, top features, Pros And Cons, Alternatives",
+        "url": "https://youtube.com/watch?v=LASRbuo9_RI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6298,
+        "erro": null
+      },
+      {
+        "titulo": "Pipefy vs. Kissflow: Which Wins? Full Breakdown (2026 Edition)",
+        "url": "https://youtube.com/watch?v=XLLuubdsRVI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6498,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 23834,
+    "total_chars_youtube": 99251,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

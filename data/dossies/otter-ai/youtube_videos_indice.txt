@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 11/01/2026 23:09
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] GUIA COMPLETO DO OTTER AI - TRANSCREVA SUAS REUNIÕES
+   URL: https://youtube.com/watch?v=h790KTmt-Ok
+   Status: sucesso
+   Tamanho: 13594 caracteres
+   Arquivo: 01_GUIA_COMPLETO_DO_OTTER_AI_-_TRANSCREVA_SUAS_REUNIÕ.txt
+
+2. ✅ [pt (Whisper IA)] Best AI Note Taking Apps 2024 (Otter vs EVERYTHING!)
+   URL: https://youtube.com/watch?v=8Mxfd4xIx-A
+   Status: sucesso
+   Tamanho: 9776 caracteres
+   Arquivo: 02_Best_AI_Note_Taking_Apps_2024_(Otter_vs_EVERYTHING.txt
+
+3. ✅ [pt (Whisper IA)] Otter AI vs Fellow.app | Best Otter AI Alternative in 2025?
+   URL: https://youtube.com/watch?v=YKEGIi4Ea0Q
+   Status: sucesso
+   Tamanho: 10012 caracteres
+   Arquivo: 03_Otter_AI_vs_Fellow.app_Best_Otter_AI_Alternative_i.txt
+
+4. ✅ [pt (Whisper IA)] Otter AI tutorial For Beginners - COMPLETE Tutorial (2024)
+   URL: https://youtube.com/watch?v=T41PMhSBRS0
+   Status: sucesso
+   Tamanho: 8935 caracteres
+   Arquivo: 04_Otter_AI_tutorial_For_Beginners_-_COMPLETE_Tutoria.txt
+
+5. ✅ [pt (Whisper IA)] Como Usar Otter Ai | Otter Ai Tutorial Español ( En 2026 )
+   URL: https://youtube.com/watch?v=C3kAMsvbTbM
+   Status: sucesso
+   Tamanho: 5977 caracteres
+   Arquivo: 05_Como_Usar_Otter_Ai_Otter_Ai_Tutorial_Español_(_En.txt
+

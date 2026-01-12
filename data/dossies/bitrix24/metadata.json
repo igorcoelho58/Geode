@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Bitrix24",
+  "categoria": "produtividade",
+  "data_coleta": "11/01/2026 22:21",
+  "site": {
+    "homepage": {
+      "url": "https://bitrix24.com/",
+      "coletado": true,
+      "tamanho": 16787
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": "https://bitrix24.com/features",
+      "coletado": true,
+      "tamanho": 15050
+    },
+    "about": {
+      "url": "https://bitrix24.com/about",
+      "coletado": true,
+      "tamanho": 12463
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Como Criar uma LANDING PAGE Grátis no Bitrix24 (AULA 2)",
+        "url": "https://youtube.com/watch?v=FPoaeCNrDKU",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 19226,
+        "erro": null
+      },
+      {
+        "titulo": "⭐ SUPER AULA 1 - Curso de CRM Grátis com Bitrix24 (Gestão de Empresas Online)",
+        "url": "https://youtube.com/watch?v=tsixxPAuElE",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 16613,
+        "erro": null
+      },
+      {
+        "titulo": "Como Criar um Funil de Contratação no CRM Bitrix24 - #RH",
+        "url": "https://youtube.com/watch?v=UpJzS2NVH10",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6721,
+        "erro": null
+      },
+      {
+        "titulo": "Bitrix24 Review :  Pros and Cons of Bitrix24",
+        "url": "https://youtube.com/watch?v=LOkVi8rijQM",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 5805,
+        "erro": null
+      },
+      {
+        "titulo": "Bitrix24 Training Course 24. Collabs",
+        "url": "https://youtube.com/watch?v=9lffo7IBUMg",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 15689,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 44300,
+    "total_chars_youtube": 64054,
+    "paginas_coletadas": 3,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

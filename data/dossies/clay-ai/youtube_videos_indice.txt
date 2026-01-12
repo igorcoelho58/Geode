@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 12/01/2026 00:02
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Clay.com Beginner Walkthrough 2025 - Step-by-Step Guide
+   URL: https://youtube.com/watch?v=HqdvpIGiOz4
+   Status: sucesso
+   Tamanho: 34781 caracteres
+   Arquivo: 01_Clay.com_Beginner_Walkthrough_2025_-_Step-by-Step.txt
+
+2. ✅ [pt (Whisper IA)] I Tried Clay AI for 9 Months, Here’s What I Learned (Beginner's Guide)
+   URL: https://youtube.com/watch?v=nWnc3cZ1nFs
+   Status: sucesso
+   Tamanho: 10784 caracteres
+   Arquivo: 02_I_Tried_Clay_AI_for_9_Months,_Here’s_What_I_Learne.txt
+
+3. ✅ [pt (Whisper IA)] Did This AI Tool Just Change Sales Forever? (Clay AI Review)
+   URL: https://youtube.com/watch?v=Z9xzPDRrQHw
+   Status: sucesso
+   Tamanho: 10458 caracteres
+   Arquivo: 03_Did_This_AI_Tool_Just_Change_Sales_Forever_(Clay_A.txt
+
+4. ✅ [pt (Whisper IA)] The ONLY Clay Tutorial You Need in 2025 (For Beginners)
+   URL: https://youtube.com/watch?v=kY5E4wl8wlA
+   Status: sucesso
+   Tamanho: 41380 caracteres
+   Arquivo: 04_The_ONLY_Clay_Tutorial_You_Need_in_2025_(For_Begin.txt
+
+5. ✅ [pt (Whisper IA)] Clay 101 en español: Herramienta para generar nuevos clientes B2B
+   URL: https://youtube.com/watch?v=fgqLJipflj8
+   Status: sucesso
+   Tamanho: 8311 caracteres
+   Arquivo: 05_Clay_101_en_español_Herramienta_para_generar_nuevo.txt
+

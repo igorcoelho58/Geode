@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 11/01/2026 23:23
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Importando dados do Excel direto para o Pipefy
+   URL: https://youtube.com/watch?v=ZgHCTH8MD3c
+   Status: sucesso
+   Tamanho: 12495 caracteres
+   Arquivo: 01_Importando_dados_do_Excel_direto_para_o_Pipefy.txt
+
+2. ✅ [pt (Whisper IA)] Aprendendo o PIPEFY do ZERO | O que é e Como funciona? | Criando e Editando um PIPE do Zero
+   URL: https://youtube.com/watch?v=VOrbUeX1_2s
+   Status: sucesso
+   Tamanho: 44937 caracteres
+   Arquivo: 02_Aprendendo_o_PIPEFY_do_ZERO_O_que_é_e_Como_funcion.txt
+
+3. ✅ [pt (Whisper IA)] 🚀 01 - Introdução ao #pipefy
+   URL: https://youtube.com/watch?v=loDrR-jEWwo
+   Status: sucesso
+   Tamanho: 29023 caracteres
+   Arquivo: 03_🚀_01_-_Introdução_ao_#pipefy.txt
+
+4. ✅ [pt (Whisper IA)] Pipefy Review - 5 Reasons Not To Use Pipefy - Walktrough, top features, Pros And Cons, Alternatives
+   URL: https://youtube.com/watch?v=LASRbuo9_RI
+   Status: sucesso
+   Tamanho: 6298 caracteres
+   Arquivo: 04_Pipefy_Review_-_5_Reasons_Not_To_Use_Pipefy_-_Walk.txt
+
+5. ✅ [pt (Whisper IA)] Pipefy vs. Kissflow: Which Wins? Full Breakdown (2026 Edition)
+   URL: https://youtube.com/watch?v=XLLuubdsRVI
+   Status: sucesso
+   Tamanho: 6498 caracteres
+   Arquivo: 05_Pipefy_vs._Kissflow_Which_Wins_Full_Breakdown_(202.txt
+

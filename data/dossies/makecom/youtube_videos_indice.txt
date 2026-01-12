@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 11/01/2026 23:01
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Por Que Você NÃO Deve Aprender Automação com n8n?
+   URL: https://youtube.com/watch?v=5Sz3tdqGiG8
+   Status: sucesso
+   Tamanho: 25665 caracteres
+   Arquivo: 01_Por_Que_Você_NÃO_Deve_Aprender_Automação_com_n8n.txt
+
+2. ✅ [pt (Whisper IA)] API no Make.com: Como Integrar Qualquer API no Make? Apify, Rapid API e + (Guia Completo)
+   URL: https://youtube.com/watch?v=rwg6X3ina_o
+   Status: sucesso
+   Tamanho: 32153 caracteres
+   Arquivo: 02_API_no_Make.com_Como_Integrar_Qualquer_API_no_Make.txt
+
+3. ✅ [pt (Whisper IA)] FERRAMENTA MAKE INTEGROMAT e AUTOMAÇÕES | TUDO QUE VOCÊ PRECISA SABER
+   URL: https://youtube.com/watch?v=PtErY1tIbP8
+   Status: sucesso
+   Tamanho: 27792 caracteres
+   Arquivo: 03_FERRAMENTA_MAKE_INTEGROMAT_e_AUTOMAÇÕES_TUDO_QUE_V.txt
+
+4. ✅ [pt (Whisper IA)] Curso Completo de Make.com em 2025 (Tutorial na Prática)
+   URL: https://youtube.com/watch?v=4zVBlJto_KQ
+   Status: sucesso
+   Tamanho: 44092 caracteres
+   Arquivo: 04_Curso_Completo_de_Make.com_em_2025_(Tutorial_na_Pr.txt
+
+5. ✅ [pt (Whisper IA)] MAKE INTEGROMAT: Passo a passo para iniciantes | Tudo que você precisa saber!
+   URL: https://youtube.com/watch?v=HkbO7mpxDmY
+   Status: sucesso
+   Tamanho: 22270 caracteres
+   Arquivo: 05_MAKE_INTEGROMAT_Passo_a_passo_para_iniciantes_Tudo.txt
+

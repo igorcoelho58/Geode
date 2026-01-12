@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 11/01/2026 22:39
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Minha IA Favorita para Notas de Reuniões e Aulas AO VIVO | Fireflies AI
+   URL: https://youtube.com/watch?v=LBFtMwhKfYU
+   Status: sucesso
+   Tamanho: 20276 caracteres
+   Arquivo: 01_Minha_IA_Favorita_para_Notas_de_Reuniões_e_Aulas_A.txt
+
+2. ✅ [pt (Whisper IA)] Ultimate Fireflies.ai Tutorial for Beginners (2024)
+   URL: https://youtube.com/watch?v=ehjIUOaZ92g
+   Status: sucesso
+   Tamanho: 21195 caracteres
+   Arquivo: 02_Ultimate_Fireflies.ai_Tutorial_for_Beginners_(2024.txt
+
+3. ✅ [pt (Whisper IA)] Fireflies AI Getting Started 2023
+   URL: https://youtube.com/watch?v=wGKpEJkyKP0
+   Status: sucesso
+   Tamanho: 8267 caracteres
+   Arquivo: 03_Fireflies_AI_Getting_Started_2023.txt
+
+4. ✅ [pt (Whisper IA)] Automatización de Actas y Notas de Reuniones: Ahorro de Tiempo y Eficiencia con Fireflies, IA, AI.
+   URL: https://youtube.com/watch?v=XPLIMIgKw9Q
+   Status: sucesso
+   Tamanho: 7200 caracteres
+   Arquivo: 04_Automatización_de_Actas_y_Notas_de_Reuniones_Ahorr.txt
+
+5. ✅ [pt (Whisper IA)] 🔥 Fireflies.ai: La IA que Toma Notas por Ti 🧠💡 ¡Automatiza tus Reuniones YA!
+   URL: https://youtube.com/watch?v=P8DRbOd8Qxk
+   Status: sucesso
+   Tamanho: 5203 caracteres
+   Arquivo: 05_🔥_Fireflies.ai_La_IA_que_Toma_Notas_por_Ti_🧠💡_¡Aut.txt
+

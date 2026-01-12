@@ -1,0 +1,26 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 11/01/2026 22:30
+Total de Vídeos Encontrados: 3
+Vídeos COM Transcrição: 3
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] VALE A PENA CONTRATAR O CONTA AZUL COMO SISTEMA FINANCEIRO? | A verdade sobre a Conta Azul
+   URL: https://youtube.com/watch?v=cY7mzmCOKEQ
+   Status: sucesso
+   Tamanho: 6810 caracteres
+   Arquivo: 01_VALE_A_PENA_CONTRATAR_O_CONTA_AZUL_COMO_SISTEMA_FI.txt
+
+2. ✅ [pt (Whisper IA)] GESTÃO FINANCEIRA CONTROLADA E AUTOMÁTICA COM CONTA AZUL (SIMPLIFIQUE SUA GESTÃO FINANCEIRA)
+   URL: https://youtube.com/watch?v=8IB8fjOoU1w
+   Status: sucesso
+   Tamanho: 10518 caracteres
+   Arquivo: 02_GESTÃO_FINANCEIRA_CONTROLADA_E_AUTOMÁTICA_COM_CONT.txt
+
+3. ✅ [pt (Whisper IA)] REVIEW CONTA AZUL 2025, SERÁ QUE VALE A PENA?
+   URL: https://youtube.com/watch?v=sSNkuV1yHYw
+   Status: sucesso
+   Tamanho: 36801 caracteres
+   Arquivo: 03_REVIEW_CONTA_AZUL_2025,_SERÁ_QUE_VALE_A_PENA.txt
+

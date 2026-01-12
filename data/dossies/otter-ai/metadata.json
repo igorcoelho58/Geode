@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Otter AI",
+  "categoria": "produtividade",
+  "data_coleta": "11/01/2026 23:09",
+  "site": {
+    "homepage": {
+      "url": "https://otter.com/",
+      "coletado": true,
+      "tamanho": 772
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "GUIA COMPLETO DO OTTER AI - TRANSCREVA SUAS REUNIÕES",
+        "url": "https://youtube.com/watch?v=h790KTmt-Ok",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 13594,
+        "erro": null
+      },
+      {
+        "titulo": "Best AI Note Taking Apps 2024 (Otter vs EVERYTHING!)",
+        "url": "https://youtube.com/watch?v=8Mxfd4xIx-A",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9776,
+        "erro": null
+      },
+      {
+        "titulo": "Otter AI vs Fellow.app | Best Otter AI Alternative in 2025?",
+        "url": "https://youtube.com/watch?v=YKEGIi4Ea0Q",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 10012,
+        "erro": null
+      },
+      {
+        "titulo": "Otter AI tutorial For Beginners - COMPLETE Tutorial (2024)",
+        "url": "https://youtube.com/watch?v=T41PMhSBRS0",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8935,
+        "erro": null
+      },
+      {
+        "titulo": "Como Usar Otter Ai | Otter Ai Tutorial Español ( En 2026 )",
+        "url": "https://youtube.com/watch?v=C3kAMsvbTbM",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 5977,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 772,
+    "total_chars_youtube": 48294,
+    "paginas_coletadas": 1,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Slack",
+  "categoria": "produtividade",
+  "data_coleta": "11/01/2026 23:30",
+  "site": {
+    "homepage": {
+      "url": "https://slack.com/",
+      "coletado": true,
+      "tamanho": 3820
+    },
+    "pricing": {
+      "url": "https://slack.com/pricing",
+      "coletado": true,
+      "tamanho": 332
+    },
+    "features": {
+      "url": "https://slack.com/features",
+      "coletado": true,
+      "tamanho": 6077
+    },
+    "about": {
+      "url": "https://slack.com/about",
+      "coletado": true,
+      "tamanho": 1926
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "O que é Slack? Como usar? (tudo que você precisa saber) - Slack Tutorial Completo 🚀",
+        "url": "https://youtube.com/watch?v=rz8W-1ikzRQ",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8475,
+        "erro": null
+      },
+      {
+        "titulo": "4 motivos para usar o SLACK na SUA EMPRESA",
+        "url": "https://youtube.com/watch?v=yoOpJsG1rfg",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8018,
+        "erro": null
+      },
+      {
+        "titulo": "How to Use Slack - Complete Tutorial For Beginners",
+        "url": "https://youtube.com/watch?v=o3HJuPaITWk",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 12628,
+        "erro": null
+      },
+      {
+        "titulo": "SLACK ¿Qué es y para qué usarlo? - Ser más productivo",
+        "url": "https://youtube.com/watch?v=qu7adt5f6n4",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9541,
+        "erro": null
+      },
+      {
+        "titulo": "Como Usar Slack - Tutorial Paso a Paso 2025",
+        "url": "https://youtube.com/watch?v=FUeHfBTLBs0",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 12740,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 12155,
+    "total_chars_youtube": 51402,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

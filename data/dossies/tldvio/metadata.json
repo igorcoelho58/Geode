@@ -1,0 +1,86 @@
+{
+  "ferramenta": "tldv.io",
+  "categoria": "produtividade",
+  "data_coleta": "11/01/2026 23:36",
+  "site": {
+    "homepage": {
+      "url": "https://tldv.io.com/",
+      "coletado": false,
+      "tamanho": 0
+    },
+    "pricing": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "features": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    },
+    "about": {
+      "url": null,
+      "coletado": false,
+      "tamanho": 0
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "en",
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "tldv: IA que grava, transcreve e dá feedbacks de reuniões",
+        "url": "https://youtube.com/watch?v=QIjOzhOM4gQ",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9883,
+        "erro": null
+      },
+      {
+        "titulo": "Aula Gratuita: Como gerar anotações em reuniões com IA usando TL;DV e Tactiq | Curso IA na Prática",
+        "url": "https://youtube.com/watch?v=U4uFaFJP5PE",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 6748,
+        "erro": null
+      },
+      {
+        "titulo": "O Segredo para Reuniões 10x Mais Produtivas com IA | Tutorial TLDV",
+        "url": "https://youtube.com/watch?v=boBbs_XhVi0",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9815,
+        "erro": null
+      },
+      {
+        "titulo": "MeetGeek vs tl;dv: Which is the Best AI Notetaker?",
+        "url": "https://youtube.com/watch?v=afP2oun4JoI",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 9266,
+        "erro": null
+      },
+      {
+        "titulo": "The Best AI Meeting Notetakers of 2025",
+        "url": "https://youtube.com/watch?v=0inVCwpbP3s",
+        "idioma": "en",
+        "status": "sucesso",
+        "tamanho": 9983,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 0,
+    "total_chars_youtube": 45695,
+    "paginas_coletadas": 0,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

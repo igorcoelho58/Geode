@@ -1,0 +1,85 @@
+{
+  "ferramenta": "Fireflies AI",
+  "categoria": "produtividade",
+  "data_coleta": "11/01/2026 22:39",
+  "site": {
+    "homepage": {
+      "url": "https://fireflies.com/",
+      "coletado": true,
+      "tamanho": 9
+    },
+    "pricing": {
+      "url": "https://fireflies.com/pricing",
+      "coletado": true,
+      "tamanho": 9
+    },
+    "features": {
+      "url": "https://fireflies.com/features",
+      "coletado": true,
+      "tamanho": 9
+    },
+    "about": {
+      "url": "https://fireflies.com/about",
+      "coletado": true,
+      "tamanho": 9
+    }
+  },
+  "youtube": {
+    "total_videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0,
+    "idiomas": [
+      "pt (Whisper IA)"
+    ],
+    "videos": [
+      {
+        "titulo": "Minha IA Favorita para Notas de Reuniões e Aulas AO VIVO | Fireflies AI",
+        "url": "https://youtube.com/watch?v=LBFtMwhKfYU",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 20276,
+        "erro": null
+      },
+      {
+        "titulo": "Ultimate Fireflies.ai Tutorial for Beginners (2024)",
+        "url": "https://youtube.com/watch?v=ehjIUOaZ92g",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 21195,
+        "erro": null
+      },
+      {
+        "titulo": "Fireflies AI Getting Started 2023",
+        "url": "https://youtube.com/watch?v=wGKpEJkyKP0",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 8267,
+        "erro": null
+      },
+      {
+        "titulo": "Automatización de Actas y Notas de Reuniones: Ahorro de Tiempo y Eficiencia con Fireflies, IA, AI.",
+        "url": "https://youtube.com/watch?v=XPLIMIgKw9Q",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 7200,
+        "erro": null
+      },
+      {
+        "titulo": "🔥 Fireflies.ai: La IA que Toma Notas por Ti 🧠💡 ¡Automatiza tus Reuniones YA!",
+        "url": "https://youtube.com/watch?v=P8DRbOd8Qxk",
+        "idioma": "pt (Whisper IA)",
+        "status": "sucesso",
+        "tamanho": 5203,
+        "erro": null
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_chars_site": 36,
+    "total_chars_youtube": 62141,
+    "paginas_coletadas": 4,
+    "videos_encontrados": 5,
+    "videos_com_transcricao": 5,
+    "videos_sem_transcricao": 0
+  }
+}

@@ -1,0 +1,38 @@
+📹 ÍNDICE DE VÍDEOS ANALISADOS
+======================================================================
+Data Coleta: 12/01/2026 00:21
+Total de Vídeos Encontrados: 5
+Vídeos COM Transcrição: 5
+Vídeos SEM Transcrição: 0
+======================================================================
+
+1. ✅ [pt (Whisper IA)] Demo Day – Freshsales, um completo CRM  de marketing e vendas.
+   URL: https://youtube.com/watch?v=68X3-vNwoNE
+   Status: sucesso
+   Tamanho: 16527 caracteres
+   Arquivo: 01_Demo_Day_–_Freshsales,_um_completo_CRM_de_marketin.txt
+
+2. ✅ [pt (Whisper IA)] [3 em 1 - Freshworks] Demo Freshsales CRM [Webinar Gratuito]
+   URL: https://youtube.com/watch?v=nxrvrzERaE4
+   Status: sucesso
+   Tamanho: 13758 caracteres
+   Arquivo: 02_[3_em_1_-_Freshworks]_Demo_Freshsales_CRM_[Webinar.txt
+
+3. ✅ [pt (Whisper IA)] Zoho CRM vs FreshSales under 8 minutes
+   URL: https://youtube.com/watch?v=yQzAhAtBHNc
+   Status: sucesso
+   Tamanho: 8153 caracteres
+   Arquivo: 03_Zoho_CRM_vs_FreshSales_under_8_minutes.txt
+
+4. ✅ [pt (Whisper IA)] Freshsales CRM Tutorial from SCRATCH (2026 Complete Guide)
+   URL: https://youtube.com/watch?v=10A8yRyXSo4
+   Status: sucesso
+   Tamanho: 7204 caracteres
+   Arquivo: 04_Freshsales_CRM_Tutorial_from_SCRATCH_(2026_Complet.txt
+
+5. ✅ [pt (Whisper IA)] TUTORIAL DE FRESHSALES (2025) COMO USAR FRESHSALES EN ESPAÑOL (Guía Completa)
+   URL: https://youtube.com/watch?v=l7FXc96pIfI
+   Status: sucesso
+   Tamanho: 7278 caracteres
+   Arquivo: 05_TUTORIAL_DE_FRESHSALES_(2025)_COMO_USAR_FRESHSALES.txt
+
